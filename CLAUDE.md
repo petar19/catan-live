@@ -207,25 +207,53 @@ fixtures as the acceptance test for the port itself.
 ## 5. Backlog (phased)
 
 ### Phase 0 — Scaffolding
-- [ ] Create Firebase project (Blaze), enable Auth/Firestore/Functions/Hosting
-- [ ] `firebase init` in this folder; set up `firestore.rules` (admin-only default-deny)
-- [ ] Set up admin user + custom claim script
-- [ ] GitHub repo + Actions workflow: build `apps/web` → deploy to GitHub Pages
-- [ ] Vite + React app skeleton, Firebase SDK wired up, login gate
+- [x] GitHub repo (`petar19/catan-live`, private for now — see open decisions)
+- [x] npm workspaces monorepo: `apps/web`, `functions`, `packages/parser`, `userscript`, `fixtures`
+- [x] `firestore.rules` (admin-only default-deny) + `firestore.indexes.json` + `firebase.json`
+- [x] Vite + React + TS app skeleton, Firebase Auth (Google sign-in) login gate, `/shared/:shareId` route
+- [x] GitHub Actions workflow to build + deploy `apps/web` to GitHub Pages
+- [ ] Create Firebase project (Blaze) — **blocked**, see open decisions
+- [ ] Set up admin user + custom claim script (needs the project to exist)
+- [ ] `.firebaserc` (copy `.firebaserc.example`, fill in real project ID once created)
 
 ### Phase 1 — Parser port + regression suite
-- [ ] Port `catan2.process_game` + `filter_lines` to `packages/parser` (TS)
-- [ ] Copy `gamelogs/*.txt` into `fixtures/`
-- [ ] Snapshot/assertion tests: parser output vs known-good numbers per fixture
-- [ ] Cross-check aggregate results against `rankings.json` (ground truth from v1)
-- [ ] Raw/derived split + `parserVersion` + `warnings[]` + sanity-check invariants
+- [x] Port `catan2.process_game` + `filter_lines` to `packages/parser` (TS)
+- [x] Copy `gamelogs/*.txt` + `rankings.json` into `fixtures/`
+- [x] Regression suite (`packages/parser/test/fixtures.test.ts`), validated against v1's *actual*
+      output (ran real `catan2.py` over all 345 fixtures via `fixtures/generate_ground_truth.py`,
+      not just eyeballed `rankings.json`) — 348/348 tests passing
+- [x] Raw/derived split + `parserVersion` + `warnings[]` (per-line try/catch instead of v1's
+      unguarded crashes) + basic sanity checks in the crash-survival test group
+- [ ] Full sanity-check invariants as a first-class parser feature (currently only asserted in
+      tests, not surfaced as `games/{id}.warnings`-style output beyond parse-error warnings)
+
+**Found while validating:** v1 actually crashes on **91 of 345 games (26%)** — colonist.io
+changed the "longest road passed" / "largest army passed" wording at least 4 different ways
+over time, v1's regex only ever matched the original wording, and the fallback for an unmatched
+line was a `KeyError` crash (the literal word "longest"/"largest" gets treated as a player name).
+Fixed in the TS port (`LONGEST_PASSED_RE`/`LARGEST_PASSED_RE` in `processGame.ts` now tolerate
+all 4 observed variants) — this is the concrete instance of the fragility problem described in
+§2.4, not a hypothetical.
 
 ### Phase 2 — Ingestion v2
-- [ ] `submitGame` Cloud Function (shared-secret auth, parses, writes `games/{id}`)
-- [ ] Content-hash based dedupe (replaces the 95%-line-overlap heuristic)
-- [ ] Tampermonkey userscript (port of `bookmark_game_entry.js`) with `@updateURL` on GitHub
-- [ ] Discord webhook from the function (recap text + link to the game's page; images optional)
+- [x] `submitGame` Cloud Function (shared-secret auth, parses, content-hash dedupes, writes
+      `games/{id}`, optional Discord recap) — written, **not deployed** (blocked on Phase 0)
+- [x] Content-hash based dedupe (replaces the 95%-line-overlap heuristic)
+- [x] Tampermonkey userscript (`userscript/catan-live.user.js`) — port of
+      `bookmark_game_entry.js` plus a client-side port of `processMessages` (HTML→text
+      extraction now happens against the live DOM in the browser instead of round-tripping
+      serialized HTML to a server for BeautifulSoup). Selectors use `[class*="..."]` instead of
+      exact hashed classnames where possible. **Not wired up**: needs a real function URL/secret,
+      and needs a public host for `@updateURL` — see open decisions.
+- [x] Discord webhook posting from the function (text recap + link; no images yet — open
+      question in §6 still stands)
 - [ ] One-time migration script: import all 345 existing gamelogs into Firestore
+
+### Phase 2.5 — New, not in the original plan
+- Dropped `special.longest`/`special.largest` tracking from the parser output: it existed in
+  v1 but was never actually returned from `process_game()` or used anywhere, and was buggy for
+  the "passed from X to Y" lines anyway (same root cause as the crash above). Not worth porting
+  a dead, broken field forward — simplification, not a missing feature.
 
 ### Phase 3 — Admin web UI
 - [ ] Games list (admin-only), per-game detail page with charts (Recharts/Chart.js ports of
@@ -253,16 +281,48 @@ fixtures as the acceptance test for the port itself.
 - [ ] Opening this up beyond the friend group (multi-user auth, per-user data scoping)
 - [ ] Card counter feature (`count_cards.py`) — out of scope until Petar asks for it
 
-## 6. Open questions (resurface before/at the relevant phase)
+## 6. Open questions
+
+### Blocking (need Petar before Phase 0 can finish)
+
+- **GCP project quota**: `firebase projects:create` fails with "exceeded your allotted project
+  quota." Needs Petar to either request a quota increase (GCP Console → IAM & Admin → Quotas →
+  "Project creation") or free a slot by deleting/reusing an existing GCP project
+  (`expense-tracker-5acdb` or `trip-planner-8b7d8` are the only other Firebase projects on this
+  account — not touching either without being told to). Blocks every Firebase-dependent piece:
+  Firestore, Functions deploy, Auth, the admin custom claim.
+- **Repo visibility vs. GitHub Pages**: the repo was created **private** by default (reversible,
+  matches "not against open in the future maybe" from the original ask). But GitHub Pages on a
+  private repo requires GitHub Pro/Team/Enterprise — Petar's account shows no paid plan, so
+  GitHub Pages won't actually serve `apps/web` while the repo stays private. Options: (a) make
+  `catan-live` public, (b) use Firebase Hosting instead of GitHub Pages (works fine on a private
+  repo, deploys via `firebase deploy` rather than GitHub's Pages feature — but that's a scope
+  change from what was asked for), (c) upgrade to GitHub Pro. Needs a decision.
+- **Userscript auto-update host**: `@updateURL`/`@downloadURL` in `catan-live.user.js` currently
+  point at this repo's raw GitHub URL, which won't work unauthenticated while the repo is
+  private (same root cause as above — likely resolved together). The alternative discussed is
+  publishing just that one file as a public Gist and keeping the rest of the repo private, but
+  publishing anything publicly needs an explicit yes first, not something to do unprompted.
+
+### Non-blocking (resurface at the relevant phase)
 
 - Single shared-secret for `submitGame` acceptable long-term, or move to real Auth once more
   than one person might submit games?
 - Any appetite for capturing board layout (tile resources/numbers, robber position over time)
   to unlock "luck" stats? Would mean extending the userscript's scrape, not just the parser.
 - Keep generating Discord images (needs a render step somewhere — function-side matplotlib or
-  headless chart rendering) or switch Discord posts to text recap + link only?
+  headless chart rendering) or switch Discord posts to text recap + link only? Current
+  `submitGame` sends text-only recaps; images not implemented.
 
 ## 7. Progress log
 
 - 2026-08-18: Repo scaffolded (`catan-live/`), v1 reviewed end-to-end, architecture + sharing
   model decided, this doc written. No code written yet.
+- 2026-08-18 (later): Firebase project creation blocked on GCP quota (see §6). Built and pushed,
+  independent of that blocker: full parser port to TypeScript with a 348-test regression suite
+  validated against v1's actual output on all 345 real game logs (found and fixed a real bug
+  affecting 26% of historical games along the way — see Phase 1 notes above); Firestore rules;
+  `submitGame`/`resolveShare` Cloud Functions (written, undeployed); Tampermonkey userscript
+  (written, unwired — needs a deployed function URL and a hosting decision); Vite/React web app
+  skeleton with Firebase Auth gating and a GitHub Actions Pages-deploy workflow. Three open
+  decisions recorded in §6 need Petar before Phase 0 can actually finish.
