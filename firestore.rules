@@ -1,0 +1,38 @@
+rules_version = '2';
+
+// Admin-only, default-deny. Nothing here is ever readable/writable directly by
+// unauthenticated clients — public/shared access goes through the `resolveShare`
+// Cloud Function, which uses the Admin SDK and bypasses these rules entirely.
+// See CLAUDE.md §2.3 for why sharing works this way instead of public rules.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isAdmin() {
+      return request.auth != null && request.auth.token.admin == true;
+    }
+
+    match /games/{gameId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /players/{playerId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /rankings/{docId} {
+      allow read, write: if isAdmin();
+    }
+
+    // Share tokens themselves are never client-readable either — only the
+    // resolveShare function (Admin SDK) resolves them. Admin can manage them
+    // directly from the admin UI (create/revoke).
+    match /shares/{shareId} {
+      allow read, write: if isAdmin();
+    }
+
+    // Deny everything else by default.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
