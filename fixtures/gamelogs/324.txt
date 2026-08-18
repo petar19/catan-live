@@ -1,0 +1,347 @@
+iKing239 placed a Settlement settlement
+iKing239 placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 placed a Road road
+Yolonc placed a Settlement settlement
+Yolonc placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 received starting resources Wool Lumber Brick
+Kent#3816 placed a Road road
+Yolonc placed a Settlement settlement
+Yolonc received starting resources Lumber Ore
+Yolonc placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 received starting resources Grain Ore
+Myrna8511 placed a Road road
+iKing239 placed a Settlement settlement
+iKing239 received starting resources Lumber Brick
+iKing239 placed a Road road
+iKing239 rolled dice_6 dice_2
+Myrna8511 got Brick
+Yolonc got Ore Wool
+Kent#3816 got Brick
+iKing239 built a Road road
+Myrna8511 rolled dice_4 dice_4
+Myrna8511 got Brick
+Yolonc got Ore Wool
+Kent#3816 got Brick
+Yolonc rolled dice_2 dice_3
+Myrna8511 got Wool
+Kent#3816 got Lumber
+Yolonc wants to give Ore Ore for Brick
+Yolonc gave Ore Ore and got Brick from Kent#3816
+Yolonc built a Road road
+Kent#3816 rolled dice_4 dice_2
+Myrna8511 got Ore
+iKing239 got Ore Lumber
+Kent#3816 built a Road road
+iKing239 rolled dice_5 dice_1
+Myrna8511 got Ore
+iKing239 got Ore Lumber
+iKing239 wants to give Ore for Brick
+Myrna8511 proposed counter offer to iKing239, offering Brick for Grain
+Myrna8511 proposed counter offer to iKing239, offering Brick for Lumber
+iKing239 gave Lumber and got Brick from Myrna8511
+Myrna8511 rolled dice_5 dice_1
+Myrna8511 got Ore
+iKing239 got Ore Lumber
+Myrna8511 built a Road road
+Myrna8511 bought Development Card
+Yolonc rolled dice_1 dice_2
+Kent#3816 got Wool
+Yolonc wants to give Wool for Brick
+Yolonc wants to give Wool for Lumber
+Yolonc wants to give Wool for Grain
+Kent#3816 rolled dice_2 dice_2
+Myrna8511 got Grain
+Yolonc got Lumber Grain
+iKing239 got Lumber
+Kent#3816 wants to give Wool for Grain
+Kent#3816 wants to give Ore Wool for Grain
+iKing239 rolled dice_1 dice_4
+Myrna8511 got Wool
+Kent#3816 got Lumber
+iKing239 wants to give Lumber Ore for Wool Grain
+iKing239 wants to give Lumber for Wool Ore
+iKing239 wants to give Ore for Brick
+iKing239 wants to give Lumber for Ore
+Myrna8511 rolled dice_6 dice_5
+Yolonc rolled dice_3 dice_1
+Myrna8511 got Grain
+Yolonc got Lumber Grain
+iKing239 got Lumber
+Yolonc wants to give Wool Lumber for Brick
+Yolonc wants to give Grain for Brick
+Yolonc wants to give Wool Lumber for Ore Ore
+Kent#3816 proposed counter offer to Yolonc, offering Wool for Grain
+Yolonc gave Wool Lumber and got Ore Ore from iKing239
+Yolonc built a City city (+1 VP)
+Kent#3816 rolled dice_5 dice_1
+Myrna8511 got Ore
+iKing239 got Ore Lumber
+iKing239 rolled dice_4 dice_4
+Myrna8511 got Brick
+Yolonc got Ore Wool Wool
+Kent#3816 got Brick
+iKing239 wants to give Lumber for Brick
+iKing239 wants to give Lumber Ore for Brick
+Myrna8511 proposed counter offer to iKing239, offering Brick for Lumber Ore
+iKing239 gave Lumber Ore and got Brick from Myrna8511
+iKing239 wants to give Lumber Lumber for Grain
+iKing239 wants to give Lumber Ore Lumber for Grain
+iKing239 wants to give Ore for Lumber Lumber
+Myrna8511 rolled dice_3 dice_1
+Myrna8511 got Grain
+Yolonc got Lumber Grain Grain
+iKing239 got Lumber
+Myrna8511 wants to give Ore for Brick
+Kent#3816 proposed counter offer to Myrna8511, offering Brick for Grain
+Myrna8511 built a City city (+1 VP)
+Yolonc rolled dice_2 dice_4
+Myrna8511 got Ore
+iKing239 got Ore Lumber
+Yolonc wants to give Grain for Brick
+Yolonc gave Grain and got Brick from Kent#3816
+Yolonc built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_4 dice_1
+Myrna8511 got Wool Wool
+Yolonc got Brick
+Kent#3816 got Lumber
+Kent#3816 built a Settlement settlement (+1 VP)
+Kent#3816 wants to give Lumber for Brick
+iKing239 rolled dice_5 dice_6
+iKing239 built a Road road
+iKing239 built a Road road
+iKing239 wants to give Lumber Lumber for Brick
+Myrna8511 rolled dice_3 dice_2
+Myrna8511 got Wool Wool
+Yolonc got Brick
+Kent#3816 got Lumber
+Myrna8511 wants to give Wool for Brick
+Myrna8511 wants to give Wool Wool for Brick
+Yolonc proposed counter offer to Myrna8511, offering Brick for Grain
+Myrna8511 gave Wool Wool and got Brick from Yolonc
+Myrna8511 built a Settlement settlement (+1 VP)
+Yolonc rolled dice_5 dice_1
+Myrna8511 got Ore Ore
+iKing239 got Ore Lumber
+Yolonc built a Road road
+Kent#3816 rolled dice_5 dice_2
+iKing239 discarded Lumber Wool Ore Ore Ore
+Kent#3816 moved Robber robber to  prob_4 grain tile
+Kent#3816 stole Wool from you
+iKing239 rolled dice_1 dice_6
+iKing239 moved Robber robber to  prob_8 wool tile
+iKing239 stole Resource Card from Yolonc
+iKing239 wants to give Lumber for Brick
+iKing239 wants to give Wool for Brick
+iKing239 wants to give Wool Lumber for Brick
+Myrna8511 rolled dice_2 dice_5
+Myrna8511 moved Robber robber to  prob_10 brick tile
+You stole Wool from Yolonc
+Myrna8511 wants to give Ore for Wool
+Myrna8511 gave Ore and got Wool from Yolonc
+Myrna8511 wants to give Ore for Any Resource
+Myrna8511 gave bank Wool Wool and took Grain
+Myrna8511 bought Development Card
+Yolonc rolled dice_1 dice_2
+Kent#3816 got Wool Wool
+Kent#3816 rolled dice_3 dice_3
+Myrna8511 got Ore Ore
+iKing239 got Ore Lumber
+Kent#3816 wants to give Wool Wool for Brick
+Kent#3816 gave bank Wool Wool Wool Wool and took Brick
+Kent#3816 built a Road road
+iKing239 rolled dice_2 dice_2
+Myrna8511 got Grain
+Yolonc got Lumber Grain Grain
+Kent#3816 got Brick
+iKing239 got Lumber
+iKing239 wants to give Lumber for Brick
+iKing239 wants to give Lumber Lumber for Grain
+iKing239 gave bank Lumber Lumber Lumber Lumber and took Grain
+iKing239 wants to give Lumber Ore for Brick
+iKing239 wants to give Lumber Ore for Brick
+Myrna8511 rolled dice_5 dice_3
+Myrna8511 got Brick Brick
+Yolonc got Ore Wool Wool Wool
+Kent#3816 got Brick
+Myrna8511 wants to give Ore for Wool
+Myrna8511 wants to give Brick for Wool
+Myrna8511 gave Brick and got Wool from Yolonc
+Myrna8511 bought Development Card
+Yolonc rolled dice_3 dice_6
+Myrna8511 got Lumber Lumber
+Yolonc got Lumber Lumber
+Kent#3816 got Wool Grain
+Yolonc built a City city (+1 VP)
+Yolonc built a Road road
+Kent#3816 rolled dice_2 dice_6
+Myrna8511 got Brick Brick
+Yolonc got Ore Ore Wool Wool Wool
+Kent#3816 got Brick
+Kent#3816 built a Settlement settlement (+1 VP)
+iKing239 rolled dice_4 dice_5
+Myrna8511 got Lumber Lumber
+Yolonc got Lumber Lumber
+Kent#3816 got Wool Wool Grain
+iKing239 wants to give Lumber for Brick
+Myrna8511 rolled dice_5 dice_3
+Myrna8511 got Brick Brick
+Yolonc got Ore Ore Wool Wool Wool
+Kent#3816 got Brick
+Myrna8511 used 
+Myrna8511 stole 12 wool
+Myrna8511 gave bank Wool Wool Wool Wool and took Grain Grain
+Myrna8511 built a City city (+1 VP)
+Myrna8511 gave bank Wool Wool and took Grain
+Myrna8511 built a Road road
+Myrna8511 built a Road road
+Myrna8511 built a Settlement settlement (+1 VP)
+Myrna8511 built a Road road
+Myrna8511 gave bank Wool Wool Wool Wool and took Lumber Grain
+Myrna8511 built a Settlement settlement (+1 VP)
+Yolonc rolled dice_4 dice_3
+Yolonc discarded Lumber Lumber Lumber Ore
+Yolonc moved Robber robber to  prob_6 ore tile
+Yolonc stole Ore from you
+Yolonc wants to give Ore for Brick
+Yolonc wants to give Ore for Grain
+Kent#3816 proposed counter offer to Yolonc, offering Brick for Ore Any Resource
+Kent#3816 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the Robber. No resources produced
+iKing239 got Lumber
+Kent#3816 wants to give Brick for Ore
+Kent#3816 gave Brick and got Ore from iKing239
+Kent#3816 wants to give Brick for Grain Any Resource
+iKing239 rolled dice_3 dice_5
+Myrna8511 got Brick Brick Wool
+Yolonc got Ore Ore Wool Wool Wool
+Kent#3816 got Brick
+iKing239 wants to give Lumber for Brick
+iKing239 gave Lumber and got Brick from Kent#3816
+iKing239 built a Road road
+iKing239 built a Road road
+iKing239 received Longest Road longest road (+2 VPs)
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_4 lumber tile
+You stole Wool from Yolonc
+Myrna8511 rolled dice_6 dice_6
+Kent#3816 got Ore
+Yolonc rolled dice_1 dice_5
+Myrna8511 got Ore Ore Ore
+iKing239 got Ore Lumber
+Yolonc wants to give Ore for Brick
+Yolonc wants to give Ore for Grain
+Yolonc wants to give Wool for Grain
+Yolonc wants to give Wool for Brick
+Yolonc gave Wool and got Brick from Kent#3816
+Yolonc built a Road road
+Longest Road longest road passed from iKing239 to Yolonc (+2 VPs)
+Yolonc gave bank Ore Ore Ore Ore and took Grain
+Yolonc bought Development Card
+Kent#3816 rolled dice_1 dice_1
+Kent#3816 wants to give Lumber for Grain
+Kent#3816 built a Road road
+Kent#3816 bought Development Card
+iKing239 rolled dice_1 dice_5
+Myrna8511 got Ore Ore Ore
+iKing239 got Ore Lumber
+iKing239 wants to give Ore for Wool
+iKing239 wants to give Lumber for Wool
+iKing239 wants to give Lumber for Brick
+iKing239 gave Lumber and got Brick from Myrna8511
+iKing239 wants to give Lumber Ore for Wool
+iKing239 wants to give Lumber Ore Ore for Wool
+iKing239 gave Lumber Ore Ore and got Wool from Myrna8511
+iKing239 built a Settlement settlement (+1 VP)
+Myrna8511 rolled dice_1 dice_6
+Myrna8511 discarded Lumber Lumber Brick Ore Ore Ore
+Myrna8511 moved Robber robber to  prob_8 ore tile
+You stole Ore from Yolonc
+Myrna8511 gave bank Ore Ore Ore Ore and took Grain
+Myrna8511 bought Development Card
+Yolonc used 
+Yolonc moved Robber robber to  prob_6 ore tile
+Yolonc stole Ore from you
+Yolonc rolled dice_1 dice_2
+Myrna8511 got Grain
+Kent#3816 got Wool Wool
+Yolonc has disconnected. A bot will take over next turn unless Yolonc reconnects.
+Yolonc has reconnected
+Kent#3816 rolled dice_1 dice_5
+ prob_6 ore tile is blocked by the Robber. No resources produced
+iKing239 got Lumber
+iKing239 rolled dice_5 dice_6
+Kent#3816 got Grain
+iKing239 got Grain
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_8 ore tile
+You stole Ore from Yolonc
+Myrna8511 rolled dice_4 dice_3
+Myrna8511 moved Robber robber to  prob_8 wool tile
+Player has no cards
+Yolonc rolled dice_3 dice_6
+Myrna8511 got Lumber Lumber
+Yolonc got Lumber Lumber
+Kent#3816 got Wool Wool Grain
+iKing239 got Grain
+Kent#3816 rolled dice_3 dice_1
+Myrna8511 got Grain Grain
+Yolonc got Lumber Lumber Grain Grain
+Kent#3816 got Brick
+iKing239 got Lumber
+Kent#3816 built a City city (+1 VP)
+Kent#3816 built a Road road
+Kent#3816 wants to give Wool Wool for Grain
+Kent#3816 gave Wool Wool and got Grain from iKing239
+iKing239 rolled dice_2 dice_6
+ prob_8 wool tile is blocked by the Robber. No resources produced
+Myrna8511 got Brick Brick
+Yolonc got Ore Ore
+Kent#3816 got Brick Brick
+iKing239 wants to give Wool for Brick
+iKing239 gave Wool and got Brick from Myrna8511
+iKing239 built a Road road
+Myrna8511 rolled dice_2 dice_6
+ prob_8 wool tile is blocked by the Robber. No resources produced
+Myrna8511 got Brick Brick
+Yolonc got Ore Ore
+Kent#3816 got Brick Brick
+Myrna8511 used 
+Myrna8511 received Largest Army largest army (+2 VPs)
+Myrna8511 moved Robber robber to  prob_5 lumber tile
+You stole Brick from Kent#3816
+Myrna8511 built a Road road
+Myrna8511 built a Road road
+Myrna8511 bought Development Card
+Yolonc rolled dice_1 dice_5
+Myrna8511 got Ore Ore Ore
+iKing239 got Ore Lumber
+Yolonc built a City city (+1 VP)
+Kent#3816 rolled dice_4 dice_6
+Yolonc got Brick Brick
+Kent#3816 got Brick
+iKing239 got Brick Brick
+Kent#3816 wants to give Brick Brick for Lumber
+Kent#3816 gave Brick Brick and got Lumber from iKing239
+Kent#3816 built a Settlement settlement (+1 VP)
+iKing239 rolled dice_4 dice_3
+iKing239 discarded Ore Brick Brick Brick
+iKing239 moved Robber robber to  prob_9 lumber tile
+iKing239 stole Ore from you
+iKing239 built a Road road
+Longest Road longest road passed from Yolonc to iKing239 (+2 VPs)
+Myrna8511 rolled dice_3 dice_6
+ prob_9 lumber tile is blocked by the Robber. No resources produced
+Kent#3816 got Wool Wool Grain
+iKing239 got Grain
+Myrna8511 used 
+Myrna8511 took from bank Lumber Lumber
+Myrna8511 built a Road road
+Myrna8511 built a Road road
+Longest Road longest road passed from iKing239 to Myrna8511 (+2 VPs)
+trophy Myrna8511 won the game! trophy
+iKing239 has left the game

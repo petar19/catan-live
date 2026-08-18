@@ -1,0 +1,297 @@
+UserPrinceLegend placed a settlement
+UserPrinceLegend placed a road
+Guestgana2447 placed a settlement
+Guestgana2447 placed a road
+GuestNoDice placed a settlement
+GuestNoDice placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberwoolore
+GuestNoDice placed a settlement
+GuestNoDice placed a road
+GuestNoDice received starting resources grainwoolwool
+Guestgana2447 placed a settlement
+Guestgana2447 placed a road
+Guestgana2447 received starting resources woolgrainlumber
+UserPrinceLegend placed a settlement
+UserPrinceLegend placed a road
+UserPrinceLegend received starting resources lumberlumberbrick
+UserPrinceLegend rolled dice_6 dice_4
+UserPrinceLegend got brick
+icon_helmetMyrna8511 got brick
+Guestgana2447 got brick
+GuestNoDice got brick
+Guestgana2447 has disconnected. Bot will wait until next turn to give gana2447 a chance to reconnect.
+botgana2447 has left the game
+UserPrinceLegend built a road
+Guestgana2447 has reconnected
+UserPrinceLegend built a road
+Guestgana2447 rolled dice_2 dice_6
+icon_helmetMyrna8511 got ore
+Guestgana2447 got ore
+GuestNoDice got ore
+Guestgana2447 bought development card
+GuestNoDice rolled dice_3 dice_4
+GuestNoDice moved robber robber to  prob_10 brick tile
+GuestNoDice stole card from gana2447
+GuestNoDice built a road
+GuestNoDice bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_3
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got grain
+Guestgana2447 got lumber
+icon_helmetMyrna8511 built a road
+UserPrinceLegend rolled dice_4 dice_2
+UserPrinceLegend got wool
+Guestgana2447 got wool
+GuestNoDice got wool
+Guestgana2447 rolled dice_3 dice_5
+icon_helmetMyrna8511 got ore
+Guestgana2447 got ore
+GuestNoDice got ore
+Guestgana2447 used Knight card knight
+Guestgana2447 moved robber robber to  prob_5 grain tile
+Guestgana2447 stole card from PrinceLegend
+Guestgana2447 bought development card
+Guestgana2447 built a road
+GuestNoDice rolled dice_5 dice_5
+UserPrinceLegend got brick
+icon_helmetMyrna8511 got brick
+Guestgana2447 got brick
+GuestNoDice got brick
+GuestNoDice used Knight card knight
+GuestNoDice moved robber robber to  prob_6 wool tile
+GuestNoDice stole card from gana2447
+icon_helmetMyrna8511 rolled dice_5 dice_4
+icon_helmetMyrna8511 got grain
+GuestNoDice got wool
+icon_helmetMyrna8511 built a city (+1 VP)
+UserPrinceLegend rolled dice_2 dice_3
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got grain
+Guestgana2447 got lumber
+Guestgana2447 rolled dice_2 dice_5
+Guestgana2447 moved robber robber to  prob_5 grain tile
+Guestgana2447 stole card from PrinceLegend
+GuestNoDice rolled dice_1 dice_5
+UserPrinceLegend got wool
+Guestgana2447 got wool
+GuestNoDice got wool
+GuestNoDice wants to give brick for grain
+icon_helmetMyrna8511 wants to give NoDice grain for lumberbrick
+GuestNoDice wants to give wool for grain
+UserPrinceLegend wants to give NoDice grain for lumberbrick
+icon_helmetMyrna8511 wants to give NoDice grain for brickore
+GuestNoDice wants to give brick for lumber
+GuestNoDice wants to give wool for lumber
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole lumber from gana2447
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPrinceLegend rolled dice_4 dice_2
+UserPrinceLegend got wool
+Guestgana2447 got wool
+GuestNoDice got wool
+Guestgana2447 rolled dice_1 dice_6
+GuestNoDice discarded woolwoolwoolwool
+Guestgana2447 moved robber robber to  prob_5 grain tile
+Guestgana2447 stole card from PrinceLegend
+Guestgana2447 wants to give wool for lumber
+GuestNoDice rolled dice_4 dice_1
+ prob_5 grain tile is blocked by the robber. No resources produced.
+Guestgana2447 got lumber
+GuestNoDice wants to give brick for lumber
+GuestNoDice wants to give brick for grain
+UserPrinceLegend wants to give NoDice wool for brick
+GuestPrinceLegend traded wool for brick with NoDice
+icon_helmetMyrna8511 rolled dice_4 dice_4
+icon_helmetMyrna8511 got oreore
+Guestgana2447 got ore
+GuestNoDice got ore
+UserPrinceLegend rolled dice_5 dice_6
+UserPrinceLegend got lumberlumber
+icon_helmetMyrna8511 got grain
+Guestgana2447 got grain
+UserPrinceLegend built a settlement (+1 VP)
+Guestgana2447 rolled dice_3 dice_3
+UserPrinceLegend got wool
+Guestgana2447 got wool
+GuestNoDice got wool
+Guestgana2447 built a settlement (+1 VP)
+Guestgana2447 wants to give woolwool for grain
+GuestNoDice rolled dice_3 dice_5
+icon_helmetMyrna8511 got oreore
+Guestgana2447 got oreore
+GuestNoDice got ore
+GuestNoDice wants to give ore for lumber
+GuestNoDice wants to give wool for lumber
+icon_helmetMyrna8511 rolled dice_5 dice_6
+UserPrinceLegend got lumberlumber
+icon_helmetMyrna8511 got grain
+Guestgana2447 got grain
+icon_helmetMyrna8511 wants to give oreore for woolwool
+icon_helmetMyrna8511 built a city (+1 VP)
+UserPrinceLegend rolled dice_3 dice_6
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got graingrain
+GuestNoDice got wool
+Guestgana2447 rolled dice_5 dice_6
+UserPrinceLegend got lumberlumber
+icon_helmetMyrna8511 got grain
+Guestgana2447 got grain
+Guestgana2447 built a city (+1 VP)
+GuestNoDice rolled dice_3 dice_2
+ prob_5 grain tile is blocked by the robber. No resources produced.
+Guestgana2447 got lumberlumber
+GuestNoDice wants to give wool for grain
+icon_helmetMyrna8511 wants to give NoDice grain for woolwool
+GuestNoDice wants to give ore for grain
+GuestMyrna8511 traded grain for woolwool with NoDice
+GuestNoDice wants to give brick for grain
+GuestNoDice wants to give wool for lumber
+icon_helmetMyrna8511 wants to give NoDice grain for brickore
+GuestNoDice wants to give ore for lumber
+UserPrinceLegend wants to give NoDice lumber for brick
+GuestNoDice wants to give woolore for lumber
+GuestNoDice traded woolore for lumber with PrinceLegend
+GuestNoDice built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_6
+UserPrinceLegend got lumberlumber
+icon_helmetMyrna8511 got grain
+Guestgana2447 got grain
+icon_helmetMyrna8511 wants to give grain for ore
+GuestNoDice wants to give Myrna8511 ore for graingrain
+icon_helmetMyrna8511 bought development card
+UserPrinceLegend rolled dice_4 dice_5
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got graingrain
+GuestNoDice got wool
+UserPrinceLegend wants to give lumber for brick
+UserPrinceLegend wants to give wool for ore
+UserPrinceLegend gave bank lumberlumberlumberlumberlumberlumber and took oreore
+UserPrinceLegend built a city (+1 VP)
+Guestgana2447 rolled dice_5 dice_1
+UserPrinceLegend got woolwool
+Guestgana2447 got wool
+GuestNoDice got woolwool
+Guestgana2447 gave bank woolwoolwool and took ore
+Guestgana2447 bought development card
+GuestNoDice rolled dice_2 dice_1
+UserPrinceLegend got lumber
+icon_helmetMyrna8511 got lumberlumber
+Guestgana2447 got lumber
+GuestNoDice got grain
+GuestNoDice bought development card
+GuestNoDice wants to give wool for grain
+icon_helmetMyrna8511 wants to give NoDice grain for ore
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole lumber from gana2447
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 gave bank graingraingrain and took brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPrinceLegend rolled dice_4 dice_2
+UserPrinceLegend got woolwool
+Guestgana2447 got wool
+GuestNoDice got woolwool
+UserPrinceLegend gave bank woolwoolwool and took brick
+UserPrinceLegend built a road
+Guestgana2447 used Knight card knight
+Guestgana2447 moved robber robber to  prob_4 wool tile
+Guestgana2447 stole lumber from you
+Guestgana2447 rolled dice_1 dice_6
+Guestgana2447 moved robber robber to  prob_10 brick tile
+Guestgana2447 stole lumber from you
+Guestgana2447 wants to give lumber for brick
+Guestgana2447 wants to give lumber for grain
+Guestgana2447 wants to give lumber for ore
+GuestNoDice used Knight card knight
+GuestNoDice moved robber robber to  prob_8 ore tile
+GuestNoDice stole card from gana2447
+GuestNoDice rolled dice_4 dice_5
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got graingrain
+GuestNoDice got wool
+GuestNoDice gave bank woolwool and took grain
+GuestNoDice bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_3
+icon_helmetMyrna8511 got woolwoolwool
+GuestNoDice got lumber
+UserPrinceLegend rolled dice_5 dice_3
+ prob_8 ore tile is blocked by the robber. No resources produced.
+GuestNoDice got ore
+Guestgana2447 rolled dice_6 dice_5
+UserPrinceLegend got lumberlumberlumber
+icon_helmetMyrna8511 got grain
+Guestgana2447 got grain
+Guestgana2447 wants to give lumber for ore
+Guestgana2447 gave bank lumberlumberlumber and took ore
+Guestgana2447 bought development card
+GuestNoDice rolled dice_3 dice_1
+icon_helmetMyrna8511 got woolwoolwool
+GuestNoDice got lumber
+GuestNoDice used Monopoly card monopoly
+GuestNoDice stole 9 wool
+GuestNoDice wants to give woolwoolwoolwoolwoolwoolwoolwool for graingrainoreore
+GuestNoDice gave bank woolwoolwoolwoolwoolwoolwoolwool and took graingrainoreore
+GuestNoDice built a city (+1 VP)
+GuestNoDice wants to give lumber for grain
+GuestNoDice wants to give lumber for ore
+icon_helmetMyrna8511 wants to give NoDice grain for lumberlumber
+GuestMyrna8511 traded grain for lumberlumber with NoDice
+GuestNoDice gave bank woolwool and took ore
+GuestNoDice bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole grain from PrinceLegend
+UserPrinceLegend rolled dice_1 dice_3
+icon_helmetMyrna8511 got woolwoolwool
+GuestNoDice got lumber
+Guestgana2447 rolled dice_6 dice_4
+ prob_10 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brickbrickbrick
+GuestNoDice got brick
+GuestNoDice rolled dice_2 dice_3
+UserPrinceLegend got graingrain
+icon_helmetMyrna8511 got graingrain
+Guestgana2447 got lumberlumber
+GuestNoDice built a road
+icon_helmetMyrna8511 rolled dice_1 dice_4
+UserPrinceLegend got graingrain
+icon_helmetMyrna8511 got graingrain
+Guestgana2447 got lumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank graingraingrain and took lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPrinceLegend rolled dice_6 dice_3
+UserPrinceLegend got grain
+icon_helmetMyrna8511 got graingrain
+GuestNoDice got woolwool
+UserPrinceLegend wants to give grain for wool
+UserPrinceLegend traded grain for wool with NoDice
+UserPrinceLegend gave bank graingraingrain and took brick
+UserPrinceLegend built a settlement (+1 VP)
+Guestgana2447 rolled dice_6 dice_6
+icon_helmetMyrna8511 got brick
+GuestNoDice rolled dice_6 dice_4
+ prob_10 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brickbrickbrick
+GuestNoDice got brick
+GuestNoDice built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_5
+icon_helmetMyrna8511 got oreore
+Guestgana2447 got oreoreore
+GuestNoDice got oreore
+icon_helmetMyrna8511 gave bank graingraingrain and took ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 gave bank brickbrickbrick and took lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestNoDice has left the game
+UserPrinceLegend has left the game

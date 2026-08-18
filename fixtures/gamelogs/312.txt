@@ -1,0 +1,563 @@
+Guinn#2167 placed a Settlement settlement
+Guinn#2167 placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 placed a Road road
+Yolonc placed a Settlement settlement
+Yolonc placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 received starting resources Lumber Wool Lumber
+Myrna8511 placed a Road road
+Yolonc placed a Settlement settlement
+Yolonc received starting resources Lumber Brick Lumber
+Yolonc placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 received starting resources Lumber Ore
+Kent#3816 placed a Road road
+Guinn#2167 placed a Settlement settlement
+Guinn#2167 received starting resources Ore Wool Grain
+Guinn#2167 placed a Road road
+Guinn#2167 rolled dice_1 dice_5
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Guinn#2167 bought Development Card
+Kent#3816 rolled dice_2 dice_1
+Myrna8511 got Brick
+Yolonc got Lumber
+Kent#3816 wants to give Lumber for Brick
+Kent#3816 wants to give Ore Lumber for Brick
+Yolonc rolled dice_4 dice_4
+Myrna8511 got Grain
+Kent#3816 got Grain
+Yolonc got Grain
+Guinn#2167 got Grain
+Yolonc built a Road road
+Yolonc wants to give Lumber for Brick
+Yolonc wants to give Grain for Brick
+Yolonc wants to give Lumber for Wool
+Myrna8511 rolled dice_1 dice_2
+Myrna8511 got Brick
+Yolonc got Lumber
+Myrna8511 built a Road road
+Myrna8511 built a Settlement settlement (+1 VP)
+Guinn#2167 rolled dice_3 dice_5
+Myrna8511 got Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain
+Guinn#2167 got Grain
+Kent#3816 rolled dice_2 dice_6
+Myrna8511 got Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain
+Guinn#2167 got Grain
+Kent#3816 wants to give Grain for Wool
+Yolonc rolled dice_3 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore
+Yolonc wants to give Lumber for Wool
+Yolonc wants to give Grain for Wool
+Myrna8511 rolled dice_6 dice_1
+Kent#3816 discarded Grain Lumber Ore Grain
+Myrna8511 moved Robber Robber robber to  prob_4 brick tile
+You stole Grain from Yolonc
+Myrna8511 wants to give Lumber for Any Resource
+Yolonc proposed counter offer to Myrna8511, offering Ore for Lumber Lumber
+Myrna8511 wants to give Lumber Grain for Ore Any Resource
+Myrna8511 wants to give Lumber Lumber for Ore Any Resource
+Myrna8511 wants to give Lumber Lumber for Ore
+Myrna8511 gave Lumber Lumber and got Ore from Yolonc
+Guinn#2167 rolled dice_3 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Kent#3816 rolled dice_1 dice_5
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Kent#3816 bought Development Card
+Yolonc rolled dice_1 dice_6
+Myrna8511 discarded Lumber Lumber Grain Grain
+Yolonc moved Robber Robber robber to  prob_8 grain tile
+Yolonc stole Ore from you
+Yolonc wants to give Ore for Brick
+Yolonc wants to give Ore for Wool
+Yolonc wants to give Grain for Wool
+Yolonc wants to give Ore Grain for Wool
+Yolonc wants to give Ore Grain for Brick
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Brick
+Myrna8511 rolled dice_5 dice_5
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Myrna8511 wants to give Grain for Ore
+Guinn#2167 rolled dice_2 dice_4
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Kent#3816 rolled dice_4 dice_5
+Myrna8511 got Grain
+Yolonc got Lumber
+Guinn#2167 got Grain
+Yolonc rolled dice_6 dice_5
+Yolonc wants to give Lumber for Wool
+Yolonc wants to give Grain for Wool
+Myrna8511 proposed counter offer to Yolonc, offering Wool for Ore
+Yolonc gave Ore and got Wool from Myrna8511
+Yolonc built a Settlement settlement (+1 VP)
+Myrna8511 rolled dice_3 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Myrna8511 wants to give Lumber for Wool
+Myrna8511 gave bank Grain Grain Grain Grain and took Ore
+Guinn#2167 rolled dice_2 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Brick
+Yolonc got Brick
+Guinn#2167 got Brick
+Guinn#2167 is inactive and was kicked.
+Guinn#2167 has disconnected. A bot will take over next turn unless Guinn#2167 reconnects.
+Kent#3816 rolled dice_1 dice_6
+Guinn#2167 has reconnected
+Guinn#2167 discarded Wool Wool Grain Grain Wool
+Kent#3816 moved Robber Robber robber to  prob_3 brick tile
+Kent#3816 stole Ore from you
+Kent#3816 built a Road road
+Kent#3816 wants to give Ore for Wool
+Myrna8511 proposed counter offer to Kent#3816, offering Lumber Lumber for Ore
+Kent#3816 gave Ore and got Wool from Guinn#2167
+Yolonc rolled dice_1 dice_4
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore
+Myrna8511 rolled dice_3 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Guinn#2167 got Wool
+Myrna8511 wants to give Lumber for Any Resource
+Guinn#2167 rolled dice_2 dice_1
+ prob_3 brick tile is blocked by the Robber. No resources produced
+Myrna8511 got Lumber
+Yolonc got Lumber
+Guinn#2167 used 
+Guinn#2167 moved Robber Robber robber to  prob_5 ore tile
+Guinn#2167 stole Resource Card from Yolonc
+Guinn#2167 bought Development Card
+Guinn#2167 bought Development Card
+Kent#3816 rolled dice_5 dice_5
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Kent#3816 wants to give Wool for Grain
+Kent#3816 gave Wool and got Grain from Yolonc
+Kent#3816 wants to give Lumber Lumber for Brick
+Myrna8511 proposed counter offer to Kent#3816, offering Lumber Lumber for Any Resource
+Kent#3816 wants to give Lumber Lumber Lumber for Brick
+Kent#3816 gave Lumber Lumber Lumber and got Brick from Guinn#2167
+Kent#3816 built a Settlement settlement (+1 VP)
+Yolonc rolled dice_1 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Brick
+Yolonc got Brick
+Guinn#2167 got Brick
+Yolonc wants to give Ore for Brick
+Myrna8511 rolled dice_4 dice_5
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Myrna8511 gave bank Lumber Lumber Lumber Lumber and took Brick
+Myrna8511 built a Road road
+Guinn#2167 rolled dice_4 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Guinn#2167 built a Road road
+Guinn#2167 built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_2 dice_3
+ prob_5 ore tile is blocked by the Robber. No resources produced
+Myrna8511 got Lumber
+Kent#3816 got Wool
+Kent#3816 built a Road road
+Kent#3816 wants to give Lumber for Brick
+Yolonc rolled dice_3 dice_2
+ prob_5 ore tile is blocked by the Robber. No resources produced
+Myrna8511 got Lumber
+Kent#3816 got Wool
+Yolonc wants to give Ore for Brick
+Yolonc wants to give Lumber for Brick
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Brick
+Myrna8511 rolled dice_5 dice_6
+Guinn#2167 got Wool
+Myrna8511 wants to give Lumber Lumber Lumber for Brick
+Myrna8511 gave bank Lumber Lumber Lumber Lumber and took Brick
+Myrna8511 built a Settlement settlement (+1 VP)
+Guinn#2167 rolled dice_5 dice_5
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Kent#3816 rolled dice_5 dice_5
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Yolonc rolled dice_5 dice_2
+Yolonc moved Robber Robber robber to  prob_4 brick tile
+Yolonc stole Resource Card from Guinn#2167
+Yolonc wants to give Ore for Lumber
+Myrna8511 rolled dice_1 dice_1
+Yolonc got Ore
+Guinn#2167 got Ore
+Guinn#2167 rolled dice_3 dice_6
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Guinn#2167 used 
+Guinn#2167 moved Robber Robber robber to  prob_8 grain tile
+Guinn#2167 stole Wool from you
+Guinn#2167 bought Development Card
+Kent#3816 rolled dice_5 dice_3
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Yolonc got Grain
+Guinn#2167 got Grain
+Kent#3816 wants to give Wool for Grain
+Kent#3816 wants to give Wool for Lumber
+Kent#3816 wants to give Lumber Lumber Lumber for Brick
+Kent#3816 gave bank Lumber Lumber Lumber Lumber and took Brick
+Yolonc rolled dice_6 dice_4
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Yolonc wants to give Lumber for Grain
+Yolonc bought Development Card
+Yolonc built a Road road
+Yolonc built a Road road
+Myrna8511 rolled dice_5 dice_5
+Myrna8511 got Wool
+Guinn#2167 got Ore
+Guinn#2167 rolled dice_4 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Guinn#2167 bought Development Card
+Kent#3816 rolled dice_5 dice_4
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Kent#3816 wants to give Lumber for Brick
+Kent#3816 wants to give Wool Lumber for Brick
+Kent#3816 wants to give Lumber Wool Ore for Brick
+Kent#3816 built a Road road
+Yolonc rolled dice_5 dice_4
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Yolonc wants to give Lumber for Brick
+Yolonc wants to give Lumber Lumber for Brick
+Yolonc wants to give Ore for Lumber
+Yolonc wants to give Ore for Brick
+Yolonc gave Ore and got Lumber from Myrna8511
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Brick
+Yolonc built a Road road
+Myrna8511 rolled dice_4 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Myrna8511 wants to give Grain for Lumber
+Myrna8511 gave Grain and got Lumber from Kent#3816
+Myrna8511 gave bank Lumber Lumber and took Ore
+Myrna8511 built a City city (+1 VP)
+Guinn#2167 rolled dice_2 dice_5
+Guinn#2167 discarded Wool Grain Ore Ore
+Kent#3816 discarded Wool Lumber Lumber Lumber
+Guinn#2167 moved Robber Robber robber to  prob_4 lumber tile
+Guinn#2167 stole Wool from you
+Guinn#2167 bought Development Card
+Guinn#2167 used 
+Guinn#2167 received Largest Army largest army (+2 VPs)
+Guinn#2167 moved Robber Robber robber to  prob_6 lumber tile
+Guinn#2167 stole Wool from you
+Kent#3816 rolled dice_5 dice_4
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Kent#3816 wants to give Lumber for Brick
+Yolonc rolled dice_4 dice_1
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore
+Myrna8511 rolled dice_4 dice_5
+Myrna8511 got Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain
+Myrna8511 wants to give Grain for Lumber
+Kent#3816 proposed counter offer to Myrna8511, offering Lumber for Brick
+Myrna8511 gave Grain and got Lumber from Yolonc
+Myrna8511 gave bank Lumber Lumber and took Ore
+Myrna8511 bought Development Card
+Guinn#2167 rolled dice_5 dice_2
+Kent#3816 discarded Lumber Wool Ore Lumber
+Guinn#2167 moved Robber Robber robber to  prob_4 brick tile
+Guinn#2167 stole Resource Card from Yolonc
+Kent#3816 rolled dice_1 dice_3
+ prob_4 brick tile is blocked by the Robber. No resources produced
+Myrna8511 got Lumber Lumber Lumber
+Guinn#2167 got Brick Brick
+Yolonc rolled dice_3 dice_4
+Guinn#2167 discarded Wool Wool Grain Grain
+Yolonc moved Robber Robber robber to  prob_8 grain tile
+Yolonc stole Lumber from you
+Myrna8511 used 
+Myrna8511 moved Robber Robber robber to  prob_10 ore tile
+You stole Brick from Guinn#2167
+Myrna8511 rolled dice_1 dice_4
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore
+Myrna8511 built a Road road
+Guinn#2167 used 
+Guinn#2167 moved Robber Robber robber to  prob_8 grain tile
+Guinn#2167 stole Lumber from you
+Guinn#2167 rolled dice_5 dice_5
+Myrna8511 got Wool Wool
+Guinn#2167 got Ore
+Guinn#2167 built a Road road
+Kent#3816 rolled dice_2 dice_1
+Myrna8511 got Brick Lumber
+Yolonc got Lumber
+Kent#3816 wants to give Wool Ore for Brick
+Myrna8511 proposed counter offer to Kent#3816, offering Brick for Wool Grain
+Myrna8511 proposed counter offer to Kent#3816, offering Brick for Ore Grain
+Kent#3816 gave Ore Grain and got Brick from Myrna8511
+Kent#3816 built a Road road
+Kent#3816 received Longest Road longest road (+2 VPs)
+Yolonc rolled dice_2 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore
+Yolonc wants to give Ore for Grain
+Myrna8511 proposed counter offer to Yolonc, offering Grain for Ore Any Resource
+Yolonc wants to give Lumber Ore for Grain
+Myrna8511 proposed counter offer to Yolonc, offering Lumber Grain for Ore Any Resource
+Yolonc wants to give Lumber Ore for Grain Wool
+Yolonc gave Lumber Ore and got Grain Wool from Myrna8511
+Yolonc built a City city (+1 VP)
+Myrna8511 rolled dice_6 dice_4
+Myrna8511 got Wool Wool
+Guinn#2167 got Ore
+Myrna8511 wants to give Wool Wool for Grain
+Myrna8511 wants to give Wool Wool for Ore
+Myrna8511 wants to give Wool Wool for Lumber Lumber
+Myrna8511 wants to give Wool Wool Wool for Lumber Lumber
+Myrna8511 gave bank Lumber Lumber and took Brick
+Myrna8511 built a Road road
+Guinn#2167 rolled dice_6 dice_5
+Guinn#2167 got Wool
+Guinn#2167 used 
+Guinn#2167 moved Robber Robber robber to  prob_3 brick tile
+Guinn#2167 stole Wool from you
+Kent#3816 rolled dice_2 dice_5
+Kent#3816 moved Robber Robber robber to  prob_8 grain tile
+Kent#3816 stole Resource Card from Guinn#2167
+Kent#3816 wants to give Wool Wool for Grain
+Yolonc rolled dice_4 dice_6
+Myrna8511 got Wool Wool
+Guinn#2167 got Ore
+Myrna8511 rolled dice_4 dice_2
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Myrna8511 gave bank Lumber Lumber and took Grain
+Myrna8511 bought Development Card
+Guinn#2167 rolled dice_1 dice_6
+Kent#3816 discarded Lumber Lumber Wool Wool
+Guinn#2167 moved Robber Robber robber to  prob_6 lumber tile
+Guinn#2167 stole Resource Card from Kent#3816
+Guinn#2167 used 
+Guinn#2167 stole 3 ore
+Guinn#2167 gave bank Ore Ore Ore Ore and took Brick
+Guinn#2167 built a Road road
+Kent#3816 rolled dice_2 dice_5
+Kent#3816 moved Robber Robber robber to  prob_6 lumber tile
+Kent#3816 stole Wool from you
+Yolonc rolled dice_5 dice_5
+Myrna8511 got Wool Wool
+Guinn#2167 got Ore
+Myrna8511 used 
+Myrna8511 moved Robber Robber robber to  prob_10 ore tile
+You stole Wool from Guinn#2167
+Myrna8511 rolled dice_5 dice_6
+Guinn#2167 got Wool
+Guinn#2167 rolled dice_3 dice_4
+Guinn#2167 moved Robber Robber robber to  prob_8 grain tile
+Guinn#2167 stole Wool from you
+Guinn#2167 gave bank Wool Wool Wool Wool and took Brick
+Kent#3816 rolled dice_2 dice_5
+Kent#3816 moved Robber Robber robber to  prob_6 lumber tile
+Kent#3816 stole Wool from you
+Yolonc rolled dice_5 dice_6
+Guinn#2167 got Wool
+Myrna8511 rolled dice_5 dice_2
+Myrna8511 moved Robber Robber robber to  prob_10 ore tile
+You stole Wool from Guinn#2167
+Guinn#2167 rolled dice_4 dice_4
+Myrna8511 got Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain Grain
+Guinn#2167 got Grain
+Kent#3816 rolled dice_3 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore Ore
+Kent#3816 bought Development Card
+Yolonc rolled dice_2 dice_4
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Yolonc wants to give Lumber for Ore
+Yolonc wants to give Lumber for Brick
+Yolonc wants to give Lumber Lumber for Brick
+Yolonc bought Development Card
+Myrna8511 rolled dice_4 dice_6
+ prob_10 ore tile is blocked by the Robber. No resources produced
+Myrna8511 got Wool Wool
+Myrna8511 gave bank Lumber Lumber Lumber Lumber Wool Wool Wool Wool and took Ore Ore Ore
+Myrna8511 built a City city (+1 VP)
+Guinn#2167 rolled dice_5 dice_6
+Guinn#2167 got Wool
+Guinn#2167 built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_1 dice_1
+Yolonc got Ore
+Guinn#2167 got Ore
+Kent#3816 wants to give Wool for Grain
+Yolonc proposed counter offer to Kent#3816, offering Grain for Wool Any Resource
+Kent#3816 wants to give Wool Wool for Grain
+Kent#3816 gave Wool Wool and got Grain from Yolonc
+Yolonc rolled dice_1 dice_5
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+Guinn#2167 got Wool
+Yolonc wants to give Lumber for Grain
+Yolonc wants to give Lumber for Brick
+Myrna8511 rolled dice_2 dice_3
+Myrna8511 got Lumber
+Kent#3816 got Ore Wool
+Yolonc got Ore Ore
+Myrna8511 gave bank Lumber Lumber and took Brick
+Myrna8511 built a Road road
+Guinn#2167 rolled dice_3 dice_5
+Myrna8511 got Grain Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain Grain
+Guinn#2167 got Grain Grain
+Guinn#2167 built a City city (+1 VP)
+Kent#3816 rolled dice_6 dice_3
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber
+Guinn#2167 got Grain Grain
+Kent#3816 wants to give Lumber Lumber Lumber for Brick
+Kent#3816 gave bank Lumber Lumber Lumber Lumber and took Brick
+Kent#3816 built a Settlement settlement (+1 VP)
+Kent#3816 bought Development Card
+Yolonc rolled dice_4 dice_4
+Myrna8511 got Grain Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain Grain
+Guinn#2167 got Grain Grain
+Yolonc built a City city (+1 VP)
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Brick
+Yolonc built a Settlement settlement (+1 VP)
+Yolonc bought Development Card
+Myrna8511 rolled dice_1 dice_3
+Myrna8511 got Lumber Lumber Lumber
+Kent#3816 got Brick
+Yolonc got Brick Brick
+Guinn#2167 got Brick Brick
+Myrna8511 gave bank Grain Grain Grain Grain Grain Grain Grain Grain and took Brick Brick
+Myrna8511 built a Road road
+Longest Road longest road passed from Kent#3816 to Myrna8511 (+2 VPs)
+Myrna8511 built a Road road
+Guinn#2167 rolled dice_5 dice_3
+Myrna8511 got Grain Grain Grain
+Kent#3816 got Grain
+Yolonc got Grain Grain
+Guinn#2167 got Grain Grain
+Guinn#2167 gave bank Grain Grain Grain and took Lumber
+Guinn#2167 built a Road road
+Guinn#2167 bought Development Card
+Kent#3816 rolled dice_5 dice_4
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber Lumber
+Guinn#2167 got Grain Grain
+Kent#3816 built a Road road
+Kent#3816 wants to give Grain for Wool
+Kent#3816 wants to give Grain for Lumber
+Kent#3816 wants to give Grain for Brick
+Yolonc rolled dice_1 dice_4
+Myrna8511 got Lumber
+Kent#3816 got Ore Ore Wool
+Yolonc got Ore Ore Wool
+Yolonc bought Development Card
+Yolonc built a Road road
+Myrna8511 rolled dice_4 dice_3
+Myrna8511 discarded Grain Grain Grain Grain
+Myrna8511 moved Robber Robber robber to  prob_5 ore tile
+You stole Lumber from Yolonc
+Myrna8511 gave bank Lumber Lumber and took Brick
+Myrna8511 built a Settlement settlement (+1 VP)
+Guinn#2167 rolled dice_3 dice_4
+Guinn#2167 moved Robber Robber robber to  prob_4 lumber tile
+Guinn#2167 stole Wool from you
+Guinn#2167 gave bank Grain Grain Grain and took Lumber
+Guinn#2167 built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_1 dice_4
+Myrna8511 got Lumber Lumber
+Kent#3816 got Ore Ore Wool
+Yolonc got Ore Ore Wool
+Kent#3816 built a City city (+1 VP)
+Kent#3816 used 
+Kent#3816 took from bank Grain Grain
+Kent#3816 bought Development Card
+Yolonc rolled dice_3 dice_3
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+Yolonc got Wool
+Guinn#2167 got Wool Wool
+Yolonc built a Settlement settlement (+1 VP)
+Yolonc used 
+Yolonc moved Robber Robber robber to  prob_8 grain tile
+Yolonc stole Lumber from you
+Myrna8511 rolled dice_6 dice_6
+Yolonc got Wool Wool
+Myrna8511 gave bank Lumber Lumber and took Brick
+Myrna8511 built a Road road
+Guinn#2167 rolled dice_3 dice_3
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+Yolonc got Wool
+Guinn#2167 got Wool Wool
+Guinn#2167 used 
+Guinn#2167 moved Robber Robber robber to  prob_5 lumber tile
+Guinn#2167 stole Lumber from you
+Guinn#2167 gave bank Wool Wool Wool and took Brick
+Guinn#2167 built a Road road
+Kent#3816 rolled dice_6 dice_3
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber
+Yolonc got Lumber Lumber Lumber
+Guinn#2167 got Grain Grain Grain
+Kent#3816 gave bank Lumber Lumber Lumber Lumber and took Brick
+Kent#3816 built a Settlement settlement (+1 VP)
+Yolonc rolled dice_2 dice_2
+Myrna8511 got Lumber Lumber Lumber
+Kent#3816 got Brick Brick
+Yolonc got Brick Brick
+Guinn#2167 got Brick Brick
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Grain
+Yolonc gave bank Wool Wool Wool Wool and took Grain
+Yolonc built a City city (+1 VP)
+trophy Yolonc won the game! trophy

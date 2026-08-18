@@ -1,0 +1,497 @@
+UserPhillKnight placed a settlement
+UserPhillKnight placed a road
+GuestLuckyLuke placed a settlement
+GuestLuckyLuke placed a road
+GuestArodNY placed a settlement
+GuestArodNY placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources brickorelumber
+GuestArodNY placed a settlement
+GuestArodNY placed a road
+GuestArodNY received starting resources wooloreore
+GuestLuckyLuke placed a settlement
+GuestLuckyLuke placed a road
+GuestLuckyLuke received starting resources orebricklumber
+UserPhillKnight placed a settlement
+UserPhillKnight placed a road
+UserPhillKnight received starting resources woolore
+UserPhillKnight rolled dice_1 dice_1
+GuestLuckyLuke rolled dice_3 dice_2
+GuestArodNY got lumber
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+GuestLuckyLuke built a road
+GuestArodNY rolled dice_2 dice_4
+GuestArodNY got oregrain
+GuestLuckyLuke got grain
+GuestArodNY bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_6
+GuestArodNY got brick
+GuestLuckyLuke got brick
+UserPhillKnight rolled dice_5 dice_2
+UserPhillKnight moved robber robber to  prob_4 ore tile
+UserPhillKnight stole card from LuckyLuke
+GuestLuckyLuke rolled dice_3 dice_2
+GuestArodNY got lumber
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+GuestArodNY rolled dice_1 dice_2
+GuestArodNY got wool
+icon_helmetMyrna8511 got brick
+GuestArodNY built a road
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give wool for lumber
+UserPhillKnight wants to give Myrna8511 lumber for brick
+icon_helmetMyrna8511 wants to give Myrna8511 brick for lumbergrain
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 traded wool for grain with LuckyLuke
+icon_helmetMyrna8511 built a road
+UserPhillKnight rolled dice_2 dice_1
+GuestArodNY got wool
+icon_helmetMyrna8511 got brick
+UserPhillKnight wants to give lumber for brick
+icon_helmetMyrna8511 wants to give PhillKnight brick for lumbergrain
+UserPhillKnight wants to give ore for brick
+icon_helmetMyrna8511 wants to give PhillKnight brick for lumberore
+GuestLuckyLuke rolled dice_2 dice_4
+GuestArodNY got oregrain
+GuestLuckyLuke got grain
+GuestArodNY rolled dice_5 dice_1
+GuestArodNY got oregrain
+GuestLuckyLuke got grain
+GuestArodNY bought development card
+GuestArodNY bought development card
+icon_helmetMyrna8511 rolled dice_6 dice_2
+icon_helmetMyrna8511 got ore
+UserPhillKnight got orewool
+UserPhillKnight rolled dice_1 dice_4
+GuestArodNY got lumber
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+UserPhillKnight wants to give lumber for brick
+UserPhillKnight wants to give ore for brick
+icon_helmetMyrna8511 wants to give PhillKnight brick for grain
+UserPhillKnight wants to give lumberore for brick
+icon_helmetMyrna8511 wants to give PhillKnight brickwool for lumberore
+UserMyrna8511 traded brickwool for lumberore with PhillKnight
+UserPhillKnight built a road
+GuestLuckyLuke rolled dice_6 dice_1
+GuestLuckyLuke moved robber robber to  prob_6 ore tile
+GuestLuckyLuke stole card from ArodNY
+GuestLuckyLuke built a road
+GuestArodNY used Knight card knight
+GuestArodNY moved robber robber to  prob_9 lumber tile
+GuestArodNY stole card from LuckyLuke
+GuestArodNY rolled dice_4 dice_5
+ prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestLuckyLuke got brick
+icon_helmetMyrna8511 rolled dice_5 dice_6
+GuestArodNY got brick
+GuestLuckyLuke got brick
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPhillKnight rolled dice_1 dice_4
+GuestArodNY got lumber
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+UserPhillKnight wants to give wool for brick
+UserPhillKnight wants to give lumber for brick
+UserPhillKnight traded lumber for brick with LuckyLuke
+GuestLuckyLuke rolled dice_3 dice_6
+ prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestLuckyLuke got brick
+GuestLuckyLuke built a settlement (+1 VP)
+GuestArodNY rolled dice_1 dice_1
+GuestLuckyLuke got lumber
+GuestArodNY wants to give ore for wool
+UserPhillKnight wants to give ArodNY wool for grainore
+GuestArodNY wants to give ArodNY lumberore for wool
+GuestArodNY wants to give oreore for wool
+icon_helmetMyrna8511 wants to give ArodNY wool for graingrain
+icon_helmetMyrna8511 wants to give ArodNY wool for lumbergrain
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole grain from ArodNY
+UserPhillKnight rolled dice_2 dice_2
+GuestArodNY got ore
+GuestLuckyLuke got ore
+UserPhillKnight got wool
+UserPhillKnight wants to give ore for wool
+icon_helmetMyrna8511 wants to give PhillKnight wool for lumberore
+icon_helmetMyrna8511 wants to give PhillKnight wool for lumber
+UserPhillKnight traded ore for wool with Myrna8511
+UserPhillKnight gave bank woolwoolwoolwool and took grain
+UserPhillKnight built a settlement (+1 VP)
+GuestLuckyLuke rolled dice_6 dice_6
+GuestArodNY rolled dice_4 dice_4
+icon_helmetMyrna8511 got ore
+UserPhillKnight got orewool
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_4 ore tile
+icon_helmetYou stole lumber from ArodNY
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give oreore for lumber
+icon_helmetMyrna8511 traded oreore for lumber with LuckyLuke
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+UserPhillKnight rolled dice_4 dice_2
+GuestArodNY got oregrain
+GuestLuckyLuke got grain
+UserPhillKnight wants to give ore for grain
+GuestLuckyLuke rolled dice_6 dice_1
+GuestLuckyLuke moved robber robber to  prob_6 ore tile
+GuestLuckyLuke stole card from ArodNY
+GuestArodNY rolled dice_4 dice_2
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestArodNY got grain
+GuestLuckyLuke got grain
+GuestArodNY wants to give ore for wool
+UserPhillKnight wants to give ArodNY wool for graingrain
+GuestArodNY wants to give grain for wool
+GuestArodNY wants to give grainore for wool
+GuestArodNY traded grainore for wool with PhillKnight
+GuestArodNY built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestArodNY got lumber
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+UserPhillKnight rolled dice_3 dice_3
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestArodNY got grain
+GuestLuckyLuke got grain
+UserPhillKnight wants to give lumber for grain
+GuestLuckyLuke rolled dice_3 dice_1
+GuestArodNY got ore
+GuestLuckyLuke got ore
+UserPhillKnight got woolwool
+GuestLuckyLuke built a city (+1 VP)
+GuestLuckyLuke bought development card
+GuestArodNY rolled dice_4 dice_1
+GuestArodNY got lumber
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got wool
+UserPhillKnight got lumber
+icon_helmetMyrna8511 rolled dice_2 dice_5
+UserPhillKnight discarded lumberlumberwoolwool
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole lumber from ArodNY
+UserPhillKnight rolled dice_3 dice_4
+UserPhillKnight moved robber robber to  prob_4 ore tile
+UserPhillKnight stole card from ArodNY
+GuestLuckyLuke rolled dice_6 dice_3
+GuestLuckyLuke got brickbricklumber
+icon_helmetMyrna8511 got lumber
+GuestLuckyLuke used Knight card knight
+GuestLuckyLuke moved robber robber to  prob_8 ore tile
+GuestLuckyLuke stole wool from you
+GuestLuckyLuke built a road
+GuestArodNY rolled dice_4 dice_5
+GuestLuckyLuke got brickbricklumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 rolled dice_2 dice_5
+GuestLuckyLuke discarded brickbrickbrickwool
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole brick from LuckyLuke
+icon_helmetMyrna8511 built a road
+UserPhillKnight rolled dice_6 dice_3
+GuestLuckyLuke got brickbricklumber
+icon_helmetMyrna8511 got lumber
+UserPhillKnight wants to give ore for grain
+GuestLuckyLuke rolled dice_1 dice_6
+GuestLuckyLuke moved robber robber to  prob_5 lumber tile
+GuestLuckyLuke stole card from ArodNY
+GuestLuckyLuke built a road
+GuestLuckyLuke received longest road (+2 VPs)
+GuestArodNY rolled dice_2 dice_6
+icon_helmetMyrna8511 got oreore
+UserPhillKnight got orewool
+icon_helmetMyrna8511 rolled dice_6 dice_2
+icon_helmetMyrna8511 got oreore
+UserPhillKnight got orewool
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give woolore for brick
+icon_helmetMyrna8511 wants to give woolore for lumber
+icon_helmetMyrna8511 wants to give woolore for grain
+icon_helmetMyrna8511 traded woolore for lumber with LuckyLuke
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took graingrain
+icon_helmetMyrna8511 built a city (+1 VP)
+UserPhillKnight rolled dice_1 dice_4
+ prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight wants to give ore for grain
+UserPhillKnight wants to give wool for grain
+UserPhillKnight wants to give woolore for grain
+UserPhillKnight bought development card
+GuestLuckyLuke rolled dice_1 dice_1
+GuestLuckyLuke got lumber
+GuestLuckyLuke wants to give woolwool for grain
+GuestLuckyLuke gave bank woolwool and took grain
+GuestLuckyLuke built a settlement (+1 VP)
+GuestArodNY rolled dice_2 dice_5
+GuestArodNY moved robber robber to  prob_9 lumber tile
+GuestArodNY stole card from LuckyLuke
+icon_helmetMyrna8511 rolled dice_4 dice_1
+GuestArodNY got lumber
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight got lumber
+UserPhillKnight rolled dice_3 dice_2
+GuestArodNY got lumber
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight got lumber
+UserPhillKnight wants to give lumberore for grain
+UserPhillKnight used Knight card knight
+UserPhillKnight moved robber robber to  prob_6 ore tile
+UserPhillKnight stole card from LuckyLuke
+UserPhillKnight gave bank oreoreoreore and took grain
+UserPhillKnight bought development card
+GuestLuckyLuke rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestArodNY got grain
+GuestLuckyLuke got graingrain
+GuestLuckyLuke bought development card
+GuestArodNY rolled dice_4 dice_6
+GuestLuckyLuke got graingrain
+icon_helmetMyrna8511 got lumberlumberlumberlumberlumber
+UserPhillKnight got grain
+GuestArodNY wants to give lumberlumber for wool
+GuestArodNY traded lumberlumber for wool with Myrna8511
+GuestArodNY bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded lumberlumberwoolwoolwoolwool
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole wool from LuckyLuke
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took brickgrain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPhillKnight rolled dice_3 dice_5
+icon_helmetMyrna8511 got oreoreore
+UserPhillKnight got orewool
+UserPhillKnight bought development card
+UserPhillKnight used Knight card knight
+UserPhillKnight moved robber robber to  prob_6 ore tile
+UserPhillKnight stole card from LuckyLuke
+UserPhillKnight wants to give lumber for wool
+UserPhillKnight traded lumber for wool with Myrna8511
+UserPhillKnight bought development card
+GuestLuckyLuke rolled dice_6 dice_5
+GuestArodNY got brickbrick
+GuestLuckyLuke got brick
+UserPhillKnight got grain
+GuestArodNY used Knight card knight
+GuestArodNY moved robber robber to  prob_9 lumber tile
+GuestArodNY stole lumber from you
+GuestArodNY rolled dice_3 dice_3
+GuestArodNY got oregrain
+GuestLuckyLuke got oregraingrain
+GuestArodNY wants to give grain for wool
+GuestArodNY wants to give grainore for wool
+GuestArodNY built a road
+GuestArodNY built a road
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole brick from LuckyLuke
+UserPhillKnight rolled dice_1 dice_5
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestArodNY got grain
+GuestLuckyLuke got graingrain
+GuestLuckyLuke rolled dice_1 dice_2
+GuestArodNY got woolbrick
+icon_helmetMyrna8511 got brickbrick
+GuestLuckyLuke used Year of Plenty card year of plenty
+GuestLuckyLuke took from bank ore ore
+GuestLuckyLuke built a city (+1 VP)
+GuestArodNY rolled dice_5 dice_4
+GuestLuckyLuke got brickbricklumberlumber
+icon_helmetMyrna8511 got lumberlumber
+GuestArodNY wants to give grain for lumber
+GuestArodNY bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestArodNY got ore
+GuestLuckyLuke got oreore
+UserPhillKnight got woolwool
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded brick for wool with PhillKnight
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from LuckyLuke to Myrna8511 (+2 VPs)
+UserPhillKnight rolled dice_3 dice_2
+GuestArodNY got lumber
+GuestLuckyLuke got wool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight got lumber
+UserPhillKnight used Road Building card road building
+UserPhillKnight placed a road
+UserPhillKnight placed a road
+UserPhillKnight built a settlement (+1 VP)
+GuestLuckyLuke rolled dice_3 dice_3
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestArodNY got grain
+GuestLuckyLuke got graingrain
+GuestLuckyLuke built a road
+GuestLuckyLuke built a settlement (+1 VP)
+GuestLuckyLuke gave bank graingraingrain and took ore
+GuestLuckyLuke built a city (+1 VP)
+GuestArodNY rolled dice_1 dice_1
+GuestLuckyLuke got lumberlumberlumber
+GuestArodNY used Knight card knight
+GuestArodNY received largest army (+2 VPs)
+GuestArodNY moved robber robber to  prob_9 brick tile
+GuestArodNY stole card from LuckyLuke
+GuestArodNY wants to give grain for wool
+icon_helmetMyrna8511 wants to give ArodNY wool for graingrain
+GuestArodNY wants to give lumbergrain for wool
+icon_helmetMyrna8511 wants to give ArodNY wool for lumberlumbergrain
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got oreoreore
+UserPhillKnight got orewool
+icon_helmetMyrna8511 wants to give wool for lumbergrain
+icon_helmetMyrna8511 traded wool for lumbergrain with ArodNY
+icon_helmetMyrna8511 gave bank oreoreoreore and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 bought development card
+UserPhillKnight rolled dice_6 dice_5
+GuestArodNY got brickbrick
+GuestLuckyLuke got brickbrick
+UserPhillKnight got grain
+UserPhillKnight bought development card
+GuestLuckyLuke rolled dice_5 dice_6
+GuestArodNY got brickbrick
+GuestLuckyLuke got brickbrick
+UserPhillKnight got grain
+GuestLuckyLuke built a road
+GuestLuckyLuke built a road
+GuestArodNY rolled dice_2 dice_5
+GuestArodNY discarded brickbrickbrickbrickore
+GuestArodNY moved robber robber to  prob_9 lumber tile
+GuestArodNY stole card from LuckyLuke
+GuestArodNY built a settlement (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 brick tile
+icon_helmetYou stole brick from LuckyLuke
+icon_helmetMyrna8511 rolled dice_4 dice_6
+GuestLuckyLuke got graingrain
+icon_helmetMyrna8511 got lumberlumberlumberlumberlumber
+UserPhillKnight got graingrain
+icon_helmetMyrna8511 wants to give lumber for brick
+GuestArodNY wants to give Myrna8511 brick for wool
+icon_helmetMyrna8511 wants to give wool for brickbrick
+icon_helmetArodNY traded brick for wool with Myrna8511
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank lumberlumber and took brick
+icon_helmetMyrna8511 built a road
+UserPhillKnight rolled dice_2 dice_4
+GuestArodNY got oreoregrain
+GuestLuckyLuke got oregraingrain
+UserPhillKnight used Knight card knight
+UserPhillKnight moved robber robber to  prob_9 lumber tile
+UserPhillKnight stole card from LuckyLuke
+UserPhillKnight wants to give grain for brick
+UserPhillKnight gave bank graingrain and took brick
+UserPhillKnight built a road
+GuestLuckyLuke rolled dice_3 dice_4
+GuestLuckyLuke moved robber robber to  prob_8 ore tile
+GuestLuckyLuke stole ore from you
+GuestArodNY rolled dice_3 dice_4
+GuestArodNY moved robber robber to  prob_9 lumber tile
+GuestArodNY stole card from LuckyLuke
+GuestArodNY built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_3
+ prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestLuckyLuke got brickbrickbrick
+UserPhillKnight rolled dice_6 dice_3
+ prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestLuckyLuke got brickbrickbrick
+GuestLuckyLuke rolled dice_6 dice_5
+GuestArodNY got brickbrickbrick
+GuestLuckyLuke got brickbrick
+UserPhillKnight got grain
+GuestLuckyLuke gave bank brickbrickbrick and took wool
+GuestLuckyLuke bought development card
+GuestArodNY rolled dice_6 dice_2
+icon_helmetMyrna8511 got oreoreore
+UserPhillKnight got orewool
+GuestArodNY used Monopoly card monopoly
+GuestArodNY stole 5 brick
+GuestArodNY gave bank brickbrickbrick and took grain
+GuestArodNY bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole brick from ArodNY
+UserPhillKnight rolled dice_3 dice_2
+GuestArodNY got lumberlumber
+GuestLuckyLuke got woolwool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight got lumber
+UserPhillKnight wants to give lumbergrain for woolore
+UserPhillKnight traded lumbergrain for woolore with Myrna8511
+UserPhillKnight bought development card
+UserPhillKnight bought development card
+GuestLuckyLuke used Knight card knight
+GuestLuckyLuke moved robber robber to  prob_8 ore tile
+GuestLuckyLuke stole ore from you
+GuestLuckyLuke rolled dice_5 dice_3
+ prob_8 ore tile is blocked by the robber. No resources produced.
+UserPhillKnight got wool
+GuestLuckyLuke bought development card
+GuestArodNY rolled dice_4 dice_1
+GuestArodNY got lumberlumber
+GuestLuckyLuke got woolwool
+icon_helmetMyrna8511 got woolwool
+UserPhillKnight got lumber
+GuestArodNY built a road
+GuestArodNY built a road
+GuestArodNY built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestLuckyLuke got graingrain
+icon_helmetMyrna8511 got lumberlumberlumberlumberlumber
+UserPhillKnight got graingrain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+UserPhillKnight used Knight card knight
+Userlargest army passed from ArodNY to PhillKnight (+2 VPs)
+UserPhillKnight moved robber robber to  prob_10 lumber tile
+UserPhillKnight stole grain from you
+UserPhillKnight rolled dice_6 dice_6
+UserPhillKnight wants to give graingrain for brick
+UserPhillKnight gave bank graingrain and took brick
+UserPhillKnight built a settlement (+1 VP)
+GuestLuckyLuke rolled dice_1 dice_2
+GuestArodNY got woolbrick
+icon_helmetMyrna8511 got brickbrick
+UserPhillKnight got wool
+GuestLuckyLuke used Year of Plenty card year of plenty
+GuestLuckyLuke took from bank ore ore
+GuestLuckyLuke bought development card
+GuestLuckyLuke bought development card
+GuestArodNY rolled dice_1 dice_2
+GuestArodNY got woolbrick
+icon_helmetMyrna8511 got brickbrick
+UserPhillKnight got wool
+GuestArodNY built a road
+icon_helmetMyrna8511 rolled dice_3 dice_5
+icon_helmetMyrna8511 got oreoreore
+UserPhillKnight got orewoolwool
+icon_helmetMyrna8511 gave bank brickbrickbrickbrick and took graingrain
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a city (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+UserPhillKnight has left the game
+GuestArodNY has left the game
+GuestLuckyLuke has left the game

@@ -1,0 +1,367 @@
+GuestMathis#9685 placed a settlement
+GuestMathis#9685 placed a road
+UserODIN07 placed a settlement
+UserODIN07 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+Guestsquirt#6225 placed a settlement
+Guestsquirt#6225 placed a road
+Guestsquirt#6225 placed a settlement
+Guestsquirt#6225 placed a road
+Guestsquirt#6225 received starting resources: grainorewool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: lumberwoolore
+UserODIN07 placed a settlement
+UserODIN07 placed a road
+UserODIN07 received starting resources: orelumber brick
+GuestMathis#9685 placed a settlement
+GuestMathis#9685 placed a road
+GuestMathis#9685 received starting resources: wool
+botMathis#9685 has left the game, giving them 2 minutes to reconnect.
+botMathis#9685 has disconnected. Bot will wait until next turn to give Mathis#9685 a chance to reconnect.
+botMathis#9685 rolled: dice_6 dice_1
+botBot is selecting where to place robber for Mathis#9685
+botMathis#9685 moved robber robber: prob_9 grain
+botBot is selecting who to rob for Mathis#9685
+botMathis#9685 stole card from: squirt#6225
+UserODIN07 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+UserODIN07 built a road
+UserODIN07 wants to give: grain for: wool
+UserODIN07 traded: grainfor: wool with: Myrna8511
+icon_helmetMyrna8511 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: grain
+UserODIN07 got:  brick
+icon_helmetMyrna8511 built a road
+Guestsquirt#6225 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: grain
+UserODIN07 got:  brick
+botMathis#9685 rolled: dice_6 dice_6
+botMathis#9685 wants to give: wool for: ore
+UserODIN07 rolled: dice_6 dice_5
+UserODIN07 got: ore
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+Guestsquirt#6225 got: ore
+Guestsquirt#6225 rolled: dice_3 dice_4
+Guestsquirt#6225 moved robber robber: prob_6 grain
+Guestsquirt#6225 stole card from: ODIN07
+botMathis#9685 rolled: dice_6 dice_6
+botMathis#9685 wants to give: wool for: ore
+UserODIN07 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+Guestsquirt#6225 got: ore
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 wants to give:  brick for: wool
+icon_helmetMyrna8511 traded:  brickfor: wool with: Mathis#9685
+icon_helmetMyrna8511 wants to give: ore for: lumber
+Guestsquirt#6225 rolled: dice_5 dice_6
+UserODIN07 got: ore
+botMathis#9685 rolled: dice_2 dice_5
+Mathis#9685 discarding resource cards
+botBot is selecting cards to discard for Mathis#9685
+botMathis#9685 discarded: graingrainwoolwool
+botMathis#9685 moved robber robber: prob_5 ore
+botMathis#9685 stole card from: squirt#6225
+botMathis#9685 wants to give: wool for: grain
+UserODIN07 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+UserODIN07 wants to give: ore for: lumber
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+icon_helmetMyrna8511 wants to give:  brick brick for: lumber
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 traded: orefor:  brick with: ODIN07
+icon_helmetMyrna8511 gave bank:  brick brick brick brick and took lumber
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestsquirt#6225 rolled: dice_3 dice_2
+botMathis#9685 got: lumber
+UserODIN07 got: lumber
+botMathis#9685 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got:  brick brick
+botMathis#9685 got: grain
+UserODIN07 got:  brick
+botMathis#9685 built a road
+botMathis#9685 bought development card
+botMathis#9685 wants to give: wool for: ore
+UserODIN07 rolled: dice_2 dice_5
+ODIN07 discarding resource cards
+UserODIN07 discarded:  brickgrainoreore
+UserODIN07 moved robber robber: prob_8 ore
+UserODIN07 stole card from: squirt#6225
+UserODIN07 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_6 dice_5
+UserODIN07 got: oreore
+Guestsquirt#6225 rolled: dice_1 dice_1
+botMathis#9685 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: ore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumber
+botMathis#9685 gave bank: woolwoolwool and took  brick
+botMathis#9685 built a road
+botMathis#9685 wants to give: wool for: ore
+botMathis#9685 traded: woolfor: ore with: squirt#6225
+botMathis#9685 used Knight card knight
+botMathis#9685 moved robber robber: prob_9 grain
+botMathis#9685 stole card from: ODIN07
+UserODIN07 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+UserODIN07 bought development card
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 wants to give:  brick brick for: lumber
+Guestsquirt#6225 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got:  brick
+botMathis#9685 got: woolwool
+UserODIN07 got: grain
+botMathis#9685 rolled: dice_2 dice_5
+Mathis#9685 discarding resource cards
+botBot is selecting cards to discard for Mathis#9685
+botMathis#9685 discarded: orewoolwoolwoolwool
+botMathis#9685 moved robber robber: prob_5 ore
+botMathis#9685 stole:  brick from you
+UserODIN07 rolled: dice_1 dice_1
+UserODIN07 used Knight card knight
+squirt#6225 started a vote to disable karma
+UserODIN07 moved robber robber: prob_6 wool
+UserODIN07 stole card from: Mathis#9685
+Karma System: vote to disable karma declined
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: lumber
+Guestsquirt#6225 got: ore
+UserODIN07 got: lumber
+icon_helmetMyrna8511 built a road
+Guestsquirt#6225 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: ore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumber
+Guestsquirt#6225 gave bank: oreoreoreore and took grain
+Guestsquirt#6225 bought development card
+botMathis#9685 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: woollumber
+Guestsquirt#6225 got: grain
+UserODIN07 got: grain
+botMathis#9685 wants to give: ore for: grain
+botMathis#9685 traded: orefor: grain with: ODIN07
+botMathis#9685 built a settlement: +1 VP
+UserODIN07 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: ore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumber
+UserODIN07 gave bank: lumberlumberlumberlumber and took ore
+UserODIN07 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_6
+Guestsquirt#6225 got: ore
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 traded: woolfor: grain with: ODIN07
+icon_helmetMyrna8511 wants to give:  brick for: grain
+icon_helmetMyrna8511 wants to give:  brick brick for: grain
+icon_helmetMyrna8511 gave bank:  brick brick brick and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+Guestsquirt#6225 rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: oreore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumberlumber
+botMathis#9685 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumberlumber
+botMathis#9685 wants to give: wool for: grain
+UserODIN07 rolled: dice_2 dice_6
+Guestsquirt#6225 got: ore
+UserODIN07 gave bank: lumberlumberlumberlumber and took grain
+icon_helmetMyrna8511 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got:  brick brick
+botMathis#9685 got: grain
+UserODIN07 got:  brick
+icon_helmetMyrna8511 built a road
+Guestsquirt#6225 rolled: dice_4 dice_4
+Guestsquirt#6225 got: ore
+Guestsquirt#6225 used Knight card knight
+Guestsquirt#6225 moved robber robber: prob_6 brick
+Guestsquirt#6225 stole: ore from you
+Guestsquirt#6225 wants to give: oreore for: grain
+Guestsquirt#6225 traded: oreorefor: grain with: Mathis#9685
+Guestsquirt#6225 built a city: +1 VP
+botMathis#9685 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: woolwoollumber
+Guestsquirt#6225 got: graingrain
+UserODIN07 got: graingrain
+botMathis#9685 gave bank: lumberlumberlumber and took grain
+UserODIN07 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: woolwoollumber
+Guestsquirt#6225 got: graingrain
+UserODIN07 got: graingrain
+UserODIN07 gave bank: graingrain and took lumber
+UserODIN07 gave bank: graingrain and took ore
+UserODIN07 built a road
+UserODIN07 bought development card
+icon_helmetMyrna8511 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreore
+Guestsquirt#6225 got: ore
+botMathis#9685 got: lumber
+UserODIN07 got: lumberlumber
+icon_helmetMyrna8511 wants to give: lumber for: grain
+Guestsquirt#6225 wants to give Myrna8511 : grain for: lumber brick
+icon_helmetMyrna8511 wants to give: lumberore for: grain
+icon_helmetMyrna8511 traded: lumberorefor: grain with: squirt#6225
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 gave bank: woolwool and took grain
+icon_helmetMyrna8511 bought development card
+Guestsquirt#6225 rolled: dice_4 dice_4
+Guestsquirt#6225 got: ore
+Guestsquirt#6225 built a city: +1 VP
+Guestsquirt#6225 wants to give: ore for: wool
+Guestsquirt#6225 traded: orefor: wool with: Mathis#9685
+Guestsquirt#6225 bought development card
+botMathis#9685 rolled: dice_5 dice_6
+UserODIN07 got: oreore
+UserODIN07 rolled: dice_6 dice_4
+Guestsquirt#6225 got: woolwool
+botMathis#9685 got: lumber
+icon_helmetMyrna8511 rolled: dice_1 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+Guestsquirt#6225 got: oreore
+UserODIN07 got: lumber
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank: grain grain
+icon_helmetMyrna8511 built a city: +1 VP
+Guestsquirt#6225 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got:  brick brick brick
+botMathis#9685 got: grain
+UserODIN07 got:  brick
+botMathis#9685 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: woolwoollumberlumber
+Guestsquirt#6225 got: graingrain
+UserODIN07 got: graingrain
+botMathis#9685 built a city: +1 VP
+botMathis#9685 wants to give: wool for:  brick
+botMathis#9685 traded: woolfor:  brick with: Myrna8511
+botMathis#9685 built a road
+botMathis#9685 received longest road: +2 VPs
+UserODIN07 rolled: dice_5 dice_1
+botMathis#9685 got: woolwoolwoolwool
+UserODIN07 got: graingrain
+UserODIN07 gave bank: graingrain and took ore
+UserODIN07 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: woolwoollumberlumber
+Guestsquirt#6225 got: graingrain
+UserODIN07 got: graingrain
+icon_helmetMyrna8511 gave bank: lumberlumberlumberwoolwool and took  brickgrain
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestsquirt#6225 rolled: dice_4 dice_3
+squirt#6225 discarding resource cards
+Guestsquirt#6225 discarded: woolgrainoreore
+Guestsquirt#6225 moved robber robber: prob_6 grain
+Guestsquirt#6225 stole card from: ODIN07
+Guestsquirt#6225 gave bank: graingrain and took  brick
+Guestsquirt#6225 built a road
+Guestsquirt#6225 used Knight card knight
+Guestsquirt#6225 moved robber robber: prob_6 brick
+Guestsquirt#6225 stole: wool from you
+botMathis#9685 rolled: dice_6 dice_5
+icon_helmetMyrna8511 got: ore
+UserODIN07 got: oreoreore
+botMathis#9685 wants to give: wool for:  brick
+botMathis#9685 traded: woolfor:  brick with: ODIN07
+botMathis#9685 built a road
+UserODIN07 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got:  brick brick brick
+botMathis#9685 got: graingrain
+UserODIN07 got:  brick brick
+UserODIN07 built a settlement: +1 VP
+UserODIN07 wants to give:  brick for: grain
+UserODIN07 wants to give: lumber brick for: grain
+Guestsquirt#6225 wants to give ODIN07 : wool for:  brick
+UserODIN07 traded: lumber brickfor: grain with: Mathis#9685
+UserODIN07 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: wool
+Guestsquirt#6225 got: woolwool
+botMathis#9685 got: lumber
+icon_helmetMyrna8511 wants to give:  brick for: grain
+icon_helmetMyrna8511 gave bank: woolwool and took lumber
+icon_helmetMyrna8511 built a road
+Guestsquirt#6225 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: woolwoollumberlumber
+Guestsquirt#6225 got: graingrain
+UserODIN07 got: graingrain
+Guestsquirt#6225 wants to give: grain for:  brick
+Guestsquirt#6225 traded: grainfor:  brick with: Myrna8511
+Guestsquirt#6225 built a settlement: +1 VP
+Guestsquirt#6225 wants to give: wool for: ore
+botMathis#9685 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreore
+Guestsquirt#6225 got: oreore
+botMathis#9685 got: lumberlumber
+UserODIN07 got: lumberlumber
+botMathis#9685 built a settlement: +1 VP
+botMathis#9685 gave bank: woolwool and took  brick
+botMathis#9685 built a road
+UserODIN07 rolled: dice_2 dice_6
+Guestsquirt#6225 got: oreore
+UserODIN07 gave bank: graingrain and took  brick
+UserODIN07 built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: woolwoollumberlumber
+Guestsquirt#6225 got: woolgraingrain
+UserODIN07 got: graingrain
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 wants to give: lumber for: grain
+UserODIN07 started an embargo against Myrna8511
+Guestsquirt#6225 wants to give Myrna8511 : grain for: lumber brick
+icon_helmetMyrna8511 gave bank: woolwool and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+icon_helmetMyrna8511 gave bank: woolwool and took  brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+Guestsquirt#6225 rolled: dice_6 dice_1
+squirt#6225 discarding resource cards
+Guestsquirt#6225 discarded: woolwoolwoolgrainore
+Guestsquirt#6225 moved robber robber: prob_9 lumber
+Guestsquirt#6225 stole: lumber from you
+Guestsquirt#6225 built a city: +1 VP
+botMathis#9685 rolled: dice_3 dice_5
+Guestsquirt#6225 got: oreore
+UserODIN07 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got:  brick brick brick
+botMathis#9685 got: graingrain
+UserODIN07 got:  brick brick
+UserODIN07 wants to give: grain for: wool
+UserODIN07 wants to give:  brickgrain for: wool
+UserODIN07 traded:  brickgrainfor: wool with: squirt#6225
+UserODIN07 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got:  brick brick brick
+botMathis#9685 got: woolwoolwoolwool
+UserODIN07 got: graingraingraingrain
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road has passed from: Mathis#9685 to: Myrna8511: +2 VPs
+trophy Myrna8511 won the game!

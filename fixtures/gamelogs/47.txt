@@ -1,0 +1,304 @@
+GuestYursa#2012 placed a settlement
+GuestYursa#2012 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+Guestdevice placed a settlement
+Guestdevice placed a road
+GuestElke#5784 placed a settlement
+GuestElke#5784 placed a road
+GuestElke#5784 placed a settlement
+GuestElke#5784 placed a road
+GuestElke#5784 received starting resources: orewoolwool
+Guestdevice placed a settlement
+Guestdevice placed a road
+Guestdevice received starting resources: woolorelumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: grainlumberbrick
+GuestYursa#2012 placed a settlement
+GuestYursa#2012 placed a road
+GuestYursa#2012 received starting resources: lumberlumber
+GuestYursa#2012 rolled: dice_2 dice_2
+GuestElke#5784 got: grainwool
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+Guestdevice got: grainlumber
+GuestYursa#2012 got: ore
+icon_helmetMyrna8511 built a road
+Guestdevice rolled: dice_1 dice_6
+Guestdevice moved robber robber: prob_5 grain
+Guestdevice stole: grain from you
+Guestdevice wants to give: grain for: brick
+Guestdevice wants to give: lumber for: brick
+Guestdevice bought development card
+GuestElke#5784 rolled: dice_6 dice_1
+GuestElke#5784 moved robber robber: prob_10 ore
+GuestElke#5784 stole card from: Yursa#2012
+GuestElke#5784 bought development card
+GuestYursa#2012 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: oregrain
+Guestdevice got: lumberore
+GuestYursa#2012 got: grain
+icon_helmetMyrna8511 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oregrain
+Guestdevice got: lumberore
+GuestYursa#2012 got: grain
+icon_helmetMyrna8511 wants to give: grain for: ore
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 wants to give: grain for: brick
+Guestdevice rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: grain
+GuestYursa#2012 got: lumber
+GuestElke#5784 got: grain
+Guestdevice wants to give: ore for: brick
+Guestdevice wants to give: lumberlumber for: brick
+Guestdevice wants to give: lumber for: wool
+Guestdevice traded: lumberfor: wool with: Elke#5784
+Guestdevice bought development card
+GuestElke#5784 rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: oregrain
+Guestdevice got: lumberore
+GuestYursa#2012 got: grain
+GuestElke#5784 bought development card
+GuestYursa#2012 rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: oregrain
+Guestdevice got: lumberore
+GuestYursa#2012 got: grain
+GuestYursa#2012 wants to give: graingraingrain for: brick
+GuestYursa#2012 wants to give: lumberlumber for: brick
+GuestYursa#2012 gave bank: graingraingraingrain and took brick
+GuestYursa#2012 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: lumber
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 built a city: +1 VP
+GuestYursa#2012 has disconnected. Bot will wait until next turn to give Yursa#2012 a chance to reconnect.
+botYursa#2012 has left the game, giving them 2 minutes to reconnect.
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took brick
+icon_helmetMyrna8511 built a road
+Guestdevice rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreoregrain
+Guestdevice got: lumberore
+botYursa#2012 got: grain
+Guestdevice gave bank: lumberlumberlumberlumber and took brick
+Guestdevice gave bank: oreoreoreore and took grain
+Guestdevice built a road
+Guestdevice built a settlement: +1 VP
+GuestElke#5784 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: graingrain
+Guestdevice got: grainlumber
+GuestElke#5784 used Knight card knight
+GuestElke#5784 moved robber robber: prob_5 grain
+GuestElke#5784 stole: ore from you
+botYursa#2012 rolled: dice_5 dice_6
+icon_helmetMyrna8511 got: brick
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: lumber
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+icon_helmetMyrna8511 wants to give: grainore for: wool
+icon_helmetMyrna8511 traded: grainorefor: wool with: Elke#5784
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestdevice rolled: dice_5 dice_6
+icon_helmetMyrna8511 got: brick
+Guestdevice used Knight card knight
+Guestdevice moved robber robber: prob_8 lumber
+Guestdevice stole: grain from you
+Guestdevice built a road
+GuestElke#5784 rolled: dice_3 dice_5
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+GuestElke#5784 bought development card
+botYursa#2012 rolled: dice_4 dice_4
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+icon_helmetMyrna8511 rolled: dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber: prob_8 wool
+icon_helmetYou stole: brick from: device
+icon_helmetMyrna8511 wants to give: brick for: lumber
+icon_helmetMyrna8511 traded: brickfor: lumber with: Yursa#2012
+icon_helmetMyrna8511 built a road
+Guestdevice rolled: dice_1 dice_3
+GuestElke#5784 got: grainwool
+Guestdevice used Knight card knight
+Guestdevice moved robber robber: prob_5 grain
+Guestdevice stole card from: Yursa#2012
+Guestdevice wants to give: brick for: wool
+Guestdevice wants to give: brick for: woolwool
+Guestdevice traded: brickfor: wool with: Elke#5784
+Guestdevice wants to give: woolwoolwoolwool for: lumber
+Guestdevice gave bank: woolwoolwool and took lumber
+Guestdevice built a road
+GuestElke#5784 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: graingrain
+botYursa#2012 got: lumber
+GuestElke#5784 got: grain
+GuestElke#5784 built a road
+GuestElke#5784 bought development card
+botYursa#2012 rolled: dice_1 dice_6
+botYursa#2012 moved robber robber: prob_6 grain
+botYursa#2012 stole: grain from you
+icon_helmetMyrna8511 rolled: dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber: prob_8 wool
+icon_helmetYou stole: wool from: Elke#5784
+icon_helmetMyrna8511 bought development card
+Guestdevice rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: graingrain
+botYursa#2012 got: lumber
+GuestElke#5784 got: grain
+Guestdevice wants to give: grain for: ore
+GuestElke#5784 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberoreoregrain
+Guestdevice got: lumberlumberore
+botYursa#2012 got: grain
+GuestElke#5784 used Knight card knight
+GuestElke#5784 moved robber robber: prob_5 grain
+GuestElke#5784 stole: grain from you
+botYursa#2012 rolled: dice_6 dice_6
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickore
+icon_helmetMyrna8511 wants to give: lumber for: ore
+icon_helmetMyrna8511 traded: lumberfor: ore with: Elke#5784
+icon_helmetMyrna8511 built a city: +1 VP
+Guestdevice rolled: dice_1 dice_2
+botYursa#2012 got: lumber
+Guestdevice bought development card
+GuestElke#5784 rolled: dice_2 dice_1
+botYursa#2012 got: lumber
+GuestElke#5784 wants to give: grain for: wool
+GuestElke#5784 wants to give: graingrain for: wool
+botYursa#2012 rolled: dice_4 dice_3
+Yursa#2012 discarding resource cards
+botBot is selecting cards to discard for Yursa#2012
+botYursa#2012 discarded: grainlumberlumberlumber
+botYursa#2012 moved robber robber: prob_6 grain
+botYursa#2012 stole card from: Elke#5784
+icon_helmetMyrna8511 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: lumberlumber
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+Guestdevice rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: lumberlumber
+Guestdevice got: woolbrick
+GuestElke#5784 got: wool
+Guestdevice built a settlement: +1 VP
+GuestElke#5784 rolled: dice_6 dice_1
+GuestElke#5784 moved robber robber: prob_5 grain
+GuestElke#5784 stole: lumber from you
+GuestElke#5784 built a settlement: +1 VP
+botYursa#2012 rolled: dice_5 dice_6
+icon_helmetMyrna8511 got: brickbrick
+icon_helmetMyrna8511 rolled: dice_3 dice_6
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickore
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumberlumber for: grain
+icon_helmetMyrna8511 wants to give: lumberlumber for: wool
+icon_helmetMyrna8511 wants to give: brick for: wool
+icon_helmetMyrna8511 wants to give: brick for: grain
+Guestdevice rolled: dice_1 dice_2
+botYursa#2012 got: lumber
+GuestElke#5784 rolled: dice_4 dice_5
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickore
+GuestElke#5784 wants to give: brick for: ore
+GuestElke#5784 wants to give: wool for: ore
+GuestElke#5784 wants to give: brickwool for: ore
+GuestElke#5784 bought development card
+botYursa#2012 rolled: dice_6 dice_3
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickore
+botYursa#2012 gave bank: lumberlumberlumberlumber and took brick
+botYursa#2012 built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberoreore
+Guestdevice got: lumberlumberore
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 traded: orefor: wool with: device
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumberore for: grain
+icon_helmetMyrna8511 traded: lumberorefor: grain with: Yursa#2012
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestdevice rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: grain
+GuestElke#5784 got: grainwoolwool
+GuestElke#5784 rolled: dice_5 dice_4
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickore
+GuestElke#5784 built a city: +1 VP
+GuestElke#5784 used Road Building card road building
+GuestElke#5784 placed a road
+GuestElke#5784 placed a road
+GuestElke#5784 wants to give: wool for: lumber
+GuestElke#5784 traded: woolfor: lumber with: Yursa#2012
+GuestElke#5784 built a road
+GuestElke#5784 received longest road: +2 VPs
+botYursa#2012 rolled: dice_4 dice_3
+botYursa#2012 moved robber robber: prob_6 grain
+botYursa#2012 stole card from: Elke#5784
+botYursa#2012 built a settlement: +1 VP
+botYursa#2012 gave bank: lumberlumber and took brick
+botYursa#2012 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: graingrainore
+Guestdevice got: grainlumber
+botYursa#2012 got: ore
+GuestElke#5784 got: lumber
+icon_helmetMyrna8511 gave bank: graingrain and took brick
+icon_helmetMyrna8511 built a road
+Guestdevice rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+Guestdevice got: woolbrick
+GuestElke#5784 got: woolwool
+Guestdevice wants to give: lumber for: brick
+Guestdevice traded: lumberfor: brick with: Elke#5784
+Guestdevice gave bank: lumberlumberlumberbrickbrickbrick and took grainore
+Guestdevice built a city: +1 VP
+GuestElke#5784 rolled: dice_5 dice_4
+botYursa#2012 got: lumber
+GuestElke#5784 got: brickoreore
+GuestElke#5784 built a road
+GuestElke#5784 wants to give: woolwool for: grain
+GuestElke#5784 wants to give: ore for: grain
+GuestElke#5784 gave bank: oreore and took grain
+GuestElke#5784 built a settlement: +1 VP
+botYursa#2012 rolled: dice_2 dice_5
+botYursa#2012 moved robber robber: prob_8 wool
+botYursa#2012 stole card from: Elke#5784
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: lumberoreoregraingrain
+Guestdevice got: lumberlumberoreore
+botYursa#2012 got: grain
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 wants to give: oreore for: brickbrick
+icon_helmetMyrna8511 wants to give: oreore for: brickgrain
+icon_helmetMyrna8511 wants to give: oreoreore for: brickgrain
+icon_helmetMyrna8511 gave bank: graingrain and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give: ore for: grain
+Guestdevice rolled: dice_1 dice_6
+Guestdevice moved robber robber: prob_4 wool
+Guestdevice stole card from: Elke#5784
+GuestElke#5784 rolled: dice_1 dice_1
+GuestElke#5784 got: ore
+botYursa#2012 rolled: dice_6 dice_5
+icon_helmetMyrna8511 got: brickbrick
+icon_helmetMyrna8511 rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: lumberlumber
+Guestdevice got: woolwoolbrick
+GuestElke#5784 got: woolwool
+icon_helmetMyrna8511 wants to give: lumberlumber for: grain
+icon_helmetMyrna8511 traded: lumberlumberfor: grain with: Yursa#2012
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road has passed from: Elke#5784 to: Myrna8511: +2 VPs
+icon_helmetMyrna8511 built a city: +1 VP
+trophy Myrna8511 won the gameank: woolwool and took grain

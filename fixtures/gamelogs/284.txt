@@ -1,0 +1,89 @@
+Ran placed a settlement
+Ran placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Blen placed a settlement
+Blen placed a road
+Hope placed a settlement
+Hope placed a road
+Hope placed a settlement
+Hope received starting resources ore brick brick 
+Hope placed a road
+Blen placed a settlement
+Blen received starting resources wool wool wool 
+Blen placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources lumber wool 
+Myrna8511 placed a road
+Ran placed a settlement
+Ran received starting resources grain grain 
+Ran placed a road
+Ran rolled dice_3 dice_5
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Myrna8511 rolled dice_2 dice_5
+Myrna8511 moved Robber robber to  prob_6 wool tile
+You stole grain  from Ran
+Blen rolled dice_3 dice_2
+Hope got brick lumber 
+Ran got lumber 
+Hope rolled dice_6 dice_6
+Hope built a road
+Ran rolled dice_6 dice_2
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Myrna8511 rolled dice_5 dice_3
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Myrna8511 gave bank wool wool wool  and took ore 
+Myrna8511 bought development card
+Blen rolled dice_4 dice_4
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Hope rolled dice_2 dice_2
+Blen got brick 
+Hope got brick 
+Ran got grain 
+Hope gave bank wool wool wool wool  and took lumber 
+Ran rolled dice_4 dice_1
+Hope got brick lumber 
+Ran got lumber 
+Ran gave bank grain grain grain grain  and took brick 
+Ran built a road
+Myrna8511 rolled dice_2 dice_6
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Myrna8511 gave bank grain grain grain  and took ore 
+Myrna8511 bought development card
+Blen rolled dice_4 dice_2
+ prob_6 wool tile is blocked by the Robber. No resources produced
+Blen got lumber 
+Blen built a road
+Hope rolled dice_1 dice_1
+Hope gave bank brick brick brick brick  and took grain 
+Ran rolled dice_2 dice_2
+Blen got brick 
+Hope got brick 
+Ran got grain 
+Myrna8511 rolled dice_2 dice_6
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Myrna8511 wants to give lumber wool wool grain grain  for card 
+Myrna8511 wants to give lumber wool wool grain grain  for brick 
+Myrna8511 gave lumber wool wool grain grain  and got brick  from Blen
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_9 grain tile
+You stole grain  from Ran
+Blen rolled dice_2 dice_6
+Myrna8511 got wool grain 
+Hope got wool 
+Ran got grain 
+Blen gave bank wool wool wool wool  and took brick 
+Blen built a settlement (+1 VP)
+trophy Blen won the game! trophy

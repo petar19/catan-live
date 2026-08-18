@@ -1,0 +1,469 @@
+Gueststrautins placed a settlement
+Gueststrautins placed a road
+botSpring#4635 has left the game, giving them 2 minutes to reconnect.
+botSpring#4635 has disconnected. Bot will wait until next turn to give Spring#4635 a chance to reconnect.
+GuestSpring#4635 has reconnected!
+BurningFlesh has started spectating!
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestSpring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources: wool brick
+GuestSpring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestSpring#4635 received starting resources: lumberore
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: woolgrain
+Gueststrautins placed a settlement
+Gueststrautins placed a road
+Gueststrautins received starting resources: wooloregrain
+Gueststrautins rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: ore
+GuestSpring#4635 got: ore
+Gueststrautins bought development card
+icon_helmetMyrna8511 rolled: dice_1 dice_2
+Gueststrautins got: ore
+icon_helmetMyrna8511 bought development card
+GuestSpring#4635 rolled: dice_6 dice_6
+GuestSeale5074 rolled: dice_2 dice_6
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick
+GuestSeale5074 wants to give:  brick for: lumber
+BurningFlesh stopped spectating
+GuestSpring#4635 wants to give Seale5074 : lumber for:  brickgrain
+Gueststrautins rolled: dice_3 dice_4
+Gueststrautins moved robber robber: prob_6 grain
+Gueststrautins stole card from: Seale5074
+icon_helmetMyrna8511 rolled: dice_6 dice_6
+GuestSpring#4635 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: grain
+GuestSpring#4635 got: lumber
+Gueststrautins got: lumber
+GuestSpring#4635 wants to give: lumber for:  brick
+GuestSeale5074 wants to give Spring#4635 : wool for: lumber
+GuestSpring#4635 wants to give: ore for:  brick
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 wants to give: ore for: wool
+GuestSpring#4635 traded: orefor:  brick with: strautins
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: ore
+GuestSpring#4635 got: ore
+GuestSeale5074 wants to give: wool for: lumber
+Gueststrautins rolled: dice_5 dice_2
+Gueststrautins moved robber robber: prob_6 lumber
+Gueststrautins stole: ore from you
+Gueststrautins built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+GuestSpring#4635 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+GuestSeale5074 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: grain
+GuestSpring#4635 got: lumber
+Gueststrautins got: lumber
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 traded: grainfor: lumber with: Spring#4635
+GuestSeale5074 built a road
+Gueststrautins rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: ore
+GuestSpring#4635 got: ore
+icon_helmetMyrna8511 rolled: dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber: prob_5 grain
+icon_helmetYou stole: ore from: strautins
+icon_helmetMyrna8511 wants to give: wool for: ore
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 traded: woolfor: ore with: Spring#4635
+icon_helmetMyrna8511 built a city: +1 VP
+GuestSpring#4635 rolled: dice_2 dice_3
+GuestSpring#4635 got:  brick
+GuestSpring#4635 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: oreore
+GuestSpring#4635 got: ore
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: grain for:  brick
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 traded: grainfor: lumber with: strautins
+Gueststrautins rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: grain
+GuestSpring#4635 got: lumber
+Gueststrautins got: lumber
+Gueststrautins used Knight card knight
+Gueststrautins moved robber robber: prob_6 lumber
+Gueststrautins stole: ore from you
+Gueststrautins wants to give: lumber for: grain
+Gueststrautins wants to give: lumberwool for: grain
+icon_helmetMyrna8511 rolled: dice_1 dice_2
+Gueststrautins got: ore
+icon_helmetMyrna8511 wants to give: wool for: grain
+GuestSpring#4635 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+GuestSpring#4635 wants to give: lumber for: graingrain
+GuestSeale5074 rolled: dice_5 dice_2
+strautins discarding resource cards
+Gueststrautins discarded: woolwoolwoolore
+GuestSeale5074 moved robber robber: prob_9 lumber
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give: ore for:  brick
+Gueststrautins rolled: dice_6 dice_1
+Gueststrautins moved robber robber: prob_6 lumber
+Gueststrautins stole: grain from you
+Gueststrautins built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+Gueststrautins got: ore
+GuestSpring#4635 rolled: dice_3 dice_4
+GuestSpring#4635 moved robber robber: prob_8 brick
+GuestSpring#4635 stole card from: strautins
+GuestSpring#4635 wants to give: lumber for: grain
+GuestSeale5074 wants to give Spring#4635 : ore for:  brick
+GuestSeale5074 rolled: dice_5 dice_3
+GuestSpring#4635 got: wool
+GuestSeale5074 wants to give: ore for:  brick
+Gueststrautins rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: woollumberlumber
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+GuestSpring#4635 got: wool
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+GuestSeale5074 wants to give Myrna8511 : grain for:  brick
+icon_helmetMyrna8511 wants to give: lumberlumber for: grain
+icon_helmetMyrna8511 traded: lumberlumberfor: grain with: Seale5074
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give: woolwool for: grain
+icon_helmetMyrna8511 gave bank: woolwoolwool and took grain
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank: ore ore
+icon_helmetMyrna8511 built a city: +1 VP
+GuestSpring#4635 rolled: dice_3 dice_4
+GuestSpring#4635 moved robber robber: prob_6 wool
+GuestSpring#4635 stole card from: strautins
+GuestSpring#4635 wants to give: lumber for: grain
+GuestSpring#4635 wants to give: lumber for:  brick
+GuestSpring#4635 wants to give: woolwool for: grain
+GuestSpring#4635 wants to give: woolwool for:  brick
+GuestSpring#4635 wants to give: woolwool for:  brick
+GuestSeale5074 rolled: dice_6 dice_5
+GuestSpring#4635 got: woolwool
+Gueststrautins got: grain
+GuestSeale5074 wants to give: ore for:  brick
+GuestSeale5074 wants to give: lumber for:  brick
+GuestSeale5074 wants to give: ore for: graingrain
+GuestSeale5074 wants to give: lumber for: graingrain
+GuestSeale5074 wants to give: lumberore for: graingrain
+Gueststrautins rolled: dice_2 dice_6
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+GuestSpring#4635 rolled: dice_6 dice_1
+Spring#4635 and Seale5074 discarding resource cards
+GuestSpring#4635 discarded: woolwoolwoolwoolwool
+GuestSeale5074 discarded: lumberlumber brickore
+GuestSpring#4635 moved robber robber: prob_8 brick
+GuestSpring#4635 stole card from: strautins
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_3 dice_5
+GuestSpring#4635 got: wool
+GuestSeale5074 built a settlement: +1 VP
+Gueststrautins rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: woolwoollumberlumber
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+Gueststrautins bought development card
+icon_helmetMyrna8511 rolled: dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber: prob_9 lumber
+icon_helmetYou stole:  brick from: strautins
+icon_helmetMyrna8511 built a road
+GuestSpring#4635 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: oreore
+GuestSpring#4635 got: ore
+GuestSpring#4635 wants to give: ore for:  brick
+GuestSpring#4635 wants to give: woolwoolwool for: graingrain
+GuestSpring#4635 wants to give: lumberwoolwoolwool for: graingrain
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 wants to give: ore for:  brick
+GuestSeale5074 rolled: dice_4 dice_4
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+GuestSeale5074 wants to give: grain for: lumberlumber
+GuestSeale5074 wants to give: grain for: lumberwool
+GuestSpring#4635 wants to give Seale5074 : woolwool for: grain
+GuestSpring#4635 traded: woolwoolfor: grain with: Seale5074
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: grain
+Gueststrautins rolled: dice_6 dice_1
+Gueststrautins moved robber robber: prob_6 lumber
+Gueststrautins stole: wool from you
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+GuestSeale5074 wants to give Myrna8511 :  brick for: oreore
+GuestSeale5074 wants to give Myrna8511 :  brick for: grainore
+GuestSeale5074 wants to give Myrna8511 :  brick for: lumberore
+icon_helmetMyrna8511 wants to give: woolore for:  brick
+GuestSpring#4635 rolled: dice_3 dice_2
+GuestSpring#4635 got:  brick
+GuestSeale5074 got: grain
+Gueststrautins got: graingrain
+GuestSpring#4635 built a settlement: +1 VP
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSeale5074 rolled: dice_5 dice_2
+strautins discarding resource cards
+Gueststrautins discarded:  brick brick brickgrain
+GuestSeale5074 moved robber robber: prob_9 lumber
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: oreore
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 bought development card
+Gueststrautins rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: oreore
+GuestSpring#4635 got: ore
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: oreore
+GuestSpring#4635 got: ore
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: oreore for:  brickgrain
+icon_helmetMyrna8511 traded: oreorefor:  brickgrain with: strautins
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 bought development card
+GuestSpring#4635 rolled: dice_5 dice_6
+GuestSpring#4635 got: woolwool
+Gueststrautins got: grain
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_2 dice_5
+GuestSeale5074 moved robber robber: prob_8 wool
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give:  brick for: lumber
+GuestSeale5074 wants to give:  brick for: grain
+Gueststrautins rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: woolwoollumberlumber
+GuestSeale5074 got: grain
+Gueststrautins got: wool
+Gueststrautins wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give strautins : lumber for:  brick
+GuestMyrna8511 traded: lumberfor:  brick with: strautins
+Gueststrautins used Road Building card road buildling
+Gueststrautins placed a road
+Gueststrautins placed a road
+Gueststrautins built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_1 dice_2
+Gueststrautins got: ore
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give: oreore for: grain
+GuestSeale5074 wants to give Myrna8511 :  brick for: oreore
+icon_helmetMyrna8511 wants to give: woolore for: grain
+icon_helmetMyrna8511 traded: oreorefor: grain with: Seale5074
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestSpring#4635 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: graingrain
+GuestSpring#4635 got: lumberlumber
+GuestSeale5074 got: lumber
+Gueststrautins got: lumberlumberlumber
+GuestSeale5074 rolled: dice_5 dice_6
+GuestSpring#4635 got: woolwoolwool
+Gueststrautins got: grain
+GuestSeale5074 built a road
+GuestSeale5074 used Knight card knight
+GuestSeale5074 moved robber robber: prob_9 lumber
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give: wool for: grain
+GuestSeale5074 wants to give: wool for: lumber
+Gueststrautins rolled: dice_6 dice_1
+strautins discarding resource cards
+Gueststrautins discarded: lumberlumberlumberore
+Gueststrautins moved robber robber: prob_10 lumber
+Gueststrautins stole card from: Spring#4635
+Gueststrautins bought development card
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: oreore
+GuestSpring#4635 got: ore
+icon_helmetMyrna8511 built a city: +1 VP
+GuestSpring#4635 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: lumberlumber
+GuestSpring#4635 got:  brick brick
+GuestSeale5074 got: grain
+Gueststrautins got: graingrain
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 wants to give: ore for: woolwool
+GuestSpring#4635 wants to give: ore for: lumberlumber
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+GuestSpring#4635 got:  brick brick
+GuestSeale5074 got: grain
+Gueststrautins got: graingrain
+GuestSeale5074 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give Seale5074 : lumber for:  brick
+icon_helmetMyrna8511 wants to give Seale5074 : lumber for: grain
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: grain
+GuestSeale5074 wants to give: wool for: ore
+Gueststrautins rolled: dice_3 dice_4
+Gueststrautins moved robber robber: prob_10 brick
+Gueststrautins stole: wool from you
+Gueststrautins wants to give: woolwool for: ore
+Gueststrautins traded: woolwoolfor: ore with: Spring#4635
+Gueststrautins gave bank: graingrain and took ore
+Gueststrautins built a city: +1 VP
+Gueststrautins used Road Building card road buildling
+Gueststrautins placed a road
+Gueststrautins placed a road
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: lumberlumber
+GuestSpring#4635 got:  brick brick
+GuestSeale5074 got: graingrain
+Gueststrautins got: graingrain
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 traded: lumberfor:  brick with: Spring#4635
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 traded: lumberfor:  brick with: Spring#4635
+icon_helmetMyrna8511 wants to give: lumberlumber for: woolgrain
+icon_helmetMyrna8511 built a road
+GuestSpring#4635 rolled: dice_2 dice_6
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSpring#4635 wants to give: wool for: grain
+GuestSpring#4635 traded: woolfor: grain with: strautins
+GuestSpring#4635 built a road
+GuestSpring#4635 built a road
+GuestSpring#4635 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_5 dice_6
+GuestSpring#4635 got: woolwoolwool
+Gueststrautins got: graingrain
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 traded: woolfor: lumber with: Myrna8511
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give: grain for: lumberlumber brick
+Gueststrautins rolled: dice_4 dice_4
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+Gueststrautins gave bank: graingrain and took lumber
+Gueststrautins built a road
+Gueststrautins received longest road: +2 VPs
+Gueststrautins wants to give:  brick for: lumber
+Gueststrautins wants to give:  brick brick for: lumber
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+GuestSpring#4635 got:  brick brick
+GuestSeale5074 got: graingrain
+Gueststrautins got: graingrain
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 traded: lumberfor:  brick with: Seale5074
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestSpring#4635 rolled: dice_6 dice_2
+GuestSpring#4635 got: wool
+GuestSeale5074 got:  brick
+Gueststrautins got:  brick brick
+GuestSpring#4635 gave bank: woolwool and took lumber
+GuestSpring#4635 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_5 dice_2
+strautins discarding resource cards
+Gueststrautins discarded:  brick brick brick brick
+GuestSeale5074 moved robber robber: prob_6 wool
+GuestSeale5074 stole card from: strautins
+GuestSeale5074 wants to give:  brick for: lumber
+GuestSeale5074 wants to give:  brick for: wool
+icon_helmetMyrna8511 wants to give Seale5074 : lumber for:  brickgrain
+GuestSeale5074 wants to give:  brickgrain for: woolwool
+GuestSeale5074 wants to give:  brick for: wool
+GuestSeale5074 gave bank: graingrain and took lumber
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+Gueststrautins rolled: dice_5 dice_6
+GuestSpring#4635 got: woolwoolwool
+Gueststrautins got: graingrain
+Gueststrautins gave bank: graingraingraingrain and took lumber brick
+Gueststrautins built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: graingrain
+GuestSpring#4635 got: lumberlumber
+GuestSeale5074 got: lumber
+Gueststrautins got: lumberlumberlumber
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grainfor: wool with: Spring#4635
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_5 brick
+icon_helmetYou stole: grain from: Spring#4635
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 wants to give: woolgrain for:  brick
+icon_helmetMyrna8511 traded: woolgrainfor:  brick with: Seale5074
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestSpring#4635 rolled: dice_2 dice_5
+GuestSpring#4635 moved robber robber: prob_6 wool
+GuestSpring#4635 stole card from: strautins
+GuestSpring#4635 wants to give: lumber for:  brick
+GuestSpring#4635 wants to give: lumber for: grain
+GuestSpring#4635 built a road
+GuestSpring#4635 wants to give: wool for: grain
+GuestSpring#4635 wants to give: wool for:  brick
+GuestSpring#4635 wants to give: lumberwool for:  brickgrain
+GuestSpring#4635 wants to give: lumber for: wool
+GuestSpring#4635 gave bank: woolwool and took  brick
+GuestSpring#4635 wants to give: lumberwool for: grain
+GuestSpring#4635 wants to give: wool for: lumber
+GuestSeale5074 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberlumber
+GuestSpring#4635 got:  brick brick brick
+GuestSeale5074 got: graingrain
+Gueststrautins got: graingrain
+GuestSeale5074 wants to give: lumber for: oreore
+GuestSeale5074 wants to give: lumber for: ore
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 gave bank: graingrain and took ore
+GuestSeale5074 bought development card
+Gueststrautins rolled: dice_6 dice_5
+GuestSpring#4635 got: woolwoolwool
+Gueststrautins got: graingraingrain
+Gueststrautins gave bank: graingraingraingrain and took woolore
+Gueststrautins bought development card
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: graingrain
+GuestSpring#4635 got: lumberlumber
+GuestSeale5074 got: lumber
+Gueststrautins got: lumberlumberlumber
+GuestSpring#4635 rolled: dice_5 dice_6
+GuestSpring#4635 got: woolwoolwool
+Gueststrautins got: graingraingrain
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSpring#4635 gave bank: woolwoolwoolwoolwoolwool and took oreoreore
+GuestSpring#4635 gave bank: lumberlumber and took grain
+GuestSpring#4635 built a city: +1 VP
+GuestSpring#4635 built a road
+GuestSpring#4635 built a road
+Guestlongest road has passed from: strautins to: Spring#4635: +2 VPs
+trophy Spring#4635 won the game

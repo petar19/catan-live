@@ -1,0 +1,483 @@
+GuestKent#3816 placed a settlement
+GuestKent#3816 placed a road
+botmatipienia placed a settlement
+botmatipienia placed a road
+UserYolonc placed a settlement
+UserYolonc placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 received starting resources lumber wool ore 
+icon_helmetMyrna8511 placed a road
+UserYolonc placed a settlement
+UserYolonc received starting resources ore brick grain 
+UserYolonc placed a road
+botmatipienia placed a settlement
+botmatipienia received starting resources brick wool 
+botmatipienia placed a road
+GuestKent#3816 placed a settlement
+GuestKent#3816 received starting resources lumber wool 
+GuestKent#3816 placed a road
+GuestKent#3816 rolled dice_6 dice_6
+botmatipienia rolled dice_5 dice_1
+GuestKent#3816 got wool lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+botmatipienia built a road
+UserYolonc rolled dice_5 dice_3
+icon_helmetMyrna8511 got grain lumber 
+botmatipienia got brick 
+UserYolonc built a road
+icon_helmetMyrna8511 rolled dice_5 dice_5
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool 
+UserYolonc got grain 
+GuestKent#3816 rolled dice_3 dice_6
+GuestKent#3816 got ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+GuestKent#3816 wants to give wool wool  for brick 
+GuestKent#3816 gave bank wool wool wool  and took brick 
+GuestKent#3816 built a road
+botmatipienia rolled dice_6 dice_3
+GuestKent#3816 got ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+UserYolonc rolled dice_5 dice_2
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc wants to give wool  for brick 
+UserYolonc wants to give wool  for lumber 
+matipienia started a vote to disable karma
+botmatipienia has disconnected. A bot will take over next turn unless matipienia reconnects.
+botmatipienia has left the game
+UserYolonc bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got grain lumber 
+botmatipienia got brick 
+icon_helmetMyrna8511 wants to give lumber  for brick 
+icon_helmetMyrna8511 wants to give lumber  for ore 
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_6 dice_1
+GuestKent#3816 moved Robber robber to  prob_9 wool tile
+GuestKent#3816 stole card  from matipienia
+GuestKent#3816 wants to give ore  for brick 
+GuestKent#3816 gave ore  and got brick  from matipienia
+botmatipienia rolled dice_2 dice_6
+icon_helmetMyrna8511 got grain lumber 
+botmatipienia got brick 
+botmatipienia wants to give wool  for lumber 
+icon_helmetMyrna8511 proposed counter offer to matipienia, offering lumber  for ore 
+GuestKent#3816 proposed counter offer to matipienia, offering ore  for wool card 
+icon_helmetMyrna8511 proposed counter offer to matipienia, offering lumber lumber  for wool ore 
+UserYolonc rolled dice_1 dice_6
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc wants to give wool  for lumber 
+UserYolonc wants to give wool  for brick 
+UserYolonc wants to give wool  for ore 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering lumber lumber  for wool card 
+UserYolonc gave wool  and got brick  from matipienia
+UserYolonc wants to give wool  for lumber 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering lumber lumber  for wool card 
+GuestKent#3816 proposed counter offer to Yolonc, offering ore  for wool card 
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool 
+UserYolonc got grain 
+icon_helmetMyrna8511 gave bank grain grain grain grain  and took brick 
+icon_helmetMyrna8511 built a road
+GuestKent#3816 rolled dice_1 dice_1
+UserYolonc got brick 
+GuestKent#3816 built a settlement (+1 VP)
+botmatipienia rolled dice_1 dice_1
+UserYolonc got brick 
+botmatipienia wants to give wool  for lumber 
+icon_helmetMyrna8511 proposed counter offer to matipienia, offering lumber  for wool card 
+botmatipienia gave wool  and got lumber  from Myrna8511
+botmatipienia built a settlement (+1 VP)
+UserYolonc rolled dice_2 dice_4
+ prob_6 lumber tile is blocked by the Robber. No resources produced
+GuestKent#3816 got wool wool 
+UserYolonc got lumber 
+UserYolonc built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got grain lumber 
+botmatipienia got brick brick 
+icon_helmetMyrna8511 wants to give lumber  for brick 
+icon_helmetMyrna8511 gave lumber  and got brick  from matipienia
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestKent#3816 rolled dice_6 dice_6
+icon_helmetMyrna8511 got wool 
+botmatipienia got wool 
+GuestKent#3816 wants to give wool  for grain 
+botmatipienia rolled dice_2 dice_5
+botmatipienia moved Robber robber to  prob_10 grain tile
+botmatipienia stole card  from Yolonc
+botmatipienia built a road
+UserYolonc rolled dice_4 dice_3
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc wants to give ore  for lumber 
+UserYolonc wants to give wool  for lumber 
+icon_helmetMyrna8511 rolled dice_1 dice_1
+UserYolonc got brick brick 
+GuestKent#3816 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+GuestKent#3816 wants to give wool  for grain 
+icon_helmetMyrna8511 proposed counter offer to Kent#3816, offering grain  for wool ore 
+GuestKent#3816 wants to give wool wool  for grain 
+GuestKent#3816 gave bank wool wool wool  and took grain 
+GuestKent#3816 bought development card
+botmatipienia rolled dice_3 dice_1
+icon_helmetMyrna8511 got brick ore 
+UserYolonc got ore 
+UserYolonc rolled dice_2 dice_5
+UserYolonc discarded brick wool grain ore 
+UserYolonc moved Robber robber to  prob_8 lumber tile
+UserYolonc stole wool  from you
+UserYolonc wants to give ore  for lumber 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering lumber  for ore card 
+UserYolonc wants to give wool ore  for lumber lumber 
+UserYolonc wants to give brick wool ore  for lumber lumber 
+UserYolonc wants to give brick  for lumber 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering lumber  for brick card 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering lumber  for brick ore 
+UserYolonc wants to give wool ore  for lumber 
+UserYolonc gave wool ore  and got lumber  from Myrna8511
+UserYolonc built a road
+icon_helmetMyrna8511 rolled dice_5 dice_3
+ prob_8 lumber tile is blocked by the Robber. No resources produced
+icon_helmetMyrna8511 got grain grain 
+botmatipienia got brick brick 
+icon_helmetMyrna8511 wants to give brick  for ore 
+icon_helmetMyrna8511 wants to give grain  for ore 
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_2 dice_5
+GuestBot is selecting where to place robber for Kent#3816
+GuestKent#3816 moved Robber robber to  prob_10 grain tile
+GuestKent#3816 stole card  from Yolonc
+botmatipienia rolled dice_5 dice_4
+GuestKent#3816 got ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+botmatipienia wants to give wool  for ore 
+UserYolonc rolled dice_5 dice_6
+UserYolonc got grain 
+UserYolonc used  Knight card knight 
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc wants to give grain  for lumber 
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+icon_helmetMyrna8511 wants to give grain  for wool 
+GuestKent#3816 proposed counter offer to Myrna8511, offering wool  for grain card 
+icon_helmetMyrna8511 gave grain  and got wool  from matipienia
+icon_helmetMyrna8511 wants to give grain  for lumber 
+GuestKent#3816 proposed counter offer to Myrna8511, offering wool  for grain 
+GuestKent#3816 used  Knight card knight 
+GuestKent#3816 moved Robber robber to  prob_8 lumber tile
+GuestKent#3816 stole grain  from you
+GuestKent#3816 rolled dice_2 dice_3
+GuestKent#3816 got grain 
+UserYolonc got ore grain 
+botmatipienia got ore 
+GuestKent#3816 bought development card
+GuestKent#3816 wants to give wool  for lumber 
+botmatipienia rolled dice_2 dice_1
+icon_helmetMyrna8511 got wool 
+botmatipienia wants to give brick  for ore 
+UserYolonc rolled dice_6 dice_3
+GuestKent#3816 got ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+UserYolonc wants to give grain  for lumber 
+UserYolonc wants to give grain  for ore 
+UserYolonc wants to give wool  for ore 
+UserYolonc wants to give wool  for lumber 
+UserYolonc wants to give grain grain  for lumber 
+UserYolonc bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_3
+botBot is selecting cards to discard for matipienia
+botmatipienia discarded grain grain ore grain 
+icon_helmetMyrna8511 moved Robber robber to  prob_5 ore tile
+icon_helmetYou stole brick  from Yolonc
+icon_helmetMyrna8511 wants to give brick  for ore 
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_1 dice_4
+ prob_5 ore tile is blocked by the Robber. No resources produced
+GuestKent#3816 got grain 
+UserYolonc got grain 
+GuestKent#3816 used  Year of Plenty card year of plenty 
+GuestKent#3816 took from bank ore ore
+GuestKent#3816 built a city (+1 VP)
+GuestKent#3816 wants to give wool  for lumber 
+botmatipienia rolled dice_4 dice_3
+botmatipienia moved Robber robber to  prob_6 wool tile
+botmatipienia stole card  from Kent#3816
+UserYolonc rolled dice_3 dice_2
+GuestKent#3816 got grain grain 
+UserYolonc got ore grain 
+botmatipienia got ore 
+UserYolonc wants to give grain  for brick 
+UserYolonc wants to give grain  for lumber 
+icon_helmetMyrna8511 proposed counter offer to Yolonc, offering brick  for grain ore 
+UserYolonc gave grain  and got brick  from matipienia
+UserYolonc wants to give grain  for lumber 
+UserYolonc wants to give grain grain  for lumber 
+UserYolonc gave bank grain grain grain grain  and took lumber 
+UserYolonc built a road
+icon_helmetMyrna8511 rolled dice_3 dice_3
+ prob_6 wool tile is blocked by the Robber. No resources produced
+GuestKent#3816 got lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+GuestKent#3816 rolled dice_1 dice_1
+UserYolonc got brick brick 
+GuestKent#3816 wants to give grain  for brick 
+icon_helmetMyrna8511 proposed counter offer to Kent#3816, offering brick  for grain card 
+UserYolonc proposed counter offer to Kent#3816, offering brick  for grain card 
+GuestKent#3816 wants to give wool grain  for brick 
+GuestKent#3816 gave wool grain  and got brick  from Yolonc
+GuestKent#3816 built a road
+botmatipienia rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+botmatipienia built a settlement (+1 VP)
+botmatipienia wants to give wool  for lumber 
+UserYolonc rolled dice_2 dice_5
+UserBot is selecting where to place robber for Yolonc
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc built a settlement (+1 VP)
+UserYolonc bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_2
+ prob_6 lumber tile is blocked by the Robber. No resources produced
+GuestKent#3816 got wool wool wool 
+UserYolonc got lumber 
+icon_helmetMyrna8511 wants to give brick  for lumber 
+GuestKent#3816 rolled dice_5 dice_2
+GuestKent#3816 moved Robber robber to  prob_5 ore tile
+GuestKent#3816 stole card  from Yolonc
+GuestKent#3816 gave bank wool wool wool  and took ore 
+GuestKent#3816 bought development card
+botmatipienia rolled dice_2 dice_4
+GuestKent#3816 got wool wool wool lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+botmatipienia built a road
+UserYolonc used  Knight card knight 
+UserYolonc moved Robber robber to  prob_6 lumber tile
+UserYolonc stole card  from matipienia
+UserYolonc rolled dice_4 dice_5
+GuestKent#3816 got ore ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+icon_helmetMyrna8511 rolled dice_3 dice_3
+ prob_6 lumber tile is blocked by the Robber. No resources produced
+GuestKent#3816 got wool wool wool 
+UserYolonc got lumber 
+icon_helmetMyrna8511 wants to give brick  for lumber 
+icon_helmetMyrna8511 gave brick  and got lumber  from Yolonc
+icon_helmetMyrna8511 used  Road Building card road building 
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestKent#3816 rolled dice_1 dice_6
+GuestKent#3816 discarded wool wool wool wool wool 
+GuestKent#3816 moved Robber robber to  prob_5 ore tile
+GuestKent#3816 stole card  from Yolonc
+GuestKent#3816 wants to give ore  for grain 
+GuestKent#3816 wants to give ore  for brick 
+GuestKent#3816 gave bank wool wool wool  and took brick 
+botmatipienia rolled dice_6 dice_5
+UserYolonc got grain 
+UserYolonc rolled dice_4 dice_4
+icon_helmetMyrna8511 got grain grain lumber 
+botmatipienia got brick brick 
+UserYolonc built a road
+icon_helmetMyrna8511 rolled dice_5 dice_4
+icon_helmetMyrna8511 got ore 
+GuestKent#3816 got ore ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+icon_helmetMyrna8511 wants to give ore  for brick 
+icon_helmetMyrna8511 gave ore  and got brick  from matipienia
+icon_helmetMyrna8511 used  Monopoly card monopoly 
+icon_helmetMyrna8511 stole 6 ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 built a road
+GuestKent#3816 rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the Robber. No resources produced
+GuestKent#3816 got grain grain 
+UserYolonc got grain grain 
+GuestKent#3816 used  Road Building card road building 
+GuestKent#3816 placed a road
+GuestKent#3816 placed a road
+GuestKent#3816 built a settlement (+1 VP)
+botmatipienia rolled dice_2 dice_4
+GuestKent#3816 got wool wool wool lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+botmatipienia built a road
+botmatipienia wants to give wool  for ore 
+icon_helmetMyrna8511 proposed counter offer to matipienia, offering ore  for wool card 
+UserYolonc rolled dice_6 dice_2
+icon_helmetMyrna8511 got grain grain lumber lumber 
+botmatipienia got brick brick 
+UserYolonc wants to give grain  for brick 
+UserYolonc wants to give grain grain  for brick 
+UserYolonc gave grain grain  and got brick  from matipienia
+UserYolonc built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+icon_helmetMyrna8511 wants to give grain  for wool 
+icon_helmetMyrna8511 wants to give ore  for wool 
+icon_helmetMyrna8511 gave ore  and got wool  from matipienia
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank lumber lumber  and took wool 
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+GuestKent#3816 gave bank wool wool wool  and took brick 
+GuestKent#3816 built a settlement (+1 VP)
+botmatipienia rolled dice_1 dice_1
+UserYolonc got brick brick 
+botmatipienia gave bank grain grain grain  and took lumber 
+botmatipienia built a settlement (+1 VP)
+UserYolonc rolled dice_1 dice_4
+ prob_5 ore tile is blocked by the Robber. No resources produced
+GuestKent#3816 got grain grain 
+UserYolonc got grain grain 
+UserYolonc wants to give grain  for lumber 
+UserYolonc wants to give grain grain  for lumber 
+UserYolonc gave bank grain grain grain grain  and took lumber 
+UserYolonc built a road
+UserYolonc received longest road (+2 VPs)
+UserYolonc built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool 
+UserYolonc got grain 
+GuestKent#3816 rolled dice_6 dice_3
+icon_helmetMyrna8511 got ore 
+GuestKent#3816 got ore ore ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+GuestKent#3816 built a city (+1 VP)
+GuestKent#3816 wants to give wool  for lumber 
+GuestKent#3816 wants to give wool  for brick 
+GuestKent#3816 gave bank wool wool wool  and took brick 
+botmatipienia rolled dice_6 dice_6
+icon_helmetMyrna8511 got wool 
+botmatipienia got wool 
+UserYolonc rolled dice_3 dice_4
+UserYolonc moved Robber robber to  prob_9 ore tile
+UserYolonc stole card  from Kent#3816
+icon_helmetMyrna8511 used  Knight card knight 
+icon_helmetMyrna8511 moved Robber robber to  prob_6 wool tile
+icon_helmetYou stole brick  from Kent#3816
+icon_helmetMyrna8511 rolled dice_1 dice_5
+ prob_6 wool tile is blocked by the Robber. No resources produced
+GuestKent#3816 got lumber lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_5 dice_1
+ prob_6 wool tile is blocked by the Robber. No resources produced
+GuestKent#3816 got lumber lumber 
+UserYolonc got lumber 
+botmatipienia got lumber 
+GuestKent#3816 gave bank lumber lumber lumber  and took brick 
+GuestKent#3816 built a road
+botmatipienia rolled dice_1 dice_2
+icon_helmetMyrna8511 got wool wool 
+UserYolonc rolled dice_1 dice_3
+icon_helmetMyrna8511 got brick brick ore ore 
+GuestKent#3816 got brick 
+UserYolonc got ore ore 
+UserYolonc bought development card
+icon_helmetMyrna8511 used  Knight card knight 
+icon_helmetMyrna8511 moved Robber robber to  prob_6 lumber tile
+icon_helmetYou stole wool  from Yolonc
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_helmetMyrna8511 got ore 
+GuestKent#3816 got ore ore ore 
+UserYolonc got wool 
+botmatipienia got wool grain 
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestKent#3816 rolled dice_5 dice_6
+UserYolonc got grain grain 
+GuestKent#3816 gave bank ore ore  and took lumber 
+GuestKent#3816 built a road
+GuestKent#3816 wants to give wool  for brick ore 
+GuestKent#3816 gave wool  and got brick ore  from Myrna8511
+GuestKent#3816 gave bank ore ore  and took lumber 
+GuestKent#3816 built a road
+Guestlongest road passed from Yolonc to Kent#3816 (+2 VPs)
+botmatipienia rolled dice_5 dice_5
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool wool 
+UserYolonc got grain 
+botmatipienia bought development card
+UserYolonc rolled dice_2 dice_1
+icon_helmetMyrna8511 got wool wool 
+UserYolonc used  Knight card knight 
+UserYolonc received largest army (+2 VPs)
+UserYolonc moved Robber robber to  prob_9 ore tile
+UserYolonc stole card  from Kent#3816
+botmatipienia has reconnected
+UserYolonc bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_5
+icon_helmetMyrna8511 got grain 
+GuestKent#3816 got wool wool wool 
+UserYolonc got grain 
+icon_helmetMyrna8511 used  Monopoly card monopoly 
+icon_helmetMyrna8511 stole 8 wool
+icon_helmetMyrna8511 gave bank wool wool wool wool  and took lumber 
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank wool wool  and took ore 
+icon_helmetMyrna8511 bought development card
+botmatipienia has disconnected. A bot will take over next turn unless matipienia reconnects.
+botmatipienia has left the game
+icon_helmetMyrna8511 wants to give brick  for grain 
+icon_helmetMyrna8511 gave bank wool wool  and took ore 
+GuestKent#3816 rolled dice_4 dice_3
+GuestBot is selecting where to place robber for Kent#3816
+GuestKent#3816 moved Robber robber to  prob_9 wool tile
+GuestKent#3816 stole card  from Yolonc
+botmatipienia used  Knight card knight 
+botmatipienia moved Robber robber to  prob_9 ore tile
+botmatipienia stole card  from Kent#3816
+botmatipienia rolled dice_3 dice_1
+icon_helmetMyrna8511 got brick brick ore ore 
+GuestKent#3816 got brick 
+UserYolonc got ore ore 
+UserYolonc rolled dice_2 dice_6
+icon_helmetMyrna8511 got grain grain lumber lumber lumber 
+botmatipienia got brick brick brick 
+UserYolonc wants to give lumber  for ore 
+icon_helmetMyrna8511 started an embargo against Yolonc
+UserYolonc wants to give lumber lumber  for ore 
+GuestKent#3816 started an embargo against Yolonc
+UserYolonc wants to give lumber  for brick 
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got brick brick ore ore 
+GuestKent#3816 got brick 
+UserYolonc got ore ore 
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 used  Year of Plenty card year of plenty 
+icon_helmetMyrna8511 took from bank grain grain
+icon_helmetMyrna8511 bought development card
+trophyicon_helmetMyrna8511 won the game! trophy

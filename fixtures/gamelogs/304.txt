@@ -1,0 +1,462 @@
+Kent#3816 placed a settlement
+Kent#3816 placed a road
+Anastasiia placed a settlement
+Anastasiia placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Yolonc placed a settlement
+Yolonc placed a road
+Yolonc placed a settlement
+Yolonc received starting resources Ore Lumber Wool
+Yolonc placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources Grain Brick Ore
+Myrna8511 placed a road
+Anastasiia placed a settlement
+Anastasiia received starting resources Lumber Lumber Ore
+Anastasiia placed a road
+Kent#3816 placed a settlement
+Kent#3816 received starting resources Lumber Grain Ore
+Kent#3816 placed a road
+Kent#3816 rolled dice_2 dice_3
+Myrna8511 got Wool Ore
+Yolonc got Ore
+Anastasiia got Wool
+Anastasiia rolled dice_3 dice_2
+Myrna8511 got Wool Ore
+Yolonc got Ore
+Anastasiia got Wool
+Anastasiia wants to give Lumber for Grain
+Anastasiia wants to give Wool for Brick
+Myrna8511 proposed counter offer to Anastasiia, offering Brick for Lumber Wool
+Myrna8511 rolled dice_1 dice_5
+Yolonc got Wool
+Anastasiia got Ore
+Myrna8511 bought Development Card
+Yolonc rolled dice_2 dice_2
+Kent#3816 got Ore
+Yolonc got Grain
+Yolonc wants to give Wool for Grain
+Yolonc wants to give Wool for Brick
+Yolonc wants to give Ore for Brick
+Yolonc wants to give Wool Wool for Grain
+Yolonc gave Wool Wool and got Grain from Kent#3816
+Yolonc built a city (+1 VP)
+Kent#3816 rolled dice_3 dice_6
+Kent#3816 got Brick
+Yolonc got Brick Brick
+Kent#3816 built a road
+Anastasiia rolled dice_6 dice_5
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Anastasiia has disconnected. A bot will take over next turn unless Anastasiia reconnects.
+Myrna8511 rolled dice_3 dice_4
+Myrna8511 moved Robber robber to  prob_4 grain tile
+You stole Brick from Yolonc
+Myrna8511 wants to give Ore for Lumber
+Myrna8511 wants to give Brick for Lumber
+Kent#3816 proposed counter offer to Myrna8511, offering Lumber for Brick Any Resource
+Myrna8511 wants to give Brick Wool for Lumber
+Myrna8511 gave Brick Wool and got Lumber from Anastasiia
+Myrna8511 built a road
+Yolonc rolled dice_2 dice_2
+ prob_4 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Yolonc built a road
+Kent#3816 rolled dice_2 dice_1
+Myrna8511 got Lumber
+Anastasiia got Lumber Lumber
+Anastasiia rolled dice_5 dice_1
+Yolonc got Wool
+Anastasiia got Ore
+Anastasiia built a road
+Anastasiia built a road
+Myrna8511 rolled dice_6 dice_4
+Myrna8511 got Brick
+Kent#3816 got Ore
+Yolonc got Brick Brick
+Yolonc rolled dice_3 dice_3
+Yolonc got Wool
+Anastasiia got Ore
+Yolonc wants to give Brick for Grain
+Yolonc wants to give Wool for Grain
+Yolonc wants to give Brick Wool for Grain
+Kent#3816 rolled dice_1 dice_3
+ prob_4 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Kent#3816 wants to give Ore for Brick
+Yolonc proposed counter offer to Kent#3816, offering Brick for Grain
+Kent#3816 wants to give Ore Ore for Brick
+Myrna8511 proposed counter offer to Kent#3816, offering Brick for Grain Ore
+Kent#3816 gave Ore Ore and got Brick from Yolonc
+Kent#3816 built a road
+Anastasiia rolled dice_1 dice_5
+Yolonc got Wool
+Anastasiia got Ore
+Anastasiia gave bank Ore Ore Ore Ore and took Brick
+Anastasiia wants to give Wool for Ore
+Myrna8511 proposed counter offer to Anastasiia, offering Ore for Wool Any Resource
+Myrna8511 rolled dice_2 dice_5
+Bot is selecting where to place robber for Myrna8511
+Myrna8511 moved Robber robber to  prob_6 wool tile
+You stole Wool from Yolonc
+Yolonc rolled dice_6 dice_3
+Kent#3816 got Brick
+Yolonc got Brick Brick
+Yolonc wants to give Brick for Grain
+Yolonc wants to give Brick Brick for Grain
+Yolonc wants to give Brick Wool for Grain
+Yolonc built a road
+Kent#3816 rolled dice_4 dice_3
+Kent#3816 moved Robber robber to  prob_10 brick tile
+Kent#3816 stole Resource Card from Yolonc
+Kent#3816 wants to give Wool for Brick
+Kent#3816 wants to give Wool for Lumber
+Yolonc proposed counter offer to Kent#3816, offering Brick for Wool Any Resource
+Anastasiia rolled dice_1 dice_2
+Myrna8511 got Lumber
+Anastasiia got Lumber Lumber
+Anastasiia wants to give Wool for Ore
+Anastasiia wants to give Lumber for Ore
+Anastasiia wants to give Brick for Ore
+Yolonc proposed counter offer to Anastasiia, offering Ore for Lumber
+Kent#3816 proposed counter offer to Anastasiia, offering Wool for Lumber
+Anastasiia gave Lumber and got Wool from Kent#3816
+Anastasiia gave bank Wool Wool Wool Wool and took Grain
+Myrna8511 rolled dice_4 dice_6
+ prob_10 brick tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Myrna8511 wants to give Lumber Ore for Grain
+Myrna8511 gave Lumber Ore and got Grain from Anastasiia
+Myrna8511 built a settlement (+1 VP)
+Yolonc rolled dice_3 dice_5
+Myrna8511 got Grain
+Kent#3816 got Lumber Grain
+Kent#3816 rolled dice_6 dice_5
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Kent#3816 built a settlement (+1 VP)
+Kent#3816 wants to give Ore for Grain
+Kent#3816 wants to give Ore for Brick
+Kent#3816 gave Ore and got Brick from Anastasiia
+Kent#3816 wants to give Lumber for Grain
+Anastasiia rolled dice_6 dice_4
+ prob_10 brick tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Anastasiia wants to give Lumber for Grain
+Anastasiia wants to give Ore for Wool
+Anastasiia wants to give Ore for Grain
+Myrna8511 proposed counter offer to Anastasiia, offering Grain for Wool Ore
+Anastasiia built a road
+Myrna8511 rolled dice_6 dice_4
+ prob_10 brick tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Yolonc rolled dice_6 dice_1
+Kent#3816 discarded Ore Ore Ore Lumber
+Yolonc moved Robber robber to  prob_8 grain tile
+Yolonc stole Ore from you
+Yolonc wants to give Brick for Ore
+Yolonc gave Brick and got Ore from Anastasiia
+Yolonc gave bank Ore Ore Ore Ore and took Grain
+Yolonc built a settlement (+1 VP)
+Kent#3816 rolled dice_3 dice_4
+Kent#3816 moved Robber robber to  prob_10 brick tile
+Kent#3816 stole Lumber from you
+Kent#3816 wants to give Lumber for Grain
+Kent#3816 wants to give Lumber Ore for Grain
+Kent#3816 gave Lumber Ore and got Grain from Myrna8511
+Kent#3816 built a settlement (+1 VP)
+Anastasiia rolled dice_6 dice_6
+Anastasiia got Lumber
+Myrna8511 rolled dice_5 dice_5
+ prob_10 brick tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Yolonc rolled dice_4 dice_6
+ prob_10 brick tile is blocked by the Robber. No resources produced
+Kent#3816 got Ore
+Kent#3816 rolled dice_5 dice_6
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Anastasiia rolled dice_2 dice_3
+Myrna8511 got Wool Ore
+Yolonc got Ore
+Anastasiia got Wool
+Anastasiia wants to give Lumber for Ore
+Myrna8511 proposed counter offer to Anastasiia, offering Lumber for Brick
+Anastasiia wants to give Wool for Ore
+Anastasiia wants to give Lumber Lumber for Ore
+Anastasiia gave Lumber Lumber and got Ore from Yolonc
+Anastasiia built a road
+Anastasiia received longest road (+2 VPs)
+Myrna8511 rolled dice_2 dice_1
+Myrna8511 got Lumber Lumber
+Yolonc got Lumber
+Anastasiia got Lumber Lumber
+Myrna8511 gave bank Lumber Lumber Lumber and took Grain
+Yolonc rolled dice_5 dice_2
+Yolonc moved Robber robber to  prob_8 grain tile
+Yolonc stole Wool from you
+Kent#3816 rolled dice_2 dice_4
+Yolonc got Wool Wool
+Anastasiia got Ore
+Anastasiia rolled dice_6 dice_2
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber
+Anastasiia gave bank Ore Ore Ore Ore and took Grain
+Anastasiia built a settlement (+1 VP)
+Myrna8511 rolled dice_6 dice_5
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Yolonc rolled dice_2 dice_2
+Kent#3816 got Ore
+Yolonc got Ore Grain Grain
+Yolonc wants to give Lumber Lumber for Brick
+Yolonc wants to give Lumber Wool for Brick
+Yolonc bought Development Card
+Yolonc gave bank Lumber Lumber Lumber Lumber and took Brick
+Yolonc built a settlement (+1 VP)
+Kent#3816 rolled dice_4 dice_2
+Yolonc got Wool Wool
+Anastasiia got Ore Ore
+Kent#3816 wants to give Lumber Lumber for Grain
+Kent#3816 wants to give Lumber Lumber Lumber for Grain
+Kent#3816 gave bank Lumber Lumber Lumber Lumber and took Grain
+Anastasiia rolled dice_4 dice_3
+Anastasiia moved Robber robber to  prob_5 ore tile
+Anastasiia stole Resource Card from Yolonc
+Anastasiia wants to give Ore for Grain
+Myrna8511 rolled dice_1 dice_1
+Myrna8511 got Grain
+Myrna8511 wants to give Lumber Lumber for Ore
+Kent#3816 proposed counter offer to Myrna8511, offering Ore for Grain
+Myrna8511 gave Lumber Lumber and got Ore from Anastasiia
+Myrna8511 built a city (+1 VP)
+Yolonc used 
+Yolonc moved Robber robber to  prob_8 grain tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber
+Kent#3816 rolled dice_5 dice_4
+Kent#3816 got Brick
+Yolonc got Brick Brick
+Kent#3816 built a road
+Anastasiia rolled dice_5 dice_5
+Myrna8511 got Brick
+Kent#3816 got Ore
+Yolonc got Brick Brick
+Anastasiia wants to give Ore for Grain
+Myrna8511 rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber
+Yolonc rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber
+Yolonc gave bank Brick Brick and took Grain
+Yolonc bought Development Card
+Kent#3816 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber
+Kent#3816 gave bank Lumber Lumber Lumber Lumber and took Grain
+Kent#3816 built a city (+1 VP)
+Kent#3816 wants to give Lumber for Brick
+Myrna8511 proposed counter offer to Kent#3816, offering Brick for Lumber Any Resource
+Kent#3816 wants to give Lumber Lumber for Brick
+Kent#3816 gave Lumber Lumber and got Brick from Yolonc
+Kent#3816 built a road
+Anastasiia rolled dice_2 dice_5
+Anastasiia moved Robber robber to  prob_5 ore tile
+Anastasiia stole Resource Card from Yolonc
+Anastasiia gave bank Lumber Lumber Lumber Lumber and took Grain
+Anastasiia wants to give Wool for Lumber
+Myrna8511 rolled dice_1 dice_1
+Myrna8511 got Grain
+Yolonc used 
+Yolonc moved Robber robber to  prob_8 grain tile
+Yolonc stole Brick from you
+Yolonc rolled dice_5 dice_2
+Yolonc moved Robber robber to  prob_8 lumber tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc built a road
+Kent#3816 rolled dice_5 dice_6
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Anastasiia rolled dice_6 dice_3
+Kent#3816 got Brick Brick
+Yolonc got Brick Brick
+Anastasiia wants to give Ore for Lumber
+Myrna8511 proposed counter offer to Anastasiia, offering Lumber for Ore Any Resource
+Myrna8511 proposed counter offer to Anastasiia, offering Lumber for Brick Ore
+Kent#3816 proposed counter offer to Anastasiia, offering Brick for Wool
+Myrna8511 rolled dice_2 dice_4
+Yolonc got Wool Wool
+Anastasiia got Ore Ore
+Yolonc rolled dice_4 dice_5
+Kent#3816 got Brick Brick
+Yolonc got Brick Brick
+Yolonc gave bank Brick Brick Brick Brick and took Lumber Grain
+Yolonc built a road
+Yolonc bought Development Card
+Kent#3816 rolled dice_6 dice_5
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+Yolonc got Lumber
+Anastasiia got Brick
+Kent#3816 wants to give Lumber for Brick
+Kent#3816 gave Lumber and got Brick from Anastasiia
+Kent#3816 wants to give Brick for Wool
+Kent#3816 gave bank Brick Brick and took Wool
+Kent#3816 gave bank Brick Brick and took Grain
+Kent#3816 built a settlement (+1 VP)
+Anastasiia rolled dice_3 dice_2
+Myrna8511 got Wool Wool Ore
+Kent#3816 got Wool
+Yolonc got Ore
+Anastasiia got Wool
+Anastasiia built a settlement (+1 VP)
+Myrna8511 rolled dice_3 dice_5
+ prob_8 lumber tile is blocked by the Robber. No resources produced
+Myrna8511 got Grain Grain
+Kent#3816 got Grain Grain
+Myrna8511 bought Development Card
+Myrna8511 wants to give Lumber Lumber for Ore
+Myrna8511 gave Lumber Lumber and got Ore from Anastasiia
+Myrna8511 bought Development Card
+Yolonc rolled dice_2 dice_2
+Kent#3816 got Ore
+Yolonc got Ore Grain Grain Grain
+Yolonc used 
+Yolonc took from bank Ore Brick
+Yolonc built a city (+1 VP)
+Yolonc built a settlement (+1 VP)
+Kent#3816 rolled dice_6 dice_1
+Kent#3816 moved Robber robber to  prob_6 wool tile
+Kent#3816 stole Resource Card from Yolonc
+Kent#3816 bought Development Card
+Anastasiia rolled dice_4 dice_3
+Anastasiia moved Robber robber to  prob_5 ore tile
+Anastasiia stole Resource Card from Yolonc
+Anastasiia wants to give Ore for Grain
+Myrna8511 proposed counter offer to Anastasiia, offering Grain for Wool Ore
+Myrna8511 proposed counter offer to Anastasiia, offering Grain for Lumber Ore
+Anastasiia built a road
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_4 ore tile
+You stole Grain from Kent#3816
+Myrna8511 rolled dice_3 dice_1
+ prob_4 ore tile is blocked by the Robber. No resources produced
+Yolonc got Grain Grain Grain Grain
+Yolonc rolled dice_5 dice_5
+Myrna8511 got Brick
+Kent#3816 got Ore Ore
+Yolonc got Brick Brick Brick
+Yolonc wants to give Grain for Ore
+Yolonc wants to give Grain for Wool
+Yolonc wants to give Grain for Brick
+Kent#3816 proposed counter offer to Yolonc, offering Ore for Grain Grain Grain
+Myrna8511 started an embargo against Yolonc
+Yolonc wants to give Grain Grain for Ore
+Yolonc wants to give Grain Grain for Wool
+Kent#3816 proposed counter offer to Yolonc, offering Ore for Grain Grain Any Resource
+Yolonc gave Grain Grain and got Ore from Anastasiia
+Yolonc gave bank Brick Brick and took Wool
+Yolonc bought Development Card
+Kent#3816 rolled dice_6 dice_2
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber Lumber Lumber Grain Grain
+Kent#3816 used 
+Kent#3816 placed a road
+Kent#3816 placed a road
+Kent#3816 bought Development Card
+Kent#3816 wants to give Lumber for Brick
+Kent#3816 gave Lumber and got Brick from Myrna8511
+Kent#3816 built a road
+longest road passed from Anastasiia to Kent#3816 (+2 VPs)
+Anastasiia rolled dice_1 dice_2
+Myrna8511 got Lumber Lumber Lumber
+Yolonc got Lumber
+Anastasiia got Lumber Lumber
+Anastasiia gave bank Grain Grain and took Brick
+Anastasiia gave bank Lumber Lumber Lumber Lumber and took Grain
+Myrna8511 rolled dice_2 dice_1
+Myrna8511 got Lumber Lumber Lumber
+Yolonc got Lumber
+Anastasiia got Lumber Lumber
+Myrna8511 wants to give Lumber for Wool
+Myrna8511 wants to give Lumber for Ore
+Myrna8511 gave Lumber and got Ore from Kent#3816
+Myrna8511 wants to give Lumber Lumber for Wool
+Myrna8511 wants to give Lumber Grain for Wool
+Myrna8511 gave bank Lumber Lumber Lumber and took Wool
+Myrna8511 bought Development Card
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_6 wool tile
+You stole Lumber from Yolonc
+Myrna8511 wants to give Lumber Grain for Wool
+Myrna8511 wants to give Lumber Grain for Ore
+Myrna8511 wants to give Lumber for Grain
+Myrna8511 gave bank Lumber Lumber Lumber and took Ore
+Yolonc rolled dice_2 dice_2
+Kent#3816 got Ore
+Yolonc got Grain Ore Grain Grain Grain
+Yolonc wants to give Grain for Wool
+Yolonc wants to give Grain for Brick
+Yolonc wants to give Grain for Lumber
+Yolonc wants to give Grain for Ore
+Kent#3816 started an embargo against Yolonc
+Yolonc wants to give Grain Grain for Wool
+Yolonc wants to give Grain Grain for Ore
+Yolonc wants to give Grain Grain for Wool
+Yolonc gave bank Grain Grain Grain Grain and took Wool
+Yolonc bought Development Card
+Yolonc built a road
+Kent#3816 rolled dice_6 dice_3
+Kent#3816 got Brick Brick
+Yolonc got Brick Brick
+Kent#3816 wants to give Ore for Wool
+Kent#3816 wants to give Lumber for Wool
+Yolonc started an embargo against Kent#3816
+Myrna8511 started an embargo against Kent#3816
+Kent#3816 wants to give Brick for Wool
+Kent#3816 built a road
+Kent#3816 built a road
+Anastasiia rolled dice_1 dice_2
+Myrna8511 got Lumber Lumber Lumber
+Yolonc got Lumber
+Anastasiia got Lumber Lumber
+Anastasiia built a settlement (+1 VP)
+Myrna8511 rolled dice_3 dice_2
+Myrna8511 got Wool Wool Ore
+Kent#3816 got Wool
+Yolonc got Ore Ore
+Anastasiia got Wool
+Myrna8511 used 
+Myrna8511 received largest army (+2 VPs)
+Myrna8511 moved Robber robber to  prob_4 grain tile
+You stole Ore from Yolonc
+Myrna8511 bought Development Card
+Myrna8511 gave bank Lumber Lumber Lumber and took Ore
+Myrna8511 built a city (+1 VP)
+Yolonc used 
+Yolonc moved Robber robber to  prob_8 grain tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc rolled dice_2 dice_6
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Kent#3816 got Lumber Lumber Lumber
+Yolonc built a road
+Kent#3816 rolled dice_5 dice_2
+Kent#3816 moved Robber robber to  prob_5 ore tile
+Kent#3816 stole Resource Card from Yolonc
+Kent#3816 gave bank Lumber Lumber and took Grain
+Kent#3816 built a settlement (+1 VP)
+trophy Kent#3816 won the game! trophy
+Yolonc has left the game

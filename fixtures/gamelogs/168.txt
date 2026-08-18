@@ -1,0 +1,585 @@
+icon_helmetMyrna8511 has reconnected
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestRobijs placed a settlement
+GuestRobijs placed a road
+Gueststergios placed a settlement
+Gueststergios placed a road
+UserMakalek placed a settlement
+UserMakalek placed a road
+UserMakalek placed a settlement
+UserMakalek placed a road
+UserMakalek received starting resources lumberbrickbrick
+Gueststergios placed a settlement
+Gueststergios placed a road
+Gueststergios received starting resources lumbergrainwool
+GuestRobijs placed a settlement
+GuestRobijs placed a road
+GuestRobijs received starting resources orewoolwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woolbrickore
+icon_helmetMyrna8511 rolled dice_6 dice_2
+UserMakalek got grain
+GuestRobijs got grain
+Gueststergios got grain
+GuestRobijs rolled dice_5 dice_6
+GuestRobijs got wool
+icon_helmetMyrna8511 got wool
+GuestRobijs wants to give wool for brick
+icon_helmetMyrna8511 wants to give Robijs brick for woolgrain
+GuestRobijs wants to give wool for grain
+icon_helmetMyrna8511 wants to give Robijs brick for lumberwool
+Gueststergios rolled dice_3 dice_5
+UserMakalek got grain
+GuestRobijs got grain
+Gueststergios got grain
+UserMakalek rolled dice_6 dice_5
+GuestRobijs got wool
+icon_helmetMyrna8511 got wool
+UserMakalek built a road
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole wool from Robijs
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 traded wool for grain with Makalek
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_6 dice_5
+GuestRobijs got wool
+icon_helmetMyrna8511 got wool
+GuestRobijs bought development card
+Gueststergios rolled dice_6 dice_6
+UserMakalek rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserMakalek got grain
+UserMakalek wants to give grain for lumber
+icon_helmetMyrna8511 rolled dice_1 dice_5
+GuestRobijs got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got wool
+GuestRobijs used Knight card knight
+GuestRobijs moved robber robber to  prob_5 grain tile
+GuestRobijs stole wool from you
+GuestRobijs rolled dice_5 dice_1
+GuestRobijs got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got wool
+GuestRobijs wants to give wool for grain
+GuestRobijs bought development card
+Gueststergios rolled dice_6 dice_5
+GuestRobijs got wool
+icon_helmetMyrna8511 got wool
+UserMakalek rolled dice_5 dice_5
+UserMakalek got bricklumber
+GuestRobijs got lumber
+UserMakalek built a settlement (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole wool from Robijs
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserMakalek got grain
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give woolore for lumbergrain
+icon_helmetMyrna8511 wants to give ore for lumber
+GuestRobijs used Knight card knight
+GuestRobijs moved robber robber to  prob_5 grain tile
+GuestRobijs stole brick from you
+GuestRobijs rolled dice_3 dice_1
+UserMakalek got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+Gueststergios rolled dice_5 dice_2
+Gueststergios discarded woolwoolgraingrain
+Gueststergios moved robber robber to  prob_10 brick tile
+Gueststergios stole card from Makalek
+UserMakalek rolled dice_4 dice_4
+UserMakalek got grain
+GuestRobijs got grain
+Gueststergios got grain
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole ore from Makalek
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give ore for grain
+UserMakalek wants to give Myrna8511 grain for woolore
+Gueststergios wants to give Myrna8511 grain for oreore
+Gueststergios wants to give Myrna8511 grain for woolore
+icon_helmetMakalek traded grain for woolore with Myrna8511
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_1 dice_6
+GuestRobijs moved robber robber to  prob_4 ore tile
+GuestRobijs stole ore from you
+GuestRobijs bought development card
+Gueststergios rolled dice_4 dice_1
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got grain
+UserMakalek rolled dice_2 dice_2
+ prob_4 ore tile is blocked by the robber. No resources produced.
+Gueststergios got lumber
+UserMakalek wants to give ore for lumber
+GuestRobijs wants to give Makalek lumber for grainore
+Gueststergios wants to give Makalek lumber for oreore
+UserMakalek bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole wool from Robijs
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestRobijs got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got wool
+GuestRobijs used Knight card knight
+GuestRobijs received largest army (+2 VPs)
+GuestRobijs moved robber robber to  prob_5 grain tile
+GuestRobijs stole wool from you
+GuestRobijs rolled dice_4 dice_2
+GuestRobijs got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got wool
+GuestRobijs built a road
+Gueststergios rolled dice_2 dice_5
+Gueststergios discarded woolwoolgraingrain
+Gueststergios moved robber robber to  prob_10 brick tile
+Gueststergios stole card from Makalek
+UserMakalek rolled dice_4 dice_4
+UserMakalek got grain
+GuestRobijs got grain
+Gueststergios got grain
+icon_helmetMyrna8511 rolled dice_4 dice_6
+ prob_10 brick tile is blocked by the robber. No resources produced.
+UserMakalek got lumber
+GuestRobijs got lumber
+GuestRobijs rolled dice_4 dice_1
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got grain
+GuestRobijs wants to give lumber for grain
+GuestRobijs wants to give wool for grain
+GuestRobijs wants to give lumberwool for grain
+GuestRobijs wants to give woolwool for grain
+GuestRobijs gave bank woolwoolwoolwool and took grain
+GuestRobijs built a city (+1 VP)
+Gueststergios rolled dice_2 dice_3
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got grain
+UserMakalek rolled dice_1 dice_3
+UserMakalek got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+UserMakalek built a road
+icon_helmetMyrna8511 rolled dice_3 dice_5
+UserMakalek got grain
+GuestRobijs got grain
+Gueststergios got grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestRobijs rolled dice_2 dice_5
+Gueststergios discarded lumberwoolgraingrain
+GuestRobijs moved robber robber to  prob_5 grain tile
+GuestRobijs stole wool from you
+Gueststergios rolled dice_1 dice_3
+UserMakalek got ore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+UserMakalek rolled dice_3 dice_2
+ prob_5 grain tile is blocked by the robber. No resources produced.
+UserMakalek got wool
+GuestRobijs got wool
+UserMakalek wants to give wool for ore
+icon_helmetMyrna8511 wants to give Makalek ore for lumberwool
+UserMakalek used Year of Plenty card year of plenty
+UserMakalek took from bank wool ore
+UserMakalek built a city (+1 VP)
+UserMakalek wants to give woolwoolwool for ore
+UserMakalek gave bank woolwoolwool and took ore
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole wool from Robijs
+icon_helmetMyrna8511 rolled dice_4 dice_5
+UserMakalek got brick
+icon_helmetMyrna8511 got oreorebrick
+Gueststergios got brick
+icon_helmetMyrna8511 wants to give ore for lumber
+Gueststergios wants to give Myrna8511 lumber for brickore
+Gueststergios wants to give Myrna8511 lumber for oreore
+icon_helmetMyrna8511 wants to give Myrna8511 brickore for lumbergrain
+icon_helmetMyrna8511 wants to give Myrna8511 oreore for lumberlumber
+GuestRobijs rolled dice_4 dice_6
+ prob_10 lumber tile is blocked by the robber. No resources produced.
+UserMakalek got brickbrick
+GuestRobijs wants to give wool for brick
+UserMakalek wants to give Robijs brick for grain
+GuestRobijs wants to give wool for brick
+Gueststergios rolled dice_3 dice_1
+UserMakalek got oreore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+Gueststergios wants to give lumber for brick
+UserMakalek wants to give stergios brick for lumbergrain
+Gueststergios traded lumber for brick with Makalek
+Gueststergios built a road
+Gueststergios built a settlement (+1 VP)
+UserMakalek rolled dice_4 dice_1
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingrain
+UserMakalek wants to give brick for grain
+UserMakalek wants to give wool for grain
+UserMakalek wants to give ore for grain
+GuestRobijs wants to give Makalek grain for brickore
+icon_helmetMyrna8511 wants to give Makalek grain for lumberwool
+UserMakalek wants to give brickbrick for grain
+UserMakalek gave bank oreoreore and took lumber
+UserMakalek built a road
+UserMakalek built a road
+icon_helmetMyrna8511 rolled dice_3 dice_5
+UserMakalek got graingrain
+GuestRobijs got grain
+Gueststergios got graingrain
+icon_helmetMyrna8511 wants to give ore for wool
+GuestRobijs wants to give Myrna8511 wool for oreore
+icon_helmetMyrna8511 wants to give Myrna8511 oreore for lumberwool
+icon_helmetMyrna8511 wants to give Myrna8511 oreore for lumberwool
+icon_helmetMyrna8511 wants to give oreore for lumberwool
+icon_helmetMyrna8511 traded oreore for lumberwool with Robijs
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_5 dice_4
+UserMakalek got brick
+icon_helmetMyrna8511 got oreorebrick
+Gueststergios got brick
+GuestRobijs bought development card
+GuestRobijs bought development card
+Gueststergios rolled dice_5 dice_1
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got wool
+Gueststergios wants to give grain for brick
+Gueststergios wants to give grain for ore
+icon_helmetMyrna8511 wants to give stergios brick for lumbergrain
+GuestRobijs wants to give stergios ore for woolgrain
+icon_helmetMyrna8511 wants to give stergios ore for woolgrain
+GuestRobijs wants to give stergios ore for lumbergrain
+Gueststergios wants to give grain for ore
+Gueststergios traded grain for ore with Robijs
+Gueststergios bought development card
+UserMakalek rolled dice_4 dice_2
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got wool
+UserMakalek wants to give wool for ore
+UserMakalek wants to give grain for ore
+UserMakalek wants to give grain for lumber
+icon_helmetMyrna8511 wants to give Makalek ore for woolgrain
+UserMakalek wants to give wool for lumber
+icon_helmetMyrna8511 wants to give Makalek ore for woolwool
+GuestRobijs wants to give Makalek ore for woolgrain
+icon_helmetMyrna8511 rolled dice_4 dice_1
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grainore for woolwool
+icon_helmetMyrna8511 gave bank oreoreoreore and took wool
+icon_helmetMyrna8511 bought development card
+GuestRobijs used Knight card knight
+GuestRobijs moved robber robber to  prob_9 brick tile
+GuestRobijs stole card from Makalek
+GuestRobijs rolled dice_2 dice_2
+UserMakalek got oreore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+GuestRobijs bought development card
+Gueststergios rolled dice_3 dice_2
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingrain
+Gueststergios built a road
+UserMakalek rolled dice_1 dice_6
+UserMakalek discarded woolwoolwoolwool
+UserMakalek moved robber robber to  prob_6 ore tile
+UserMakalek stole ore from you
+UserMakalek built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+UserMakalek got oreore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for wool
+Gueststergios wants to give Myrna8511 lumber for grainore
+icon_helmetMyrna8511 wants to give Myrna8511 grainore for lumberwool
+GuestRobijs wants to give Myrna8511 wool for grainore
+icon_helmetstergios traded lumber for grainore with Myrna8511
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank wool wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_2 dice_3
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingrain
+Gueststergios rolled dice_1 dice_6
+Gueststergios moved robber robber to  prob_9 ore tile
+Gueststergios stole grain from you
+Gueststergios bought development card
+UserMakalek rolled dice_5 dice_4
+ prob_9 ore tile is blocked by the robber. No resources produced.
+UserMakalek got brickbrick
+icon_helmetMyrna8511 got brick
+Gueststergios got brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole ore from Robijs
+icon_helmetMyrna8511 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserMakalek got graingrain
+icon_helmetMyrna8511 wants to give brick for wool
+GuestRobijs rolled dice_2 dice_5
+GuestRobijs moved robber robber to  prob_9 brick tile
+GuestRobijs stole ore from you
+Gueststergios rolled dice_4 dice_3
+Gueststergios moved robber robber to  prob_4 ore tile
+Gueststergios stole card from Makalek
+UserMakalek rolled dice_5 dice_2
+UserMakalek moved robber robber to  prob_6 ore tile
+UserMakalek stole brick from you
+UserMakalek wants to give brick for lumber
+UserMakalek wants to give grain for lumber
+UserMakalek wants to give ore for lumber
+Gueststergios wants to give Makalek lumber for oreore
+UserMakalek wants to give brickgrain for lumber
+UserMakalek bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_4
+UserMakalek got graingrain
+GuestRobijs got grain
+Gueststergios got graingrain
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 7 grain
+icon_helmetMyrna8511 gave bank graingraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_4 dice_3
+GuestRobijs moved robber robber to  prob_9 brick tile
+GuestRobijs stole grain from you
+GuestRobijs bought development card
+Gueststergios rolled dice_5 dice_6
+GuestRobijs got woolwool
+icon_helmetMyrna8511 got wool
+UserMakalek used Knight card knight
+UserMakalek moved robber robber to  prob_6 ore tile
+UserMakalek stole grain from you
+UserMakalek rolled dice_6 dice_6
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetlargest army passed from Robijs to Myrna8511 (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole brick from Makalek
+icon_helmetMyrna8511 rolled dice_4 dice_2
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got wool
+icon_helmetMyrna8511 bought development card
+GuestRobijs rolled dice_3 dice_6
+UserMakalek got brickbrick
+icon_helmetMyrna8511 got oreoreorebrick
+Gueststergios got brick
+GuestRobijs wants to give ore for lumber
+GuestRobijs used Monopoly card monopoly
+GuestRobijs stole 8 brick
+GuestRobijs gave bank brickbrickbrickbrick and took grain
+GuestRobijs bought development card
+GuestRobijs gave bank brickbrickbrickbrick and took grain
+GuestRobijs bought development card
+Gueststergios rolled dice_3 dice_1
+UserMakalek got oreore
+icon_helmetMyrna8511 got ore
+Gueststergios got lumber
+UserMakalek rolled dice_2 dice_5
+UserMakalek moved robber robber to  prob_5 grain tile
+UserMakalek stole ore from you
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole wool from Robijs
+icon_helmetMyrna8511 rolled dice_2 dice_3
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 bought development card
+GuestRobijs used Knight card knight
+GuestRobijs moved robber robber to  prob_5 grain tile
+GuestRobijs stole grain from you
+GuestRobijs rolled dice_6 dice_3
+UserMakalek got brickbrick
+icon_helmetMyrna8511 got oreoreorebrick
+Gueststergios got brick
+GuestRobijs bought development card
+Gueststergios rolled dice_1 dice_2
+GuestRobijs got woolwool
+Gueststergios got lumberwool
+Gueststergios gave bank lumberlumber and took grain
+Gueststergios bought development card
+UserMakalek rolled dice_2 dice_6
+UserMakalek got graingrain
+GuestRobijs got grain
+Gueststergios got graingrain
+UserMakalek wants to give oreoreore for lumber
+UserMakalek gave bank oreoreore and took lumber
+UserMakalek built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_1
+ prob_5 grain tile is blocked by the robber. No resources produced.
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 wants to give oreore for wool
+icon_helmetMyrna8511 wants to give oreore for grain
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 traded oreore for wool with stergios
+icon_helmetMyrna8511 gave bank oreoreoreore and took grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestRobijs rolled dice_6 dice_6
+icon_helmetMyrna8511 got lumber
+GuestRobijs used Knight card knight
+GuestRobijs moved robber robber to  prob_9 brick tile
+GuestRobijs stole lumber from you
+GuestRobijs built a road
+Gueststergios rolled dice_1 dice_2
+UserMakalek got lumber
+GuestRobijs got woolwool
+Gueststergios got lumberwool
+Gueststergios wants to give lumber for grainore
+Gueststergios gave bank lumberlumber and took ore
+Gueststergios built a city (+1 VP)
+UserMakalek rolled dice_6 dice_2
+UserMakalek got graingraingrain
+GuestRobijs got grain
+Gueststergios got graingraingrain
+UserMakalek built a road
+UserMakalek received longest road (+2 VPs)
+UserMakalek gave bank graingraingrain and took lumber
+icon_helmetMyrna8511 rolled dice_6 dice_3
+ prob_9 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreoreore
+GuestRobijs used Knight card knight
+Guestlargest army passed from Myrna8511 to Robijs (+2 VPs)
+GuestRobijs moved robber robber to  prob_4 ore tile
+GuestRobijs stole card from Makalek
+GuestRobijs rolled dice_5 dice_3
+UserMakalek got graingraingrain
+GuestRobijs got grain
+Gueststergios got graingraingrain
+GuestRobijs wants to give grain for ore
+GuestRobijs wants to give grain for brick
+GuestRobijs wants to give grain for lumber
+Gueststergios wants to give Robijs lumber for grainore
+Gueststergios wants to give Robijs lumber for brickgrain
+GuestRobijs wants to give graingrain for ore
+GuestRobijs traded graingrain for ore with Myrna8511
+GuestRobijs gave bank woolwoolwoolwool and took ore
+Gueststergios rolled dice_1 dice_4
+UserMakalek got wool
+GuestRobijs got wool
+icon_helmetMyrna8511 got graingraingrain
+Gueststergios built a settlement (+1 VP)
+Gueststergios gave bank graingraingrain and took brick
+UserMakalek rolled dice_3 dice_4
+UserMakalek moved robber robber to  prob_8 grain tile
+UserMakalek stole card from stergios
+UserMakalek gave bank graingraingrain and took brick
+UserMakalek built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got woolwool
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetlongest road passed from Makalek to Myrna8511 (+2 VPs)
+icon_helmetMyrna8511 wants to give grainore for lumberbrick
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestRobijs rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserMakalek got graingraingrain
+GuestRobijs wants to give ore for brick
+GuestRobijs wants to give ore for lumber
+GuestRobijs built a city (+1 VP)
+Gueststergios rolled dice_3 dice_4
+Gueststergios moved robber robber to  prob_5 grain tile
+Gueststergios stole grain from you
+UserMakalek rolled dice_2 dice_3
+ prob_5 grain tile is blocked by the robber. No resources produced.
+UserMakalek got wool
+GuestRobijs got woolwool
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole wool from Robijs
+GuestRobijs rolled dice_2 dice_2
+UserMakalek got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got lumberlumber
+Gueststergios rolled dice_6 dice_3
+UserMakalek got brickbrick
+icon_helmetMyrna8511 got oreoreorebrickbrick
+Gueststergios got brick
+Gueststergios built a road
+Gueststergios built a settlement (+1 VP)
+UserMakalek rolled dice_6 dice_2
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserMakalek got graingraingrain
+UserMakalek gave bank graingraingrain and took ore
+UserMakalek built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_4
+UserMakalek got brickbrickbricklumberlumber
+GuestRobijs got lumberlumber
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 wants to give ore for lumber
+GuestRobijs wants to give Myrna8511 lumberlumber for brickbrickgrain
+icon_helmetMyrna8511 gave bank oreoreoreore and took lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give ore for lumber
+GuestRobijs wants to give Myrna8511 lumber for brick
+icon_helmetRobijs traded lumber for brick with Myrna8511
+icon_helmetMyrna8511 built a road
+GuestRobijs rolled dice_5 dice_1
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got woolwool
+Gueststergios rolled dice_1 dice_3
+UserMakalek got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got lumberlumberlumber
+Gueststergios gave bank lumberlumber and took brick
+Gueststergios built a road
+UserMakalek rolled dice_2 dice_1
+UserMakalek got lumberlumber
+GuestRobijs got woolwool
+Gueststergios got lumberwoolwool
+UserMakalek built a road
+UserMakalek built a settlement (+1 VP)
+UserMakalek gave bank brickbrick and took ore
+icon_helmetMyrna8511 rolled dice_6 dice_5
+GuestRobijs got woolwool
+icon_helmetMyrna8511 got woolwool
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestRobijs rolled dice_3 dice_3
+GuestRobijs got oreore
+icon_helmetMyrna8511 got oreore
+Gueststergios got woolwool
+GuestRobijs gave bank woolwoolwoolwool and took grain
+GuestRobijs built a settlement (+1 VP)
+Gueststergios rolled dice_3 dice_6
+UserMakalek got brickbrick
+icon_helmetMyrna8511 got oreoreorebrickbrick
+Gueststergios got brick
+Gueststergios gave bank woolwoolwoolwoolwoolwool and took lumberbrick
+Gueststergios built a road
+Gueststergios built a settlement (+1 VP)
+trophyGueststergios won the game!trophy
+UserMakalek has left the game
+Gueststergios has left the game

@@ -1,0 +1,316 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+Guestmanofmeung placed a settlement
+Guestmanofmeung placed a road
+GuestDaisie#5405 placed a settlement
+GuestDaisie#5405 placed a road
+GuestJzync placed a settlement
+GuestJzync placed a road
+GuestJzync placed a settlement
+GuestJzync placed a road
+GuestJzync received starting resources: lumberwool
+GuestDaisie#5405 placed a settlement
+GuestDaisie#5405 placed a road
+GuestDaisie#5405 received starting resources: grainlumberlumber
+Guestmanofmeung placed a settlement
+Guestmanofmeung placed a road
+Guestmanofmeung received starting resources: wooloreore
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources:  brickwoolgrain
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+Guestmanofmeung got: lumber
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 wants to give: wool for: lumber
+Guestmanofmeung rolled: dice_4 dice_3
+Guestmanofmeung moved robber robber: prob_8 wool
+Guestmanofmeung stole: grain from you
+GuestDaisie#5405 rolled: dice_2 dice_5
+GuestDaisie#5405 moved robber robber: prob_9 ore
+GuestDaisie#5405 stole card from: manofmeung
+GuestJzync rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: woolore
+GuestJzync got: wool
+GuestJzync wants to give: wool for:  brick
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: grain
+GuestJzync got: lumber
+GuestDaisie#5405 got: ore
+Guestmanofmeung got: oregrain
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 traded: woolfor: lumber with: Daisie#5405
+icon_helmetMyrna8511 built a road
+Guestmanofmeung rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumbergrain
+Guestmanofmeung wants to give: lumber for: grain
+Guestmanofmeung wants to give: wool for: grain
+Guestmanofmeung traded: lumberfor: grain with: Myrna8511
+Guestmanofmeung built a city: +1 VP
+GuestDaisie#5405 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: grain
+GuestJzync got: lumber
+GuestDaisie#5405 got: ore
+Guestmanofmeung got: oregraingrain
+GuestDaisie#5405 wants to give: grain for: ore
+GuestDaisie#5405 wants to give: grain for:  brick
+GuestDaisie#5405 wants to give: lumber for:  brick
+GuestDaisie#5405 wants to give: lumber for:  brickore
+icon_helmetMyrna8511 wants to give Daisie#5405 : ore for:  brick
+GuestDaisie#5405 wants to give: lumber for:  brick
+GuestDaisie#5405 wants to give: lumbergrain for:  brick
+GuestDaisie#5405 wants to give: lumbergrain for: ore
+GuestDaisie#5405 traded: lumbergrainfor: ore with: manofmeung
+GuestDaisie#5405 built a city: +1 VP
+GuestJzync rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: grain
+GuestJzync got: lumber
+GuestDaisie#5405 got: oreore
+Guestmanofmeung got: oregraingrain
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumbergraingrain
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 traded: orefor: grain with: manofmeung
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took  brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestmanofmeung rolled: dice_6 dice_1
+manofmeung discarding resource cards
+Guestmanofmeung discarded: lumberwoolgraingrain
+Guestmanofmeung moved robber robber: prob_5 lumber
+Guestmanofmeung stole card from: Daisie#5405
+Guestmanofmeung wants to give: grain for: ore
+GuestDaisie#5405 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: grain
+GuestJzync got: lumber
+GuestDaisie#5405 got: oreore
+Guestmanofmeung got: oregraingrain
+GuestDaisie#5405 wants to give: ore for: grain
+GuestDaisie#5405 wants to give: ore for: grain
+Guestmanofmeung wants to give Daisie#5405 : grain for: lumberore
+Guestmanofmeung traded: grainfor: lumberore with: Daisie#5405
+GuestDaisie#5405 built a city: +1 VP
+GuestJzync rolled: dice_1 dice_4
+GuestJzync got: wool
+GuestJzync wants to give: lumberlumber for:  brick
+GuestJzync gave bank: lumberlumberlumberlumber and took  brick
+GuestJzync built a road
+GuestJzync wants to give: wool for: grain
+GuestJzync wants to give: woolwool for: grain
+GuestJzync traded: woolwoolfor: grain with: manofmeung
+icon_helmetMyrna8511 rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: woolore
+GuestJzync got: wool
+Guestmanofmeung rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumberlumbergraingrain
+Guestmanofmeung built a city: +1 VP
+Guestmanofmeung bought development card
+GuestDaisie#5405 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumberlumbergraingrain
+GuestDaisie#5405 gave bank: lumberlumberlumberlumber and took  brick
+GuestDaisie#5405 built a road
+GuestJzync rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: woolore
+GuestJzync got: wool
+GuestJzync wants to give: woolwool for:  brick
+GuestJzync wants to give: wool for: lumber
+icon_helmetMyrna8511 rolled: dice_1 dice_4
+GuestJzync got: wool
+icon_helmetMyrna8511 wants to give: grain for: ore
+icon_helmetMyrna8511 wants to give: wool for: ore
+icon_helmetMyrna8511 wants to give: woolgrain for: ore
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 bought development card
+Guestmanofmeung rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: woolore
+GuestJzync got: wool
+GuestDaisie#5405 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: ore
+GuestJzync got: wool
+GuestDaisie#5405 got:  brick brick
+Guestmanofmeung got: oreore
+GuestDaisie#5405 wants to give:  brick for: grain
+GuestDaisie#5405 wants to give:  brick for: lumber
+GuestDaisie#5405 wants to give: graingrain for: lumber
+GuestDaisie#5405 wants to give:  brickgrain for: lumber
+GuestJzync rolled: dice_1 dice_4
+GuestJzync got: wool
+GuestJzync gave bank: woolwoolwoolwool and took  brick
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: woolore
+GuestJzync got: wool
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: wool for: grain
+GuestDaisie#5405 wants to give Myrna8511 : grain for: lumber
+icon_helmetMyrna8511 built a city: +1 VP
+Guestmanofmeung rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumberlumbergraingrain
+Guestmanofmeung used Monopoly card monopoly
+Guestmanofmeung stole 8: grain
+Guestmanofmeung bought development card
+Guestmanofmeung wants to give: grain for:  brick
+Guestmanofmeung wants to give: grain for: wool
+Guestmanofmeung traded: grainfor:  brick with: Daisie#5405
+Guestmanofmeung built a road
+Guestmanofmeung wants to give: grain for: lumber
+Guestmanofmeung gave bank: graingraingraingrain and took wool
+Guestmanofmeung bought development card
+GuestDaisie#5405 rolled: dice_2 dice_4
+GuestJzync got: ore
+Guestmanofmeung got: woolwool brick brick
+GuestDaisie#5405 built a settlement: +1 VP
+GuestJzync rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: wooloreore
+GuestJzync got: wool
+GuestJzync gave bank: woolwoolwoolwool and took grain
+GuestJzync wants to give: ore for: lumber
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+GuestJzync got: wool
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: ore for:  brick
+Guestmanofmeung wants to give Myrna8511 :  brick for: lumber
+icon_helmetMyrna8511 wants to give: woolwool for:  brick
+icon_helmetMyrna8511 wants to give: woolwool for: lumber
+icon_helmetMyrna8511 gave bank: woolwoolwoolwooloreore and took lumber brick
+icon_helmetMyrna8511 built a road
+Guestmanofmeung rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: grain
+GuestDaisie#5405 got: lumberlumbergraingraingrain
+Guestmanofmeung wants to give:  brick for: lumber
+Guestmanofmeung wants to give: wool for: lumber
+Guestmanofmeung traded:  brickfor: lumber with: Daisie#5405
+Guestmanofmeung built a settlement: +1 VP
+GuestDaisie#5405 rolled: dice_6 dice_6
+icon_helmetMyrna8511 got:  brick brick
+GuestDaisie#5405 wants to give: grain for:  brick
+GuestDaisie#5405 wants to give: grain for: wool
+GuestJzync rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: oreore
+GuestJzync got: wool
+GuestDaisie#5405 got:  brick brick
+Guestmanofmeung got: oreore
+GuestJzync wants to give: wool for: lumber
+GuestJzync wants to give: woolore for: lumber
+GuestJzync wants to give: ore for: woolwool
+GuestJzync bought development card
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+GuestJzync got: ore
+GuestDaisie#5405 got: wool
+Guestmanofmeung got: woolwool brick brick brick
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 wants to give:  brick for: wool
+icon_helmetMyrna8511 traded:  brickfor: wool with: Jzync
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 gave bank: oreore and took lumber
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestmanofmeung rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: wooloreoreore
+GuestJzync got: wool
+Guestmanofmeung wants to give:  brick for: lumber
+Guestmanofmeung wants to give: wool for: lumber
+Guestmanofmeung wants to give: wool for: grain
+Guestmanofmeung wants to give:  brick for: grain
+GuestDaisie#5405 rolled: dice_4 dice_1
+GuestJzync got: wool
+GuestDaisie#5405 built a road
+GuestDaisie#5405 built a road
+GuestDaisie#5405 wants to give: graingrain for: lumber
+GuestDaisie#5405 wants to give: grain for: ore
+GuestDaisie#5405 traded: grainfor: ore with: Jzync
+GuestDaisie#5405 bought development card
+GuestJzync rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: wooloreoreore
+GuestJzync got: wool
+GuestJzync wants to give:  brick for: wool
+GuestJzync traded:  brickfor: wool with: Myrna8511
+GuestJzync gave bank: woolwoolwoolwool and took lumber
+GuestJzync built a settlement: +1 VP
+GuestJzync used Knight card knight
+GuestJzync moved robber robber: prob_10 lumber
+GuestJzync stole: ore from you
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_4 ore
+icon_helmetYou stole: wool from: manofmeung
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: grainlumber
+GuestDaisie#5405 got: lumberlumbergraingraingrain
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: ore for:  brick
+Guestmanofmeung wants to give Myrna8511 :  brick for: grain
+icon_helmetMyrna8511 wants to give: oreore for: lumber brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give: woolore for: lumber
+icon_helmetMyrna8511 wants to give: woolore for:  brick
+icon_helmetMyrna8511 traded: woolorefor:  brick with: manofmeung
+icon_helmetMyrna8511 gave bank: oreore and took lumber
+icon_helmetMyrna8511 built a road
+Guestmanofmeung used Knight card knight
+Guestmanofmeung moved robber robber: prob_8 ore
+Guestmanofmeung stole: grain from you
+Guestmanofmeung rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: oreore
+GuestJzync got: wool
+GuestDaisie#5405 got:  brick brick
+Guestmanofmeung got: oreore
+Guestmanofmeung wants to give: ore for: grain
+Guestmanofmeung wants to give: wool for: grain
+Guestmanofmeung traded: woolfor: grain with: Daisie#5405
+Guestmanofmeung built a city: +1 VP
+GuestDaisie#5405 rolled: dice_3 dice_2
+GuestJzync got: wool
+GuestDaisie#5405 got: lumberlumber
+GuestDaisie#5405 built a settlement: +1 VP
+GuestDaisie#5405 built a road
+GuestDaisie#5405 built a road
+GuestJzync rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: graingrain
+GuestJzync got: lumberlumber
+GuestDaisie#5405 got: oreore
+Guestmanofmeung got: oreoregraingrain
+GuestJzync wants to give: lumber for: grain
+GuestJzync traded: lumberfor: grain with: manofmeung
+GuestJzync bought development card
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+GuestJzync got: wool
+GuestDaisie#5405 got: lumberlumber
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: lumber
+GuestJzync wants to give Myrna8511 : lumber for: grainore
+icon_helmetMyrna8511 traded: orefor: lumber with: Daisie#5405
+icon_helmetMyrna8511 gave bank: oreore and took  brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 traded: orefor: wool with: Jzync
+icon_helmetMyrna8511 bought development card
+Guestmanofmeung rolled: dice_1 dice_6
+manofmeung discarding resource cards
+Guestmanofmeung discarded: wooloreoreoreore
+Guestmanofmeung moved robber robber: prob_10 lumber
+Guestmanofmeung stole card from: Daisie#5405
+Guestmanofmeung wants to give: grain for: lumber
+GuestJzync wants to give manofmeung : lumber for: grainore
+Guestmanofmeung traded: grainfor: lumber with: Daisie#5405
+Guestmanofmeung built a road
+Guestmanofmeung built a settlement: +1 VP
+GuestDaisie#5405 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: oreore
+GuestJzync got: wool
+GuestDaisie#5405 got:  brick brick
+Guestmanofmeung got: oreore
+GuestDaisie#5405 built a city: +1 VP
+GuestDaisie#5405 built a road
+GuestDaisie#5405 received longest road: +2 VPs
+trophy Daisie#5405 won the gameumber brick

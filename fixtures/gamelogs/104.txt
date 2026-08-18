@@ -1,0 +1,333 @@
+Guestiamgumby has disconnected. Bot will wait until next turn to give iamgumby a chance to reconnect.
+botiamgumby has left the game, giving them 2 minutes to reconnect.
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+botiamgumby placed a settlement
+botiamgumby placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 received starting resources:  woolbrickore
+botiamgumby placed a settlement
+botiamgumby placed a road
+botiamgumby received starting resources:  lumberlumberbrick
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources:  lumberwoollumber
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+GuestYolonc received starting resources:  orewool
+GuestYolonc rolled: dice_2 dice_6
+Myrna8511 got: grain
+GuestSeale5074 got: lumber
+botiamgumby got: lumberwool
+GuestSeale5074 rolled: dice_4 dice_3
+GuestSeale5074 moved robber robberto  prob_9 ore tile
+GuestSeale5074 stole:  brick from you
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  lumber for:  brick
+GuestSeale5074 wants to give:  lumber for:  grain
+botiamgumby rolled: dice_6 dice_4
+GuestYolonc got: brick
+botiamgumby got: grain
+botiamgumby built a road
+botiamgumby wants to give:  lumber for:  brick
+GuestYolonc wants to give iamgumby :  ore for:  lumber
+botYolonc traded:  orefor:  lumber with: iamgumby
+Myrna8511 rolled: dice_4 dice_1
+Myrna8511 got: brick
+GuestYolonc got: ore
+botiamgumby got: grain
+Myrna8511 wants to give:  grain for:  lumber
+GuestSeale5074 wants to give Myrna8511 :  lumber for:  brickgrain
+GuestYolonc wants to give Myrna8511 :  ore for:  grain
+Myrna8511 traded:  grainfor:  lumber with: Seale5074
+Myrna8511 built a road
+GuestYolonc rolled: dice_5 dice_1
+GuestSeale5074 got: lumber
+GuestYolonc got: brickwool
+GuestYolonc wants to give:  ore for:  grain
+GuestSeale5074 wants to give Yolonc :  lumber for:  brick
+GuestYolonc wants to give:  ore for:  lumber
+GuestYolonc traded:  orefor:  lumber with: Seale5074
+GuestYolonc wants to give:  wool for:  grain
+GuestYolonc built a road
+GuestSeale5074 rolled: dice_5 dice_2
+GuestBot is selecting where to place robber for Seale5074
+GuestSeale5074 moved robber robberto  prob_8 wool tile
+GuestSeale5074 stole  card from: iamgumby
+GuestSeale5074 wants to give:  ore for:  brick
+GuestSeale5074 wants to give:  oreore for:  brick
+botiamgumby rolled: dice_5 dice_5
+GuestYolonc got: brick
+botiamgumby got: grain
+botiamgumby wants to give:  grain for:  brick
+Myrna8511 rolled: dice_4 dice_4
+Myrna8511 got: grain
+GuestSeale5074 got: lumber
+botiamgumby got: lumber
+GuestYolonc rolled: dice_1 dice_2
+GuestYolonc wants to give:  wool for:  grain
+GuestSeale5074 wants to give Yolonc :  lumber for:  brick
+GuestYolonc wants to give Seale5074 :  brick for:  grain
+GuestSeale5074 wants to give Yolonc :  lumberore for:  wool
+GuestYolonc wants to give:  brick for:  grain
+GuestSeale5074 wants to give Yolonc :  lumberore for:  brick
+GuestYolonc traded:  brickfor:  grain with: iamgumby
+GuestYolonc built a settlement: +1 VP
+GuestSeale5074 rolled: dice_5 dice_1
+GuestSeale5074 got: lumber
+GuestYolonc got: brickwoolwool
+GuestSeale5074 wants to give:  lumber for:  brick
+GuestSeale5074 wants to give:  lumberlumber for:  brick
+GuestSeale5074 traded:  lumberlumberfor:  brick with: Yolonc
+GuestSeale5074 built a settlement: +1 VP
+botiamgumby rolled: dice_4 dice_1
+Myrna8511 got: brick
+GuestYolonc got: ore
+botiamgumby got: grain
+botiamgumby built a settlement: +1 VP
+botiamgumby wants to give:  grain for:  brick
+Myrna8511 wants to give iamgumby :  brick for:  lumber
+botMyrna8511 traded:  brickfor:  lumber with: iamgumby
+Myrna8511 rolled: dice_4 dice_2
+GuestSeale5074 got: lumber
+GuestYolonc got: brickwoolwool
+Myrna8511 wants to give:  ore for:  brick
+GuestYolonc rolled: dice_1 dice_1
+GuestYolonc wants to give:  brick for:  graingrain
+GuestYolonc wants to give:  brick for:  grainore
+GuestYolonc wants to give:  brick for:  oreore
+GuestSeale5074 wants to give Yolonc :  oreore for:  brickbrickwool
+GuestYolonc wants to give:  brickwool for:  oreore
+GuestYolonc wants to give:  brickwool for:  grainore
+GuestYolonc gave bank:   woolwool and took   brick
+GuestYolonc built a road
+GuestYolonc built a road
+GuestSeale5074 rolled: dice_1 dice_4
+Myrna8511 got: brick
+GuestYolonc got: ore
+botiamgumby got: graingrain
+GuestSeale5074 wants to give:  ore for:  brick
+GuestSeale5074 traded:  orefor:  brick with: iamgumby
+GuestSeale5074 wants to give:  ore for:  brick
+GuestSeale5074 built a road
+botiamgumby rolled: dice_5 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+botiamgumby got: lumber
+botiamgumby wants to give:  grain for:  brick
+Myrna8511 rolled: dice_2 dice_1
+Myrna8511 built a settlement: +1 VP
+GuestYolonc rolled: dice_3 dice_1
+Myrna8511 got: wool
+GuestSeale5074 got: orelumberlumber
+GuestYolonc got: lumber
+GuestYolonc wants to give:  wool for:  ore
+GuestYolonc wants to give:  wool for:  grain
+GuestYolonc traded:  woolfor:  grain with: iamgumby
+GuestYolonc wants to give:  lumber for:  grain
+GuestYolonc wants to give:  lumber for:  ore
+GuestSeale5074 wants to give Yolonc :  ore for:  brick
+GuestSeale5074 wants to give Yolonc :  oreore for:  brick
+GuestYolonc wants to give:  wool for:  brick
+GuestYolonc gave bank:   woolwool and took   brick
+GuestYolonc wants to give:  ore for:  wool
+Myrna8511 wants to give Yolonc :  wool for:  brickore
+GuestSeale5074 wants to give Yolonc :  oreore for:  brick
+GuestYolonc wants to give:  lumberbrick for:  grainore
+GuestYolonc traded:  lumberbrickfor:  grainore with: iamgumby
+GuestYolonc built a city: +1 VP
+GuestSeale5074 rolled: dice_1 dice_6
+GuestSeale5074 moved robber robberto  prob_6 brick tile
+GuestSeale5074 wants to give:  ore for:  brick
+GuestSeale5074 wants to give:  oreore for:  brick
+GuestSeale5074 wants to give:  ore for:  lumber
+GuestSeale5074 traded:  orefor:  lumber with: iamgumby
+GuestSeale5074 gave bank:   lumberlumber and took   brick
+GuestSeale5074 built a road
+botiamgumby rolled: dice_1 dice_4
+Myrna8511 got: brick
+GuestYolonc got: oreore
+botiamgumby got: graingrain
+botiamgumby built a road
+Myrna8511 rolled: dice_1 dice_1
+Myrna8511 built a road
+GuestYolonc rolled: dice_4 dice_3
+GuestYolonc moved robber robberto  prob_8 lumber tile
+GuestYolonc stole  card from: Seale5074
+GuestSeale5074 rolled: dice_5 dice_5
+GuestYolonc got: brickbrick
+botiamgumby got: grainwool
+botiamgumby rolled: dice_5 dice_5
+GuestYolonc got: brickbrick
+botiamgumby got: grainwool
+botiamgumby bought development card
+botiamgumby gave bank:   graingraingraingrain and took   ore
+Myrna8511 rolled: dice_5 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+botiamgumby got: lumber
+GuestYolonc rolled: dice_4 dice_4
+Myrna8511 got: grain
+botiamgumby got: wool
+GuestYolonc wants to give:  brick for:  lumber
+GuestYolonc wants to give:  brick for:  wool
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc traded:  brickfor:  wool with: Seale5074
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc wants to give:  ore for:  lumber
+GuestYolonc traded:  brickfor:  grain with: iamgumby
+GuestYolonc wants to give:  oreore for:  lumber
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc traded:  oreorefor:  lumber with: iamgumby
+GuestYolonc built a settlement: +1 VP
+GuestSeale5074 rolled: dice_4 dice_5
+Myrna8511 got: oreoregrain
+GuestSeale5074 got: grain
+GuestYolonc got: ore
+botiamgumby got: brick
+botiamgumby rolled: dice_1 dice_4
+Myrna8511 got: brick
+GuestYolonc got: oreoreore
+botiamgumby got: graingrain
+botiamgumby built a city: +1 VP
+botiamgumby used card year of plenty
+botiamgumby took from bank: lumber grain
+botiamgumby built a settlement: +1 VP
+botiamgumby wants to give:  wool for:  lumber
+Myrna8511 rolled: dice_4 dice_6
+GuestYolonc got: woolbrickbrick
+botiamgumby got: graingrainwool
+Myrna8511 built a city: +1 VP
+GuestYolonc rolled: dice_5 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+botiamgumby got: lumber
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc wants to give:  brick for:  wool
+GuestSeale5074 wants to give Yolonc :  wool for:  lumberbrick
+GuestYolonc wants to give:  ore for:  grain
+GuestYolonc wants to give:  oreore for:  grain
+GuestYolonc traded:  oreorefor:  grain with: iamgumby
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc wants to give:  brick for:  wool
+GuestYolonc wants to give:  brickbrick for:  wool
+GuestYolonc wants to give:  brickbrick for:  grain
+GuestYolonc traded:  brickbrickfor:  wool with: Seale5074
+GuestYolonc gave bank:   woolwool and took   grain
+GuestYolonc built a city: +1 VP
+GuestSeale5074 rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestSeale5074 wants to give:  brick for:  lumber
+Myrna8511 wants to give Seale5074 :  lumber for:  grain
+GuestSeale5074 wants to give:  brick for:  grain
+GuestSeale5074 wants to give:  brickbrick for:  lumber
+botiamgumby rolled: dice_4 dice_6
+GuestYolonc got: woolbrickbrick
+botiamgumby got: graingrainwool
+botiamgumby gave bank:   woolwool and took   ore
+botiamgumby built a city: +1 VP
+botiamgumby built a road
+Myrna8511 rolled: dice_4 dice_3
+Myrna8511 moved robber robberto  prob_6 wool tile
+You stole:  brick from: Yolonc
+Myrna8511 wants to give:  brick for:  grain
+Myrna8511 wants to give:  lumber for:  grain
+GuestSeale5074 wants to give Myrna8511 :  brick for:  lumber
+Myrna8511 wants to give:  lumberbrick for:  grain
+Myrna8511 traded:  lumberbrickfor:  grain with: iamgumby
+Myrna8511 built a settlement: +1 VP
+GuestYolonc rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestYolonc wants to give:  lumber for:  grain
+GuestYolonc wants to give:  brick for:  grain
+GuestYolonc built a road
+GuestSeale5074 rolled: dice_5 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+botiamgumby got: lumberlumber
+GuestSeale5074 wants to give:  wool for:  lumber
+Myrna8511 wants to give Seale5074 :  lumber for:  woolgrain
+GuestSeale5074 wants to give:  brickwool for:  lumber
+GuestSeale5074 traded:  brickwoolfor:  lumber with: Myrna8511
+GuestSeale5074 built a settlement: +1 VP
+botiamgumby rolled: dice_5 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+botiamgumby got: lumberlumber
+botiamgumby built a road
+Myrna8511 rolled: dice_5 dice_3
+Myrna8511 got: graingrain
+GuestSeale5074 got: lumber
+botiamgumby got: lumberlumberwoolwoolwool
+Myrna8511 built a road
+GuestYolonc rolled: dice_3 dice_1
+Myrna8511 got: woolwool
+GuestSeale5074 got: oreorelumberlumber
+GuestYolonc got: lumberlumber
+GuestYolonc wants to give:  lumber for:  grain
+GuestYolonc wants to give:  lumberlumber for:  grain
+GuestYolonc wants to give:  lumberlumber for:  woolwool
+GuestYolonc wants to give:  lumber for:  wool
+Myrna8511 wants to give Yolonc :  wool for:  lumberlumber
+GuestSeale5074 rolled: dice_4 dice_2
+GuestSeale5074 got: lumber
+GuestYolonc got: brickbrick
+GuestSeale5074 wants to give:  wool for:  ore
+GuestSeale5074 wants to give:  wool for:  grain
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  ore for:  brick
+botiamgumby rolled: dice_2 dice_2
+Myrna8511 got: woolwool
+GuestSeale5074 got: oreorelumberlumber
+GuestYolonc got: lumberlumber
+botiamgumby gave bank:   woolwool and took   brick
+botiamgumby gave bank:   woolwool and took   grain
+botiamgumby built a settlement: +1 VP
+botiamgumby wants to give:  lumber for:  brick
+GuestYolonc wants to give iamgumby :  brick for:  grain
+Myrna8511 rolled: dice_6 dice_1
+GuestYolonc discarded: lumberlumberlumberlumber
+GuestSeale5074 discarded: lumberlumberlumberoreore
+Myrna8511 moved robber robberto  prob_10 wool tile
+You stole:  lumber from: iamgumby
+Myrna8511 gave bank:   woolwoolwool and took   brick
+Myrna8511 built a road
+GuestYolonc rolled: dice_3 dice_3
+GuestSeale5074 got: lumber
+GuestYolonc got: brickbrickwoolwoolwool
+GuestYolonc gave bank:   woolwool and took   grain
+GuestYolonc built a settlement: +1 VP
+GuestYolonc gave bank:   brickbrick and took   lumber
+GuestYolonc built a road
+GuestSeale5074 rolled: dice_2 dice_1
+GuestYolonc got: lumber
+GuestSeale5074 wants to give:  wool for:  grain
+GuestSeale5074 wants to give:  wool for:  ore
+GuestSeale5074 wants to give:  ore for:  brick
+GuestSeale5074 gave bank:   lumberlumber and took   grain
+botiamgumby rolled: dice_4 dice_3
+botiamgumby moved robber robberto  prob_9 ore tile
+botiamgumby stole  card from: Yolonc
+botiamgumby wants to give:  lumber for:  brick
+Myrna8511 rolled: dice_2 dice_4
+GuestSeale5074 got: lumber
+GuestYolonc got: brickbrickwoolwoolwool
+Myrna8511 wants to give:  grain for:  ore
+GuestSeale5074 wants to give Myrna8511 :  ore for:  brickgrain
+Myrna8511 wants to give:  woolgrain for:  ore
+Myrna8511 traded:  grainfor:  ore with: Seale5074
+Myrna8511 bought development card
+GuestYolonc rolled: dice_5 dice_5
+GuestYolonc got: woolbrickbrickbrick
+botiamgumby got: graingrainwool
+GuestYolonc gave bank:   woolwool and took   grain
+GuestYolonc gave bank:   brickbrick and took   lumber
+GuestYolonc built a settlement: +1 VP
+GuestYolonc built a road
+GuestYolonc received longest road: +2 VPs
+trophy Yolonc  won the game! trophy

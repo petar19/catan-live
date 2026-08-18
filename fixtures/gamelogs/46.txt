@@ -1,0 +1,436 @@
+Guestprats#5383 placed a settlement
+Guestprats#5383 placed a road
+UserRemonkeyman6 placed a settlement
+UserRemonkeyman6 placed a road
+Guestcaroo#0619 placed a settlement
+Guestcaroo#0619 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: oregrain
+Guestcaroo#0619 placed a settlement
+Guestcaroo#0619 placed a road
+Guestcaroo#0619 received starting resources: lumber
+UserRemonkeyman6 placed a settlement
+UserRemonkeyman6 placed a road
+UserRemonkeyman6 received starting resources:  bricklumberlumber
+Guestprats#5383 placed a settlement
+Guestprats#5383 placed a road
+Guestprats#5383 received starting resources:  brickwool
+Guestprats#5383 rolled: dice_1 dice_2
+UserRemonkeyman6 rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: ore
+UserRemonkeyman6 got: ore
+Guestprats#5383 got: wool
+UserRemonkeyman6 built a road
+Guestcaroo#0619 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: ore
+UserRemonkeyman6 got: ore
+Guestprats#5383 got: wool
+icon_helmetMyrna8511 rolled: dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber: prob_4 brick
+icon_helmetYou stole: lumber from: Remonkeyman6
+botcaroo#0619 has left the game, giving them 2 minutes to reconnect.
+botcaroo#0619 has disconnected. Bot will wait until next turn to give caroo#0619 a chance to reconnect.
+Guestprats#5383 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: lumber
+botcaroo#0619 got:  brick
+Guestprats#5383 wants to give: wool for: lumber
+Guestprats#5383 traded: woolfor: lumber with: Myrna8511
+Guestprats#5383 built a road
+UserRemonkeyman6 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: lumber
+Guestprats#5383 got: ore
+botcaroo#0619 got: lumber
+botcaroo#0619 rolled: dice_2 dice_6
+UserRemonkeyman6 got: lumberwool
+Guestprats#5383 got: lumber brick
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+botcaroo#0619 got:  brick
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 gave bank: lumberlumber and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+Guestprats#5383 rolled: dice_3 dice_5
+UserRemonkeyman6 got: lumberwool
+Guestprats#5383 got: lumber brick
+Guestprats#5383 wants to give: lumberwool for: grain
+Guestprats#5383 wants to give: woolore for: grain
+Guestprats#5383 wants to give: lumberwoolore for: grain
+Guestprats#5383 wants to give: lumber brickwoolore for: grain
+Guestprats#5383 built a road
+UserRemonkeyman6 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+botcaroo#0619 got:  brick
+botcaroo#0619 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: oreore
+UserRemonkeyman6 got: ore
+Guestprats#5383 got: wool
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber: prob_8 lumber
+icon_helmetYou stole: wool from: prats#5383
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+Guestprats#5383 wants to give Myrna8511 : wool for: grain
+icon_helmetMyrna8511 wants to give: lumberwool for:  brick
+icon_helmetMyrna8511 traded: lumberwoolfor:  brick with: caroo#0619
+icon_helmetMyrna8511 built a road
+Guestprats#5383 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+botcaroo#0619 got:  brick
+UserRemonkeyman6 rolled: dice_5 dice_2
+UserRemonkeyman6 moved robber robber: prob_6 grain
+UserRemonkeyman6 stole: ore from you
+UserRemonkeyman6 wants to give: lumberwool for:  brick
+UserRemonkeyman6 traded: lumberwoolfor:  brick with: caroo#0619
+UserRemonkeyman6 gave bank: oreoreoreore and took grain
+UserRemonkeyman6 built a settlement: +1 VP
+botcaroo#0619 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+botcaroo#0619 got:  brick
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: ore
+botcaroo#0619 got:  bricklumber
+icon_helmetMyrna8511 wants to give: ore for:  brick
+Guestprats#5383 rolled: dice_2 dice_4
+botcaroo#0619 got:  brick
+UserRemonkeyman6 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: ore
+botcaroo#0619 got:  bricklumber
+botcaroo#0619 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: ore
+botcaroo#0619 got:  bricklumber
+botcaroo#0619 gave bank:  brick brick and took grain
+botcaroo#0619 built a settlement: +1 VP
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_4
+botcaroo#0619 got:  brick brick
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 gave bank: lumberlumberlumberlumber and took  brickgrain
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestprats#5383 rolled: dice_3 dice_4
+prats#5383 discarding resource cards
+Guestprats#5383 discarded: wooloreoreore
+Guestprats#5383 moved robber robber: prob_5 ore
+Guestprats#5383 stole card from: Remonkeyman6
+UserRemonkeyman6 rolled: dice_5 dice_6
+UserRemonkeyman6 got: lumberlumber
+UserRemonkeyman6 built a road
+UserRemonkeyman6 built a road
+botcaroo#0619 rolled: dice_5 dice_6
+UserRemonkeyman6 got: lumberlumber
+botcaroo#0619 built a road
+botcaroo#0619 received longest road: +2 VPs
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: graingrain
+botcaroo#0619 got:  brick brick
+Guestprats#5383 rolled: dice_4 dice_3
+Guestprats#5383 moved robber robber: prob_6 brick
+Guestprats#5383 stole card from: caroo#0619
+Guestprats#5383 wants to give:  brick for: grain
+Guestprats#5383 wants to give:  brick brick for: grain
+Guestprats#5383 wants to give:  brick brickore for: grain
+Guestprats#5383 traded:  brick brickorefor: grain with: Myrna8511
+Guestprats#5383 built a settlement: +1 VP
+UserRemonkeyman6 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: ore
+UserRemonkeyman6 got: wool
+botcaroo#0619 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: woollumber
+botcaroo#0619 got:  brick
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: woollumber
+botcaroo#0619 got:  brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 traded: woolfor: lumber with: Remonkeyman6
+icon_helmetMyrna8511 gave bank: lumberlumber and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+icon_helmetMyrna8511 built a road
+Guestprats#5383 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: oreoreore
+UserRemonkeyman6 got: oregrain
+Guestprats#5383 got: wool
+UserRemonkeyman6 rolled: dice_4 dice_3
+UserRemonkeyman6 moved robber robber: prob_6 grain
+UserRemonkeyman6 stole: wool from you
+UserRemonkeyman6 gave bank: woolwool and took  brick
+UserRemonkeyman6 built a settlement: +1 VP
+botcaroo#0619 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: ore
+botcaroo#0619 got:  bricklumber
+botcaroo#0619 gave bank:  brick brick and took grain
+botcaroo#0619 built a settlement: +1 VP
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_3
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+icon_helmetMyrna8511 built a road
+Guestprats#5383 rolled: dice_1 dice_1
+Guestprats#5383 got: woolwool
+Guestprats#5383 wants to give: ore for: grain
+Guestprats#5383 wants to give: wool for: grain
+Guestprats#5383 wants to give: woolore for: grain
+Guestprats#5383 wants to give: woolwoolore for: grain
+Guestprats#5383 wants to give: ore for: woolwool
+UserRemonkeyman6 rolled: dice_6 dice_5
+UserRemonkeyman6 got: lumberlumber
+Guestprats#5383 got: lumber
+botcaroo#0619 got: lumber
+UserRemonkeyman6 built a road
+UserRemonkeyman6 gave bank: woolwool and took  brick
+UserRemonkeyman6 built a road
+botcaroo#0619 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreoreore
+UserRemonkeyman6 got: oregrain
+Guestprats#5383 got: wool
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+prats#5383 discarding resource cards
+Guestprats#5383 discarded: lumberwoolwoolwool
+icon_helmetMyrna8511 moved robber robber: prob_8 lumber
+icon_helmetYou stole: grain from: Remonkeyman6
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: oreore for:  brick
+icon_helmetMyrna8511 wants to give: oreore for: wool
+icon_helmetMyrna8511 wants to give: oreoreore for: wool
+icon_helmetMyrna8511 wants to give: oreoreore for:  brick
+icon_helmetMyrna8511 wants to give: oreoreoreoreoreore for:  brickwool
+icon_helmetMyrna8511 traded: oreoreorefor:  brick with: caroo#0619
+Guestprats#5383 rolled: dice_1 dice_6
+Guestprats#5383 moved robber robber: prob_6 brick
+Guestprats#5383 stole card from: caroo#0619
+Guestprats#5383 wants to give: oreore for: grain
+Guestprats#5383 built a road
+UserRemonkeyman6 rolled: dice_4 dice_4
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+UserRemonkeyman6 wants to give: ore for: wool
+UserRemonkeyman6 wants to give: lumberoreore for: woolgrain
+botcaroo#0619 rolled: dice_1 dice_6
+botcaroo#0619 moved robber robber: prob_6 grain
+botcaroo#0619 stole: lumber from you
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: ore
+botcaroo#0619 got:  bricklumber
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: oreore for: lumber
+icon_helmetMyrna8511 wants to give: oreore for: wool
+icon_helmetMyrna8511 traded: oreorefor: lumber with: caroo#0619
+icon_helmetMyrna8511 gave bank: lumberlumber and took wool
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestprats#5383 rolled: dice_2 dice_6
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+Guestprats#5383 wants to give:  brick for: ore
+Guestprats#5383 traded:  brickfor: ore with: Myrna8511
+Guestprats#5383 gave bank: oreoreoreore and took grain
+Guestprats#5383 built a settlement: +1 VP
+UserRemonkeyman6 rolled: dice_2 dice_1
+botcaroo#0619 got: grain
+UserRemonkeyman6 gave bank: woolwool and took grain
+UserRemonkeyman6 built a settlement: +1 VP
+UserRemonkeyman6 wants to give: lumber for: grain
+UserRemonkeyman6 wants to give: lumberlumber for: grain
+UserRemonkeyman6 traded: lumberlumberfor: grain with: caroo#0619
+UserRemonkeyman6 bought development card
+botcaroo#0619 rolled: dice_4 dice_4
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+botcaroo#0619 gave bank: oreoreoreore and took grain
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: wool
+UserRemonkeyman6 got: wool
+botcaroo#0619 got:  brick brick brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 traded: woolfor: lumber with: caroo#0619
+icon_helmetMyrna8511 built a road
+Guestprats#5383 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: oreore
+UserRemonkeyman6 got: wool
+UserRemonkeyman6 rolled: dice_1 dice_1
+Guestprats#5383 got: woolwool
+UserRemonkeyman6 gave bank: woolwool and took  brick
+UserRemonkeyman6 built a road
+botcaroo#0619 rolled: dice_5 dice_3
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+botcaroo#0619 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreoreorewool
+UserRemonkeyman6 got: oregrain
+Guestprats#5383 got: grainwool
+icon_helmetMyrna8511 wants to give: oreoreore for: lumber brickgrain
+icon_helmetMyrna8511 wants to give: oreoreoreore for: lumber brickgrain
+Guestprats#5383 rolled: dice_4 dice_3
+Remonkeyman6 and prats#5383 discarding resource cards
+UserRemonkeyman6 discarded: lumberwoolwoolwool
+Guestprats#5383 discarded: lumberwoolwoolwool
+Guestprats#5383 moved robber robber: prob_6 brick
+Guestprats#5383 stole card from: caroo#0619
+Guestprats#5383 built a road
+Guestprats#5383 built a road
+UserRemonkeyman6 rolled: dice_4 dice_4
+UserRemonkeyman6 got: lumberwoolwool
+Guestprats#5383 got: lumber brick
+UserRemonkeyman6 wants to give: lumber for: ore
+UserRemonkeyman6 wants to give: lumber for: wool
+UserRemonkeyman6 traded: lumberfor: ore with: Myrna8511
+UserRemonkeyman6 gave bank: woolwool and took grain
+UserRemonkeyman6 built a city: +1 VP
+botcaroo#0619 rolled: dice_1 dice_2
+botcaroo#0619 got: oregrain
+botcaroo#0619 built a road
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreoreorewool
+UserRemonkeyman6 got: oreoregrain
+Guestprats#5383 got: grainwool
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 traded: orefor:  brick with: prats#5383
+icon_helmetMyrna8511 wants to give: oreore for: grain
+icon_helmetMyrna8511 gave bank: oreoreoreore and took grain
+icon_helmetMyrna8511 built a settlement: +1 VP
+Guestprats#5383 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: graingrainwool
+UserRemonkeyman6 got: wool
+Guestprats#5383 got: grain
+Guestprats#5383 built a settlement: +1 VP
+Guestprats#5383 wants to give: grain for: wool
+Guestprats#5383 traded: grainfor: wool with: Remonkeyman6
+Guestprats#5383 bought development card
+UserRemonkeyman6 rolled: dice_5 dice_6
+UserRemonkeyman6 got: lumberlumber
+Guestprats#5383 got: lumber
+botcaroo#0619 got: lumberlumber
+UserRemonkeyman6 wants to give: lumber for: ore
+icon_helmetMyrna8511 started an embargo against Remonkeyman6
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : lumberlumber for: ore
+UserRemonkeyman6 bought development card
+botcaroo#0619 rolled: dice_5 dice_3
+UserRemonkeyman6 got: lumberwoolwoolwool
+Guestprats#5383 got: lumber brick brick
+botcaroo#0619 wants to give: ore for:  brick
+botcaroo#0619 traded: orefor:  brick with: prats#5383
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: oreore
+UserRemonkeyman6 got: woolwool
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+Guestprats#5383 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: oreore
+botcaroo#0619 got:  brick bricklumber
+Guestprats#5383 wants to give:  brick for: grain
+Guestprats#5383 gave bank: lumberlumber and took grain
+UserRemonkeyman6 rolled: dice_1 dice_6
+Remonkeyman6 discarding resource cards
+UserRemonkeyman6 discarded: lumberlumberlumber brickwool
+UserRemonkeyman6 moved robber robber: prob_6 grain
+UserRemonkeyman6 stole: lumber from you
+UserRemonkeyman6 used Monopoly card monopoly
+UserRemonkeyman6 stole 5: ore
+UserRemonkeyman6 gave bank: woolwool and took grain
+UserRemonkeyman6 built a city: +1 VP
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : ore for: grain
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : oreore for: grain
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : lumberoreore for: grain
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : lumberwooloreore for: grain
+UserRemonkeyman6 traded: lumberwooloreorefor: grain with: prats#5383
+UserRemonkeyman6 bought development card
+botcaroo#0619 rolled: dice_6 dice_1
+botcaroo#0619 moved robber robber: prob_8 lumber
+botcaroo#0619 stole card from: prats#5383
+botcaroo#0619 built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_8 wool
+icon_helmetNo player to steal from
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: oreoreorewool
+UserRemonkeyman6 got: oreoregrain
+Guestprats#5383 got: grainwool
+Guestprats#5383 rolled: dice_2 dice_6
+UserRemonkeyman6 got: lumber
+Guestprats#5383 got: lumber brick brick
+Guestprats#5383 wants to give: wool for: ore
+Guestprats#5383 wants to give:  brickwool for: ore
+Guestprats#5383 traded: woolfor: ore with: caroo#0619
+Guestprats#5383 gave bank:  brick brick and took grain
+Guestprats#5383 gave bank: lumberlumber and took ore
+Guestprats#5383 built a city: +1 VP
+UserRemonkeyman6 used Knight card knight
+UserRemonkeyman6 moved robber robber: prob_10 lumber
+UserRemonkeyman6 stole: ore from you
+UserRemonkeyman6 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: oreoreore
+botcaroo#0619 got:  brick bricklumber
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : oreoreore for: wool
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 : lumber brick for: grain
+UserRemonkeyman6 built a road
+botcaroo#0619 rolled: dice_1 dice_1
+Guestprats#5383 got: woolwool
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: oreore
+UserRemonkeyman6 got: woolwool
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank: grain grain
+icon_helmetMyrna8511 built a city: +1 VP
+icon_helmetMyrna8511 gave bank: lumberlumber and took grain
+icon_helmetMyrna8511 bought development card
+Guestprats#5383 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: oreoreore
+botcaroo#0619 got:  brick bricklumber
+Guestprats#5383 wants to give: ore for: grain
+Guestprats#5383 wants to give: oreore for: grain
+Guestprats#5383 wants to give:  brickwoolwooloreore for: graingrain
+Guestprats#5383 gave bank: oreoreoreore and took grain
+Guestprats#5383 bought development card
+UserRemonkeyman6 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreoreorewoolwool
+UserRemonkeyman6 got: oreoregrain
+Guestprats#5383 got: grainwoolwool
+UserRemonkeyman6 built a city: +1 VP
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 :  brick for: grain
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 :  brickwoolore for: grain
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 :  brick for: wool
+UserRemonkeyman6 wants to give prats#5383 & caroo#0619 :  brickore for: wool
+botcaroo#0619 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: oreoreore
+botcaroo#0619 got:  brick bricklumber
+botcaroo#0619 gave bank:  brick brick and took ore
+botcaroo#0619 bought development card
+botcaroo#0619 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+UserRemonkeyman6 got:  brick
+Guestprats#5383 got: oreoreore
+botcaroo#0619 got:  brick bricklumber
+icon_helmetMyrna8511 gave bank: lumberlumberlumberlumber and took graingrain
+icon_helmetMyrna8511 built a city: +1 VP
+trophy Myrna8511 won the game

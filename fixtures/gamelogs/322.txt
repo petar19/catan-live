@@ -1,0 +1,401 @@
+Yolonc placed a Settlement settlement
+Yolonc placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 placed a Road road
+LeSuperColon placed a Settlement settlement
+LeSuperColon placed a Road road
+LeSuperColon placed a Settlement settlement
+LeSuperColon received starting resources Grain Wool Lumber
+LeSuperColon placed a Road road
+Kent#3816 placed a Settlement settlement
+Kent#3816 received starting resources Lumber Brick
+Kent#3816 placed a Road road
+Myrna8511 placed a Settlement settlement
+Myrna8511 received starting resources Grain Grain Ore
+Myrna8511 placed a Road road
+Yolonc placed a Settlement settlement
+Yolonc received starting resources Ore Lumber
+Yolonc placed a Road road
+Yolonc rolled dice_2 dice_6
+Myrna8511 got Lumber
+LeSuperColon got Wool
+Myrna8511 rolled dice_4 dice_1
+Myrna8511 got Grain
+Kent#3816 got Lumber Brick
+Yolonc got Brick
+Myrna8511 wants to give Grain for Brick
+Kent#3816 proposed counter offer to Myrna8511, offering Brick for Grain Any Resource
+Kent#3816 rolled dice_1 dice_4
+Myrna8511 got Grain
+Kent#3816 got Lumber Brick
+Yolonc got Brick
+Kent#3816 built a Road road
+Kent#3816 built a Road road
+Kent#3816 built a Road road
+LeSuperColon rolled dice_4 dice_1
+Myrna8511 got Grain
+Kent#3816 got Lumber Brick
+Yolonc got Brick
+Yolonc rolled dice_2 dice_2
+Myrna8511 got Wool
+Kent#3816 got Grain
+Yolonc got Lumber
+Myrna8511 has disconnected. A bot will take over next turn unless Myrna8511 reconnects.
+Yolonc built a Road road
+Myrna8511 rolled dice_5 dice_5
+Kent#3816 got Lumber
+Yolonc got Lumber
+LeSuperColon got Grain
+Myrna8511 has reconnected
+Myrna8511 wants to give Grain Grain for Brick
+Yolonc proposed counter offer to Myrna8511, offering Brick for Grain Wool
+Myrna8511 bought Development Card
+Kent#3816 rolled dice_6 dice_6
+Kent#3816 wants to give Lumber for Wool
+Kent#3816 built a Road road
+Kent#3816 received Longest Road longest road (+2 VPs)
+LeSuperColon rolled dice_3 dice_4
+LeSuperColon moved Robber robber to  prob_5 brick tile
+LeSuperColon stole Resource Card from Kent#3816
+Yolonc rolled dice_4 dice_5
+Myrna8511 got Wool
+LeSuperColon got Brick
+Yolonc wants to give Brick for Wool Grain
+Yolonc wants to give Brick Ore for Wool Grain
+Yolonc gave Brick Ore and got Wool Grain from Myrna8511
+Yolonc built a Settlement settlement (+1 VP)
+Myrna8511 rolled dice_6 dice_6
+Yolonc got Wool
+Myrna8511 built a Road road
+Kent#3816 rolled dice_1 dice_5
+Myrna8511 got Grain
+Kent#3816 got Wool
+Yolonc got Ore Ore Grain
+LeSuperColon got Ore
+LeSuperColon rolled dice_2 dice_5
+LeSuperColon discarded Wool Grain Lumber Ore
+LeSuperColon moved Robber robber to  prob_6 grain tile
+LeSuperColon stole Resource Card from Yolonc
+LeSuperColon built a Road road
+LeSuperColon bought Development Card
+Yolonc rolled dice_5 dice_3
+Myrna8511 got Lumber
+LeSuperColon got Wool
+Yolonc bought Development Card
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_9 brick tile
+You stole Wool from LeSuperColon
+Myrna8511 rolled dice_1 dice_4
+Myrna8511 got Grain
+Kent#3816 got Lumber Brick
+Yolonc got Brick
+Myrna8511 gave bank Grain Grain Grain Grain and took Brick
+Myrna8511 built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_5 dice_1
+Myrna8511 got Grain
+Kent#3816 got Wool
+Yolonc got Ore Ore Grain
+LeSuperColon got Ore
+Kent#3816 built a Settlement settlement (+1 VP)
+LeSuperColon used 
+LeSuperColon moved Robber robber to  prob_6 grain tile
+LeSuperColon stole Ore from you
+LeSuperColon rolled dice_4 dice_5
+Myrna8511 got Wool
+Kent#3816 got Wool
+LeSuperColon got Brick
+Yolonc used 
+Yolonc moved Robber robber to  prob_9 wool tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc rolled dice_4 dice_1
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber Brick Brick
+Yolonc got Brick
+Yolonc built a Road road
+Yolonc wants to give Ore for Lumber
+Yolonc bought Development Card
+Myrna8511 rolled dice_2 dice_1
+Myrna8511 got Ore
+Kent#3816 rolled dice_1 dice_4
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber Brick Brick
+Yolonc got Brick
+Kent#3816 wants to give Brick for Grain
+Kent#3816 gave Brick and got Grain from Myrna8511
+Kent#3816 built a Road road
+Kent#3816 built a Settlement settlement (+1 VP)
+LeSuperColon rolled dice_2 dice_3
+Myrna8511 got Grain Grain
+Kent#3816 got Lumber Brick Brick
+Yolonc got Brick
+Yolonc rolled dice_5 dice_5
+Kent#3816 got Lumber
+Yolonc got Wool Lumber
+LeSuperColon got Grain
+Yolonc wants to give Brick for Grain
+Myrna8511 proposed counter offer to Yolonc, offering Grain for Brick Ore
+Myrna8511 proposed counter offer to Yolonc, offering Grain for Ore
+Yolonc gave Ore and got Grain from Myrna8511
+Yolonc built a Settlement settlement (+1 VP)
+Myrna8511 rolled dice_2 dice_1
+Myrna8511 got Ore
+Myrna8511 wants to give Grain for Ore
+Myrna8511 built a City city (+1 VP)
+Myrna8511 wants to give Grain for Lumber
+Kent#3816 rolled dice_6 dice_2
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+LeSuperColon got Wool
+Kent#3816 built a Road road
+Kent#3816 built a Road road
+LeSuperColon rolled dice_2 dice_6
+Myrna8511 got Lumber
+Kent#3816 got Lumber
+LeSuperColon got Wool
+LeSuperColon wants to give Wool for Lumber
+Kent#3816 proposed counter offer to LeSuperColon, offering Lumber for Wool Grain
+Myrna8511 proposed counter offer to LeSuperColon, offering Lumber for Ore
+LeSuperColon bought Development Card
+Yolonc rolled dice_4 dice_5
+ prob_9 wool tile is blocked by the Robber. No resources produced
+Yolonc got Ore
+LeSuperColon got Brick
+Myrna8511 rolled dice_6 dice_4
+Kent#3816 got Lumber
+Yolonc got Wool Wool Lumber
+LeSuperColon got Grain
+Myrna8511 wants to give Grain for Brick
+Kent#3816 proposed counter offer to Myrna8511, offering Lumber for Grain
+Myrna8511 wants to give Lumber for Brick
+Myrna8511 gave Grain and got Brick from Yolonc
+Myrna8511 built a Road road
+Myrna8511 built a Settlement settlement (+1 VP)
+Kent#3816 rolled dice_1 dice_5
+Myrna8511 got Grain Grain
+Kent#3816 got Wool
+Yolonc got Ore Ore Grain
+LeSuperColon got Ore
+Kent#3816 wants to give Lumber for Grain
+Kent#3816 wants to give Lumber Lumber for Grain
+Kent#3816 gave Lumber Lumber and got Grain from LeSuperColon
+Kent#3816 built a Settlement settlement (+1 VP)
+LeSuperColon rolled dice_1 dice_2
+Myrna8511 got Ore Ore
+LeSuperColon built a Road road
+LeSuperColon built a Road road
+Yolonc rolled dice_4 dice_6
+Kent#3816 got Lumber
+Yolonc got Wool Wool Lumber
+LeSuperColon got Grain
+Yolonc built a City city (+1 VP)
+Yolonc wants to give Wool for Grain
+Yolonc wants to give Wool for Ore
+Yolonc wants to give Wool for Brick
+Myrna8511 proposed counter offer to Yolonc, offering Grain for Wool Wool
+Yolonc gave Wool Wool and got Grain from Myrna8511
+Myrna8511 rolled dice_4 dice_6
+Kent#3816 got Lumber
+Yolonc got Wool Wool Lumber
+LeSuperColon got Grain
+Myrna8511 bought Development Card
+Myrna8511 bought Development Card
+Kent#3816 rolled dice_4 dice_4
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber
+LeSuperColon got Wool
+Kent#3816 wants to give Lumber for Ore
+Kent#3816 gave bank Lumber Lumber and took Ore
+LeSuperColon rolled dice_1 dice_1
+Kent#3816 got Grain
+LeSuperColon used 
+LeSuperColon took from bank Lumber Brick
+LeSuperColon built a Settlement settlement (+1 VP)
+LeSuperColon bought Development Card
+Yolonc rolled dice_6 dice_6
+Yolonc got Wool
+LeSuperColon got Wool
+Yolonc gave bank Wool Wool Wool and took Ore
+Yolonc bought Development Card
+Myrna8511 rolled dice_6 dice_6
+Yolonc got Wool
+LeSuperColon got Wool
+Kent#3816 rolled dice_5 dice_4
+ prob_9 wool tile is blocked by the Robber. No resources produced
+Yolonc got Ore
+LeSuperColon got Brick Brick
+LeSuperColon rolled dice_6 dice_1
+LeSuperColon moved Robber robber to  prob_6 wool tile
+LeSuperColon stole Resource Card from Kent#3816
+LeSuperColon used 
+LeSuperColon moved Robber robber to  prob_5 brick tile
+LeSuperColon stole Resource Card from Kent#3816
+LeSuperColon built a Road road
+LeSuperColon wants to give Wool for Lumber
+Myrna8511 proposed counter offer to LeSuperColon, offering Lumber for Wool Any Resource
+Yolonc proposed counter offer to LeSuperColon, offering Lumber for Ore
+LeSuperColon gave Ore and got Lumber from Myrna8511
+LeSuperColon built a Settlement settlement (+1 VP)
+Yolonc used 
+Yolonc moved Robber robber to  prob_8 lumber tile
+Yolonc stole Lumber from you
+Yolonc rolled dice_2 dice_6
+ prob_8 lumber tile is blocked by the Robber. No resources produced
+LeSuperColon got Wool Wool
+Yolonc gave bank Lumber Lumber Lumber and took Grain
+Yolonc bought Development Card
+Yolonc built a Road road
+Myrna8511 rolled dice_1 dice_2
+Myrna8511 got Ore Ore
+Myrna8511 wants to give Ore Ore for Wool Grain
+Myrna8511 used 
+Myrna8511 placed a Road road
+Myrna8511 placed a Road road
+Kent#3816 rolled dice_2 dice_5
+Kent#3816 moved Robber robber to  prob_6 grain tile
+Kent#3816 stole Ore from you
+LeSuperColon rolled dice_5 dice_3
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber
+LeSuperColon got Wool Wool
+LeSuperColon wants to give Wool for Lumber
+Kent#3816 proposed counter offer to LeSuperColon, offering Lumber for Ore
+LeSuperColon gave Wool and got Lumber from Myrna8511
+LeSuperColon wants to give Wool for Grain
+LeSuperColon gave bank Wool Wool and took Grain
+Yolonc rolled dice_4 dice_3
+Yolonc moved Robber robber to  prob_8 lumber tile
+Yolonc stole Ore from you
+Myrna8511 rolled dice_3 dice_6
+Myrna8511 got Wool
+Kent#3816 got Wool
+Yolonc got Ore
+LeSuperColon got Brick Brick
+Myrna8511 wants to give Lumber for Wool
+Kent#3816 proposed counter offer to Myrna8511, offering Wool for Lumber Any Resource
+Myrna8511 gave Lumber and got Wool from LeSuperColon
+Myrna8511 gave bank Wool Wool and took Grain
+Myrna8511 bought Development Card
+Kent#3816 rolled dice_3 dice_4
+Kent#3816 moved Robber robber to  prob_6 grain tile
+Kent#3816 stole Resource Card from Yolonc
+Kent#3816 wants to give Wool for Grain
+Kent#3816 wants to give Wool for Lumber
+LeSuperColon rolled dice_1 dice_1
+Kent#3816 got Grain
+LeSuperColon built a Road road
+LeSuperColon built a Road road
+Yolonc rolled dice_6 dice_6
+Yolonc got Wool
+LeSuperColon got Wool
+Myrna8511 rolled dice_4 dice_3
+Myrna8511 moved Robber robber to  prob_6 ore tile
+You stole Wool from Yolonc
+Myrna8511 used 
+Myrna8511 took from bank Grain Ore
+Myrna8511 bought Development Card
+Kent#3816 rolled dice_4 dice_6
+Kent#3816 got Lumber
+Yolonc got Wool Wool Lumber
+LeSuperColon got Grain
+Kent#3816 wants to give Lumber for Grain
+Kent#3816 gave Lumber and got Grain from LeSuperColon
+Kent#3816 built a City city (+1 VP)
+LeSuperColon rolled dice_6 dice_2
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+LeSuperColon got Wool Wool
+LeSuperColon gave bank Wool Wool and took Brick
+LeSuperColon built a Settlement settlement (+1 VP)
+Yolonc rolled dice_1 dice_6
+Yolonc moved Robber robber to  prob_8 lumber tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc gave bank Wool Wool Wool and took Grain
+Yolonc bought Development Card
+Myrna8511 rolled dice_1 dice_2
+Myrna8511 got Ore Ore
+Kent#3816 rolled dice_6 dice_6
+Yolonc got Wool
+LeSuperColon got Wool
+LeSuperColon rolled dice_3 dice_3
+Myrna8511 got Grain Grain
+Kent#3816 got Wool Wool
+Yolonc got Ore Ore Grain Grain
+LeSuperColon got Ore
+Yolonc rolled dice_1 dice_1
+Kent#3816 got Grain Grain
+Yolonc wants to give Grain for Ore
+Myrna8511 started an embargo against Yolonc
+Yolonc wants to give Grain for Wool
+Yolonc used 
+Yolonc stole 4 grain
+Yolonc gave bank Grain Grain Grain and took Ore
+Yolonc built a City city (+1 VP)
+Myrna8511 rolled dice_4 dice_2
+Myrna8511 got Grain Grain
+Kent#3816 got Wool Wool
+Yolonc got Ore Ore Ore Grain Grain
+LeSuperColon got Ore
+Myrna8511 wants to give Lumber for Wool
+Myrna8511 wants to give Ore for Wool
+Myrna8511 gave Ore and got Wool from Kent#3816
+Myrna8511 wants to give Lumber for Wool
+Myrna8511 wants to give Ore for Wool
+Myrna8511 gave Lumber and got Wool from LeSuperColon
+Myrna8511 used 
+Myrna8511 stole 6 ore
+Myrna8511 bought Development Card
+Myrna8511 bought Development Card
+Myrna8511 wants to give Lumber Ore for Wool
+Myrna8511 gave Lumber Ore and got Wool from LeSuperColon
+Myrna8511 gave bank Ore Ore Ore and took Grain
+Myrna8511 bought Development Card
+Kent#3816 rolled dice_3 dice_4
+Kent#3816 moved Robber robber to  prob_6 grain tile
+Kent#3816 stole Resource Card from Yolonc
+Kent#3816 wants to give Wool for Brick
+Kent#3816 wants to give Wool Wool for Brick
+LeSuperColon rolled dice_5 dice_2
+LeSuperColon moved Robber robber to  prob_8 lumber tile
+LeSuperColon stole Resource Card from Kent#3816
+Yolonc rolled dice_2 dice_4
+Myrna8511 got Grain Grain
+Kent#3816 got Wool Wool
+Yolonc got Ore Ore Ore Grain Grain
+LeSuperColon got Ore
+Yolonc bought Development Card
+Yolonc wants to give Grain Grain for Wool
+Yolonc wants to give Ore for Wool
+Kent#3816 started an embargo against Yolonc
+Yolonc wants to give Ore Grain for Wool
+Yolonc wants to give Lumber for Wool
+Yolonc wants to give Grain Grain Lumber for Wool
+Yolonc wants to give Grain Lumber for Ore
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_10 wool tile
+You stole Grain from Yolonc
+Myrna8511 rolled dice_2 dice_5
+Kent#3816 discarded Wool Wool Wool Wool
+Myrna8511 moved Robber robber to  prob_6 ore tile
+You stole Ore from Yolonc
+Myrna8511 wants to give Grain for Wool
+Kent#3816 rolled dice_2 dice_6
+Myrna8511 got Lumber Lumber
+Kent#3816 got Lumber Lumber
+LeSuperColon got Wool Wool Wool
+Kent#3816 wants to give Lumber for Brick
+Kent#3816 gave bank Lumber Lumber and took Brick
+Kent#3816 built a Road road
+LeSuperColon rolled dice_2 dice_5
+LeSuperColon discarded Lumber Wool Wool Ore
+LeSuperColon moved Robber robber to  prob_5 brick tile
+LeSuperColon stole Resource Card from Yolonc
+LeSuperColon bought Development Card
+Yolonc rolled dice_1 dice_6
+Yolonc moved Robber robber to  prob_6 wool tile
+Yolonc stole Resource Card from Kent#3816
+Yolonc used 
+Yolonc received Largest Army largest army (+2 VPs)
+trophy Yolonc won the game! trophy
+LeSuperColon has left the game

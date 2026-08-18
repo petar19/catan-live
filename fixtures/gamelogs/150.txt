@@ -1,0 +1,301 @@
+UserNoTeam has disconnected. Bot will wait until next turn to give NoTeam a chance to reconnect.
+botNoTeam has left the game
+UserNoTeam has reconnected
+UserNoTeam has disconnected. Bot will wait until next turn to give NoTeam a chance to reconnect.
+botNoTeam has left the game
+UserNoTeam has disconnected. Bot will wait until next turn to give NoTeam a chance to reconnect.
+botNoTeam has left the game
+botNoTeam has reconnected
+UserNoTeam has reconnected
+Settlerglantz4887 placed a settlement
+Settlerglantz4887 placed a road
+Settlerglantz4887 has disconnected. Bot will wait until next turn to give glantz4887 a chance to reconnect.
+botglantz4887 has left the game
+GuestHotBuns placed a settlement
+GuestHotBuns placed a road
+Settlerglantz4887 has reconnected
+Settlerglantz4887 has disconnected. Bot will wait until next turn to give glantz4887 a chance to reconnect.
+botglantz4887 has left the game
+Settlerglantz4887 has reconnected
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+UserNoTeam placed a settlement
+UserNoTeam placed a road
+UserNoTeam placed a settlement
+UserNoTeam placed a road
+UserNoTeam received starting resources brickgrainlumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources orebrickbrick
+GuestHotBuns placed a settlement
+GuestHotBuns placed a road
+GuestHotBuns received starting resources lumberorebrick
+Settlerglantz4887 placed a settlement
+Settlerglantz4887 placed a road
+Settlerglantz4887 received starting resources brickgrainwool
+Settlerglantz4887 rolled dice_5 dice_4
+GuestHotBuns got woolbrick
+Settlerglantz4887 got brick
+icon_helmetMyrna8511 got brick
+GuestHotBuns rolled dice_1 dice_4
+GuestHotBuns got ore
+Settlerglantz4887 got wool
+icon_helmetMyrna8511 got ore
+GuestHotBuns built a road
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_4 lumber tile
+icon_helmetYou stole brick from NoTeam
+UserNoTeam rolled dice_4 dice_1
+GuestHotBuns got ore
+Settlerglantz4887 got wool
+icon_helmetMyrna8511 got ore
+Settlerglantz4887 rolled dice_3 dice_4
+SettlerBot is selecting where to place robber for glantz4887
+Settlerglantz4887 moved robber robber to  prob_6 brick tile
+Settlerglantz4887 stole brick from you
+Settlerglantz4887 wants to give wool for ore
+Settlerglantz4887 traded wool for ore with HotBuns
+Settlerglantz4887 bought development card
+GuestHotBuns rolled dice_5 dice_3
+UserNoTeam got wool
+Settlerglantz4887 got grain
+GuestHotBuns wants to give ore for grain
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_4 lumber tile
+icon_helmetYou stole brick from HotBuns
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give brickore for lumber
+icon_helmetMyrna8511 wants to give ore for brick
+UserNoTeam rolled dice_1 dice_2
+UserNoTeam got lumberlumber
+icon_helmetMyrna8511 got lumber
+Settlerglantz4887 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded brickbrickoreore
+Settlerglantz4887 moved robber robber to  prob_5 ore tile
+Settlerglantz4887 stole card from HotBuns
+Settlerglantz4887 wants to give brick for lumber
+Settlerglantz4887 traded brick for lumber with NoTeam
+Settlerglantz4887 built a road
+Settlerglantz4887 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give glantz4887 lumber for woolgrain
+GuestHotBuns rolled dice_5 dice_1
+UserNoTeam got brick
+icon_helmetMyrna8511 got orebrick
+icon_helmetMyrna8511 rolled dice_2 dice_6
+UserNoTeam got wool
+Settlerglantz4887 got grain
+icon_helmetMyrna8511 built a road
+UserNoTeam rolled dice_6 dice_5
+GuestHotBuns got ore
+UserNoTeam built a road
+UserNoTeam built a settlement (+1 VP)
+Settlerglantz4887 rolled dice_2 dice_1
+UserNoTeam got lumberlumber
+icon_helmetMyrna8511 got lumber
+Settlerglantz4887 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give glantz4887 lumber for woolgrain
+Settlerglantz4887 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give glantz4887 lumber for grainore
+UserNoTeam wants to give glantz4887 lumber for grainore
+icon_helmetMyrna8511 wants to give glantz4887 lumber for graingrain
+Settlerglantz4887 traded grain for lumber with Myrna8511
+Settlerglantz4887 built a settlement (+1 VP)
+GuestHotBuns rolled dice_1 dice_3
+GuestHotBuns got lumber
+UserNoTeam got grainlumber
+GuestHotBuns wants to give ore for grain
+icon_helmetMyrna8511 wants to give HotBuns grain for lumberwool
+icon_helmetMyrna8511 rolled dice_4 dice_2
+UserNoTeam got brick
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got orebrick
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 traded brick for wool with HotBuns
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give ore for lumber
+UserNoTeam wants to give Myrna8511 lumber for brickore
+icon_helmetMyrna8511 wants to give brickore for lumber
+icon_helmetNoTeam traded lumber for brickore with Myrna8511
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserNoTeam rolled dice_2 dice_4
+UserNoTeam got brick
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreorebrick
+UserNoTeam built a road
+UserNoTeam built a settlement (+1 VP)
+Settlerglantz4887 rolled dice_4 dice_2
+UserNoTeam got brick
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreorebrick
+GuestHotBuns rolled dice_2 dice_6
+UserNoTeam got grainwoolwool
+Settlerglantz4887 got grain
+GuestHotBuns wants to give ore for grain
+icon_helmetMyrna8511 rolled dice_1 dice_2
+UserNoTeam got lumberlumberlumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give lumber for ore
+icon_helmetMyrna8511 built a road
+UserNoTeam rolled dice_6 dice_2
+UserNoTeam got grainwoolwool
+Settlerglantz4887 got grain
+UserNoTeam bought development card
+UserNoTeam built a road
+UserNoTeam built a road
+Settlerglantz4887 rolled dice_5 dice_1
+UserNoTeam got brick
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreorebrick
+Settlerglantz4887 built a city (+1 VP)
+GuestHotBuns rolled dice_6 dice_4
+GuestHotBuns got lumber
+UserNoTeam got lumber
+Settlerglantz4887 got graingraingrain
+GuestHotBuns wants to give lumber for grain
+GuestHotBuns wants to give lumberore for grain
+GuestHotBuns traded lumberore for grain with glantz4887
+GuestHotBuns built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 discarded oreoreoreoreore
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole grain from glantz4887
+icon_helmetMyrna8511 gave bank brickbrick and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+UserNoTeam rolled dice_1 dice_4
+GuestHotBuns got ore
+Settlerglantz4887 got woolwool
+icon_helmetMyrna8511 got oreore
+UserNoTeam built a settlement (+1 VP)
+Settlerglantz4887 rolled dice_6 dice_6
+icon_helmetMyrna8511 got brickbrick
+Settlerglantz4887 used Knight card knight
+Settlerglantz4887 moved robber robber to  prob_6 brick tile
+Settlerglantz4887 stole card from NoTeam
+Settlerglantz4887 bought development card
+GuestHotBuns rolled dice_1 dice_1
+Settlerglantz4887 got woolwool
+icon_helmetMyrna8511 rolled dice_5 dice_1
+ prob_6 brick tile is blocked by the robber. No resources produced.
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreore
+UserNoTeam rolled dice_3 dice_3
+ prob_6 brick tile is blocked by the robber. No resources produced.
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreore
+Settlerglantz4887 rolled dice_3 dice_3
+ prob_6 brick tile is blocked by the robber. No resources produced.
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreore
+Settlerglantz4887 wants to give woolore for brick
+Settlerglantz4887 wants to give woolore for grain
+icon_helmetMyrna8511 wants to give glantz4887 brick for woolgrain
+icon_helmetMyrna8511 wants to give glantz4887 brick for lumberwool
+SettlerMyrna8511 traded brick for lumberwool with glantz4887
+Settlerglantz4887 built a road
+GuestHotBuns rolled dice_3 dice_5
+UserNoTeam got grainwoolwool
+Settlerglantz4887 got graingrain
+icon_helmetMyrna8511 rolled dice_5 dice_3
+UserNoTeam got grainwoolwool
+Settlerglantz4887 got graingrain
+icon_helmetMyrna8511 wants to give oreore for graingrain
+icon_helmetMyrna8511 wants to give oreore for grain
+icon_helmetMyrna8511 traded oreore for grain with NoTeam
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank oreoreore and took grain
+UserNoTeam rolled dice_1 dice_1
+Settlerglantz4887 got woolwool
+UserNoTeam bought development card
+UserNoTeam gave bank woolwool and took grain
+UserNoTeam bought development card
+Settlerglantz4887 rolled dice_2 dice_1
+GuestHotBuns got lumber
+UserNoTeam got lumberlumberlumber
+icon_helmetMyrna8511 got lumber
+Settlerglantz4887 bought development card
+Settlerglantz4887 bought development card
+Settlerglantz4887 bought development card
+Settlerglantz4887 bought development card
+GuestHotBuns rolled dice_2 dice_6
+UserNoTeam got grainwoolwool
+Settlerglantz4887 got graingrain
+icon_helmetMyrna8511 rolled dice_2 dice_2
+GuestHotBuns got lumber
+UserNoTeam got graingrainlumber
+icon_helmetMyrna8511 wants to give lumber for grain
+UserNoTeam rolled dice_4 dice_2
+ prob_6 brick tile is blocked by the robber. No resources produced.
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreore
+UserNoTeam used Knight card knight
+UserNoTeam moved robber robber to  prob_10 grain tile
+UserNoTeam stole card from glantz4887
+UserNoTeam gave bank lumberlumberlumberlumber and took oreore
+UserNoTeam bought development card
+UserNoTeam bought development card
+Settlerglantz4887 used Knight card knight
+Settlerglantz4887 moved robber robber to  prob_8 wool tile
+Settlerglantz4887 stole card from NoTeam
+Settlerglantz4887 rolled dice_1 dice_3
+GuestHotBuns got lumber
+UserNoTeam got graingrainlumber
+GuestHotBuns rolled dice_1 dice_1
+Settlerglantz4887 got woolwool
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 got brickbrickbrick
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 traded ore for grain with NoTeam
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 built a road
+UserNoTeam used Knight card knight
+UserNoTeam moved robber robber to  prob_6 ore tile
+UserNoTeam stole card from glantz4887
+UserNoTeam rolled dice_2 dice_5
+UserNoTeam moved robber robber to  prob_10 grain tile
+UserNoTeam stole card from glantz4887
+UserNoTeam bought development card
+UserNoTeam bought development card
+Settlerglantz4887 used Knight card knight
+Settlerglantz4887 received largest army (+2 VPs)
+Settlerglantz4887 moved robber robber to  prob_8 wool tile
+Settlerglantz4887 stole card from NoTeam
+Settlerglantz4887 rolled dice_4 dice_2
+UserNoTeam got brick
+Settlerglantz4887 got ore
+icon_helmetMyrna8511 got oreoreorebrickbrick
+Settlerglantz4887 bought development card
+Settlerglantz4887 bought development card
+GuestHotBuns rolled dice_3 dice_2
+GuestHotBuns got ore
+Settlerglantz4887 got woolwool
+icon_helmetMyrna8511 got oreore
+GuestHotBuns wants to give ore for brickbrick
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 wool tile is blocked by the robber. No resources produced.
+UserNoTeam got grain
+Settlerglantz4887 got graingrain
+icon_helmetMyrna8511 gave bank oreoreoreoreoreore and took lumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+UserNoTeam used Knight card knight
+UserNoTeam moved robber robber to  prob_6 ore tile
+UserNoTeam stole card from glantz4887
+UserNoTeam rolled dice_5 dice_2
+UserNoTeam moved robber robber to  prob_10 grain tile
+UserNoTeam stole card from glantz4887
+Settlerglantz4887 used Year of Plenty card year of plenty
+Settlerglantz4887 took from bank lumber brick
+Settlerglantz4887 rolled dice_4 dice_6
+ prob_10 grain tile is blocked by the robber. No resources produced.
+GuestHotBuns got lumber
+UserNoTeam got lumber
+Settlerglantz4887 built a settlement (+1 VP)
+trophySettlerglantz4887 won the game!trophy
+UserNoTeam has left the game
+GuestHotBuns has left the game
+Settlerglantz4887 has left the game

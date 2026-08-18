@@ -1,0 +1,481 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+UserPierceCapsul placed a settlement
+UserPierceCapsul placed a road
+UserYate4233 placed a settlement
+UserYate4233 placed a road
+Userabpiola placed a settlement
+Userabpiola placed a road
+Userabpiola placed a settlement
+Userabpiola placed a road
+Userabpiola received starting resources lumberlumberore
+UserYate4233 placed a settlement
+UserYate4233 placed a road
+UserYate4233 received starting resources orewoolore
+UserPierceCapsul placed a settlement
+UserPierceCapsul placed a road
+UserPierceCapsul received starting resources lumberore
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberwoolwool
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_6 brick tile
+icon_helmetYou stole ore from Yate4233
+UserPierceCapsul rolled dice_3 dice_1
+UserYate4233 got grain
+icon_helmetMyrna8511 got brick
+UserYate4233 rolled dice_5 dice_6
+UserYate4233 got ore
+UserPierceCapsul got ore
+UserYate4233 bought development card
+Userabpiola rolled dice_3 dice_3
+ prob_6 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_3 ore tile
+icon_helmetYou stole lumber from abpiola
+icon_helmetMyrna8511 built a road
+UserPierceCapsul rolled dice_3 dice_6
+UserYate4233 got wool
+icon_helmetMyrna8511 got wool
+Userabpiola got wool
+UserYate4233 used Knight card knight
+UserYate4233 moved robber robber to  prob_10 grain tile
+UserYate4233 stole wool from you
+UserYate4233 rolled dice_2 dice_5
+UserYate4233 moved robber robber to  prob_8 lumber tile
+UserYate4233 stole card from PierceCapsul
+Userabpiola rolled dice_5 dice_1
+UserYate4233 got brick
+UserPierceCapsul got brick
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grainlumber
+Userabpiola got grainlumber
+icon_helmetMyrna8511 wants to give lumber for brick
+icon_helmetMyrna8511 wants to give wool for brick
+UserPierceCapsul wants to give Myrna8511 brick for lumbergrain
+icon_helmetMyrna8511 wants to give ore for brick
+UserYate4233 wants to give Myrna8511 brick for lumberore
+icon_helmetMyrna8511 wants to give lumberwool for brick
+UserPierceCapsul wants to give Myrna8511 brick for woolgrain
+icon_helmetMyrna8511 traded lumberwool for brick with Yate4233
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPierceCapsul rolled dice_4 dice_6
+icon_helmetMyrna8511 got grainlumberlumber
+Userabpiola got grainlumber
+UserYate4233 rolled dice_6 dice_3
+UserYate4233 got wool
+icon_helmetMyrna8511 got wool
+Userabpiola got wool
+Userabpiola rolled dice_3 dice_4
+Userabpiola discarded lumberlumberwoolgrain
+Userabpiola moved robber robber to  prob_6 brick tile
+Userabpiola stole card from PierceCapsul
+Userabpiola built a road
+Userabpiola bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_5 wool tile
+icon_helmetYou stole lumber from PierceCapsul
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_5 dice_5
+icon_helmetMyrna8511 got grainlumberlumber
+Userabpiola got grainlumber
+UserYate4233 rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumber
+Userabpiola got lumber
+UserPierceCapsul got lumber
+UserYate4233 wants to give wool for grain
+UserYate4233 gave bank woolwoolwoolwool and took brick
+UserYate4233 built a road
+Userabpiola used Knight card knight
+Userabpiola moved robber robber to  prob_8 lumber tile
+Userabpiola stole grain from you
+Userabpiola rolled dice_2 dice_4
+UserYate4233 got brick
+UserPierceCapsul got brick
+Userabpiola wants to give lumbergrain for brick
+Userabpiola wants to give lumbergrain for brickwool
+icon_helmetMyrna8511 rolled dice_2 dice_4
+UserYate4233 got brick
+UserPierceCapsul got brick
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took ore
+UserPierceCapsul rolled dice_4 dice_3
+UserPierceCapsul moved robber robber to  prob_10 grain tile
+UserPierceCapsul stole card from abpiola
+UserPierceCapsul built a road
+UserYate4233 rolled dice_3 dice_5
+icon_helmetMyrna8511 got lumber
+Userabpiola got lumber
+UserPierceCapsul got lumber
+UserYate4233 wants to give brickore for lumbergrain
+Userabpiola wants to give Yate4233 lumbergrain for brickwool
+Userabpiola rolled dice_3 dice_4
+Userabpiola moved robber robber to  prob_8 lumber tile
+Userabpiola stole lumber from you
+Userabpiola wants to give lumber for brick
+Userabpiola traded lumber for brick with Yate4233
+Userabpiola wants to give lumber for wool
+Userabpiola wants to give lumberlumber for wool
+icon_helmetMyrna8511 rolled dice_1 dice_5
+UserYate4233 got brick
+UserPierceCapsul got brick
+UserPierceCapsul rolled dice_6 dice_2
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+Userabpiola got lumber
+UserYate4233 rolled dice_2 dice_6
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+Userabpiola got lumber
+Userabpiola rolled dice_5 dice_5
+icon_helmetMyrna8511 got grainlumberlumber
+Userabpiola got grainlumber
+Userabpiola gave bank lumberlumberlumberlumber and took wool
+Userabpiola built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got grainlumberlumber
+Userabpiola got grainlumber
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumberlumberlumber and took oreore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_3 ore tile
+icon_helmetYou stole grain from abpiola
+UserPierceCapsul rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+UserPierceCapsul built a road
+UserYate4233 rolled dice_6 dice_4
+icon_helmetMyrna8511 got graingrainlumberlumber
+Userabpiola got grainlumber
+UserYate4233 wants to give brick for grain
+icon_helmetMyrna8511 wants to give Yate4233 grain for brickwool
+UserYate4233 traded brick for grain with abpiola
+UserYate4233 wants to give ore for wool
+Userabpiola rolled dice_6 dice_4
+icon_helmetMyrna8511 got graingrainlumberlumber
+Userabpiola got grainlumber
+Userabpiola built a road
+Userabpiola wants to give grain for wool
+Userabpiola wants to give grain for brick
+UserYate4233 wants to give abpiola brick for grainore
+Userabpiola wants to give lumbergrain for brickwool
+Userabpiola gave bank lumberlumberlumberlumber and took brick
+Userabpiola built a road
+icon_helmetMyrna8511 rolled dice_1 dice_3
+UserYate4233 got grain
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumberlumberlumbergraingraingrain and took oreoreore
+icon_helmetMyrna8511 built a city (+1 VP)
+UserPierceCapsul rolled dice_3 dice_3
+UserYate4233 got brick
+UserPierceCapsul got brick
+UserPierceCapsul wants to give brick for wool
+UserYate4233 rolled dice_4 dice_4
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+UserYate4233 wants to give brick for wool
+Userabpiola rolled dice_5 dice_4
+UserYate4233 got wool
+icon_helmetMyrna8511 got woolwool
+Userabpiola got wool
+icon_helmetMyrna8511 rolled dice_3 dice_3
+UserYate4233 got brick
+UserPierceCapsul got brick
+UserPierceCapsul rolled dice_6 dice_1
+UserYate4233 discarded brickbrickgrainore
+UserPierceCapsul moved robber robber to  prob_10 grain tile
+UserPierceCapsul stole wool from you
+UserPierceCapsul built a settlement (+1 VP)
+UserPierceCapsul built a road
+UserYate4233 rolled dice_5 dice_2
+UserYate4233 moved robber robber to  prob_10 lumber tile
+UserYate4233 stole brick from you
+UserYate4233 built a settlement (+1 VP)
+Userabpiola rolled dice_4 dice_1
+icon_helmetMyrna8511 got woolwool
+Userabpiola got wool
+UserPierceCapsul got wool
+Userabpiola wants to give lumbergrain for brick
+Userabpiola wants to give lumberwool for brick
+Userabpiola traded lumbergrain for brick with PierceCapsul
+Userabpiola built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_5
+ prob_10 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+Userabpiola got graingrain
+UserPierceCapsul rolled dice_5 dice_6
+UserYate4233 got grainore
+UserPierceCapsul got grainore
+UserPierceCapsul wants to give lumber for ore
+UserYate4233 rolled dice_6 dice_1
+UserYate4233 moved robber robber to  prob_5 wool tile
+UserYate4233 stole wool from you
+UserYate4233 bought development card
+Userabpiola rolled dice_3 dice_2
+ prob_5 wool tile is blocked by the robber. No resources produced.
+Userabpiola got wool
+UserPierceCapsul got wool
+icon_helmetMyrna8511 rolled dice_2 dice_4
+UserYate4233 got brick
+UserPierceCapsul got brickbrick
+UserPierceCapsul rolled dice_5 dice_6
+UserYate4233 got grainore
+UserPierceCapsul got grainore
+UserPierceCapsul built a settlement (+1 VP)
+UserPierceCapsul built a city (+1 VP)
+UserYate4233 rolled dice_6 dice_5
+UserYate4233 got grainore
+UserPierceCapsul got grainoreoreore
+UserYate4233 built a city (+1 VP)
+Userabpiola rolled dice_5 dice_1
+UserYate4233 got brick
+UserPierceCapsul got brickbrickbrick
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took ore
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_2 dice_5
+UserPierceCapsul discarded brickbrickbrickoreore
+UserPierceCapsul moved robber robber to  prob_10 grain tile
+UserPierceCapsul stole wool from you
+UserPierceCapsul built a road
+UserPierceCapsul bought development card
+UserYate4233 rolled dice_4 dice_2
+UserYate4233 got brick
+UserPierceCapsul got brickbrickbrick
+Userabpiola rolled dice_2 dice_1
+UserYate4233 got oreoreore
+Userabpiola got ore
+UserPierceCapsul got ore
+Userabpiola wants to give lumber for ore
+Userabpiola wants to give lumberlumber for ore
+Userabpiola traded lumberlumber for ore with Yate4233
+Userabpiola wants to give wool for ore
+UserYate4233 wants to give abpiola ore for woolgrain
+Userabpiola gave bank woolwool and took ore
+Userabpiola built a city (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 brick tile
+icon_helmetYou stole ore from PierceCapsul
+icon_helmetMyrna8511 rolled dice_4 dice_4
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took wool
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_5 dice_4
+UserYate4233 got woolwool
+icon_helmetMyrna8511 got woolwool
+Userabpiola got woolwool
+UserYate4233 rolled dice_4 dice_3
+UserYate4233 discarded lumberlumberbrickwoolore
+UserYate4233 moved robber robber to  prob_8 lumber tile
+UserYate4233 stole wool from you
+UserYate4233 gave bank brickbrickbrick and took grain
+UserYate4233 bought development card
+UserYate4233 used Knight card knight
+UserYate4233 moved robber robber to  prob_10 grain tile
+UserYate4233 stole wool from you
+Userabpiola rolled dice_2 dice_5
+Userabpiola moved robber robber to  prob_4 brick tile
+Userabpiola stole card from PierceCapsul
+Userabpiola built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_6 brick tile
+icon_helmetYou stole wool from PierceCapsul
+icon_helmetMyrna8511 rolled dice_1 dice_5
+ prob_6 brick tile is blocked by the robber. No resources produced.
+UserPierceCapsul rolled dice_1 dice_3
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+UserYate4233 used Knight card knight
+UserYate4233 moved robber robber to  prob_10 grain tile
+UserYate4233 stole brick from you
+UserYate4233 rolled dice_5 dice_1
+UserYate4233 got brick
+UserPierceCapsul got brickbrickbrick
+UserYate4233 wants to give wool for brick
+UserYate4233 wants to give wool for ore
+UserYate4233 wants to give brickbrick for ore
+UserYate4233 traded wool for brick with PierceCapsul
+UserYate4233 gave bank brickbrickbrick and took ore
+UserYate4233 bought development card
+Userabpiola rolled dice_6 dice_6
+UserPierceCapsul got brick
+icon_helmetMyrna8511 rolled dice_6 dice_4
+ prob_10 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got lumberlumberlumber
+Userabpiola got lumber
+UserPierceCapsul rolled dice_2 dice_4
+UserYate4233 got brick
+UserPierceCapsul got brickbrickbrick
+UserPierceCapsul used Monopoly card monopoly
+UserPierceCapsul stole 5 lumber
+UserPierceCapsul built a road
+UserPierceCapsul gave bank brickbrickbrick and took grain
+UserPierceCapsul built a settlement (+1 VP)
+UserPierceCapsul built a road
+UserPierceCapsul built a road
+UserPierceCapsul received longest road (+2 VPs)
+UserPierceCapsul built a road
+UserYate4233 used Knight card knight
+Userlargest army passed from Myrna8511 to Yate4233 (+2 VPs)
+UserYate4233 moved robber robber to  prob_6 lumber tile
+UserYate4233 stole card from PierceCapsul
+UserYate4233 rolled dice_2 dice_2
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+Userabpiola rolled dice_2 dice_3
+icon_helmetMyrna8511 got woolwool
+Userabpiola got woolwool
+UserPierceCapsul got woolwool
+Userabpiola wants to give wool for grain
+Userabpiola wants to give wool for brick
+Userabpiola wants to give wool for lumber
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got graingrainlumberlumberlumber
+Userabpiola got graingraingrainlumber
+icon_helmetMyrna8511 gave bank lumberlumberlumberbrickbrickbrick and took oreore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_3 dice_6
+UserYate4233 got woolwool
+icon_helmetMyrna8511 got woolwool
+Userabpiola got woolwool
+UserPierceCapsul built a road
+UserYate4233 rolled dice_2 dice_2
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+UserYate4233 wants to give woolgrain for lumberlumberlumber
+UserYate4233 wants to give graingraingrain for brick
+UserYate4233 gave bank graingraingrain and took brick
+Userabpiola rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+Userabpiola gave bank woolwool and took brick
+Userabpiola built a settlement (+1 VP)
+Userabpiola gave bank woolwool and took ore
+Userabpiola bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 traded wool for grain with abpiola
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPierceCapsul rolled dice_1 dice_6
+UserPierceCapsul moved robber robber to  prob_10 grain tile
+UserPierceCapsul stole lumber from you
+UserPierceCapsul gave bank lumberlumber and took grain
+UserPierceCapsul built a road
+UserYate4233 rolled dice_6 dice_6
+UserPierceCapsul got brick
+UserYate4233 gave bank brickbrickbrick and took ore
+UserYate4233 bought development card
+Userabpiola rolled dice_4 dice_2
+UserYate4233 got brick
+icon_helmetMyrna8511 got lumber
+UserPierceCapsul got lumberbrickbrickbrick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 brick tile
+icon_helmetYou stole grain from Yate4233
+icon_helmetMyrna8511 rolled dice_1 dice_3
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 built a road
+UserPierceCapsul rolled dice_2 dice_4
+ prob_6 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got lumber
+UserPierceCapsul got lumber
+UserPierceCapsul built a road
+UserPierceCapsul built a road
+UserPierceCapsul gave bank brickbrickbrick and took ore
+UserPierceCapsul bought development card
+UserYate4233 used Knight card knight
+UserYate4233 moved robber robber to  prob_8 lumber tile
+UserYate4233 stole card from PierceCapsul
+UserYate4233 rolled dice_6 dice_4
+icon_helmetMyrna8511 got graingrainlumberlumberlumber
+Userabpiola got graingraingrainlumber
+Userabpiola rolled dice_1 dice_3
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+Userabpiola gave bank graingrain and took ore
+Userabpiola bought development card
+Userabpiola gave bank lumberlumberlumberlumber and took brick
+Userabpiola built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got graingrainlumberlumberlumber
+Userabpiola got graingraingrainlumber
+icon_helmetMyrna8511 gave bank lumberlumberlumbergraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_2 dice_4
+UserYate4233 got brick
+icon_helmetMyrna8511 got lumber
+UserPierceCapsul got lumberbrickbrickbrick
+UserPierceCapsul built a road
+UserYate4233 rolled dice_6 dice_1
+UserYate4233 discarded brickbrickwoolgrain
+UserYate4233 moved robber robber to  prob_6 lumber tile
+UserYate4233 stole card from PierceCapsul
+Userabpiola rolled dice_5 dice_1
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+UserYate4233 got brick
+UserPierceCapsul got brickbrickbrick
+Userabpiola gave bank graingrain and took brick
+Userabpiola built a road
+icon_helmetMyrna8511 rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumberlumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumberlumberlumber and took woolgrain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserPierceCapsul rolled dice_1 dice_3
+UserYate4233 got graingrain
+icon_helmetMyrna8511 got brickbrick
+UserPierceCapsul got brick
+UserPierceCapsul gave bank brickbrickbrick and took grain
+UserYate4233 rolled dice_3 dice_5
+icon_helmetMyrna8511 got lumberlumberlumber
+Userabpiola got lumberlumber
+UserPierceCapsul got lumber
+UserYate4233 gave bank graingraingrain and took ore
+UserYate4233 bought development card
+Userabpiola rolled dice_4 dice_5
+UserYate4233 got woolwool
+icon_helmetMyrna8511 got woolwool
+Userabpiola got woolwoolwool
+Userabpiola wants to give lumberwool for brick
+Userabpiola gave bank woolwool and took brick
+Userabpiola built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_5
+UserYate4233 got grainoreore
+UserPierceCapsul got grainoreoreore
+icon_helmetMyrna8511 gave bank lumberlumberlumberbrickbrickbrick and took grainore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank grain ore
+icon_helmetMyrna8511 bought development card
+UserPierceCapsul rolled dice_4 dice_5
+UserYate4233 got woolwool
+icon_helmetMyrna8511 got woolwool
+Userabpiola got woolwoolwoolwool
+UserPierceCapsul built a city (+1 VP)
+trophyUserPierceCapsul won the game!trophy
+UserYate4233 has left the game
+Userabpiola has left the game
+UserPierceCapsul has left the game

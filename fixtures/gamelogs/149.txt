@@ -1,0 +1,364 @@
+ColonistBartek placed a settlement
+ColonistBartek placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+UserBeansEmpire placed a settlement
+UserBeansEmpire placed a road
+Guestbacontaylor placed a settlement
+Guestbacontaylor placed a road
+Guestbacontaylor placed a settlement
+Guestbacontaylor placed a road
+Guestbacontaylor received starting resources grainbrickgrain
+UserBeansEmpire placed a settlement
+UserBeansEmpire placed a road
+UserBeansEmpire received starting resources woollumberbrick
+Guestbacontaylor has disconnected. Bot will wait until next turn to give bacontaylor a chance to reconnect.
+botbacontaylor has left the game
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources bricklumberlumber
+ColonistBartek placed a settlement
+ColonistBartek placed a road
+ColonistBartek received starting resources grainwool
+ColonistBartek rolled dice_3 dice_1
+UserBeansEmpire got lumberbrick
+icon_helmetMyrna8511 rolled dice_2 dice_2
+UserBeansEmpire got lumberbrick
+UserBeansEmpire rolled dice_3 dice_1
+UserBeansEmpire got lumberbrick
+UserBeansEmpire built a road
+UserBeansEmpire wants to give brick for grain
+UserBeansEmpire wants to give lumber for grain
+ColonistBartek wants to give BeansEmpire grain for lumberbrick
+botbacontaylor rolled dice_4 dice_3
+botbacontaylor moved robber robber to  prob_8 ore tile
+botbacontaylor stole card from BeansEmpire
+ColonistBartek rolled dice_5 dice_2
+ColonistBartek moved robber robber to  prob_5 brick tile
+ColonistBartek stole lumber from you
+icon_helmetMyrna8511 rolled dice_1 dice_4
+ prob_5 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got lumber
+UserBeansEmpire rolled dice_5 dice_2
+UserBeansEmpire moved robber robber to  prob_10 ore tile
+UserBeansEmpire stole lumber from you
+UserBeansEmpire wants to give lumber for grain
+ColonistBartek wants to give BeansEmpire grain for lumberbrick
+UserBartek traded grain for lumberbrick with BeansEmpire
+UserBeansEmpire built a settlement (+1 VP)
+botbacontaylor rolled dice_1 dice_1
+ColonistBartek rolled dice_1 dice_2
+ColonistBartek got wool
+botbacontaylor got grain
+UserBeansEmpire got woolgrain
+icon_helmetMyrna8511 rolled dice_3 dice_5
+icon_helmetMyrna8511 got grain
+ColonistBartek got grain
+UserBeansEmpire got oreore
+icon_helmetMyrna8511 built a road
+UserBeansEmpire rolled dice_6 dice_2
+icon_helmetMyrna8511 got grain
+ColonistBartek got grain
+UserBeansEmpire got oreore
+UserBeansEmpire wants to give ore for grain
+UserBeansEmpire wants to give lumber for grain
+icon_helmetMyrna8511 wants to give BeansEmpire grain for lumberore
+ColonistBartek wants to give BeansEmpire grain for brick
+icon_helmetMyrna8511 wants to give BeansEmpire grain for woolore
+UserMyrna8511 traded grain for woolore with BeansEmpire
+UserBeansEmpire built a city (+1 VP)
+botbacontaylor rolled dice_3 dice_6
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+ColonistBartek rolled dice_6 dice_3
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+ColonistBartek bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_1
+UserBeansEmpire got lumberlumberbrick
+UserBeansEmpire rolled dice_2 dice_5
+UserBeansEmpire moved robber robber to  prob_8 grain tile
+UserBeansEmpire stole card from Bartek
+UserBeansEmpire built a road
+botbacontaylor rolled dice_3 dice_6
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+botbacontaylor gave bank brickbrickbrickbrick and took lumber
+botbacontaylor built a road
+ColonistBartek used Knight card knight
+ColonistBartek moved robber robber to  prob_8 ore tile
+ColonistBartek stole card from BeansEmpire
+ColonistBartek rolled dice_2 dice_3
+icon_helmetMyrna8511 got lumberbrick
+botbacontaylor got brick
+ColonistBartek wants to give ore for brick
+icon_helmetMyrna8511 wants to give Bartek brick for oreore
+icon_helmetMyrna8511 wants to give Bartek brick for woolore
+icon_helmetMyrna8511 wants to give Bartek brickbrick for oreore
+ColonistMyrna8511 traded brickbrick for oreore with Bartek
+ColonistBartek built a road
+ColonistBartek built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_2
+ColonistBartek got wool
+botbacontaylor got grain
+UserBeansEmpire got woolgraingrain
+icon_helmetMyrna8511 wants to give brick for grain
+UserBeansEmpire wants to give Myrna8511 lumber for brick
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 traded ore for lumber with BeansEmpire
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserBeansEmpire rolled dice_1 dice_1
+UserBeansEmpire bought development card
+botbacontaylor rolled dice_1 dice_4
+icon_helmetMyrna8511 got lumberbrick
+botbacontaylor got brick
+ColonistBartek rolled dice_3 dice_4
+ColonistBartek moved robber robber to  prob_10 lumber tile
+ColonistBartek stole card from BeansEmpire
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_8 ore tile
+icon_helmetYou stole lumber from BeansEmpire
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give lumber for grain
+UserBeansEmpire used Knight card knight
+UserBeansEmpire moved robber robber to  prob_8 grain tile
+UserBeansEmpire stole brick from you
+UserBeansEmpire rolled dice_6 dice_6
+botbacontaylor rolled dice_3 dice_6
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+ColonistBartek rolled dice_4 dice_2
+ColonistBartek got wool
+botbacontaylor got wool
+UserBeansEmpire got lumber
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserBeansEmpire got oreoreore
+icon_helmetMyrna8511 wants to give lumber for wool
+UserBeansEmpire rolled dice_2 dice_2
+UserBeansEmpire got lumberlumberbrick
+UserBeansEmpire wants to give lumber for grain
+UserBeansEmpire built a road
+UserBeansEmpire wants to give lumber for wool
+UserBeansEmpire wants to give ore for wool
+ColonistBartek wants to give BeansEmpire wool for lumberore
+UserBartek traded wool for lumberore with BeansEmpire
+UserBeansEmpire built a settlement (+1 VP)
+botbacontaylor rolled dice_1 dice_5
+ColonistBartek got wool
+botbacontaylor got wool
+UserBeansEmpire got lumber
+botbacontaylor gave bank graingraingraingrain and took lumber
+ColonistBartek rolled dice_5 dice_4
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+UserBeansEmpire got brick
+ColonistBartek built a road
+icon_helmetMyrna8511 rolled dice_5 dice_5
+icon_helmetMyrna8511 got lumberore
+ColonistBartek got oreore
+UserBeansEmpire got lumber
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumberbrick for woolgrain
+icon_helmetMyrna8511 wants to give lumberbrickore for woolgrain
+icon_helmetMyrna8511 wants to give lumberbrick for wool
+icon_helmetMyrna8511 traded lumberbrick for wool with Bartek
+icon_helmetMyrna8511 wants to give lumberore for grain
+icon_helmetMyrna8511 wants to give lumberoreore for grain
+UserBeansEmpire rolled dice_3 dice_6
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+UserBeansEmpire got brick
+UserBeansEmpire built a road
+UserBeansEmpire built a road
+UserBeansEmpire received longest road (+2 VPs)
+botbacontaylor rolled dice_6 dice_3
+icon_helmetMyrna8511 got brick
+ColonistBartek got ore
+botbacontaylor got brick
+UserBeansEmpire got brick
+botbacontaylor gave bank brickbrickbrickbrick and took grain
+botbacontaylor built a settlement (+1 VP)
+ColonistBartek rolled dice_6 dice_4
+icon_helmetMyrna8511 got lumberore
+ColonistBartek got oreore
+UserBeansEmpire got lumber
+ColonistBartek gave bank oreoreoreore and took grain
+ColonistBartek bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_2
+icon_helmetMyrna8511 got lumberbrick
+botbacontaylor got brick
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 gave bank brickbrickbrick and took grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank lumberlumber and took wool
+UserBeansEmpire rolled dice_2 dice_5
+UserBeansEmpire moved robber robber to  prob_10 ore tile
+UserBeansEmpire stole ore from you
+UserBeansEmpire built a road
+botbacontaylor rolled dice_2 dice_6
+icon_helmetMyrna8511 got graingrain
+ColonistBartek got grain
+UserBeansEmpire got oreoreore
+ColonistBartek used Knight card knight
+ColonistBartek moved robber robber to  prob_8 ore tile
+ColonistBartek stole card from BeansEmpire
+ColonistBartek rolled dice_4 dice_6
+icon_helmetMyrna8511 got lumberore
+ColonistBartek got oreore
+UserBeansEmpire got lumber
+ColonistBartek gave bank oreoreoreore and took grain
+ColonistBartek built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_6
+ prob_8 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+ColonistBartek got graingrain
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 bought development card
+UserBeansEmpire rolled dice_6 dice_2
+ prob_8 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+ColonistBartek got graingrain
+botbacontaylor rolled dice_6 dice_2
+ prob_8 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+ColonistBartek got graingrain
+ColonistBartek rolled dice_6 dice_5
+botbacontaylor got graingrain
+ColonistBartek gave bank graingraingraingrain and took wool
+ColonistBartek built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_helmetMyrna8511 got brickbrick
+ColonistBartek got oreore
+botbacontaylor got brick
+UserBeansEmpire got brick
+icon_helmetMyrna8511 gave bank lumberlumbergraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+UserBeansEmpire rolled dice_5 dice_2
+UserBeansEmpire moved robber robber to  prob_8 grain tile
+UserBeansEmpire stole brick from you
+UserBeansEmpire wants to give ore for wool
+UserBeansEmpire wants to give ore for grain
+UserBeansEmpire gave bank oreoreore and took grain
+botbacontaylor rolled dice_4 dice_5
+icon_helmetMyrna8511 got brickbrick
+ColonistBartek got oreore
+botbacontaylor got brick
+UserBeansEmpire got brick
+botbacontaylor gave bank brickbrickbrickbrick and took ore
+ColonistBartek rolled dice_3 dice_4
+ColonistBartek moved robber robber to  prob_8 ore tile
+ColonistBartek stole card from BeansEmpire
+icon_helmetMyrna8511 rolled dice_1 dice_2
+ColonistBartek got woolwool
+botbacontaylor got grain
+UserBeansEmpire got woolgraingrain
+UserBeansEmpire rolled dice_2 dice_1
+ColonistBartek got woolwool
+botbacontaylor got grain
+UserBeansEmpire got woolgraingrain
+UserBeansEmpire wants to give grain for ore
+ColonistBartek started an embargo against BeansEmpire
+UserBeansEmpire bought development card
+UserBeansEmpire bought development card
+botbacontaylor rolled dice_3 dice_4
+ColonistBartek discarded lumberlumberwoolwoolore
+botbacontaylor moved robber robber to  prob_10 lumber tile
+botbacontaylor stole card from BeansEmpire
+botbacontaylor bought development card
+ColonistBartek rolled dice_2 dice_2
+UserBeansEmpire got lumberlumberbrickbrick
+ColonistBartek bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 ore tile
+icon_helmetYou stole lumber from BeansEmpire
+icon_helmetMyrna8511 rolled dice_1 dice_6
+UserBeansEmpire discarded brickbrickbrickbrick
+icon_helmetMyrna8511 moved robber robber to  prob_4 lumber tile
+icon_helmetYou stole grain from BeansEmpire
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for wool
+UserBeansEmpire rolled dice_5 dice_5
+icon_helmetMyrna8511 got lumberlumberore
+ColonistBartek got oreore
+UserBeansEmpire got lumber
+UserBeansEmpire used Year of Plenty card year of plenty
+UserBeansEmpire took from bank wool grain
+UserBeansEmpire built a settlement (+1 VP)
+botbacontaylor rolled dice_5 dice_5
+icon_helmetMyrna8511 got lumberlumberore
+ColonistBartek got oreore
+UserBeansEmpire got lumber
+botbacontaylor used Knight card knight
+botbacontaylor moved robber robber to  prob_10 lumber tile
+botbacontaylor stole card from BeansEmpire
+ColonistBartek rolled dice_2 dice_6
+icon_helmetMyrna8511 got graingrain
+ColonistBartek got graingrain
+UserBeansEmpire got oreoreore
+ColonistBartek used Knight card knight
+ColonistBartek received largest army (+2 VPs)
+ColonistBartek moved robber robber to  prob_3 grain tile
+ColonistBartek stole card from BeansEmpire
+ColonistBartek wants to give lumber for grain
+icon_helmetMyrna8511 wants to give Bartek grain for lumberlumber
+ColonistBartek wants to give lumber for wool
+icon_helmetMyrna8511 wants to give Bartek grain for lumberwool
+ColonistBartek wants to give lumberoreore for woolgrain
+ColonistBartek built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_3
+ColonistBartek got woolwool
+botbacontaylor got woolwool
+UserBeansEmpire got lumberlumber
+icon_helmetMyrna8511 gave bank lumberlumber and took ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give lumberbrick for wool
+icon_helmetMyrna8511 wants to give lumberlumber for woolwool
+icon_helmetMyrna8511 gave bank lumberlumber and took wool
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 bought development card
+UserBeansEmpire used Knight card knight
+UserBeansEmpire moved robber robber to  prob_8 grain tile
+UserBeansEmpire stole card from Bartek
+UserBeansEmpire rolled dice_3 dice_6
+icon_helmetMyrna8511 got brickbrick
+ColonistBartek got oreoreore
+botbacontaylor got brick
+UserBeansEmpire got brick
+UserBeansEmpire gave bank lumberlumberlumber and took grain
+UserBeansEmpire wants to give Myrna8511 & bacontaylor lumberbrick for grain
+botbacontaylor rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumberlumberlumberbrickbrick
+botbacontaylor got brick
+botbacontaylor gave bank graingraingraingrain and took lumber
+botbacontaylor built a road
+ColonistBartek rolled dice_5 dice_1
+ColonistBartek got woolwool
+botbacontaylor got woolwool
+UserBeansEmpire got lumberlumber
+ColonistBartek gave bank woolwoolwoolwool and took graingrain
+ColonistBartek built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_4
+icon_helmetMyrna8511 got lumberlumberlumberbrickbrick
+botbacontaylor got brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from BeansEmpire to Myrna8511 (+2 VPs)
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank wool ore
+icon_helmetMyrna8511 built a settlement (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+UserBeansEmpire has left the game

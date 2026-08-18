@@ -4,5 +4,6 @@ dist/
 .env.local
 *.log
 firebase-debug.log
+firestore-debug.log
 .firebase/
 .DS_Store

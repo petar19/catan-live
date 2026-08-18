@@ -1,0 +1,484 @@
+GuestValandil71 has disconnected. Bot will wait until next turn to give Valandil71 a chance to reconnect.
+botValandil71 has left the game
+GuestValandil71 has reconnected
+GuestValandil71 placed a settlement
+GuestValandil71 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestMorrigan placed a settlement
+GuestMorrigan placed a road
+Guestandreeafdc placed a settlement
+Guestandreeafdc placed a road
+Guestandreeafdc placed a settlement
+Guestandreeafdc placed a road
+Guestandreeafdc received starting resources oregrainwool
+GuestMorrigan placed a settlement
+GuestMorrigan placed a road
+GuestMorrigan received starting resources brickbrick
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberwoolwool
+GuestValandil71 placed a settlement
+GuestValandil71 placed a road
+GuestValandil71 received starting resources orelumber
+GuestValandil71 rolled dice_6 dice_3
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got wool
+GuestValandil71 got lumber
+icon_helmetMyrna8511 rolled dice_6 dice_5
+Guestandreeafdc got grain
+GuestMorrigan rolled dice_5 dice_5
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestMorrigan built a road
+Guestandreeafdc rolled dice_4 dice_3
+Guestandreeafdc moved robber robber to  prob_12 grain tile
+GuestNo player to steal from
+Guestandreeafdc bought development card
+GuestValandil71 rolled dice_1 dice_2
+GuestMorrigan got wool
+Guestandreeafdc got wool
+GuestValandil71 wants to give lumber for brick
+GuestValandil71 wants to give ore for brick
+GuestValandil71 traded ore for brick with Morrigan
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  Desert
+icon_helmetNo player to steal from
+icon_helmetMyrna8511 wants to give wool for brick
+GuestMorrigan rolled dice_6 dice_2
+icon_helmetMyrna8511 got brick
+GuestMorrigan got lumberbrick
+GuestValandil71 got lumber
+GuestMorrigan wants to give brick for grain
+GuestMorrigan traded brick for grain with andreeafdc
+GuestMorrigan built a settlement (+1 VP)
+Guestandreeafdc rolled dice_6 dice_1
+Guestandreeafdc moved robber robber to  prob_3 grain tile
+Guestandreeafdc stole card from Morrigan
+Guestandreeafdc built a road
+GuestValandil71 rolled dice_5 dice_5
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_3 wool tile
+icon_helmetYou stole brick from Morrigan
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 traded wool for lumber with Valandil71
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestMorrigan rolled dice_5 dice_1
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got ore
+GuestValandil71 got ore
+Guestandreeafdc rolled dice_6 dice_2
+icon_helmetMyrna8511 got brick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+Guestandreeafdc wants to give ore for brick
+icon_helmetMyrna8511 wants to give andreeafdc brick for grainore
+GuestValandil71 rolled dice_3 dice_4
+GuestValandil71 moved robber robber to  prob_8 brick tile
+GuestValandil71 stole card from Morrigan
+GuestValandil71 wants to give lumber for brick
+icon_helmetMyrna8511 wants to give Valandil71 brick for lumbergrain
+GuestValandil71 wants to give ore for brick
+icon_helmetMyrna8511 wants to give Valandil71 brick for lumberore
+GuestMyrna8511 traded brick for lumberore with Valandil71
+GuestValandil71 wants to give lumber for grain
+icon_helmetMyrna8511 rolled dice_5 dice_1
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got ore
+GuestValandil71 got ore
+GuestMorrigan rolled dice_3 dice_6
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got wool
+GuestValandil71 got lumber
+GuestMorrigan built a road
+Guestandreeafdc rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 wants to give lumber for grain
+GuestValandil71 wants to give ore for lumber
+GuestValandil71 traded ore for lumber with Morrigan
+GuestValandil71 gave bank lumberlumberlumber and took grain
+GuestValandil71 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_4
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got ore
+GuestValandil71 got ore
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 traded wool for brick with Morrigan
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestMorrigan rolled dice_1 dice_1
+icon_helmetMyrna8511 got wool
+GuestMorrigan built a road
+GuestMorrigan wants to give ore for lumber
+Guestandreeafdc rolled dice_4 dice_3
+Guestandreeafdc discarded lumberlumberwooloreore
+GuestBot is selecting where to place robber for andreeafdc
+Guestandreeafdc moved robber robber to  prob_8 lumber tile
+Guestandreeafdc stole card from Morrigan
+GuestValandil71 rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumberlumber
+GuestValandil71 got ore
+icon_helmetMyrna8511 rolled dice_6 dice_3
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got wool
+GuestValandil71 got lumberlumber
+icon_helmetMyrna8511 wants to give wool for brick
+GuestMorrigan rolled dice_5 dice_5
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+GuestMorrigan built a road
+GuestMorrigan received longest road (+2 VPs)
+Guestandreeafdc rolled dice_5 dice_3
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brick
+GuestMorrigan got brickbrick
+Guestandreeafdc wants to give lumber for brick
+Guestandreeafdc traded lumber for brick with Morrigan
+Guestandreeafdc wants to give ore for grain
+Guestandreeafdc wants to give woolore for grain
+Guestandreeafdc used Knight card knight
+Guestandreeafdc moved robber robber to  prob_8 brick tile
+Guestandreeafdc stole card from Morrigan
+Guestandreeafdc wants to give wool for ore
+Guestandreeafdc traded wool for ore with Valandil71
+Guestandreeafdc gave bank oreoreoreore and took grain
+Guestandreeafdc built a settlement (+1 VP)
+GuestValandil71 rolled dice_2 dice_1
+GuestMorrigan got grainwool
+Guestandreeafdc got wool
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+Guestandreeafdc got grain
+icon_helmetMyrna8511 built a road
+GuestMorrigan rolled dice_2 dice_1
+GuestMorrigan got grainwool
+Guestandreeafdc got wool
+GuestMorrigan built a settlement (+1 VP)
+Guestandreeafdc rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+GuestValandil71 rolled dice_5 dice_2
+GuestValandil71 moved robber robber to  prob_6 wool tile
+GuestValandil71 stole card from Morrigan
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got lumberlumber
+GuestValandil71 got ore
+GuestMorrigan rolled dice_2 dice_3
+icon_helmetMyrna8511 got oregrain
+Guestandreeafdc got ore
+GuestValandil71 got grain
+Guestandreeafdc rolled dice_2 dice_6
+icon_helmetMyrna8511 got brick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+Guestandreeafdc bought development card
+GuestValandil71 rolled dice_6 dice_6
+Guestandreeafdc got grain
+GuestValandil71 wants to give ore for brick
+icon_helmetMyrna8511 wants to give Valandil71 brick for grainore
+GuestValandil71 traded ore for brick with Morrigan
+GuestValandil71 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded lumberlumberwoolore
+icon_helmetMyrna8511 moved robber robber to  prob_8 lumber tile
+icon_helmetYou stole ore from Morrigan
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestMorrigan rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+GuestMorrigan wants to give brick for ore
+GuestMorrigan wants to give brick for grain
+GuestValandil71 started an embargo against Morrigan
+GuestMorrigan traded brick for grain with andreeafdc
+GuestMorrigan wants to give Myrna8511 & andreeafdc brick for wool
+GuestMorrigan traded brick for wool with andreeafdc
+GuestMorrigan gave bank woolwool and took ore
+GuestMorrigan built a road
+Guestandreeafdc rolled dice_2 dice_6
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brick
+GuestMorrigan got brickbrick
+Guestandreeafdc built a road
+Guestandreeafdc built a road
+GuestValandil71 rolled dice_5 dice_3
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brick
+GuestMorrigan got brickbrick
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_2 dice_5
+GuestMorrigan discarded brickbrickbrickbrick
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole grain from Morrigan
+GuestMorrigan rolled dice_3 dice_5
+icon_helmetMyrna8511 got brick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+GuestMorrigan wants to give Myrna8511 & andreeafdc brick for grain
+GuestValandil71 ended an embargo against Morrigan
+GuestMorrigan wants to give brick for ore
+GuestValandil71 wants to give Morrigan ore for brickwool
+GuestMorrigan wants to give brick for wool
+GuestMorrigan traded brick for wool with andreeafdc
+GuestMorrigan bought development card
+Guestandreeafdc rolled dice_5 dice_2
+Guestandreeafdc moved robber robber to  prob_8 brick tile
+Guestandreeafdc stole card from Morrigan
+Guestandreeafdc built a road
+GuestValandil71 rolled dice_5 dice_2
+GuestValandil71 moved robber robber to  prob_6 wool tile
+GuestValandil71 stole card from Morrigan
+icon_helmetMyrna8511 rolled dice_6 dice_6
+Guestandreeafdc got grain
+GuestMorrigan rolled dice_5 dice_3
+icon_helmetMyrna8511 got brick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+GuestMorrigan built a road
+GuestMorrigan built a road
+Guestandreeafdc rolled dice_4 dice_6
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+Guestandreeafdc used Knight card knight
+Guestandreeafdc moved robber robber to  prob_8 brick tile
+Guestandreeafdc stole card from Morrigan
+GuestValandil71 rolled dice_5 dice_6
+Guestandreeafdc got brickgrain
+GuestValandil71 got brick
+GuestValandil71 wants to give ore for lumber
+GuestValandil71 built a road
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_5 dice_4
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got wool
+GuestValandil71 got lumberlumber
+icon_helmetMyrna8511 wants to give brickbrick for lumberlumber
+icon_helmetMyrna8511 gave bank brickbrickbrick and took lumber
+icon_helmetMyrna8511 built a road
+GuestMorrigan rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumberlumber
+GuestValandil71 got oreore
+Guestandreeafdc rolled dice_6 dice_6
+Guestandreeafdc got grain
+Guestandreeafdc built a road
+Guestandreeafdc wants to give grain for ore
+Guestandreeafdc traded grain for ore with Valandil71
+Guestandreeafdc bought development card
+GuestValandil71 rolled dice_4 dice_1
+icon_helmetMyrna8511 got oregrain
+Guestandreeafdc got ore
+GuestValandil71 got grain
+GuestValandil71 wants to give ore for wool
+icon_helmetMyrna8511 wants to give Valandil71 lumberlumber for ore
+GuestMyrna8511 traded lumberlumber for ore with Valandil71
+GuestValandil71 gave bank lumberlumberlumber and took wool
+GuestValandil71 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_6
+Guestandreeafdc got grain
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestMorrigan rolled dice_6 dice_3
+icon_helmetMyrna8511 got wool
+Guestandreeafdc got wool
+GuestValandil71 got lumberlumber
+GuestMorrigan wants to give brick for ore
+GuestValandil71 wants to give Morrigan ore for brickwool
+Guestandreeafdc rolled dice_1 dice_3
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestValandil71 got oreore
+Guestandreeafdc used Monopoly card monopoly
+Guestandreeafdc stole 4 ore
+Guestandreeafdc built a city (+1 VP)
+Guestandreeafdc wants to give ore for brick
+Guestandreeafdc wants to give wool for brick
+GuestValandil71 rolled dice_4 dice_6
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+GuestValandil71 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give Valandil71 wool for lumberore
+icon_helmetMyrna8511 wants to give Valandil71 wool for lumberlumber
+icon_helmetMyrna8511 wants to give Valandil71 wool for lumberbrick
+GuestValandil71 traded lumber for wool with Myrna8511
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_8 lumber tile
+icon_helmetYou stole lumber from Morrigan
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took brick
+icon_helmetMyrna8511 built a road
+GuestMorrigan rolled dice_2 dice_3
+icon_helmetMyrna8511 got oregraingrain
+Guestandreeafdc got ore
+GuestValandil71 got grain
+Guestandreeafdc rolled dice_1 dice_4
+icon_helmetMyrna8511 got oregraingrain
+Guestandreeafdc got ore
+GuestValandil71 got grain
+Guestandreeafdc wants to give woolore for lumber
+Guestandreeafdc wants to give woolore for brick
+GuestValandil71 wants to give andreeafdc brick for oreore
+GuestValandil71 traded brick for oreore with andreeafdc
+Guestandreeafdc wants to give woolore for grain
+Guestandreeafdc traded woolore for grain with Myrna8511
+Guestandreeafdc built a road
+Guestandreeafdc bought development card
+GuestValandil71 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberwoolwoolgrain
+GuestValandil71 moved robber robber to  prob_10 lumber tile
+GuestValandil71 stole card from Morrigan
+GuestValandil71 wants to give grain for ore
+GuestValandil71 wants to give woolgrain for ore
+GuestValandil71 wants to give lumbergrain for ore
+GuestValandil71 wants to give brickgrain for ore
+GuestValandil71 wants to give grain for lumber
+GuestValandil71 bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_1
+icon_helmetMyrna8511 got woolwool
+GuestMorrigan got wool
+Guestandreeafdc got oreoreore
+GuestValandil71 got ore
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestMorrigan rolled dice_3 dice_4
+GuestMorrigan moved robber robber to  prob_6 ore tile
+GuestMorrigan stole card from andreeafdc
+Guestandreeafdc used Knight card knight
+Guestandreeafdc received largest army (+2 VPs)
+Guestandreeafdc moved robber robber to  prob_8 brick tile
+Guestandreeafdc stole card from Morrigan
+Guestandreeafdc rolled dice_5 dice_3
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestMorrigan got lumber
+GuestValandil71 got lumber
+GuestValandil71 rolled dice_1 dice_5
+icon_helmetMyrna8511 got woolwoolwool
+GuestMorrigan got wool
+Guestandreeafdc got oreoreore
+GuestValandil71 got ore
+GuestValandil71 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_11 grain tile
+icon_helmetYou stole lumber from andreeafdc
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 gave bank woolwoolwool and took ore
+GuestMorrigan rolled dice_3 dice_2
+icon_helmetMyrna8511 got oregraingrain
+Guestandreeafdc got ore
+GuestValandil71 got graingrain
+GuestMorrigan built a road
+GuestMorrigan gave bank woolwool and took ore
+Guestandreeafdc rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumberlumberlumberlumber
+GuestValandil71 got oreore
+GuestValandil71 rolled dice_5 dice_6
+ prob_11 grain tile is blocked by the robber. No resources produced.
+Guestandreeafdc got brick
+GuestValandil71 got brickbrick
+GuestValandil71 used Knight card knight
+GuestValandil71 moved robber robber to  prob_9 wool tile
+GuestValandil71 stole card from andreeafdc
+GuestValandil71 built a city (+1 VP)
+GuestValandil71 built a road
+GuestValandil71 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_2
+GuestMorrigan got graingrainwool
+Guestandreeafdc got woolwool
+GuestValandil71 got woolwool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestMorrigan rolled dice_4 dice_4
+icon_helmetMyrna8511 got brickbrick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+GuestMorrigan wants to give brick for wool
+GuestValandil71 wants to give Morrigan wool for brickbrick
+GuestValandil71 traded wool for brickbrick with Morrigan
+GuestMorrigan gave bank woolwool and took ore
+Guestandreeafdc rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+Guestandreeafdc gave bank oreoreoreore and took grain
+Guestandreeafdc bought development card
+Guestandreeafdc wants to give ore for grain
+GuestValandil71 rolled dice_6 dice_4
+GuestMorrigan got bricklumber
+Guestandreeafdc got lumber
+GuestValandil71 got brick
+GuestValandil71 gave bank brickbrick and took grain
+GuestValandil71 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_6
+icon_helmetMyrna8511 got brickbrick
+GuestMorrigan got lumberbrickbrick
+GuestValandil71 got lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from Morrigan to Myrna8511 (+2 VPs)
+GuestMorrigan rolled dice_1 dice_2
+GuestMorrigan got graingrainwool
+Guestandreeafdc got woolwool
+GuestValandil71 got woolwool
+GuestMorrigan wants to give brick for ore
+GuestMorrigan wants to give brickbrick for ore
+GuestMorrigan wants to give lumber for ore
+GuestMorrigan wants to give brick for wool
+GuestMorrigan traded brick for wool with Valandil71
+GuestMorrigan gave bank woolwool and took ore
+GuestMorrigan built a city (+1 VP)
+GuestMorrigan built a road
+GuestMorrigan built a road
+GuestMorrigan wants to give brick for wool
+GuestMorrigan wants to give lumber for wool
+Guestandreeafdc rolled dice_1 dice_6
+Guestandreeafdc moved robber robber to  prob_6 wool tile
+Guestandreeafdc stole lumber from you
+Guestandreeafdc wants to give wool for grain
+Guestandreeafdc traded wool for grain with Morrigan
+Guestandreeafdc built a settlement (+1 VP)
+Guestandreeafdc wants to give lumberlumber for grain
+GuestValandil71 rolled dice_3 dice_6
+icon_helmetMyrna8511 got woolwool
+Guestandreeafdc got wool
+GuestValandil71 got lumberlumberlumberlumber
+GuestValandil71 gave bank lumberlumber and took grain
+GuestValandil71 built a road
+GuestValandil71 built a road
+GuestValandil71 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole wool from andreeafdc
+GuestMorrigan rolled dice_5 dice_2
+GuestMorrigan moved robber robber to  prob_9 lumber tile
+GuestNo player to steal from
+GuestMorrigan wants to give brick for ore
+GuestMorrigan wants to give lumber for ore
+Guestandreeafdc rolled dice_2 dice_5
+Guestandreeafdc moved robber robber to  prob_5 grain tile
+Guestandreeafdc stole lumber from you
+Guestandreeafdc gave bank lumberlumberlumber and took grain
+Guestandreeafdc bought development card
+GuestValandil71 rolled dice_3 dice_4
+GuestValandil71 moved robber robber to  prob_6 wool tile
+GuestValandil71 stole brick from you
+GuestMorrigan has disconnected. Bot will wait until next turn to give Morrigan a chance to reconnect.
+botMorrigan has left the game
+icon_helmetMyrna8511 rolled dice_1 dice_4
+icon_helmetMyrna8511 got oregraingrain
+Guestandreeafdc got ore
+GuestValandil71 got graingrain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+Guestandreeafdc has left the game

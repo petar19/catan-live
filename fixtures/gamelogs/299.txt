@@ -1,0 +1,81 @@
+Buyers placed a settlement
+Buyers placed a road
+Albion placed a settlement
+Albion placed a road
+Ursi placed a settlement
+Ursi placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources Grain Wool Ore
+Myrna8511 placed a road
+Ursi placed a settlement
+Ursi received starting resources Ore Lumber Wool
+Ursi placed a road
+Albion placed a settlement
+Albion received starting resources Lumber Grain Wool
+Albion placed a road
+Buyers placed a settlement
+Buyers received starting resources Ore Lumber Brick
+Buyers placed a road
+Buyers rolled dice_1 dice_2
+Ursi got Wool
+Albion got Wool
+Buyers built a road
+Albion rolled dice_2 dice_6
+Ursi got Lumber
+Buyers got Grain
+Albion got Grain
+Ursi rolled dice_2 dice_5
+Ursi moved Robber robber to  prob_5 ore tile
+Ursi stole Resource Card from Albion
+Myrna8511 rolled dice_4 dice_2
+Myrna8511 got Ore
+Ursi got Lumber
+Buyers rolled dice_1 dice_5
+Myrna8511 got Ore
+Ursi got Lumber
+Albion rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the Robber. No resources produced
+Buyers got Grain
+Ursi rolled dice_6 dice_5
+Buyers got Lumber
+Ursi gave bank Lumber Lumber Lumber Lumber and took Grain
+Myrna8511 rolled dice_5 dice_4
+Myrna8511 got Ore
+Ursi got Ore
+Albion got Wool
+Myrna8511 wants to give Wool Ore for Grain
+Buyers rolled dice_2 dice_5
+Buyers moved Robber robber to  prob_9 ore tile
+Buyers stole Ore from you
+Buyers wants to give Lumber for Ore
+Albion rolled dice_1 dice_5
+Myrna8511 got Ore
+Ursi got Lumber
+Ursi rolled dice_6 dice_3
+ prob_9 ore tile is blocked by the Robber. No resources produced
+Albion got Wool
+Myrna8511 rolled dice_6 dice_1
+Myrna8511 moved Robber robber to  prob_8 grain tile
+You stole Wool from Albion
+Buyers rolled dice_1 dice_2
+Ursi got Wool
+Albion got Wool
+Albion rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the Robber. No resources produced
+Ursi got Lumber
+Ursi rolled dice_3 dice_2
+Myrna8511 got Ore
+Buyers got Grain Ore
+Albion got Ore
+Ursi gave bank Wool Wool Wool Wool and took Brick
+Ursi built a road
+Myrna8511 rolled dice_5 dice_1
+Myrna8511 got Ore
+Ursi got Lumber
+Myrna8511 gave bank Ore Ore Ore Ore and took Grain
+Buyers rolled dice_5 dice_6
+Buyers got Lumber
+Buyers built a city (+1 VP)
+trophy Buyers won the game! trophy

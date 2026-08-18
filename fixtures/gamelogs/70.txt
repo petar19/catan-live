@@ -1,0 +1,363 @@
+GuestYolonc#9587 placed a settlement
+GuestYolonc#9587 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+Guesthamada placed a settlement
+Guesthamada placed a road
+Guesthamada placed a settlement
+Guesthamada placed a road
+Guesthamada received starting resources: lumberbrick
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources: lumberbrick
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: woollumber
+GuestYolonc#9587 placed a settlement
+GuestYolonc#9587 placed a road
+GuestYolonc#9587 received starting resources: ore
+GuestYolonc#9587 rolled: dice_5 dice_4
+GuestSeale5074 got: grain
+GuestYolonc#9587 got: grain
+Guesthamada has disconnected. Bot will wait until next turn to give hamada a chance to reconnect.
+bothamada has left the game, giving them 2 minutes to reconnect.
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+GuestSeale5074 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: brick
+bothamada got: lumber
+GuestSeale5074 wants to give: brick for: lumberwool
+icon_helmetMyrna8511 wants to give Seale5074 : wool for: brickgrain
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 traded: brickfor: lumber with: Myrna8511
+GuestSeale5074 built a road
+bothamada rolled: dice_6 dice_1
+bothamada moved robber robberto prob_6 grain tile
+bothamada stole: wool from you
+bothamada built a road
+GuestYolonc#9587 rolled: dice_5 dice_2
+GuestYolonc#9587 moved robber robberto prob_6 lumber tile
+GuestYolonc#9587 stole card from: hamada
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: ore
+bothamada got: brick
+GuestSeale5074 rolled: dice_1 dice_6
+GuestSeale5074 moved robber robberto prob_8 ore tile
+GuestSeale5074 stole card from: hamada
+bothamada rolled: dice_6 dice_1
+bothamada moved robber robberto prob_6 grain tile
+bothamada stole: ore from you
+GuestYolonc#9587 rolled: dice_1 dice_6
+GuestYolonc#9587 moved robber robberto prob_6 lumber tile
+GuestYolonc#9587 stole card from: hamada
+GuestYolonc#9587 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_3
+GuestSeale5074 got: grain
+GuestYolonc#9587 got: woolore
+bothamada got: ore
+GuestSeale5074 rolled: dice_5 dice_6
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: lumber
+GuestSeale5074 wants to give: grain for: brick
+icon_helmetMyrna8511 wants to give Seale5074 : brick for: lumbergrain
+GuestMyrna8511 traded: brickfor: lumbergrain with: Seale5074
+GuestSeale5074 built a settlement: +1 VP
+bothamada rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: ore
+bothamada got: brick
+GuestYolonc#9587 rolled: dice_5 dice_2
+GuestYolonc#9587 moved robber robberto prob_11 lumber tile
+GuestYolonc#9587 stole card from: Seale5074
+GuestYolonc#9587 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: brick
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: lumber
+GuestYolonc#9587 got: ore
+icon_helmetMyrna8511 wants to give: grain for: brick
+icon_helmetMyrna8511 built a road
+GuestSeale5074 rolled: dice_1 dice_6
+GuestSeale5074 moved robber robberto prob_8 ore tile
+GuestSeale5074 stole card from: Yolonc#9587
+bothamada rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: lumber
+GuestYolonc#9587 got: ore
+GuestYolonc#9587 rolled: dice_3 dice_4
+GuestYolonc#9587 moved robber robberto prob_11 lumber tile
+GuestYolonc#9587 stole card from: Seale5074
+GuestYolonc#9587 wants to give: wool for: grain
+GuestYolonc#9587 traded: woolfor: grain with: Myrna8511
+GuestYolonc#9587 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: ore
+bothamada got: brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 wants to give: wool for: brick
+GuestSeale5074 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: ore
+bothamada got: brick
+GuestSeale5074 wants to give: ore for: lumberbrick
+GuestSeale5074 wants to give: oreore for: lumberbrick
+bothamada rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: grain
+GuestYolonc#9587 got: woolwoolore
+bothamada got: ore
+GuestYolonc#9587 rolled: dice_6 dice_1
+GuestYolonc#9587 moved robber robberto prob_6 lumber tile
+GuestYolonc#9587 stole card from: hamada
+GuestYolonc#9587 wants to give: wool for: grain
+GuestYolonc#9587 wants to give: wool for: lumber
+GuestYolonc#9587 wants to give: ore for: lumber
+GuestYolonc#9587 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: oreore
+GuestYolonc#9587 wants to give: oreoreore for: lumbergrain
+GuestYolonc#9587 wants to give: woolore for: grain
+GuestYolonc#9587 traded: woolorefor: grain with: Myrna8511
+GuestYolonc#9587 gave bank: oreore and took lumber
+GuestYolonc#9587 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: grain
+GuestYolonc#9587 got: woolwooloreore
+bothamada got: ore
+icon_helmetMyrna8511 built a road
+GuestSeale5074 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: ore
+GuestYolonc#9587 got: brick
+bothamada got: brick
+GuestSeale5074 built a city: +1 VP
+bothamada rolled: dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: brick
+GuestYolonc#9587 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: brick
+bothamada got: brick
+GuestYolonc#9587 wants to give: ore for: lumber
+GuestYolonc#9587 wants to give: ore for: grain
+GuestYolonc#9587 wants to give: wool for: grain
+GuestYolonc#9587 wants to give: wool for: lumber
+GuestYolonc#9587 gave bank: oreore and took lumber
+GuestYolonc#9587 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: brick
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: brick
+bothamada got: brick
+icon_helmetMyrna8511 wants to give: brickbrick for: oreore
+icon_helmetMyrna8511 wants to give: brickbrickwool for: oreore
+GuestSeale5074 wants to give Myrna8511 : oreore for: brickwool
+GuestSeale5074 wants to give Myrna8511 : oreore for: brickwool
+icon_helmetSeale5074 traded: oreorefor: brickwool with: Myrna8511
+icon_helmetMyrna8511 built a city: +1 VP
+GuestSeale5074 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+GuestYolonc#9587 got: woolwooloreore
+bothamada got: ore
+GuestSeale5074 wants to give: ore for: lumber
+GuestSeale5074 wants to give: oreore for: lumberlumber
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 wants to give: brick for: ore
+GuestYolonc#9587 wants to give Seale5074 : ore for: lumber
+GuestYolonc#9587 wants to give Seale5074 : ore for: grain
+bothamada rolled: dice_3 dice_4
+Yolonc#9587 and hamada discarding resource cards
+botBot is selecting cards to discard for hamada
+bothamada discarded: oreorebrickbrickore
+GuestYolonc#9587 discarded: brickwoolwoolwool
+bothamada moved robber robberto prob_8 grain tile
+bothamada stole card from: Seale5074
+GuestYolonc#9587 rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestYolonc#9587 got: woolwooloreore
+bothamada got: ore
+GuestYolonc#9587 wants to give: wool for: grain
+GuestYolonc#9587 wants to give: wool for: lumber
+GuestYolonc#9587 wants to give: ore for: lumber
+GuestYolonc#9587 wants to give: ore for: grain
+GuestYolonc#9587 gave bank: oreoreoreore and took lumbergrain
+GuestYolonc#9587 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+GuestSeale5074 rolled: dice_6 dice_1
+GuestSeale5074 moved robber robberto prob_8 wool tile
+GuestSeale5074 stole card from: Yolonc#9587
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 traded: woolfor: ore with: hamada
+GuestSeale5074 built a city: +1 VP
+bothamada rolled: dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+GuestYolonc#9587 got: oreore
+bothamada got: ore
+bothamada gave bank: brickbrick and took lumber
+bothamada gave bank: brickbrick and took grain
+bothamada wants to give: wool for: grain
+GuestSeale5074 wants to give hamada : grain for: lumberlumber
+icon_helmetMyrna8511 wants to give hamada : grain for: lumber
+GuestSeale5074 wants to give hamada : grain for: lumber
+botMyrna8511 traded: grainfor: lumber with: hamada
+bothamada built a city: +1 VP
+GuestYolonc#9587 rolled: dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+GuestYolonc#9587 got: oreore
+bothamada got: ore
+GuestYolonc#9587 wants to give: ore for: grain
+GuestYolonc#9587 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: lumber
+GuestSeale5074 wants to give Yolonc#9587 : grain for: lumber
+GuestSeale5074 wants to give Yolonc#9587 : grain for: oreore
+GuestSeale5074 wants to give Yolonc#9587 : graingrain for: oreore
+GuestSeale5074 traded: graingrainfor: oreore with: Yolonc#9587
+GuestYolonc#9587 wants to give: wool for: ore
+GuestYolonc#9587 bought development card
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: brickbrick
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: brick
+bothamada got: brickbrick
+icon_helmetMyrna8511 wants to give: brick for: grain
+icon_helmetMyrna8511 wants to give: brick for: lumber
+GuestSeale5074 wants to give Myrna8511 : ore for: brick
+icon_helmetMyrna8511 wants to give: brickbrick for: lumber
+icon_helmetMyrna8511 wants to give: brickbrick for: grain
+icon_helmetMyrna8511 wants to give: brickgrain for: lumber
+icon_helmetMyrna8511 wants to give: brickbrickgrain for: lumber
+icon_helmetMyrna8511 built a road
+GuestSeale5074 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: graingrain
+GuestSeale5074 got: brickbrick
+bothamada got: lumberlumber
+GuestSeale5074 wants to give: oreoreoreore for: graingraingraingrain
+GuestSeale5074 wants to give: oreoreoreore for: graingraingrain
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give: ore for: grain
+bothamada rolled: dice_5 dice_2
+Myrna8511 discarding resource cards
+icon_helmetMyrna8511 discarded: brickbrickgraingrain
+bothamada moved robber robberto prob_8 grain tile
+bothamada stole card from: Seale5074
+bothamada gave bank: brickbrick and took grain
+GuestYolonc#9587 rolled: dice_2 dice_1
+icon_helmetMyrna8511 rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: graingrain
+GuestSeale5074 got: brickbrick
+bothamada got: lumberlumber
+icon_helmetMyrna8511 gave bank: graingrain and took lumber
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_5 dice_2
+hamada discarding resource cards
+botBot is selecting cards to discard for hamada
+bothamada discarded: oreorelumberlumber
+GuestSeale5074 moved robber robberto prob_8 wool tile
+GuestSeale5074 stole card from: Yolonc#9587
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 traded: brickfor: lumber with: hamada
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 built a road
+GuestSeale5074 wants to give: brickbrick for: lumber
+bothamada rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: orebrickbrick
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: brick
+bothamada got: brickbrick
+bothamada built a settlement: +1 VP
+GuestYolonc#9587 rolled: dice_2 dice_5
+GuestYolonc#9587 moved robber robberto prob_8 grain tile
+GuestYolonc#9587 stole card from: Seale5074
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: lumber
+GuestYolonc#9587 got: oreore
+icon_helmetMyrna8511 built a road
+Guesthamada has reconnected!
+GuestSeale5074 rolled: dice_5 dice_4
+GuestSeale5074 got: graingraingraingrain
+GuestYolonc#9587 got: graingrain
+GuestSeale5074 wants to give: grain for: lumber
+Guesthamada has disconnected. Bot will wait until next turn to give hamada a chance to reconnect.
+bothamada has left the game, giving them 2 minutes to reconnect.
+GuestSeale5074 gave bank: graingrain and took lumber
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give: brickbrick for: grainore
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 wants to give: ore for: wool
+GuestSeale5074 wants to give: brick for: wool
+bothamada rolled: dice_3 dice_6
+GuestSeale5074 got: graingraingraingrain
+GuestYolonc#9587 got: graingrain
+GuestYolonc#9587 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: graingrainbrick
+GuestSeale5074 got: brickbrick
+bothamada got: lumberlumberlumber
+GuestYolonc#9587 built a city: +1 VP
+GuestYolonc#9587 wants to give: grain for: lumber
+GuestYolonc#9587 traded: grainfor: lumber with: hamada
+GuestYolonc#9587 built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestYolonc#9587 got: woolwoolwooloreoreore
+bothamada got: ore
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: lumber with: hamada
+icon_helmetMyrna8511 built a road
+GuestSeale5074 rolled: dice_3 dice_6
+GuestSeale5074 got: graingraingraingrain
+GuestYolonc#9587 got: graingrain
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 gave bank: graingrain and took ore
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 gave bank: graingrain and took lumber
+GuestSeale5074 gave bank: graingrain and took lumber
+GuestSeale5074 wants to give: brickgrain for: lumber
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+bothamada rolled: dice_6 dice_5
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: lumberlumberlumberlumber
+bothamada built a road
+bothamada wants to give: brick for: wool
+icon_helmetMyrna8511 wants to give hamada : wool for: lumber
+GuestYolonc#9587 rolled: dice_6 dice_3
+GuestSeale5074 got: graingraingraingrain
+GuestYolonc#9587 got: graingrain
+GuestYolonc#9587 gave bank: woolwool and took lumber
+GuestYolonc#9587 built a settlement: +1 VP
+GuestYolonc#9587 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: orebrickbrick
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: brickbrick
+bothamada got: brickbrick
+icon_helmetMyrna8511 wants to give: oreore for: lumberlumber
+icon_helmetMyrna8511 wants to give: oreore for: lumber
+icon_helmetMyrna8511 wants to give: oreore for: graingrain
+icon_helmetMyrna8511 traded: oreorefor: graingrain with: Yolonc#9587
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took lumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road: +2 VPs
+icon_helmetMyrna8511 built a road
+GuestSeale5074 rolled: dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestYolonc#9587 got: woolwoolwoolwooloreoreore
+bothamada got: ore
+GuestSeale5074 built a road
+GuestSeale5074 gave bank: graingrain and took brick
+GuestSeale5074 gave bank: graingrain and took brick
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+Guestlongest road has passed from: Myrna8511 to: Seale5074: +2 VPs
+trophy Seale5074 won the game!

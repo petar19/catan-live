@@ -1,0 +1,483 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_crownRodmur5527 placed a settlement
+icon_crownRodmur5527 placed a road
+GuestCMWarrior placed a settlement
+GuestCMWarrior placed a road
+GuestWindmillGuy placed a settlement
+GuestWindmillGuy placed a road
+GuestWindmillGuy placed a settlement
+GuestWindmillGuy placed a road
+GuestWindmillGuy received starting resources lumberlumberbrick
+GuestCMWarrior placed a settlement
+GuestCMWarrior placed a road
+GuestCMWarrior received starting resources bricklumberlumber
+icon_crownRodmur5527 placed a settlement
+icon_crownRodmur5527 placed a road
+icon_crownRodmur5527 received starting resources lumbergrainlumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woolbrickgrain
+icon_helmetMyrna8511 rolled dice_1 dice_2
+GuestWindmillGuy got ore
+GuestCMWarrior got grain
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_crownRodmur5527 wants to give Myrna8511 lumber for grain
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_crownRodmur5527 rolled dice_2 dice_2
+icon_crownRodmur5527 got lumberwool
+icon_helmetMyrna8511 got wool
+icon_crownRodmur5527 wants to give lumber for ore
+GuestWindmillGuy wants to give Rodmur5527 ore for brick
+GuestCMWarrior rolled dice_2 dice_4
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumber
+GuestCMWarrior got wool
+GuestCMWarrior built a road
+GuestWindmillGuy rolled dice_3 dice_4
+GuestWindmillGuy moved robber robber to  prob_9 grain tile
+GuestWindmillGuy stole wool from you
+GuestWindmillGuy wants to give lumber for brick
+GuestWindmillGuy wants to give ore for brick
+GuestWindmillGuy wants to give lumberore for brick
+GuestWindmillGuy wants to give lumberwoolore for brick
+GuestWindmillGuy wants to give lumberwoolore for brick
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole lumber from WindmillGuy
+icon_helmetMyrna8511 built a road
+icon_crownRodmur5527 rolled dice_1 dice_2
+GuestWindmillGuy got ore
+GuestCMWarrior got grain
+GuestCMWarrior rolled dice_4 dice_5
+GuestCMWarrior got lumbergrain
+icon_helmetMyrna8511 got grain
+GuestWindmillGuy rolled dice_2 dice_5
+GuestWindmillGuy moved robber robber to  prob_9 grain tile
+GuestWindmillGuy stole card from CMWarrior
+GuestWindmillGuy wants to give ore for brick
+GuestWindmillGuy wants to give woolgrainore for brick
+GuestWindmillGuy wants to give woolgrainoreore for brick
+GuestWindmillGuy built a road
+icon_helmetMyrna8511 rolled dice_5 dice_1
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumber
+GuestCMWarrior got wool
+icon_crownRodmur5527 rolled dice_2 dice_6
+icon_crownRodmur5527 got brick
+icon_helmetMyrna8511 got grain
+icon_crownRodmur5527 built a road
+GuestCMWarrior rolled dice_1 dice_3
+icon_crownRodmur5527 got lumberwool
+icon_helmetMyrna8511 got wool
+GuestCMWarrior wants to give lumber for ore
+GuestWindmillGuy rolled dice_5 dice_5
+GuestWindmillGuy got wool
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got wool
+GuestWindmillGuy bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_5
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumber
+GuestCMWarrior got wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give woolgrain for brick
+icon_helmetMyrna8511 traded grain for lumber with WindmillGuy
+icon_crownRodmur5527 rolled dice_1 dice_3
+icon_crownRodmur5527 got lumberwool
+icon_helmetMyrna8511 got wool
+icon_crownRodmur5527 built a settlement (+1 VP)
+icon_crownRodmur5527 gave bank lumberlumberlumberlumber and took oreore
+GuestCMWarrior rolled dice_4 dice_2
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumber
+GuestCMWarrior got wool
+GuestCMWarrior built a road
+GuestCMWarrior wants to give grain for wool
+icon_helmetMyrna8511 wants to give CMWarrior wool for brick
+GuestCMWarrior traded grain for wool with Rodmur5527
+GuestCMWarrior gave bank woolwoolwoolwool and took brick
+GuestCMWarrior built a settlement (+1 VP)
+GuestWindmillGuy rolled dice_2 dice_6
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got grain
+GuestWindmillGuy used Knight card knight
+GuestWindmillGuy moved robber robber to  prob_8 brick tile
+GuestWindmillGuy stole card from CMWarrior
+GuestWindmillGuy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 traded grain for brick with Rodmur5527
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_crownRodmur5527 rolled dice_6 dice_1
+icon_crownRodmur5527 discarded lumberlumberlumberwool
+icon_crownRodmur5527 moved robber robber to  prob_9 grain tile
+icon_crownRodmur5527 stole wool from you
+icon_crownRodmur5527 wants to give wool for ore
+icon_crownRodmur5527 traded wool for ore with WindmillGuy
+icon_crownRodmur5527 built a city (+1 VP)
+GuestCMWarrior rolled dice_1 dice_5
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got wool
+GuestWindmillGuy rolled dice_5 dice_5
+GuestWindmillGuy got wool
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got woolwool
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestWindmillGuy got grain
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got grain
+icon_crownRodmur5527 rolled dice_1 dice_5
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got wool
+icon_crownRodmur5527 built a road
+icon_crownRodmur5527 built a road
+GuestCMWarrior rolled dice_6 dice_3
+ prob_9 grain tile is blocked by the robber. No resources produced.
+GuestCMWarrior got lumber
+GuestCMWarrior wants to give wool for lumbergrain
+GuestWindmillGuy rolled dice_1 dice_6
+GuestBot is selecting where to place robber for WindmillGuy
+GuestWindmillGuy moved robber robber to  prob_8 brick tile
+GuestWindmillGuy stole card from CMWarrior
+GuestWindmillGuy wants to give lumber for ore
+GuestWindmillGuy wants to give lumber for brick
+icon_helmetMyrna8511 rolled dice_5 dice_1
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got wool
+icon_crownRodmur5527 rolled dice_2 dice_1
+GuestWindmillGuy got oreore
+GuestCMWarrior got graingrain
+GuestCMWarrior rolled dice_2 dice_5
+GuestWindmillGuy discarded lumberlumberlumberlumberlumber
+GuestCMWarrior moved robber robber to  prob_6 lumber tile
+GuestCMWarrior stole card from Rodmur5527
+GuestCMWarrior wants to give wool for grain
+GuestCMWarrior wants to give wool for lumber
+GuestCMWarrior wants to give grain for lumber
+icon_helmetMyrna8511 wants to give CMWarrior grain for lumberwool
+GuestCMWarrior traded grain for lumber with WindmillGuy
+GuestCMWarrior built a road
+GuestCMWarrior built a settlement (+1 VP)
+GuestWindmillGuy rolled dice_1 dice_1
+icon_helmetMyrna8511 got wool
+GuestWindmillGuy bought development card
+GuestWindmillGuy bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestWindmillGuy got lumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 bought development card
+icon_crownRodmur5527 rolled dice_5 dice_6
+GuestWindmillGuy got brickbrick
+icon_crownRodmur5527 got graingraingrain
+icon_helmetMyrna8511 got brick
+GuestCMWarrior rolled dice_2 dice_4
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestCMWarrior got wool
+GuestWindmillGuy rolled dice_5 dice_1
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestCMWarrior got wool
+icon_helmetMyrna8511 rolled dice_6 dice_5
+GuestWindmillGuy got brickbrick
+icon_crownRodmur5527 got graingraingrain
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give woolwool for lumber
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_crownRodmur5527 wants to give Myrna8511 lumber for brickwool
+icon_crownRodmur5527 rolled dice_4 dice_1
+GuestWindmillGuy got lumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+icon_crownRodmur5527 wants to give grain for wool
+icon_crownRodmur5527 wants to give grain for brick
+icon_helmetMyrna8511 wants to give Rodmur5527 wool for lumbergrain
+icon_crownRodmur5527 wants to give Myrna8511 lumbergraingrain for brickwool
+icon_crownMyrna8511 traded wool for lumbergrain with Rodmur5527
+icon_crownRodmur5527 gave bank lumberlumber and took ore
+icon_crownRodmur5527 bought development card
+GuestCMWarrior rolled dice_6 dice_4
+GuestWindmillGuy got wool
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got woolwool
+GuestWindmillGuy rolled dice_4 dice_2
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestCMWarrior got wool
+icon_helmetMyrna8511 rolled dice_4 dice_3
+GuestCMWarrior discarded woolwoolwoolwool
+icon_helmetMyrna8511 discarded woolwoolwoolwoolgrain
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole brick from Rodmur5527
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 traded ore for lumber with CMWarrior
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_crownRodmur5527 rolled dice_5 dice_1
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got wool
+GuestCMWarrior rolled dice_2 dice_6
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestWindmillGuy got grain
+icon_helmetMyrna8511 got graingrain
+GuestWindmillGuy rolled dice_1 dice_4
+GuestWindmillGuy got lumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+GuestWindmillGuy received longest road (+2 VPs)
+GuestWindmillGuy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestWindmillGuy got grain
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give brick for wool
+GuestCMWarrior wants to give Myrna8511 wool for ore
+icon_crownRodmur5527 rolled dice_6 dice_6
+icon_crownRodmur5527 got ore
+GuestCMWarrior got ore
+icon_crownRodmur5527 gave bank lumberlumber and took wool
+icon_crownRodmur5527 bought development card
+GuestCMWarrior rolled dice_2 dice_4
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got wool
+GuestCMWarrior wants to give brick for ore
+GuestCMWarrior built a road
+GuestWindmillGuy rolled dice_5 dice_3
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestWindmillGuy got grain
+icon_helmetMyrna8511 got graingrain
+GuestWindmillGuy used Monopoly card monopoly
+GuestWindmillGuy stole 3 ore
+GuestWindmillGuy built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumberwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 gave bank graingraingraingrain and took ore
+icon_helmetMyrna8511 bought development card
+icon_crownRodmur5527 rolled dice_2 dice_1
+GuestWindmillGuy got oreore
+GuestCMWarrior got graingrain
+icon_crownRodmur5527 wants to give grain for brick
+icon_crownRodmur5527 used Road Building card road building
+icon_crownRodmur5527 placed a road
+icon_crownRodmur5527 placed a road
+icon_crownRodmur5527 gave bank lumberlumber and took brick
+icon_crownRodmur5527 built a settlement (+1 VP)
+GuestCMWarrior rolled dice_3 dice_2
+GuestWindmillGuy got lumberlumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+GuestCMWarrior wants to give lumber for ore
+GuestCMWarrior wants to give wool for ore
+GuestWindmillGuy wants to give CMWarrior ore for brickbrick
+GuestWindmillGuy wants to give CMWarrior ore for woolgrain
+GuestCMWarrior gave bank graingrain and took ore
+GuestWindmillGuy rolled dice_4 dice_5
+GuestCMWarrior got lumberlumbergrain
+icon_helmetMyrna8511 got graingrain
+GuestWindmillGuy used Knight card knight
+GuestWindmillGuy moved robber robber to  prob_10 brick tile
+GuestWindmillGuy stole card from CMWarrior
+GuestWindmillGuy wants to give lumber for grain
+GuestWindmillGuy traded lumber for grain with Myrna8511
+GuestWindmillGuy gave bank lumberlumberlumber and took grain
+GuestWindmillGuy built a city (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole grain from Rodmur5527
+icon_helmetMyrna8511 rolled dice_5 dice_1
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestCMWarrior got wool
+icon_helmetMyrna8511 wants to give grain for wool
+GuestCMWarrior wants to give Myrna8511 wool for graingrain
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded brick for wool with CMWarrior
+icon_helmetMyrna8511 bought development card
+icon_crownRodmur5527 rolled dice_6 dice_2
+GuestWindmillGuy got graingrain
+icon_crownRodmur5527 got brick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got graingrain
+GuestCMWarrior rolled dice_1 dice_6
+GuestCMWarrior discarded lumberlumberlumberwoolwool
+GuestCMWarrior moved robber robber to  prob_3 ore tile
+GuestCMWarrior stole card from WindmillGuy
+GuestCMWarrior built a settlement (+1 VP)
+GuestWindmillGuy rolled dice_1 dice_1
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestWindmillGuy got lumber
+icon_crownRodmur5527 got lumberlumberwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole grain from WindmillGuy
+icon_helmetMyrna8511 wants to give grain for ore
+icon_helmetMyrna8511 wants to give graingrain for ore
+icon_helmetMyrna8511 gave bank graingraingraingrain and took ore
+icon_helmetMyrna8511 bought development card
+icon_crownRodmur5527 rolled dice_5 dice_4
+GuestCMWarrior got lumberlumbergrain
+icon_helmetMyrna8511 got graingrain
+icon_crownRodmur5527 built a settlement (+1 VP)
+GuestCMWarrior rolled dice_5 dice_4
+GuestCMWarrior got lumberlumbergrain
+icon_helmetMyrna8511 got graingrain
+GuestCMWarrior wants to give lumberbrick for grainore
+GuestCMWarrior wants to give lumberbrick for oreore
+GuestCMWarrior built a road
+GuestCMWarrior gave bank graingrain and took ore
+GuestWindmillGuy rolled dice_4 dice_3
+GuestWindmillGuy moved robber robber to  prob_9 grain tile
+GuestWindmillGuy stole grain from you
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole lumber from Rodmur5527
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_4 lumber tile
+icon_helmetYou stole lumber from WindmillGuy
+icon_crownRodmur5527 rolled dice_3 dice_5
+GuestWindmillGuy got graingrain
+icon_crownRodmur5527 got brickbrick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got graingrain
+GuestCMWarrior rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded lumberlumberlumbergrain
+GuestCMWarrior moved robber robber to  prob_8 grain tile
+GuestCMWarrior stole grain from you
+GuestCMWarrior wants to give brick for ore
+GuestCMWarrior gave bank lumberlumberlumber and took ore
+GuestWindmillGuy rolled dice_6 dice_2
+ prob_8 grain tile is blocked by the robber. No resources produced.
+icon_crownRodmur5527 got brickbrick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole lumber from Rodmur5527
+icon_crownRodmur5527 rolled dice_1 dice_2
+GuestWindmillGuy got oreoreore
+GuestCMWarrior got graingrain
+GuestCMWarrior rolled dice_5 dice_5
+GuestWindmillGuy got wool
+icon_crownRodmur5527 got brickbrick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got woolwool
+GuestCMWarrior gave bank graingrain and took ore
+GuestCMWarrior built a city (+1 VP)
+GuestWindmillGuy rolled dice_6 dice_1
+GuestWindmillGuy moved robber robber to  prob_9 grain tile
+GuestWindmillGuy stole grain from you
+GuestWindmillGuy built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_5
+GuestWindmillGuy got brickbrickbrickbrick
+icon_crownRodmur5527 got graingraingrain
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 gave bank woolwool and took ore
+icon_helmetMyrna8511 bought development card
+icon_crownRodmur5527 rolled dice_4 dice_6
+GuestWindmillGuy got woolwool
+icon_crownRodmur5527 got brickbrick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got woolwool
+icon_crownRodmur5527 wants to give brick for lumber
+icon_crownRodmur5527 wants to give brick for lumber
+icon_crownRodmur5527 gave bank brickbrickbrick and took lumber
+icon_crownRodmur5527 built a road
+icon_crownRodmur5527 gave bank graingraingrain and took lumber
+icon_crownRodmur5527 built a road
+icon_crownlongest road passed from WindmillGuy to Rodmur5527 (+2 VPs)
+icon_crownRodmur5527 wants to give brick for lumber
+icon_crownRodmur5527 wants to give brickbrick for lumber
+GuestCMWarrior rolled dice_6 dice_1
+GuestWindmillGuy discarded woolwoolgraingrain
+GuestCMWarrior moved robber robber to  prob_6 lumber tile
+GuestCMWarrior stole card from Rodmur5527
+GuestWindmillGuy rolled dice_3 dice_5
+GuestWindmillGuy got graingrain
+icon_crownRodmur5527 got brickbrick
+GuestCMWarrior got brick
+icon_helmetMyrna8511 got graingrain
+GuestWindmillGuy gave bank brickbrickbrick and took ore
+GuestWindmillGuy bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole brick from Rodmur5527
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from Rodmur5527 to Myrna8511 (+2 VPs)
+icon_helmetMyrna8511 wants to give graingraingrain for lumber
+icon_helmetMyrna8511 gave bank woolwool and took lumber
+icon_helmetMyrna8511 built a road
+icon_crownRodmur5527 rolled dice_1 dice_4
+GuestWindmillGuy got lumberlumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+GuestCMWarrior rolled dice_6 dice_3
+GuestCMWarrior got lumberlumbergraingrain
+icon_helmetMyrna8511 got graingrain
+GuestCMWarrior wants to give brick for lumber
+GuestCMWarrior built a road
+GuestCMWarrior built a road
+GuestCMWarrior built a road
+GuestCMWarrior wants to give brick for lumber
+GuestCMWarrior traded brick for lumber with WindmillGuy
+GuestCMWarrior built a road
+Guestlongest road passed from Myrna8511 to CMWarrior (+2 VPs)
+GuestWindmillGuy rolled dice_4 dice_1
+GuestWindmillGuy got lumberlumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestWindmillGuy got lumberlumber
+icon_crownRodmur5527 got lumberlumber
+GuestCMWarrior got woolwoolwool
+icon_crownRodmur5527 rolled dice_1 dice_4
+GuestWindmillGuy got lumberlumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+icon_crownRodmur5527 built a road
+icon_crownRodmur5527 built a road
+GuestCMWarrior rolled dice_6 dice_5
+GuestWindmillGuy got brickbrickbrickbrick
+icon_crownRodmur5527 got graingraingrain
+icon_helmetMyrna8511 got brick
+GuestCMWarrior built a road
+GuestCMWarrior wants to give wool for brick
+GuestCMWarrior gave bank woolwoolwool and took brick
+GuestWindmillGuy rolled dice_4 dice_1
+GuestWindmillGuy got lumberlumber
+GuestCMWarrior got lumber
+icon_helmetMyrna8511 got ore
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+GuestWindmillGuy built a road
+Guestlongest road passed from CMWarrior to WindmillGuy (+2 VPs)
+trophyGuestWindmillGuy won the game!trophy
+GuestWindmillGuy has left the game
+GuestCMWarrior has left the game
+icon_crownRodmur5527 has left the game

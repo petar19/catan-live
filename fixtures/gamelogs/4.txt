@@ -1,0 +1,266 @@
+Mereng placed a settlement
+GuestMereng placed a road
+GuestSpring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestBot is placing a settlement for Seale5074
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+UserMyrna8511 placed a settlement
+UserMyrna8511 placed a road
+UserMyrna8511 placed a settlement
+UserMyrna8511 placed a road
+UserMyrna8511 received starting resources: lumbergrain brick
+GuestBot is placing a settlement for Seale5074
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources: grain brick brick
+GuestSpring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestSpring#4635 received starting resources: wool brick
+GuestMereng placed a settlement
+GuestMereng placed a road
+GuestMereng received starting resources: grainlumber
+GuestMereng rolled: dice_4 dice_2
+UserMyrna8511 got: ore
+GuestMereng got: ore
+GuestSpring#4635 rolled: dice_6 dice_6
+GuestSeale5074 rolled: dice_3 dice_3
+UserMyrna8511 got: ore
+GuestMereng got: ore
+GuestSeale5074 wants to give:  brick for: lumber
+UserMyrna8511 rolled: dice_4 dice_5
+UserMyrna8511 got: ore
+GuestSpring#4635 got: woolore
+GuestSeale5074 got: lumber
+GuestMereng got: lumber
+UserMyrna8511 wants to give: lumber for: grain
+UserMyrna8511 wants to give:  brick for: grain
+UserMyrna8511 built a road
+GuestMereng rolled: dice_2 dice_2
+UserMyrna8511 got: grain
+GuestSpring#4635 got: ore
+GuestSeale5074 got: grain
+GuestMereng got: wool
+GuestMereng wants to give: wool for: grain
+GuestMereng traded: woolfor: grain with: Seale5074
+GuestMereng gave bank: lumberlumber and took ore
+GuestMereng built a city: +1 VP
+botMereng has left the game, giving them 2 minutes to reconnect.
+botMereng has disconnected. Bot will wait until next turn to give Mereng a chance to reconnect.
+GuestSpring#4635 rolled: dice_1 dice_3
+UserMyrna8511 got: grain
+GuestSpring#4635 got: ore
+GuestSeale5074 got: grain
+botMereng got: woolwool
+GuestMereng has reconnected!
+GuestSpring#4635 wants to give:  brick for: grain
+GuestSeale5074 wants to give Spring#4635 : grain for: lumber
+GuestSeale5074 wants to give Spring#4635 : grain for: ore
+GuestSpring#4635 traded:  brickfor: grain with: Myrna8511
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_6 dice_2
+UserMyrna8511 got:  brick
+GuestSeale5074 got: lumber brick
+GuestSeale5074 built a road
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 wants to give: grain for: woolore
+UserMyrna8511 rolled: dice_6 dice_1
+UserMyrna8511 moved robber robber: prob_5 brick
+UserYou stole: wool from: Mereng
+UserMyrna8511 built a city: +1 VP
+GuestMereng rolled: dice_6 dice_1
+GuestMereng moved robber robber: prob_9 ore
+GuestMereng stole:  brick from you
+GuestSpring#4635 rolled: dice_2 dice_6
+UserMyrna8511 got:  brick
+GuestSeale5074 got: lumber brick brick
+GuestSeale5074 rolled: dice_5 dice_6
+UserMyrna8511 got: lumber
+GuestSeale5074 got:  brick brick
+GuestSeale5074 wants to give:  brick for: oreore
+GuestSeale5074 wants to give:  brick for: lumber
+GuestSeale5074 wants to give:  brick brick for: wool
+UserMyrna8511 rolled: dice_3 dice_3
+UserMyrna8511 got: oreore
+GuestMereng got: oreore
+UserMyrna8511 wants to give: oreore for:  brick brick
+UserMyrna8511 traded: oreorefor:  brick brick with: Seale5074
+UserMyrna8511 gave bank:  brick brick brick and took grain
+UserMyrna8511 built a settlement: +1 VP
+GuestMereng rolled: dice_3 dice_1
+UserMyrna8511 got: grain
+GuestSpring#4635 got: oreore
+GuestSeale5074 got: grainore
+GuestMereng got: woolwool
+GuestSpring#4635 rolled: dice_5 dice_6
+UserMyrna8511 got: lumberlumber
+GuestSeale5074 got:  brick brick
+GuestSeale5074 rolled: dice_6 dice_3
+GuestSpring#4635 got: wool
+GuestSeale5074 got: lumber
+GuestMereng got: lumber
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  brick for: wool
+GuestSeale5074 wants to give:  brick for: lumber
+GuestSeale5074 wants to give:  brick for: grain
+GuestSeale5074 traded:  brickfor: wool with: Mereng
+UserMyrna8511 rolled: dice_6 dice_6
+GuestMereng rolled: dice_5 dice_4
+GuestSpring#4635 got: wool
+GuestSeale5074 got: lumber
+GuestMereng got: lumber
+GuestMereng built a road
+GuestMereng built a road
+GuestSpring#4635 rolled: dice_6 dice_1
+botMereng has left the game, giving them 2 minutes to reconnect.
+botMereng has disconnected. Bot will wait until next turn to give Mereng a chance to reconnect.
+GuestMereng has reconnected!
+GuestSpring#4635 moved robber robber: prob_8 brick
+GuestSpring#4635 stole card from: Seale5074
+GuestSpring#4635 wants to give: wool for: lumber
+GuestSpring#4635 wants to give: wool for:  brick
+UserMyrna8511 wants to give Spring#4635 : lumber for:  brickwool
+GuestSpring#4635 traded: woolfor:  brick with: Seale5074
+GuestSpring#4635 wants to give: ore for:  brick
+GuestSpring#4635 wants to give: ore for: lumber
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 gave bank: woolwool and took lumber
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_3 dice_1
+UserMyrna8511 got: grain
+GuestSpring#4635 got: oreore
+GuestSeale5074 got: graingrainore
+GuestMereng got: woolwool
+GuestSeale5074 built a settlement: +1 VP
+UserMyrna8511 rolled: dice_6 dice_3
+UserMyrna8511 got: oreore
+GuestSpring#4635 got: wooloreore
+GuestSeale5074 got: lumber
+GuestMereng got: lumber
+UserMyrna8511 wants to give: lumber for:  brick
+UserMyrna8511 wants to give: lumber for: ore
+UserMyrna8511 traded: lumberfor: ore with: Spring#4635
+UserMyrna8511 built a city: +1 VP
+GuestMereng rolled: dice_5 dice_6
+UserMyrna8511 got: lumberlumberlumber
+GuestSeale5074 got:  brick brick brick
+GuestMereng wants to give: wool for: grain
+GuestMereng wants to give: woolwool for: grain
+GuestSeale5074 wants to give Mereng :  brick for: wool
+GuestMereng wants to give: woolwoolwool for: grain
+GuestMereng gave bank: woolwoolwoolwool and took grain
+GuestSpring#4635 rolled: dice_3 dice_1
+UserMyrna8511 got: graingrain
+GuestSpring#4635 got: oreore
+GuestSeale5074 got: graingrainoreore
+GuestMereng got: woolwool
+GuestSpring#4635 wants to give: ore for: grain
+GuestSpring#4635 wants to give: oreore for: grain
+GuestSpring#4635 wants to give: ore for:  brick
+UserMyrna8511 wants to give Spring#4635 : grain for:  brickore
+GuestSpring#4635 wants to give: oreore for:  brick
+GuestSpring#4635 wants to give: oreoreore for:  brick
+GuestSpring#4635 gave bank: oreoreoreore and took grain
+GuestSpring#4635 wants to give: oreoreore for:  brick
+GuestSpring#4635 traded: oreoreorefor:  brick with: Seale5074
+GuestSpring#4635 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_4 dice_2
+UserMyrna8511 got: wooloreore
+GuestSpring#4635 got: lumber
+GuestMereng got: oreore
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give:  brick for: grain
+GuestSeale5074 traded:  brickfor: grain with: Myrna8511
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 built a road
+GuestSeale5074 received longest road: +2 VPs
+UserMyrna8511 rolled: dice_6 dice_4
+GuestSpring#4635 got: graingrain
+UserMyrna8511 wants to give: lumber for:  brick
+UserMyrna8511 wants to give: lumberlumber for:  brick
+UserMyrna8511 wants to give: lumberore for:  brick
+UserMyrna8511 wants to give: ore for: lumber
+UserMyrna8511 built a road
+UserMyrna8511 bought development card
+GuestMereng rolled: dice_1 dice_2
+GuestMereng wants to give: woolore for: grain
+GuestMereng wants to give: lumberwoolore for: grain
+GuestSpring#4635 rolled: dice_6 dice_3
+UserMyrna8511 got: oreore
+GuestSpring#4635 got: woolwooloreore
+GuestSeale5074 got: lumberlumber
+GuestMereng got: lumber
+GuestSpring#4635 gave bank: woolwool and took ore
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_2 dice_3
+GuestSpring#4635 got:  brick brick
+GuestMereng got: grain brick brick
+GuestSeale5074 wants to give: lumber for: wool
+GuestSeale5074 wants to give: lumber for: oreoreore
+UserMyrna8511 used Knight card knight
+UserMyrna8511 moved robber robber: prob_4 ore
+UserYou stole: lumber from: Seale5074
+UserMyrna8511 rolled: dice_2 dice_3
+GuestSpring#4635 got:  brick brick
+GuestMereng got: grain brick brick
+UserMyrna8511 wants to give: ore for: wool
+UserMyrna8511 wants to give: oreore for: wool
+UserMyrna8511 wants to give: oreore for: grain
+UserMyrna8511 wants to give: oreore for:  brick
+UserMyrna8511 gave bank: oreoreore and took  brick
+UserMyrna8511 built a road
+GuestMereng rolled: dice_6 dice_2
+UserMyrna8511 got:  brick brick
+GuestSeale5074 got: lumberlumber brick brick brick brick
+GuestMereng built a road
+GuestMereng built a settlement: +1 VP
+GuestMereng built a city: +1 VP
+GuestSpring#4635 rolled: dice_1 dice_6
+GuestSpring#4635 moved robber robber: prob_8 brick
+GuestSpring#4635 stole card from: Seale5074
+GuestSpring#4635 built a road
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_6 dice_4
+GuestSpring#4635 got: graingrain
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  brick for: wool
+GuestSeale5074 wants to give:  brick for: grain
+GuestSeale5074 wants to give:  brick for: lumber
+UserMyrna8511 rolled: dice_2 dice_2
+UserMyrna8511 got: graingrain
+GuestSpring#4635 got: oreore
+GuestSeale5074 got: graingrainoreoreore
+GuestMereng got: woolwool
+UserMyrna8511 wants to give: grain for: lumber
+UserMyrna8511 wants to give: grain for: wool
+UserMyrna8511 wants to give:  brickgrain for: wool
+UserMyrna8511 wants to give:  brickgrain for: lumber
+GuestMereng rolled: dice_6 dice_3
+UserMyrna8511 got: oreore
+GuestSpring#4635 got: woolwoolwooloreore
+GuestSeale5074 got: lumberlumber
+GuestMereng got: lumber
+GuestMereng built a road
+GuestMereng wants to give: wool for: lumber
+GuestMereng wants to give: woolwool for: lumber
+GuestSpring#4635 rolled: dice_3 dice_3
+UserMyrna8511 got: wooloreore
+GuestSpring#4635 got: lumber
+GuestMereng got: oreore
+GuestSpring#4635 gave bank: woolwool and took grain
+GuestSpring#4635 built a settlement: +1 VP
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_2 dice_2
+UserMyrna8511 got: graingrain
+GuestSpring#4635 got: oreorewoolwool
+GuestSeale5074 got: graingrainoreoreore
+GuestMereng got: woolwool
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+GuestSeale5074 built a city: +1 VP
+trophy Seale5074 won the game! trophy

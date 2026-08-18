@@ -1,0 +1,98 @@
+botAnnora placed a settlement
+botAnnora placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+botSorel placed a settlement
+botSorel placed a road
+botVentre placed a settlement
+botVentre placed a road
+botVentre placed a settlement
+botVentre received starting resources bricklumberore
+botVentre placed a road
+botSorel placed a settlement
+botSorel received starting resources woolwoolgrain
+botSorel placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 received starting resources woolwool
+icon_helmetMyrna8511 placed a road
+botAnnora placed a settlement
+botAnnora received starting resources lumberbrickbrick
+botAnnora placed a road
+botAnnora rolled dice_6 dice_5
+botAnnora got brick
+botVentre got brick
+botAnnora built a road
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_helmetMyrna8511 got grain
+botAnnora got lumber
+botSorel got lumber
+botSorel rolled dice_3 dice_5
+icon_helmetMyrna8511 got wool
+botAnnora got ore
+botSorel got wool
+botVentre rolled dice_6 dice_6
+botVentre built a road
+botAnnora rolled dice_6 dice_6
+icon_helmetMyrna8511 rolled dice_3 dice_6
+icon_helmetMyrna8511 got grain
+botAnnora got lumber
+botSorel got lumber
+botSorel rolled dice_6 dice_3
+icon_helmetMyrna8511 got grain
+botAnnora got lumber
+botSorel got lumber
+botVentre rolled dice_4 dice_5
+icon_helmetMyrna8511 got grain
+botAnnora got lumber
+botSorel got lumber
+botAnnora rolled dice_3 dice_1
+botAnnora got brick
+botVentre got brick
+botSorel got wool
+botAnnora gave bank lumberlumberlumberlumber and took grain
+icon_helmetMyrna8511 rolled dice_5 dice_5
+icon_helmetMyrna8511 got grainwool
+botAnnora got grain
+botSorel got wool
+icon_helmetMyrna8511 gave bank graingraingraingrain and took ore
+icon_helmetMyrna8511 bought development card
+botSorel rolled dice_2 dice_6
+icon_helmetMyrna8511 got wool
+botAnnora got ore
+botSorel got wool
+botSorel gave bank lumberlumberlumberlumber and took ore
+botSorel bought development card
+botVentre rolled dice_6 dice_6
+botAnnora rolled dice_6 dice_6
+botAnnora wants to give brick for ore
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved Robber robber to  prob_8 ore tile
+icon_helmetYou stole brick from Annora
+botSorel rolled dice_4 dice_5
+icon_helmetMyrna8511 got grain
+botAnnora got lumber
+botSorel got lumber
+botSorel gave bank woolwoolwoolwool and took brick
+botSorel built a road
+botSorel used Knight card knight
+botSorel moved Robber robber to  prob_5 lumber tile
+botSorel stole card from Annora
+botVentre rolled dice_5 dice_5
+icon_helmetMyrna8511 got grainwool
+botAnnora got grain
+botSorel got wool
+botAnnora rolled dice_6 dice_4
+icon_helmetMyrna8511 got grainwool
+botAnnora got grain
+botSorel got wool
+botAnnora wants to give brick for ore
+botAnnora wants to give grain for ore
+botAnnora wants to give lumber for ore
+botAnnora built a road
+icon_helmetMyrna8511 rolled dice_5 dice_5
+icon_helmetMyrna8511 got grainwool
+botAnnora got grain
+botSorel got wool
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took ore
+icon_helmetMyrna8511 bought development card
+trophyicon_helmetMyrna8511 won the game!trophy

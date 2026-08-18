@@ -1,0 +1,371 @@
+List of commands: /help
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_sombreroHarryShower placed a settlement
+icon_sombreroHarryShower placed a road
+GuestMOE03 placed a settlement
+GuestMOE03 placed a road
+UserHindu8436 placed a settlement
+UserHindu8436 placed a road
+UserHindu8436 placed a settlement
+UserHindu8436 placed a road
+UserHindu8436 received starting resources lumberbrickwool
+GuestMOE03 placed a settlement
+GuestMOE03 placed a road
+GuestMOE03 received starting resources grainwoolgrain
+icon_sombreroHarryShower placed a settlement
+icon_sombreroHarryShower placed a road
+icon_sombreroHarryShower received starting resources woolgrainwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woolgrain
+icon_helmetMyrna8511 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brick
+UserHindu8436 got brick
+GuestMOE03 got grainbrick
+icon_sombreroHarryShower rolled dice_5 dice_4
+icon_helmetMyrna8511 got grainore
+GuestMOE03 rolled dice_6 dice_5
+UserHindu8436 rolled dice_1 dice_2
+icon_sombreroHarryShower got brick
+GuestMOE03 got lumber
+UserHindu8436 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_4
+icon_sombreroHarryShower got grain
+GuestMOE03 got oregrain
+icon_sombreroHarryShower rolled dice_5 dice_2
+GuestMOE03 discarded graingraingrainore
+icon_sombreroHarryShower moved robber robber to  prob_5 ore tile
+icon_sombreroHarryShower stole card from MOE03
+GuestMOE03 rolled dice_1 dice_1
+icon_sombreroHarryShower got wool
+UserHindu8436 rolled dice_5 dice_6
+icon_helmetMyrna8511 rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainore
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for ore
+icon_helmetMyrna8511 traded grain for wool with Hindu8436
+icon_sombreroHarryShower rolled dice_1 dice_2
+icon_sombreroHarryShower got brick
+GuestMOE03 got lumber
+icon_sombreroHarryShower wants to give brick for lumber
+icon_sombreroHarryShower wants to give woolgrain for lumber
+GuestMOE03 rolled dice_5 dice_6
+UserHindu8436 rolled dice_1 dice_5
+UserHindu8436 got wool
+icon_sombreroHarryShower got wool
+icon_helmetMyrna8511 rolled dice_2 dice_1
+icon_sombreroHarryShower got brick
+GuestMOE03 got lumber
+icon_sombreroHarryShower rolled dice_2 dice_1
+icon_sombreroHarryShower got brick
+GuestMOE03 got lumber
+icon_sombreroHarryShower wants to give brick for lumber
+icon_sombreroHarryShower wants to give brickwool for lumber
+icon_sombreroHarryShower gave bank brickbrickbrickbrick and took lumber
+icon_sombreroHarryShower built a road
+GuestMOE03 rolled dice_5 dice_4
+icon_helmetMyrna8511 got grainore
+UserHindu8436 rolled dice_1 dice_3
+icon_helmetMyrna8511 got brick
+UserHindu8436 got brick
+GuestMOE03 got grainbrick
+UserHindu8436 wants to give grain for wool
+icon_helmetMyrna8511 wants to give Hindu8436 wool for lumber
+icon_helmetMyrna8511 rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 bought development card
+icon_sombreroHarryShower rolled dice_2 dice_3
+ prob_5 ore tile is blocked by the robber. No resources produced.
+icon_sombreroHarryShower got grain
+GuestMOE03 got grain
+GuestMOE03 rolled dice_1 dice_1
+icon_sombreroHarryShower got wool
+GuestMOE03 built a road
+UserHindu8436 rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainoreore
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_sombreroHarryShower got wool
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give brickore for lumber
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded brick for wool with Hindu8436
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+icon_sombreroHarryShower rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainoreore
+icon_sombreroHarryShower wants to give wool for ore
+icon_helmetMyrna8511 wants to give HarryShower ore for woolwool
+icon_sombreroHarryShower gave bank woolwoolwoolwool and took ore
+icon_sombreroHarryShower bought development card
+GuestMOE03 rolled dice_3 dice_1
+icon_helmetMyrna8511 got brickbrick
+UserHindu8436 got brick
+GuestMOE03 got grainbrick
+GuestMOE03 built a settlement (+1 VP)
+UserHindu8436 rolled dice_1 dice_2
+icon_sombreroHarryShower got brick
+GuestMOE03 got lumberbrick
+UserHindu8436 wants to give brickbrick for wool
+UserHindu8436 traded brickbrick for wool with HarryShower
+icon_helmetMyrna8511 rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the robber. No resources produced.
+icon_sombreroHarryShower got grain
+GuestMOE03 got grain
+icon_sombreroHarryShower rolled dice_5 dice_1
+UserHindu8436 got wool
+icon_sombreroHarryShower got wool
+icon_sombreroHarryShower used card year of plenty
+icon_sombreroHarryShower took from bank lumber ore
+icon_sombreroHarryShower built a settlement (+1 VP)
+GuestMOE03 rolled dice_1 dice_6
+GuestMOE03 discarded lumbergraingraingrain
+GuestMOE03 moved robber robber to  prob_9 grain tile
+GuestMOE03 stole brick from you
+UserHindu8436 rolled dice_3 dice_1
+icon_helmetMyrna8511 got brickbrick
+UserHindu8436 got brick
+GuestMOE03 got grainbrick
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_3 brick tile
+icon_helmetYou stole brick from MOE03
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 discarded brickbrickbrickbrick
+icon_helmetMyrna8511 moved robber robber to  prob_4 brick tile
+icon_helmetYou stole brick from MOE03
+icon_sombreroHarryShower rolled dice_3 dice_3
+UserHindu8436 got wool
+icon_sombreroHarryShower got wool
+GuestMOE03 rolled dice_6 dice_6
+UserHindu8436 got lumber
+UserHindu8436 rolled dice_6 dice_2
+icon_helmetMyrna8511 got wool
+UserHindu8436 got wool
+icon_sombreroHarryShower got lumber
+UserHindu8436 built a road
+UserHindu8436 wants to give brick for wool
+UserHindu8436 wants to give woolwoolwoolwool for lumber
+UserHindu8436 wants to give woolwoolwool for lumber
+UserHindu8436 gave bank woolwool and took lumber
+UserHindu8436 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_5
+UserHindu8436 got wool
+icon_sombreroHarryShower got wool
+icon_sombreroHarryShower rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainoreore
+icon_sombreroHarryShower got ore
+icon_sombreroHarryShower wants to give wool for ore
+icon_sombreroHarryShower traded wool for ore with Myrna8511
+icon_sombreroHarryShower built a city (+1 VP)
+icon_sombreroHarryShower built a road
+GuestMOE03 rolled dice_4 dice_1
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got oreoregrain
+GuestMOE03 wants to give lumber for ore
+GuestMOE03 traded lumber for ore with Myrna8511
+GuestMOE03 built a city (+1 VP)
+UserHindu8436 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded brickgrainoreore
+UserHindu8436 moved robber robber to  prob_10 wool tile
+UserHindu8436 stole card from MOE03
+UserHindu8436 built a road
+icon_helmetMyrna8511 rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainoreore
+icon_sombreroHarryShower got ore
+icon_helmetMyrna8511 wants to give grainore for lumberbrick
+icon_helmetMyrna8511 used card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 bought development card
+icon_sombreroHarryShower rolled dice_4 dice_1
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got oreoregraingrain
+icon_sombreroHarryShower wants to give brickgrain for oreore
+icon_sombreroHarryShower bought development card
+GuestMOE03 rolled dice_2 dice_6
+icon_helmetMyrna8511 got wool
+UserHindu8436 got woollumber
+icon_sombreroHarryShower got lumberlumber
+UserHindu8436 rolled dice_1 dice_1
+icon_sombreroHarryShower got wool
+UserHindu8436 gave bank woolwool and took brick
+icon_helmetMyrna8511 rolled dice_1 dice_5
+UserHindu8436 got wool
+icon_sombreroHarryShower got wool
+icon_sombreroHarryShower rolled dice_3 dice_6
+icon_helmetMyrna8511 got grainoreoreore
+icon_sombreroHarryShower got ore
+icon_sombreroHarryShower used card knight
+icon_sombreroHarryShower moved robber robber to  prob_8 wool tile
+icon_sombreroHarryShower stole wool from you
+icon_sombreroHarryShower wants to give wool for lumber
+icon_sombreroHarryShower wants to give wool for ore
+icon_sombreroHarryShower built a settlement (+1 VP)
+icon_sombreroHarryShower bought development card
+GuestMOE03 rolled dice_2 dice_3
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got oreoregraingrain
+GuestMOE03 built a city (+1 VP)
+UserHindu8436 rolled dice_6 dice_6
+UserHindu8436 got lumberlumber
+UserHindu8436 wants to give lumberlumber for grain
+UserHindu8436 traded lumberlumber for grain with HarryShower
+UserHindu8436 built a settlement (+1 VP)
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 lumber tile
+icon_helmetYou stole wool from HarryShower
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got lumberbrickbrick
+UserHindu8436 got lumber
+icon_sombreroHarryShower got brickbrick
+GuestMOE03 got woolwool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_sombreroHarryShower rolled dice_1 dice_4
+icon_helmetMyrna8511 got grain
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got oreoreoregraingrain
+icon_sombreroHarryShower wants to give lumberbrick for oreore
+icon_sombreroHarryShower wants to give grain for ore
+GuestMOE03 wants to give HarryShower oreore for lumberlumberbrick
+icon_sombreroHarryShower wants to give MOE03 lumberlumberbrick for oreoreore
+icon_helmetMyrna8511 wants to give HarryShower ore for woolgrain
+icon_helmetMyrna8511 wants to give HarryShower ore for lumbergrain
+icon_sombreroHarryShower built a road
+icon_sombreroHarryShower wants to give grain for wool
+icon_sombreroHarryShower wants to give grain for lumber
+icon_sombreroHarryShower traded grain for wool with Hindu8436
+icon_sombreroHarryShower built a settlement (+1 VP)
+GuestMOE03 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brickbrick
+UserHindu8436 got brick
+icon_sombreroHarryShower got brick
+GuestMOE03 got graingrainbrickbrick
+GuestMOE03 bought development card
+GuestMOE03 bought development card
+GuestMOE03 gave bank graingraingraingrain and took lumber
+UserHindu8436 rolled dice_1 dice_2
+icon_sombreroHarryShower got brickbrick
+GuestMOE03 got lumberlumberbrick
+UserHindu8436 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got lumberbrickbrick
+UserHindu8436 got lumber
+icon_sombreroHarryShower got brickbrick
+GuestMOE03 got woolwool
+icon_helmetMyrna8511 wants to give brickbrick for woolwool
+icon_helmetMyrna8511 gave bank brickbrickbrickbrick and took wool
+icon_helmetMyrna8511 bought development card
+icon_sombreroHarryShower rolled dice_6 dice_1
+icon_sombreroHarryShower discarded brickbrickbrickgrain
+GuestMOE03 discarded lumberbrickbrickwooloreore
+icon_sombreroHarryShower moved robber robber to  prob_5 ore tile
+icon_sombreroHarryShower stole card from MOE03
+icon_sombreroHarryShower built a road
+GuestMOE03 rolled dice_2 dice_3
+ prob_5 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got grain
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got graingrain
+UserHindu8436 rolled dice_6 dice_1
+UserHindu8436 moved robber robber to  prob_8 lumber tile
+UserHindu8436 stole card from HarryShower
+icon_helmetMyrna8511 rolled dice_3 dice_3
+UserHindu8436 got woolwool
+icon_sombreroHarryShower got wool
+icon_helmetMyrna8511 used card monopoly
+icon_helmetMyrna8511 stole 7 grain
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 gave bank graingraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+icon_sombreroHarryShower rolled dice_5 dice_4
+icon_helmetMyrna8511 got graingraingrainoreoreore
+icon_sombreroHarryShower got oreore
+GuestMOE03 rolled dice_1 dice_1
+icon_sombreroHarryShower got woolwool
+UserHindu8436 rolled dice_4 dice_3
+icon_helmetMyrna8511 discarded lumberbrickgrainore
+UserHindu8436 moved robber robber to  prob_9 grain tile
+UserHindu8436 stole grain from you
+UserHindu8436 gave bank woolwool and took brick
+UserHindu8436 built a road
+UserHindu8436 received longest road (+2 VPs)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+ prob_9 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreoreore
+icon_sombreroHarryShower got oreore
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_8 lumber tile
+icon_helmetYou stole ore from HarryShower
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_sombreroHarryShower rolled dice_6 dice_2
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got woolwool
+UserHindu8436 got woollumber
+GuestMOE03 rolled dice_1 dice_5
+UserHindu8436 got woolwool
+icon_sombreroHarryShower got wool
+UserHindu8436 rolled dice_1 dice_5
+UserHindu8436 got woolwool
+icon_sombreroHarryShower got wool
+UserHindu8436 wants to give wool for brick
+UserHindu8436 gave bank woolwool and took brick
+UserHindu8436 built a settlement (+1 VP)
+UserHindu8436 gave bank woolwool and took brick
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_sombreroHarryShower discarded woolwoolwoolwool
+icon_helmetMyrna8511 moved robber robber to  prob_4 brick tile
+icon_helmetYou stole brick from MOE03
+icon_sombreroHarryShower rolled dice_2 dice_4
+UserHindu8436 got woolwool
+icon_sombreroHarryShower got wool
+icon_sombreroHarryShower wants to give wool for grain
+icon_sombreroHarryShower wants to give ore for grain
+icon_sombreroHarryShower wants to give woolore for grain
+GuestMOE03 rolled dice_5 dice_2
+GuestMOE03 moved robber robber to  prob_9 grain tile
+GuestMOE03 stole wool from you
+GuestMOE03 built a road
+UserHindu8436 rolled dice_1 dice_5
+UserHindu8436 got woolwool
+icon_sombreroHarryShower got wool
+UserHindu8436 gave bank woolwool and took grain
+UserHindu8436 gave bank woolwool and took grain
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_4 brick tile
+icon_helmetYou stole wool from Hindu8436
+icon_helmetMyrna8511 rolled dice_5 dice_6
+icon_sombreroHarryShower rolled dice_4 dice_1
+icon_helmetMyrna8511 got graingrain
+icon_sombreroHarryShower got graingrain
+GuestMOE03 got oreoreoregraingrain
+icon_sombreroHarryShower built a city (+1 VP)
+GuestMOE03 rolled dice_1 dice_3
+ prob_4 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brickbrick
+icon_sombreroHarryShower got brickbrick
+GuestMOE03 got graingrain
+GuestMOE03 built a city (+1 VP)
+GuestMOE03 used card monopoly
+GuestMOE03 stole 4 grain
+GuestMOE03 gave bank graingraingraingrain and took brick
+GuestMOE03 built a settlement (+1 VP)
+UserHindu8436 rolled dice_2 dice_2
+ prob_4 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brickbrick
+icon_sombreroHarryShower got brickbrick
+GuestMOE03 got graingraingrain
+icon_helmetMyrna8511 rolled dice_2 dice_6
+icon_helmetMyrna8511 got woolwool
+UserHindu8436 got woollumberlumber
+icon_sombreroHarryShower got lumberlumberlumberlumber
+icon_helmetMyrna8511 gave bank brickbrickbrickbrickwoolwoolwoolwool and took graingrain
+icon_helmetMyrna8511 built a city (+1 VP)
+trophyicon_helmetMyrna8511 won the game! trophy
+UserHindu8436 created a rematch and is waiting for you!
+UserHindu8436 has left the game
+GuestMOE03 has left the game
+icon_sombreroHarryShower has left the game

@@ -1,0 +1,373 @@
+GuestCho3572 placed a settlement
+GuestCho3572 placed a road
+Guestcrimea420 placed a settlement
+Guestcrimea420 placed a road
+UserSTMOP placed a settlement
+UserSTMOP placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberoregrain
+UserSTMOP placed a settlement
+UserSTMOP placed a road
+UserSTMOP received starting resources woollumber
+Guestcrimea420 has disconnected. Bot will wait until next turn to give crimea420 a chance to reconnect.
+botcrimea420 has left the game
+Guestcrimea420 has reconnected
+Guestcrimea420 placed a settlement
+Guestcrimea420 placed a road
+Guestcrimea420 received starting resources brick
+GuestCho3572 placed a settlement
+GuestCho3572 placed a road
+GuestCho3572 received starting resources brickgrainlumber
+GuestCho3572 rolled dice_1 dice_4
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got grain
+GuestCho3572 built a road
+Guestcrimea420 rolled dice_3 dice_4
+Guestcrimea420 moved robber robber to  prob_3 lumber tile
+Guestcrimea420 stole card from STMOP
+Guestcrimea420 wants to give woolwool for lumber
+Guestcrimea420 traded woolwool for lumber with Myrna8511
+Guestcrimea420 built a road
+UserSTMOP rolled dice_5 dice_3
+UserSTMOP got wool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got ore
+icon_helmetMyrna8511 rolled dice_5 dice_3
+UserSTMOP got wool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got ore
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give woolwool for grain
+icon_helmetMyrna8511 bought development card
+GuestCho3572 rolled dice_5 dice_6
+GuestCho3572 got brick
+Guestcrimea420 rolled dice_3 dice_4
+Guestcrimea420 moved robber robber to  prob_9 grain tile
+Guestcrimea420 stole card from STMOP
+UserSTMOP rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumber
+GuestCho3572 got lumber
+icon_helmetMyrna8511 rolled dice_4 dice_4
+UserSTMOP got wool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got ore
+GuestCho3572 rolled dice_5 dice_5
+GuestCho3572 got wool
+GuestCho3572 built a settlement (+1 VP)
+Guestcrimea420 rolled dice_1 dice_3
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumber
+GuestCho3572 got lumber
+Guestcrimea420 gave bank woolwoolwoolwool and took brick
+Guestcrimea420 built a road
+UserSTMOP rolled dice_5 dice_2
+UserSTMOP moved robber robber to  prob_4 lumber tile
+UserSTMOP stole card from crimea420
+UserSTMOP gave bank woolwool and took brick
+UserSTMOP built a road
+icon_helmetMyrna8511 rolled dice_3 dice_6
+UserSTMOP got grain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumberwool for grain
+icon_helmetMyrna8511 wants to give woolwool for grain
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give woolore for grain
+GuestCho3572 rolled dice_2 dice_3
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got grain
+GuestCho3572 wants to give grain for woolwool
+icon_helmetMyrna8511 wants to give Cho3572 woolwool for graingrain
+GuestCho3572 built a city (+1 VP)
+Guestcrimea420 rolled dice_6 dice_3
+UserSTMOP got grain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+UserSTMOP rolled dice_4 dice_1
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got graingrain
+icon_helmetMyrna8511 rolled dice_3 dice_2
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got graingrain
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumberwool for grain
+GuestCho3572 has disconnected. Bot will wait until next turn to give Cho3572 a chance to reconnect.
+botCho3572 has left the game
+GuestCho3572 has reconnected
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain
+icon_helmetMyrna8511 bought development card
+GuestCho3572 rolled dice_2 dice_6
+UserSTMOP got wool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+GuestCho3572 gave bank graingraingraingrain and took wool
+GuestCho3572 bought development card
+Guestcrimea420 rolled dice_6 dice_4
+GuestCho3572 got woolwoolwool
+UserSTMOP rolled dice_3 dice_4
+UserSTMOP moved robber robber to  prob_5 wool tile
+UserSTMOP stole card from crimea420
+UserSTMOP wants to give grain for brick
+UserSTMOP wants to give wool for brick
+Guestcrimea420 started an embargo against STMOP
+UserSTMOP wants to give Myrna8511 & Cho3572 woolgrain for brick
+icon_helmetMyrna8511 rolled dice_3 dice_3
+UserSTMOP got brick
+icon_helmetMyrna8511 got brick
+Guestcrimea420 got brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 wool tile
+icon_helmetYou stole wool from Cho3572
+icon_helmetMyrna8511 built a road
+GuestCho3572 rolled dice_2 dice_6
+UserSTMOP got wool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+GuestCho3572 used Year of Plenty card year of plenty
+GuestCho3572 took from bank brick grain
+GuestCho3572 built a city (+1 VP)
+GuestCho3572 built a road
+Guestcrimea420 rolled dice_6 dice_5
+GuestCho3572 got brickbrickbrick
+Guestcrimea420 gave bank woolwoolwoolwool and took lumber
+Guestcrimea420 built a road
+UserSTMOP rolled dice_5 dice_1
+UserSTMOP got brick
+icon_helmetMyrna8511 got brick
+Guestcrimea420 got brick
+UserSTMOP built a settlement (+1 VP)
+UserSTMOP gave bank woolwool and took ore
+icon_helmetMyrna8511 rolled dice_6 dice_3
+UserSTMOP got grain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give woolore for grain
+icon_helmetMyrna8511 traded woolore for grain with STMOP
+icon_helmetMyrna8511 bought development card
+GuestCho3572 rolled dice_1 dice_3
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumber
+GuestCho3572 got lumber
+UserSTMOP has disconnected. Bot will wait until next turn to give STMOP a chance to reconnect.
+botSTMOP has left the game
+UserSTMOP has reconnected
+Guestcrimea420 rolled dice_5 dice_4
+UserSTMOP got grain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+Guestcrimea420 built a road
+UserSTMOP rolled dice_1 dice_1
+UserSTMOP got lumber
+icon_helmetMyrna8511 rolled dice_2 dice_3
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got graingrain
+icon_helmetMyrna8511 wants to give woolwool for brick
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 traded ore for brick with STMOP
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 built a road
+GuestCho3572 rolled dice_1 dice_2
+UserSTMOP got lumber
+icon_helmetMyrna8511 got grain
+GuestCho3572 got graingrain
+GuestCho3572 built a road
+GuestCho3572 gave bank graingraingraingrain and took lumber
+GuestCho3572 built a settlement (+1 VP)
+Guestcrimea420 rolled dice_1 dice_5
+UserSTMOP got brick
+icon_helmetMyrna8511 got brick
+Guestcrimea420 got brick
+Guestcrimea420 wants to give wool for lumber
+UserSTMOP rolled dice_1 dice_3
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumber
+GuestCho3572 got lumber
+UserSTMOP built a city (+1 VP)
+UserSTMOP built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestCho3572 rolled dice_2 dice_4
+UserSTMOP got brick
+icon_helmetMyrna8511 got brickbrick
+Guestcrimea420 got brick
+Guestcrimea420 rolled dice_6 dice_2
+UserSTMOP got woolwoolwool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+Guestcrimea420 wants to give brick for grain
+Guestcrimea420 wants to give brickwool for grain
+Guestcrimea420 traded brickwool for grain with Cho3572
+Guestcrimea420 built a settlement (+1 VP)
+UserSTMOP rolled dice_5 dice_3
+UserSTMOP got woolwoolwool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+UserSTMOP gave bank woolwoolwoolwoolwoolwool and took lumberbrickgrain
+UserSTMOP built a road
+UserSTMOP built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_5
+UserSTMOP got brickbrick
+icon_helmetMyrna8511 got brickbrick
+Guestcrimea420 got brick
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 wants to give brickwool for grain
+icon_helmetMyrna8511 wants to give brickwool for lumber
+icon_helmetMyrna8511 gave bank brickbrickbrickbrick and took grain
+GuestCho3572 rolled dice_1 dice_4
+icon_helmetMyrna8511 got wool
+Guestcrimea420 got wool
+GuestCho3572 got graingraingrain
+GuestCho3572 bought development card
+GuestCho3572 bought development card
+Guestcrimea420 rolled dice_5 dice_1
+UserSTMOP got brickbrick
+icon_helmetMyrna8511 got brickbrick
+Guestcrimea420 got brick
+Guestcrimea420 wants to give brickbrickwoolwool for grain
+UserSTMOP rolled dice_1 dice_1
+UserSTMOP got lumber
+GuestCho3572 got lumber
+UserSTMOP built a road
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 discarded brickbrickwoolwoolore
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole ore from Cho3572
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 bought development card
+GuestCho3572 used Knight card knight
+GuestCho3572 moved robber robber to  prob_6 brick tile
+GuestCho3572 stole wool from you
+GuestCho3572 rolled dice_2 dice_5
+GuestCho3572 moved robber robber to  prob_3 grain tile
+GuestCho3572 stole ore from you
+GuestCho3572 built a road
+GuestCho3572 built a road
+GuestCho3572 received longest road (+2 VPs)
+GuestCho3572 bought development card
+Guestcrimea420 rolled dice_4 dice_2
+UserSTMOP got brickbrick
+icon_helmetMyrna8511 got brickbrick
+Guestcrimea420 got brick
+Guestcrimea420 wants to give brickbrickbrickwoolwool for oreore
+Guestcrimea420 wants to give brickbrickbrickwoolwool for lumber
+Guestcrimea420 wants to give brickbrickbrickwoolwool for grainore
+Guestcrimea420 wants to give brickbrickbrickwoolwool for grain
+UserSTMOP rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumberlumber
+GuestCho3572 got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_10 wool tile
+icon_helmetYou stole lumber from Cho3572
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from Cho3572 to Myrna8511 (+2 VPs)
+GuestCho3572 rolled dice_3 dice_6
+UserSTMOP got grain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+GuestCho3572 wants to give grain for lumberbrick
+Guestcrimea420 wants to give Cho3572 lumberlumberbrickbrick for grain
+Guestcrimea420 wants to give Cho3572 lumberbrick for grain
+Guestcrimea420 rolled dice_3 dice_1
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumberlumber
+GuestCho3572 got lumber
+Guestcrimea420 wants to give lumberlumberlumberbrickbrickbrick for grainore
+Guestcrimea420 wants to give lumberlumberlumberbrickbrickbrick for ore
+Guestcrimea420 wants to give lumberlumberlumberbrickbrickbrick for graingrain
+Guestcrimea420 wants to give lumberlumberlumberbrickbrickbrick for grain
+Guestcrimea420 traded lumberlumberlumberbrickbrickbrick for ore with Myrna8511
+UserSTMOP rolled dice_5 dice_5
+ prob_10 wool tile is blocked by the robber. No resources produced.
+UserSTMOP got graingrain
+UserSTMOP gave bank brickbrickbrickbrick and took lumber
+UserSTMOP built a road
+icon_helmetMyrna8511 rolled dice_5 dice_3
+UserSTMOP got woolwoolwool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestCho3572 rolled dice_4 dice_4
+UserSTMOP got woolwoolwool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+GuestCho3572 gave bank oreoreoreore and took wool
+GuestCho3572 bought development card
+Guestcrimea420 rolled dice_2 dice_1
+UserSTMOP got lumber
+icon_helmetMyrna8511 got graingrain
+Guestcrimea420 got lumber
+GuestCho3572 got graingrain
+Guestcrimea420 wants to give lumberlumberwoolwoolwoolwool for graingrain
+Guestcrimea420 traded lumberlumberwoolwoolwoolwool for graingrain with Cho3572
+UserSTMOP rolled dice_2 dice_2
+icon_helmetMyrna8511 got lumber
+Guestcrimea420 got lumberlumber
+GuestCho3572 got lumber
+UserSTMOP wants to give Myrna8511 & Cho3572 grain for wool
+UserSTMOP wants to give Myrna8511 & Cho3572 graingrain for wool
+UserSTMOP traded grain for wool with Cho3572
+UserSTMOP gave bank woolwoolwoolwoolwoolwool and took lumberbrickbrick
+UserSTMOP built a road
+UserSTMOP built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+UserSTMOP got woolgrain
+icon_helmetMyrna8511 got wool
+GuestCho3572 got grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestCho3572 rolled dice_1 dice_6
+GuestCho3572 discarded lumberlumberlumberwool
+GuestCho3572 moved robber robber to  prob_4 lumber tile
+GuestCho3572 stole ore from you
+GuestCho3572 used Knight card knight
+GuestCho3572 moved robber robber to  prob_3 grain tile
+GuestCho3572 stole lumber from you
+GuestCho3572 bought development card
+Guestcrimea420 rolled dice_1 dice_5
+UserSTMOP got brickbrick
+icon_helmetMyrna8511 got brickbrick
+Guestcrimea420 got brick
+Guestcrimea420 wants to give lumberlumberbrickgrain for ore
+Guestcrimea420 wants to give lumberlumberbrickgrain for wool
+Guestcrimea420 traded lumberlumberbrickgrain for wool with Cho3572
+Guestcrimea420 wants to give woolgrainore for lumber
+Guestcrimea420 traded woolgrainore for lumber with Myrna8511
+UserSTMOP rolled dice_3 dice_1
+icon_helmetMyrna8511 got lumberlumber
+Guestcrimea420 got lumberlumber
+GuestCho3572 got lumber
+icon_helmetMyrna8511 rolled dice_2 dice_6
+UserSTMOP got woolwoolwool
+icon_helmetMyrna8511 got ore
+Guestcrimea420 got wool
+GuestCho3572 got oreore
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestCho3572 has left the game
+Guestcrimea420 has left the game
+UserSTMOP has left the game

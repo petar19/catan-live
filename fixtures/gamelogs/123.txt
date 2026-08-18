@@ -1,0 +1,358 @@
+Guestbawkbawk placed a settlement
+Guestbawkbawk placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+Userbobaloon placed a settlement
+Userbobaloon placed a road
+GuestChrispyCk placed a settlement
+GuestChrispyCk placed a road
+GuestChrispyCk placed a settlement
+GuestChrispyCk placed a road
+GuestChrispyCk received starting resources: lumberwoolbrick
+Userbobaloon placed a settlement
+Userbobaloon placed a road
+Userbobaloon received starting resources: lumberwoolwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: grainbricklumber
+Guestbawkbawk placed a settlement
+Guestbawkbawk placed a road
+Guestbawkbawk received starting resources: brickorelumber
+Guestbawkbawk rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: grain
+Userbobaloon got: woolbrick
+GuestChrispyCk got: brick
+Guestbawkbawk built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole: lumber from: bobaloon
+Userbobaloon rolled: dice_2 dice_1
+Userbobaloon got: grain
+GuestChrispyCk got: wool
+GuestChrispyCk rolled: dice_4 dice_2
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreore
+GuestChrispyCk built a road
+Guestbawkbawk rolled: dice_1 dice_5
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreore
+Guestbawkbawk wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: bawkbawk: grain for: wool
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreore
+Userbobaloon rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: lumberbrick
+GuestChrispyCk got: brick
+Guestbawkbawk got: brick
+GuestChrispyCk rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: ore
+Userbobaloon got: woolore
+GuestChrispyCk got: wool
+Guestbawkbawk got: grain
+GuestChrispyCk built a road
+Guestbawkbawk rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberbrick
+GuestChrispyCk got: brick
+Guestbawkbawk got: brick
+Guestbawkbawk gave bank: oreoreoreore and took grain
+Guestbawkbawk built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_3 dice_4
+Myrna8511 discarding resource cards
+icon_helmetMyrna8511 discarded: lumberlumberbrickgrainore
+icon_helmetMyrna8511 moved robber robber to  prob_5 brick tile
+icon_helmetYou stole: lumber from: ChrispyCk
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 traded: lumber for: wool with: bobaloon
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement: +1 VP
+Userbobaloon rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: grain
+GuestChrispyCk got: grain
+Userbobaloon built a road
+Userbobaloon bought development card
+GuestChrispyCk rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: grain
+Userbobaloon got: woolbrick
+GuestChrispyCk got: brick
+GuestChrispyCk built a settlement: +1 VP
+Guestbawkbawk rolled: dice_6 dice_6
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+ prob_5 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: lumberbrick
+icon_helmetMyrna8511 built a road
+Userbobaloon rolled: dice_2 dice_1
+Userbobaloon got: grain
+GuestChrispyCk got: woolwool
+Userbobaloon wants to give: wool for: lumber
+Userbobaloon used card knight
+Userbobaloon moved robber robber to  prob_4 grain tile
+Userbobaloon stole: card from: ChrispyCk
+GuestChrispyCk rolled: dice_1 dice_1
+Guestbawkbawk got: lumber
+Guestbawkbawk rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: grain
+Userbobaloon got: woolbrick
+GuestChrispyCk got: woolbrick
+icon_helmetMyrna8511 rolled: dice_6 dice_1
+bobaloon discarding resource cards
+Userbobaloon discarded: brickwoolwoolwool
+icon_helmetMyrna8511 moved robber robber to  prob_5 brick tile
+icon_helmetYou stole: lumber from: bawkbawk
+Userbobaloon rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: grain
+Userbobaloon got: woolbrick
+GuestChrispyCk got: woolbrick
+GuestChrispyCk rolled: dice_2 dice_5
+ChrispyCk discarding resource cards
+GuestChrispyCk discarded: brickbrickwoolwool
+GuestChrispyCk moved robber robber to  prob_6 ore tile
+GuestChrispyCk stole: grain from you
+GuestChrispyCk gave bank: woolwoolwoolwool and took lumber
+GuestChrispyCk built a road
+Guestbawkbawk rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: grain
+GuestChrispyCk got: grain
+icon_helmetMyrna8511 rolled: dice_4 dice_5
+Userbobaloon got: lumber
+Guestbawkbawk got: oreore
+icon_helmetMyrna8511 wants to give: grain for: brick
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grain for: brick with: bawkbawk
+icon_helmetMyrna8511 wants to give: graingrain for: wool
+Userbobaloon rolled: dice_6 dice_6
+Userbobaloon built a settlement: +1 VP
+GuestChrispyCk rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: grain
+Userbobaloon got: woolwoolbrick
+GuestChrispyCk got: woolbrick
+Guestbawkbawk rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberbrick
+GuestChrispyCk got: brick
+Guestbawkbawk got: brick
+icon_helmetMyrna8511 rolled: dice_6 dice_1
+Myrna8511 discarding resource cards
+icon_helmetMyrna8511 discarded: lumberbrickgraingrain
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole: wool from: ChrispyCk
+icon_helmetMyrna8511 built a settlement: +1 VP
+Userbobaloon rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: oreore
+Userbobaloon got: woolore
+GuestChrispyCk got: wool
+Guestbawkbawk got: graingrain
+Userbobaloon gave bank: woolwoolwoolwool and took lumber
+Userbobaloon built a road
+GuestChrispyCk rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: oreore
+Userbobaloon got: woolore
+GuestChrispyCk got: wool
+Guestbawkbawk got: graingrain
+Guestbawkbawk rolled: dice_1 dice_6
+bawkbawk discarding resource cards
+Guestbawkbawk discarded: brickgraingraingrain
+Guestbawkbawk moved robber robber to  prob_8 wool tile
+Guestbawkbawk stole: card from: ChrispyCk
+icon_helmetMyrna8511 rolled: dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_5 brick tile
+icon_helmetYou stole: ore from: bawkbawk
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 traded: ore for: grain with: bawkbawk
+icon_helmetMyrna8511 built a city: +1 VP
+Userbobaloon rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrick
+GuestChrispyCk got: woolbrick
+GuestChrispyCk rolled: dice_3 dice_4
+bobaloon discarding resource cards
+Userbobaloon discarded: brickbrickwoolwool
+GuestChrispyCk moved robber robber to  prob_9 ore tile
+GuestChrispyCk stole: card from: bawkbawk
+Guestbawkbawk rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrick
+GuestChrispyCk got: woolbrick
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreore
+icon_helmetMyrna8511 wants to give: graingrain for: woolwool
+icon_helmetMyrna8511 traded: graingrain for: woolwool with: bobaloon
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+Userbobaloon rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrick
+GuestChrispyCk got: woolbrick
+Userbobaloon wants to give: brick for: ore
+Userbobaloon wants to give: brickwool for: ore
+Userbobaloon traded: brickwool for: ore with: bawkbawk
+Userbobaloon built a city: +1 VP
+GuestChrispyCk rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreore
+GuestChrispyCk gave bank: woolwoolwoolwool and took lumber
+GuestChrispyCk built a road
+GuestChrispyCk built a road
+GuestChrispyCk received longest road: +2 VPs
+GuestChrispyCk built a settlement: +1 VP
+Guestbawkbawk rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrickbrick
+GuestChrispyCk got: woolbrick
+Guestbawkbawk wants to give: oreore for: lumber
+Guestbawkbawk wants to give: oreoreore for: lumber
+Guestbawkbawk gave bank: oreoreoreore and took lumber
+Guestbawkbawk built a settlement: +1 VP
+Guestbawkbawk gave bank: oreore and took lumber
+Guestbawkbawk built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+ prob_9 ore tile is blocked by the robber. No resources produced.
+Userbobaloon got: lumber
+Guestbawkbawk got: ore
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grain for: wool with: bobaloon
+icon_helmetMyrna8511 bought development card
+Userbobaloon rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreore
+Userbobaloon wants to give: brick for: lumber
+Userbobaloon wants to give: brickwool for: lumber
+Userbobaloon built a road
+GuestChrispyCk rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreore
+GuestChrispyCk built a road
+GuestChrispyCk built a settlement: +1 VP
+Guestbawkbawk rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: lumberlumberbrickbrick
+GuestChrispyCk got: brickbrick
+Guestbawkbawk got: brick
+Guestbawkbawk gave bank: oreoreoreore and took graingrain
+Guestbawkbawk built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+ prob_9 ore tile is blocked by the robber. No resources produced.
+Userbobaloon got: lumber
+GuestChrispyCk got: ore
+Guestbawkbawk got: ore
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 ore tile
+icon_helmetYou stole: brick from: bawkbawk
+Userbobaloon rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreoreore
+Userbobaloon built a settlement: +1 VP
+Userbobaloon gave bank: woolwool and took lumber
+Userbobaloon built a road
+GuestChrispyCk rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreoreore
+GuestChrispyCk built a road
+GuestChrispyCk built a road
+Guestbawkbawk rolled: dice_6 dice_6
+GuestChrispyCk got: graingrain
+Guestbawkbawk gave bank: oreoreoreoreoreoreoreore and took lumberbrickwoolgrain
+Guestbawkbawk built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: ore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreoreore
+icon_helmetMyrna8511 built a city: +1 VP
+Userbobaloon rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrickbrick
+GuestChrispyCk got: woolbrick
+Userbobaloon gave bank: woolwool and took lumber
+GuestChrispyCk rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrickbrick
+GuestChrispyCk got: woolbrick
+GuestChrispyCk gave bank: woolwool and took ore
+GuestChrispyCk built a road
+Guestbawkbawk rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberlumberbrickbrick
+GuestChrispyCk got: brickbrick
+Guestbawkbawk got: brickbrick
+Guestbawkbawk gave bank: oreore and took lumber
+Guestbawkbawk built a road
+Guestbawkbawk gave bank: oreore and took lumber
+Guestbawkbawk built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: lumberlumberbrickbrick
+GuestChrispyCk got: brickbrick
+Guestbawkbawk got: brickbrick
+icon_helmetMyrna8511 wants to give: brick for: wool
+icon_helmetMyrna8511 wants to give: lumberbrick for: wool
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grain for: wool with: bobaloon
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 gave bank: lumberlumberlumberbrickbrickbrick and took woolwool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 brick tile
+icon_helmetYou stole: ore from: ChrispyCk
+Userbobaloon rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolbrickbrick
+GuestChrispyCk got: woolbrick
+Userbobaloon built a settlement: +1 VP
+Userbobaloon gave bank: brickbrickbrickbrick and took ore
+GuestChrispyCk rolled: dice_3 dice_6
+Userbobaloon got: lumberlumber
+GuestChrispyCk got: ore
+Guestbawkbawk got: oreoreore
+GuestChrispyCk gave bank: brickbrickbrickbrick and took ore
+GuestChrispyCk built a city: +1 VP
+Guestbawkbawk rolled: dice_3 dice_6
+Userbobaloon got: lumberlumber
+GuestChrispyCk got: ore
+Guestbawkbawk got: oreoreore
+Guestbawkbawk gave bank: oreoreoreore and took graingrain
+Guestbawkbawk built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: grainwoolwool
+GuestChrispyCk got: grain
+Guestbawkbawk got: woolwool
+Guestbawkbawk has disconnected.
+GuestBot will wait until next turn to give bawkbawk a chance to reconnect
+botbawkbawk has left the game, giving them 2 minutes to reconnect.
+Guestbawkbawk has reconnected
+icon_helmetMyrna8511 used card monopoly
+icon_helmetMyrna8511 stole 7: brick
+icon_helmetMyrna8511 gave bank: brickbrickbrickbrickbrickbrick and took oreore
+icon_helmetMyrna8511 built a city: +1 VP
+Userbobaloon rolled: dice_2 dice_1
+Userbobaloon got: graingrain
+GuestChrispyCk got: woolwoolwool
+Userbobaloon gave bank: lumberlumberlumberlumber and took ore
+Userbobaloon gave bank: woolwool and took ore
+Userbobaloon built a city: +1 VP
+GuestChrispyCk rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: graingrain
+Userbobaloon got: woolwoolwoolbrickbrick
+GuestChrispyCk got: woolwoolbrick
+GuestChrispyCk gave bank: woolwoolwoolwool and took grainore
+GuestChrispyCk bought development card
+GuestChrispyCk bought development card
+Guestbawkbawk rolled: dice_6 dice_6
+GuestChrispyCk got: graingrain
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: oreore
+GuestChrispyCk got: lumber
+Guestbawkbawk got: oreoreoreore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 received largest army: +2 VPs
+trophy Myrna8511 won the game! trophy
+GuestChrispyCk has left the game
+Userbobaloon has left the game
+Guestbawkbawk has left the game

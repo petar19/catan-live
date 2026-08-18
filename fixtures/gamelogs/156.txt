@@ -1,0 +1,378 @@
+GuestNikeys has disconnected. Bot will wait until next turn to give Nikeys a chance to reconnect.
+botNikeys has left the game
+GuestHaden9476 placed a settlement
+GuestHaden9476 placed a road
+botNikeys placed a settlement
+botNikeys placed a road
+GuestNikeys has reconnected
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestTuikTec placed a settlement
+GuestTuikTec placed a road
+GuestTuikTec placed a settlement
+GuestTuikTec placed a road
+GuestTuikTec received starting resources orelumberwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woollumberore
+GuestNikeys placed a settlement
+GuestNikeys has disconnected. Bot will wait until next turn to give Nikeys a chance to reconnect.
+botNikeys has left the game
+botBot is placing a road for Nikeys
+botNikeys placed a road
+botNikeys received starting resources lumbergrainlumber
+GuestNikeys has reconnected
+GuestHaden9476 placed a settlement
+GuestHaden9476 placed a road
+GuestHaden9476 received starting resources oreorelumber
+GuestHaden9476 rolled dice_5 dice_6
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got grain
+GuestNikeys rolled dice_1 dice_4
+GuestHaden9476 got wool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_3 ore tile
+icon_helmetYou stole lumber from Haden9476
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumber for brick
+GuestTuikTec rolled dice_4 dice_6
+GuestHaden9476 got grainlumber
+icon_helmetMyrna8511 got grain
+GuestHaden9476 rolled dice_1 dice_6
+GuestHaden9476 moved robber robber to  prob_6 lumber tile
+GuestHaden9476 stole wool from you
+GuestHaden9476 wants to give wool for grain
+GuestNikeys wants to give Haden9476 grain for brick
+GuestHaden9476 wants to give lumberwool for grain
+icon_helmetMyrna8511 wants to give Haden9476 grain for brickore
+icon_helmetMyrna8511 wants to give Haden9476 grain for woolore
+GuestNikeys rolled dice_5 dice_6
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got grain
+icon_helmetMyrna8511 rolled dice_3 dice_3
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestNikeys got wool
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give lumberwool for grain
+icon_helmetMyrna8511 bought development card
+GuestTuikTec rolled dice_3 dice_4
+GuestHaden9476 discarded lumberwoolwoolore
+GuestTuikTec moved robber robber to  prob_10 grain tile
+GuestTuikTec stole card from Haden9476
+GuestTuikTec wants to give ore for grain
+GuestHaden9476 rolled dice_5 dice_2
+GuestHaden9476 moved robber robber to  prob_4 lumber tile
+GuestHaden9476 stole card from TuikTec
+GuestNikeys rolled dice_3 dice_6
+GuestHaden9476 got brick
+GuestTuikTec got lumber
+GuestNikeys got lumber
+GuestNikeys wants to give grain for brick
+GuestNikeys wants to give lumbergrain for brick
+GuestHaden9476 wants to give Nikeys brick for grainore
+GuestNikeys wants to give grain for lumber
+GuestNikeys traded grain for lumber with TuikTec
+GuestNikeys wants to give grain for lumber
+GuestNikeys traded grain for lumber with Myrna8511
+GuestNikeys gave bank lumberlumberlumberlumber and took brick
+GuestNikeys built a road
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_3 ore tile
+icon_helmetYou stole ore from TuikTec
+GuestTuikTec rolled dice_6 dice_2
+icon_helmetMyrna8511 got brick
+GuestTuikTec got wool
+GuestTuikTec bought development card
+GuestHaden9476 rolled dice_6 dice_5
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got grain
+GuestHaden9476 wants to give wool for grain
+icon_helmetMyrna8511 wants to give Haden9476 ore for wool
+GuestHaden9476 wants to give brick for grain
+GuestNikeys rolled dice_3 dice_6
+GuestHaden9476 got brick
+GuestTuikTec got lumber
+GuestNikeys got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestHaden9476 got wool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 built a road
+GuestTuikTec rolled dice_2 dice_4
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+GuestHaden9476 rolled dice_4 dice_2
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+GuestHaden9476 wants to give wool for grain
+GuestNikeys wants to give Haden9476 grain for woolwool
+GuestNikeys wants to give Haden9476 grain for brick
+GuestNikeys traded grain for woolwool with Haden9476
+GuestHaden9476 built a city (+1 VP)
+GuestNikeys rolled dice_4 dice_3
+GuestNikeys discarded lumberwoolwoolwool
+icon_helmetMyrna8511 discarded lumberoreoreore
+GuestNikeys moved robber robber to  prob_10 grain tile
+GuestNikeys stole card from Haden9476
+GuestNikeys built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_3
+GuestHaden9476 got brickbrick
+GuestTuikTec got lumber
+GuestNikeys got lumber
+GuestTuikTec used Knight card knight
+GuestTuikTec moved robber robber to  prob_5 wool tile
+GuestTuikTec stole card from Haden9476
+GuestTuikTec rolled dice_4 dice_2
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+GuestTuikTec built a road
+GuestHaden9476 rolled dice_2 dice_5
+GuestHaden9476 moved robber robber to  prob_4 grain tile
+GuestHaden9476 stole lumber from you
+GuestHaden9476 built a road
+GuestNikeys rolled dice_6 dice_4
+GuestHaden9476 got graingrainlumber
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 rolled dice_2 dice_6
+icon_helmetMyrna8511 got brick
+GuestTuikTec got wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestTuikTec rolled dice_3 dice_6
+GuestHaden9476 got brickbrick
+GuestTuikTec got lumber
+GuestNikeys got lumber
+GuestHaden9476 rolled dice_1 dice_1
+GuestHaden9476 built a road
+GuestNikeys rolled dice_4 dice_1
+GuestHaden9476 got woolwool
+icon_helmetMyrna8511 got wool
+GuestNikeys wants to give lumberwool for brick
+GuestHaden9476 wants to give Nikeys brick for lumberlumber
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestHaden9476 got woolwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 bought development card
+GuestTuikTec rolled dice_6 dice_2
+icon_helmetMyrna8511 got brick
+GuestTuikTec got wool
+GuestTuikTec wants to give lumberore for grain
+GuestHaden9476 rolled dice_4 dice_3
+GuestTuikTec discarded lumberlumberlumberwool
+GuestHaden9476 discarded brickwoolwoolwool
+GuestHaden9476 moved robber robber to  prob_6 lumber tile
+GuestHaden9476 stole brick from you
+GuestHaden9476 wants to give brick for lumber
+GuestHaden9476 traded brick for lumber with Nikeys
+GuestHaden9476 built a settlement (+1 VP)
+GuestNikeys rolled dice_4 dice_4
+icon_helmetMyrna8511 got brick
+GuestTuikTec got wool
+GuestNikeys built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 brick tile
+icon_helmetYou stole grain from Haden9476
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got brick
+GuestTuikTec got wool
+GuestTuikTec rolled dice_1 dice_1
+GuestHaden9476 rolled dice_3 dice_1
+icon_helmetMyrna8511 got grain
+GuestTuikTec got lumbergrain
+GuestNikeys got lumber
+GuestNikeys rolled dice_1 dice_1
+GuestNikeys gave bank lumberlumber and took brick
+GuestNikeys built a road
+icon_helmetMyrna8511 rolled dice_1 dice_2
+GuestHaden9476 got ore
+GuestTuikTec got ore
+GuestNikeys got brick
+icon_helmetMyrna8511 wants to give brick for ore
+icon_helmetMyrna8511 traded brick for ore with TuikTec
+icon_helmetMyrna8511 bought development card
+GuestTuikTec rolled dice_6 dice_1
+GuestTuikTec discarded woolwooloreore
+GuestTuikTec moved robber robber to  prob_6 lumber tile
+GuestTuikTec stole card from Nikeys
+GuestTuikTec built a settlement (+1 VP)
+GuestHaden9476 rolled dice_3 dice_3
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestNikeys got wool
+GuestNikeys rolled dice_3 dice_3
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestNikeys got wool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 brick tile
+icon_helmetYou stole ore from Haden9476
+icon_helmetMyrna8511 rolled dice_5 dice_1
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+GuestTuikTec rolled dice_2 dice_3
+GuestHaden9476 got woolwool
+icon_helmetMyrna8511 got wool
+GuestHaden9476 rolled dice_3 dice_3
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+GuestNikeys rolled dice_6 dice_4
+GuestHaden9476 got graingrainlumber
+icon_helmetMyrna8511 got graingrain
+GuestNikeys wants to give wool for grain
+icon_helmetMyrna8511 wants to give Nikeys lumbergrain for wool
+GuestMyrna8511 traded lumbergrain for wool with Nikeys
+GuestNikeys built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_6
+ prob_9 brick tile is blocked by the robber. No resources produced.
+GuestTuikTec got lumber
+GuestNikeys got lumberlumber
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 built a road
+GuestTuikTec rolled dice_6 dice_2
+icon_helmetMyrna8511 got brick
+GuestTuikTec got woolwool
+GuestHaden9476 rolled dice_6 dice_5
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got graingrain
+GuestHaden9476 bought development card
+GuestNikeys rolled dice_5 dice_3
+icon_helmetMyrna8511 got brick
+GuestTuikTec got woolwool
+GuestNikeys gave bank lumberlumber and took ore
+GuestNikeys bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got grain
+GuestTuikTec got lumbergrain
+GuestNikeys got lumber
+GuestTuikTec rolled dice_2 dice_5
+GuestTuikTec discarded lumberlumberwoolwoolwool
+GuestTuikTec moved robber robber to  prob_6 lumber tile
+GuestTuikTec stole card from Nikeys
+GuestTuikTec bought development card
+GuestHaden9476 rolled dice_1 dice_2
+GuestHaden9476 got ore
+GuestTuikTec got ore
+GuestNikeys got brick
+GuestHaden9476 bought development card
+GuestNikeys rolled dice_2 dice_3
+GuestHaden9476 got woolwool
+icon_helmetMyrna8511 got wool
+GuestNikeys built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+GuestTuikTec has disconnected. Bot will wait until next turn to give TuikTec a chance to reconnect.
+botTuikTec has left the game
+icon_helmetYou stole wool from Nikeys
+icon_helmetMyrna8511 rolled dice_6 dice_6
+GuestNikeys got grain
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 bought development card
+GuestTuikTec has reconnected
+GuestTuikTec rolled dice_4 dice_1
+GuestHaden9476 got woolwool
+icon_helmetMyrna8511 got wool
+GuestHaden9476 rolled dice_5 dice_2
+GuestTuikTec has disconnected. Bot will wait until next turn to give TuikTec a chance to reconnect.
+botTuikTec has left the game
+GuestNikeys has disconnected. Bot will wait until next turn to give Nikeys a chance to reconnect.
+botNikeys has left the game
+GuestHaden9476 moved robber robber to  prob_6 lumber tile
+GuestHaden9476 stole brick from you
+GuestHaden9476 gave bank woolwoolwool and took grain
+GuestTuikTec has reconnected
+GuestHaden9476 built a settlement (+1 VP)
+botNikeys rolled dice_5 dice_4
+GuestHaden9476 got brickbrickbrick
+GuestTuikTec got lumber
+botNikeys got lumberlumber
+GuestNikeys has reconnected
+GuestNikeys gave bank lumberlumber and took brick
+GuestNikeys built a road
+GuestNikeys received longest road (+2 VPs)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole brick from Haden9476
+icon_helmetMyrna8511 rolled dice_3 dice_3
+icon_helmetMyrna8511 got lumber
+GuestNikeys got woollumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestTuikTec rolled dice_2 dice_1
+GuestHaden9476 got ore
+GuestTuikTec got ore
+GuestNikeys got brick
+GuestHaden9476 rolled dice_6 dice_2
+icon_helmetMyrna8511 got brickbrick
+GuestTuikTec got woolwool
+GuestNikeys rolled dice_3 dice_5
+icon_helmetMyrna8511 got brickbrick
+GuestTuikTec got woolwool
+GuestNikeys built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_1
+GuestHaden9476 got woolwoolwool
+icon_helmetMyrna8511 got wool
+GuestTuikTec has disconnected. Bot will wait until next turn to give TuikTec a chance to reconnect.
+botTuikTec has left the game
+icon_helmetMyrna8511 wants to give brick for ore
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 wants to give brickwool for grain
+icon_helmetMyrna8511 wants to give brickwool for ore
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+GuestTuikTec has reconnected
+GuestTuikTec rolled dice_3 dice_5
+icon_helmetMyrna8511 got brickbrick
+GuestTuikTec got woolwool
+GuestNikeys got brick
+GuestTuikTec gave bank woolwoolwoolwoolwoolwool and took graingrain
+GuestTuikTec bought development card
+GuestHaden9476 rolled dice_6 dice_5
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got graingrain
+GuestNikeys rolled dice_5 dice_6
+GuestHaden9476 got ore
+icon_helmetMyrna8511 got ore
+GuestTuikTec got ore
+GuestNikeys got graingrain
+GuestNikeys used Monopoly card monopoly
+GuestNikeys stole 10 ore
+GuestNikeys built a city (+1 VP)
+GuestNikeys built a city (+1 VP)
+GuestNikeys bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_6
+ prob_10 lumber tile is blocked by the robber. No resources produced.
+GuestHaden9476 got graingrain
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 wants to give woolwoolwool for ore
+GuestTuikTec used Knight card knight
+GuestTuikTec moved robber robber to  prob_11 grain tile
+GuestTuikTec stole card from Nikeys
+GuestTuikTec rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded woolwoolwoolgrain
+GuestTuikTec moved robber robber to  prob_3 brick tile
+GuestTuikTec stole card from Nikeys
+GuestTuikTec built a road
+GuestHaden9476 rolled dice_1 dice_2
+ prob_3 brick tile is blocked by the robber. No resources produced.
+GuestHaden9476 got ore
+GuestTuikTec got ore
+GuestHaden9476 bought development card
+GuestNikeys rolled dice_4 dice_5
+GuestHaden9476 got brickbrickbrick
+GuestTuikTec got lumber
+GuestNikeys got lumberlumberlumber
+GuestNikeys gave bank lumberlumber and took ore
+GuestNikeys used Year of Plenty card year of plenty
+GuestNikeys took from bank grain grain
+GuestNikeys built a city (+1 VP)
+trophyGuestNikeys won the game!trophy
+GuestTuikTec has left the game

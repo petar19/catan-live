@@ -1,0 +1,417 @@
+GuestSum2326 placed a settlement
+GuestSum2326 placed a road
+Guestsahossei placed a settlement
+Guestsahossei placed a road
+UserDucksauce placed a settlement
+UserDucksauce placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources brickwoollumber
+UserDucksauce placed a settlement
+UserDucksauce placed a road
+UserDucksauce received starting resources woolwoolore
+Guestsahossei placed a settlement
+Guestsahossei placed a road
+Guestsahossei received starting resources bricklumberwool
+GuestSum2326 placed a settlement
+GuestSum2326 placed a road
+GuestSum2326 received starting resources grainore
+GuestSum2326 rolled dice_4 dice_6
+Guestsahossei got wool
+icon_helmetMyrna8511 got grain
+GuestSum2326 got grain
+Guestsahossei rolled dice_4 dice_6
+Guestsahossei got wool
+icon_helmetMyrna8511 got grain
+GuestSum2326 got grain
+Guestsahossei built a road
+UserDucksauce rolled dice_1 dice_4
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got wool
+UserDucksauce wants to give wool for grain
+icon_helmetMyrna8511 wants to give Ducksauce grain for brick
+icon_helmetMyrna8511 rolled dice_1 dice_4
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got wool
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 built a road
+GuestSum2326 rolled dice_1 dice_3
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumber
+UserDucksauce got brick
+Guestsahossei rolled dice_3 dice_3
+UserDucksauce got grainore
+GuestSum2326 got ore
+Guestsahossei wants to give wool for grain
+icon_helmetMyrna8511 wants to give sahossei grain for brick
+GuestMyrna8511 traded grain for brick with sahossei
+Guestsahossei bought development card
+UserDucksauce rolled dice_2 dice_5
+UserDucksauce discarded woolwoolwoolore
+UserDucksauce moved robber robber to  prob_8 ore tile
+UserDucksauce stole wool from you
+UserDucksauce bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_4
+Guestsahossei got lumberlumber
+GuestSum2326 got brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestSum2326 rolled dice_3 dice_3
+UserDucksauce got grainore
+GuestSum2326 got ore
+GuestSum2326 built a city (+1 VP)
+Guestsahossei rolled dice_3 dice_2
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got wool
+Guestsahossei wants to give lumber for grain
+Guestsahossei traded lumber for grain with Sum2326
+Guestsahossei bought development card
+UserDucksauce rolled dice_4 dice_1
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got wool
+UserDucksauce used Knight card knight
+UserDucksauce moved robber robber to  prob_10 grain tile
+UserDucksauce stole wool from you
+UserDucksauce wants to give wool for lumber
+UserDucksauce traded wool for lumber with sahossei
+UserDucksauce built a road
+UserDucksauce bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_2
+icon_helmetMyrna8511 got brick
+UserDucksauce got grain
+GuestSum2326 got grain
+icon_helmetMyrna8511 wants to give wool for lumber
+GuestSum2326 rolled dice_5 dice_4
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+GuestSum2326 built a road
+Guestsahossei rolled dice_2 dice_4
+UserDucksauce got grainore
+GuestSum2326 got oreore
+Guestsahossei wants to give ore for grain
+Guestsahossei wants to give woolore for grain
+Guestsahossei wants to give woolore for brick
+icon_helmetMyrna8511 wants to give sahossei brick for grainore
+Guestsahossei traded woolore for brick with Sum2326
+Guestsahossei used Year of Plenty card year of plenty
+Guestsahossei took from bank brick grain
+Guestsahossei built a road
+Guestsahossei built a settlement (+1 VP)
+UserDucksauce rolled dice_1 dice_4
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got wool
+UserDucksauce wants to give wool for ore
+Guestsahossei wants to give Ducksauce ore for brick
+Guestsahossei wants to give Ducksauce ore for woolwool
+Usersahossei traded ore for woolwool with Ducksauce
+UserDucksauce used Knight card knight
+UserDucksauce moved robber robber to  prob_8 ore tile
+UserDucksauce stole wool from you
+UserDucksauce wants to give wool for ore
+UserDucksauce traded wool for ore with sahossei
+UserDucksauce built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole brick from Sum2326
+icon_helmetMyrna8511 wants to give brick for lumber
+GuestSum2326 rolled dice_1 dice_2
+icon_helmetMyrna8511 got brick
+UserDucksauce got grain
+GuestSum2326 got grain
+GuestSum2326 built a city (+1 VP)
+Guestsahossei rolled dice_3 dice_1
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumber
+UserDucksauce got brick
+UserDucksauce rolled dice_1 dice_1
+Guestsahossei got grain
+UserDucksauce wants to give wool for lumber
+UserDucksauce wants to give grain for lumber
+icon_helmetMyrna8511 wants to give Ducksauce lumber for grainore
+icon_helmetMyrna8511 wants to give Ducksauce lumberbrick for grainore
+icon_helmetMyrna8511 wants to give Ducksauce brick for grain
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_3 grain tile
+icon_helmetYou stole brick from Ducksauce
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 wants to give brick for ore
+UserDucksauce wants to give Myrna8511 grain for lumberbrick
+icon_helmetMyrna8511 wants to give Myrna8511 lumberbrick for grainore
+icon_helmetMyrna8511 wants to give Myrna8511 lumberbrickbrick for grainore
+icon_helmetMyrna8511 built a road
+GuestSum2326 rolled dice_1 dice_4
+Guestsahossei got ore
+icon_helmetMyrna8511 got wool
+UserDucksauce got woolwool
+Guestsahossei rolled dice_5 dice_4
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+Guestsahossei built a road
+Guestsahossei wants to give ore for brick
+Guestsahossei traded ore for brick with Myrna8511
+Guestsahossei built a settlement (+1 VP)
+UserDucksauce rolled dice_1 dice_2
+ prob_3 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got brick
+UserDucksauce wants to give wool for lumber
+UserDucksauce wants to give wool for ore
+UserDucksauce wants to give woolwool for lumber
+UserDucksauce wants to give woolwool for ore
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got woolore
+GuestSum2326 got oreore
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 wants to give brickwool for grain
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain
+GuestSum2326 rolled dice_5 dice_3
+icon_helmetMyrna8511 got woolore
+GuestSum2326 got oreore
+GuestSum2326 gave bank brickbrick and took grain
+GuestSum2326 bought development card
+Guestsahossei rolled dice_6 dice_2
+icon_helmetMyrna8511 got woolore
+GuestSum2326 got oreore
+UserDucksauce rolled dice_2 dice_4
+Guestsahossei got grain
+UserDucksauce got grainoreore
+GuestSum2326 got oreore
+UserDucksauce wants to give woolwool for ore
+icon_helmetMyrna8511 wants to give Ducksauce ore for grain
+UserDucksauce traded woolwool for ore with Sum2326
+UserDucksauce built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_5
+GuestSum2326 discarded oreoreoreore
+icon_helmetMyrna8511 discarded brickbrickbrickwoolore
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole wool from Ducksauce
+icon_helmetMyrna8511 bought development card
+GuestSum2326 used Knight card knight
+GuestSum2326 moved robber robber to  prob_6 grain tile
+GuestSum2326 stole card from sahossei
+GuestSum2326 rolled dice_5 dice_6
+Guestsahossei got wool
+UserDucksauce got woolwool
+GuestSum2326 bought development card
+Guestsahossei rolled dice_5 dice_4
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+UserDucksauce rolled dice_6 dice_4
+Guestsahossei got wool
+icon_helmetMyrna8511 got graingrain
+GuestSum2326 got graingrain
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole ore from Sum2326
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestSum2326 used Knight card knight
+GuestSum2326 moved robber robber to  prob_5 wool tile
+GuestSum2326 stole card from Ducksauce
+GuestSum2326 rolled dice_4 dice_3
+GuestSum2326 moved robber robber to  prob_6 grain tile
+GuestSum2326 stole card from Ducksauce
+GuestSum2326 gave bank brickbrick and took ore
+GuestSum2326 bought development card
+Guestsahossei rolled dice_6 dice_3
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+Guestsahossei wants to give wool for brick
+Guestsahossei wants to give wool for ore
+Guestsahossei wants to give wool for grain
+Guestsahossei gave bank lumberlumberlumber and took ore
+Guestsahossei gave bank woolwoolwool and took grain
+Guestsahossei bought development card
+UserDucksauce rolled dice_3 dice_4
+UserDucksauce moved robber robber to  prob_10 grain tile
+UserDucksauce stole card from Sum2326
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole grain from Sum2326
+icon_helmetMyrna8511 rolled dice_6 dice_5
+Guestsahossei got wool
+UserDucksauce got woolwool
+GuestSum2326 rolled dice_3 dice_2
+Guestsahossei got oreore
+icon_helmetMyrna8511 got woolwool
+UserDucksauce got woolwool
+Guestsahossei rolled dice_1 dice_2
+icon_helmetMyrna8511 got brick
+UserDucksauce got graingrain
+GuestSum2326 got graingrain
+UserDucksauce rolled dice_4 dice_5
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+UserDucksauce wants to give grain for lumber
+UserDucksauce wants to give grain for wool
+icon_helmetMyrna8511 wants to give Ducksauce wool for ore
+Guestsahossei wants to give Ducksauce lumber for woolgrain
+icon_helmetMyrna8511 wants to give Ducksauce wool for lumber
+UserDucksauce traded grain for lumber with sahossei
+UserDucksauce built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_3
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give woolwool for lumber
+Guestsahossei wants to give Myrna8511 lumber for brick
+GuestSum2326 rolled dice_2 dice_2
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumber
+UserDucksauce got brickbrick
+GuestSum2326 wants to give brick for ore
+GuestSum2326 gave bank brickbrick and took ore
+GuestSum2326 bought development card
+GuestSum2326 gave bank brickbrick and took ore
+GuestSum2326 bought development card
+Guestsahossei rolled dice_2 dice_2
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumber
+UserDucksauce got brickbrick
+Guestsahossei built a road
+Guestsahossei used Road Building card road building
+Guestsahossei placed a road
+Guestsahossei placed a road
+Guestsahossei received longest road (+2 VPs)
+Guestsahossei built a settlement (+1 VP)
+UserDucksauce rolled dice_6 dice_3
+Guestsahossei got lumberlumber
+GuestSum2326 got brickbrick
+UserDucksauce wants to give woolwool for grain
+UserDucksauce wants to give woolwool for ore
+UserDucksauce gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 rolled dice_4 dice_1
+Guestsahossei got oreore
+icon_helmetMyrna8511 got woolwool
+UserDucksauce got woolwool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took ore
+GuestSum2326 used Knight card knight
+GuestSum2326 received largest army (+2 VPs)
+GuestSum2326 moved robber robber to  prob_6 grain tile
+GuestSum2326 stole card from sahossei
+GuestSum2326 rolled dice_3 dice_1
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumberlumber
+UserDucksauce got brickbrick
+GuestSum2326 built a road
+Guestsahossei rolled dice_1 dice_3
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumberlumber
+UserDucksauce got brickbrick
+Guestsahossei built a road
+Guestsahossei built a road
+UserDucksauce rolled dice_4 dice_6
+Guestsahossei got woolwool
+icon_helmetMyrna8511 got graingraingrain
+GuestSum2326 got graingrain
+UserDucksauce wants to give brickwool for graingrain
+UserDucksauce traded brickwool for graingrain with Myrna8511
+UserDucksauce gave bank brickbrickbrick and took ore
+UserDucksauce bought development card
+UserDucksauce bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberlumberlumberlumber
+icon_helmetMyrna8511 moved robber robber to  prob_9 brick tile
+icon_helmetYou stole grain from Sum2326
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 bought development card
+GuestSum2326 rolled dice_2 dice_3
+Guestsahossei got oreore
+icon_helmetMyrna8511 got woolwool
+UserDucksauce got woolwool
+GuestSum2326 used Monopoly card monopoly
+GuestSum2326 stole 8 wool
+GuestSum2326 gave bank brickbrick and took ore
+GuestSum2326 bought development card
+Guestsahossei rolled dice_1 dice_6
+Guestsahossei moved robber robber to  prob_6 ore tile
+Guestsahossei stole card from Sum2326
+Guestsahossei wants to give lumberwool for grain
+Guestsahossei gave bank oreoreore and took grain
+UserDucksauce used Knight card knight
+UserDucksauce moved robber robber to  prob_9 brick tile
+UserDucksauce stole card from Sum2326
+UserDucksauce rolled dice_3 dice_1
+Guestsahossei got brick
+icon_helmetMyrna8511 got lumberlumber
+UserDucksauce got brickbrick
+icon_helmetMyrna8511 rolled dice_5 dice_6
+Guestsahossei got wool
+UserDucksauce got woolwool
+GuestSum2326 used Knight card knight
+GuestSum2326 moved robber robber to  prob_6 grain tile
+GuestSum2326 stole card from Ducksauce
+GuestSum2326 rolled dice_2 dice_6
+Guestsahossei got wool
+icon_helmetMyrna8511 got wooloreore
+GuestSum2326 got oreore
+GuestSum2326 gave bank woolwoolwoolwool and took grain
+GuestSum2326 bought development card
+Guestsahossei rolled dice_6 dice_4
+Guestsahossei got woolwool
+icon_helmetMyrna8511 got graingraingrain
+GuestSum2326 got graingrain
+Guestsahossei used Monopoly card monopoly
+Guestsahossei stole 6 grain
+Guestsahossei built a city (+1 VP)
+Guestsahossei gave bank woolwoolwoolgraingraingrain and took lumberbrick
+Guestsahossei built a road
+Guestsahossei built a road
+UserDucksauce rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+UserDucksauce got oreore
+GuestSum2326 got oreore
+UserDucksauce gave bank brickbrickbrick and took grain
+UserDucksauce bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 brick tile
+icon_helmetYou stole wool from Sum2326
+icon_helmetMyrna8511 rolled dice_5 dice_4
+ prob_9 brick tile is blocked by the robber. No resources produced.
+Guestsahossei got lumberlumberlumber
+GuestSum2326 used Knight card knight
+GuestSum2326 moved robber robber to  prob_6 grain tile
+GuestSum2326 stole card from sahossei
+GuestSum2326 rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+UserDucksauce got oreore
+GuestSum2326 got oreore
+Guestsahossei rolled dice_2 dice_3
+Guestsahossei got oreoreore
+icon_helmetMyrna8511 got woolwool
+UserDucksauce got woolwool
+Guestsahossei built a city (+1 VP)
+UserDucksauce rolled dice_6 dice_5
+Guestsahossei got woolwool
+UserDucksauce got woolwool
+UserDucksauce wants to give ore for grain
+UserDucksauce gave bank woolwoolwool and took grain
+UserDucksauce bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+UserDucksauce got oreore
+GuestSum2326 got oreore
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give woolwoolwoolwool for grain
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain
+GuestSum2326 rolled dice_4 dice_5
+Guestsahossei got lumberlumberlumberlumber
+GuestSum2326 got brickbrick
+GuestSum2326 gave bank brickbrickoreoreoreore and took woolgrain
+GuestSum2326 bought development card
+Guestsahossei rolled dice_2 dice_1
+icon_helmetMyrna8511 got brick
+UserDucksauce got graingrain
+GuestSum2326 got graingrain
+Guestsahossei gave bank lumberlumberlumberwoolwoolwool and took brickgrain
+Guestsahossei built a settlement (+1 VP)
+trophyGuestsahossei won the game!trophy
+GuestSum2326 has left the game
+UserDucksauce has left the game

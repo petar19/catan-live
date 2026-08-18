@@ -1,0 +1,548 @@
+Spring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+UserMyrna8511 placed a settlement
+UserMyrna8511 placed a road
+Userpanickattack placed a settlement
+Userpanickattack placed a road
+Userpanickattack placed a settlement
+Userpanickattack placed a road
+Userpanickattack received starting resources: woollumbergrain
+UserMyrna8511 placed a settlement
+UserMyrna8511 placed a road
+UserMyrna8511 received starting resources: woollumbergrain
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources:  brickgraingrain
+GuestSpring#4635 placed a settlement
+GuestSpring#4635 placed a road
+GuestSpring#4635 received starting resources: woolore
+GuestSpring#4635 rolled: dice_2 dice_4
+UserMyrna8511 got: grain
+GuestSeale5074 got: grain
+Userpanickattack got: grain
+GuestSeale5074 rolled: dice_6 dice_2
+GuestSeale5074 got: ore
+GuestSpring#4635 got: lumber
+Userpanickattack got: lumber
+GuestSeale5074 wants to give: grain for: oreore
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 wants to give: grain for: wool
+Userpanickattack wants to give Seale5074 : lumber for:  brick
+UserMyrna8511 rolled: dice_1 dice_4
+GuestSeale5074 got: wool
+GuestSpring#4635 got: wool brick
+Userpanickattack rolled: dice_3 dice_4
+Userpanickattack moved robber robber: prob_5 wool
+Userpanickattack stole card from: Spring#4635
+Userpanickattack wants to give: lumber for:  brick
+GuestSeale5074 wants to give panickattack : grain for: lumber
+GuestSpring#4635 rolled: dice_5 dice_5
+GuestSpring#4635 got: grain
+Userpanickattack got: wool
+GuestSpring#4635 wants to give:  brickwoolwool for: grainoreore
+GuestSpring#4635 wants to give: wool for: ore
+GuestSpring#4635 wants to give: wool for: lumber
+GuestSeale5074 wants to give Spring#4635 : grain for: ore
+Userpanickattack wants to give Spring#4635 : lumber for:  brick brick
+GuestSeale5074 wants to give Spring#4635 : grain for: lumber
+GuestSeale5074 rolled: dice_3 dice_2
+GuestSpring#4635 got:  brick
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give: grain for: lumber
+Userpanickattack wants to give Seale5074 : lumber for:  brick
+UserMyrna8511 rolled: dice_6 dice_6
+Userpanickattack rolled: dice_6 dice_4
+GuestSpring#4635 got: grain
+Userpanickattack got: wool
+Userpanickattack wants to give: wool for:  brick
+Userpanickattack wants to give: wool for: ore
+Userpanickattack wants to give: lumberwool for: ore
+GuestSeale5074 wants to give panickattack : grain for: lumber
+Userpanickattack wants to give: lumberwool for:  brick
+GuestSeale5074 wants to give panickattack : grain for: lumberore
+Userpanickattack wants to give: lumbergrain for:  brick
+Userpanickattack wants to give: lumber for: ore
+Userpanickattack wants to give: lumberlumber for: ore
+Userpanickattack wants to give: woolgrain for: ore
+Userpanickattack wants to give: lumberwoolgrain for: ore
+GuestSpring#4635 rolled: dice_4 dice_4
+GuestSeale5074 got: ore
+GuestSpring#4635 got: lumber
+Userpanickattack got: lumber
+GuestSpring#4635 wants to give: wool for: lumber
+GuestSpring#4635 wants to give: grain for: lumber
+Userpanickattack wants to give Spring#4635 : lumber for: oreore
+Userpanickattack wants to give Spring#4635 : lumber for:  brick
+GuestSpring#4635 wants to give: woolgrain for: lumber
+GuestSpring#4635 wants to give:  brick brickwoolwool for: oreore
+GuestSeale5074 wants to give Spring#4635 : grain for: ore
+GuestSpring#4635 built a road
+GuestSpring#4635 wants to give: ore for: lumber
+GuestSpring#4635 traded: orefor: lumber with: panickattack
+GuestSpring#4635 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_1 dice_2
+UserMyrna8511 got: ore
+GuestSeale5074 got:  brick
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give:  brick for: ore
+Userpanickattack wants to give Seale5074 : ore for:  brick brick
+GuestSeale5074 wants to give:  brick for: oreore
+GuestSeale5074 wants to give:  brickgrain for: ore
+GuestSeale5074 wants to give:  brickgrain for: lumber
+UserMyrna8511 rolled: dice_2 dice_6
+GuestSeale5074 got: ore
+GuestSpring#4635 got: lumberlumber
+Userpanickattack got: lumber
+UserMyrna8511 wants to give: grain for:  brick
+GuestSeale5074 wants to give Myrna8511 :  brickgrain for: lumber
+UserMyrna8511 wants to give: grain for: lumber
+GuestSpring#4635 wants to give Myrna8511 : lumber for: ore
+Userpanickattack wants to give Myrna8511 : lumber for: ore
+Userpanickattack rolled: dice_2 dice_4
+UserMyrna8511 got: grain
+GuestSeale5074 got: grain
+Userpanickattack got: grain
+Userpanickattack wants to give: lumber for:  brick
+Userpanickattack wants to give: lumber for: ore
+Userpanickattack traded: lumberfor:  brick with: Seale5074
+Userpanickattack wants to give: lumber for:  brick
+Userpanickattack wants to give: wool for:  brick
+GuestSeale5074 wants to give panickattack : grain for: lumber
+Userpanickattack wants to give Seale5074 : lumber for: ore
+Userpanickattack built a road
+Userpanickattack bought development card
+GuestSpring#4635 rolled: dice_4 dice_6
+GuestSpring#4635 got: grain
+Userpanickattack got: wool
+GuestSpring#4635 wants to give: lumberlumberwool for: oreoreore
+GuestSeale5074 rolled: dice_6 dice_4
+GuestSpring#4635 got: grain
+Userpanickattack got: wool
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 built a road
+GuestSeale5074 wants to give: grain for:  brick
+GuestSeale5074 wants to give: grain for: lumber
+Userpanickattack wants to give Seale5074 : lumber for:  brick
+GuestSeale5074 wants to give: grain for: ore
+UserMyrna8511 rolled: dice_4 dice_2
+UserMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+Userpanickattack got: grain
+UserMyrna8511 wants to give: graingrain for:  brick
+UserMyrna8511 wants to give: graingraingrain for:  brick
+UserMyrna8511 wants to give: graingrain for: wool
+UserMyrna8511 traded: graingrainfor: wool with: panickattack
+Userpanickattack rolled: dice_5 dice_6
+UserMyrna8511 got: wool
+Userpanickattack gave bank: graingraingraingrain and took  brick
+Userpanickattack built a settlement: +1 VP
+GuestSpring#4635 rolled: dice_1 dice_4
+GuestSpring#4635 got:  brick
+Userpanickattack got:  brick
+GuestSpring#4635 built a road
+GuestSpring#4635 wants to give: grain for:  brick
+GuestSeale5074 rolled: dice_3 dice_4
+GuestSeale5074 moved robber robber: prob_5 brick
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give: grain for:  brick
+GuestSeale5074 wants to give: graingrain for:  brick
+Userpanickattack wants to give Seale5074 : wool for: graingrain
+GuestSeale5074 wants to give: graingraingrain for:  brick
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give: graingrain for: ore
+UserMyrna8511 rolled: dice_5 dice_4
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwool brick
+UserMyrna8511 wants to give: lumber brick for: oreore
+UserMyrna8511 wants to give: ore for: lumber brick
+UserMyrna8511 built a road
+Userpanickattack rolled: dice_3 dice_2
+GuestSeale5074 got: wool
+GuestSpring#4635 got: wool
+Userpanickattack used Knight card knight
+Userpanickattack moved robber robber: prob_5 wool
+Userpanickattack stole card from: Spring#4635
+Userpanickattack built a road
+Userpanickattack wants to give: wool for: lumber
+GuestSeale5074 wants to give panickattack : grain for:  brick
+Userpanickattack wants to give: woolwool for: lumber
+GuestSeale5074 wants to give panickattack : grain for: ore
+Userpanickattack wants to give: woolwoolwool for: lumber
+GuestSeale5074 wants to give panickattack : graingrain for:  brick
+Userpanickattack wants to give: wool for: ore
+Userpanickattack wants to give: woolwool for: ore
+GuestSeale5074 wants to give panickattack : graingrain for: ore
+Userpanickattack wants to give:  brick for: grainore
+Userpanickattack wants to give:  brick for: ore
+Userpanickattack wants to give:  brickwool for: ore
+GuestSeale5074 wants to give panickattack : woolgrain for:  brick
+GuestSpring#4635 rolled: dice_2 dice_6
+GuestSeale5074 got: ore
+GuestSpring#4635 got: lumberlumber
+Userpanickattack got: lumber
+GuestSpring#4635 wants to give: lumberlumber for: oreoreore
+GuestSpring#4635 wants to give: lumberlumberwoolwool for: oreoreore
+GuestSpring#4635 wants to give: lumber for:  brick
+GuestSpring#4635 wants to give: wool for:  brick
+GuestSpring#4635 wants to give: lumberwool for:  brick
+GuestSpring#4635 wants to give: lumberwoolgrain for:  brick
+GuestSpring#4635 wants to give: lumber for: ore
+GuestSeale5074 wants to give Spring#4635 : grain for:  brick
+GuestSeale5074 wants to give Spring#4635 : grain for: ore
+GuestSeale5074 rolled: dice_2 dice_3
+GuestSpring#4635 got:  brick
+Userpanickattack got:  brick
+GuestSeale5074 wants to give: grain for:  brick
+Userpanickattack wants to give Seale5074 :  brick for: oreore
+GuestSeale5074 wants to give: graingrain for:  brick
+Userpanickattack wants to give Seale5074 :  brick for: grainore
+GuestSeale5074 wants to give: woolgrain for:  brick
+GuestSeale5074 wants to give: graingraingrain for:  brick
+GuestSeale5074 gave bank: graingraingraingrain and took  brick
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 bought development card
+UserMyrna8511 rolled: dice_3 dice_6
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwool brick
+UserMyrna8511 wants to give: woolwool for: lumber
+UserMyrna8511 wants to give: woolore for: lumberlumber brick
+UserMyrna8511 wants to give: woolgrainore for: lumberlumber brick
+Userpanickattack rolled: dice_4 dice_4
+GuestSeale5074 got: oreore
+GuestSpring#4635 got: lumberlumber
+Userpanickattack got: lumber
+Userpanickattack built a settlement: +1 VP
+Userpanickattack gave bank: woolwool and took lumber
+Userpanickattack built a road
+Userpanickattack built a road
+GuestSpring#4635 rolled: dice_6 dice_6
+GuestSpring#4635 built a settlement: +1 VP
+GuestSpring#4635 wants to give: lumber for: ore
+GuestSpring#4635 gave bank: lumberlumberlumber and took ore
+GuestSeale5074 rolled: dice_1 dice_4
+GuestSpring#4635 got:  brick
+Userpanickattack got:  brick
+GuestSeale5074 used Knight card knight
+GuestSeale5074 moved robber robber: prob_5 brick
+GuestSeale5074 stole card from: Spring#4635
+GuestSeale5074 wants to give: grain for: ore
+UserMyrna8511 rolled: dice_4 dice_4
+GuestSeale5074 got: oreore
+GuestSpring#4635 got: lumberlumber
+Userpanickattack got: lumber
+UserMyrna8511 bought development card
+Userpanickattack rolled: dice_2 dice_5
+Userpanickattack moved robber robber: prob_8 ore
+Userpanickattack stole card from: Seale5074
+Userpanickattack built a settlement: +1 VP
+GuestSpring#4635 rolled: dice_6 dice_5
+UserMyrna8511 got: wool
+GuestSpring#4635 built a road
+GuestSeale5074 rolled: dice_4 dice_5
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwool brick
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give: grain for: wool
+GuestSeale5074 traded: grainfor: wool with: Myrna8511
+GuestSeale5074 bought development card
+UserMyrna8511 rolled: dice_5 dice_3
+GuestSpring#4635 got: lumberlumber
+Userpanickattack got: lumberlumber
+UserMyrna8511 wants to give: wool for: lumber
+Userpanickattack wants to give Myrna8511 : lumber for: grain
+Userpanickattack traded: lumberfor: grain with: Myrna8511
+UserMyrna8511 built a road
+Userpanickattack rolled: dice_6 dice_3
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwool brick
+Userpanickattack wants to give:  brick for: grain
+Userpanickattack wants to give:  brick for: ore
+Userpanickattack wants to give: lumber for: ore
+GuestSeale5074 wants to give panickattack : grain for: lumber brick
+Userpanickattack wants to give: lumber brick for: grain
+Userpanickattack traded: lumber brickfor: grain with: Myrna8511
+Userpanickattack gave bank: woolwoolwoolwoolwoolwool and took oreoreore
+Userpanickattack built a city: +1 VP
+GuestSpring#4635 rolled: dice_2 dice_5
+GuestSpring#4635 moved robber robber: prob_6 grain
+GuestSpring#4635 stole card from: Seale5074
+GuestSpring#4635 wants to give: wool for: grain
+GuestSpring#4635 wants to give: wool for: ore
+GuestSpring#4635 wants to give: lumber for: ore
+GuestSpring#4635 wants to give: lumber for: grain
+GuestSpring#4635 gave bank: lumberlumberlumber and took ore
+GuestSeale5074 used Knight card knight
+GuestSeale5074 moved robber robber: prob_6 grain
+GuestSeale5074 stole card from: panickattack
+GuestSeale5074 rolled: dice_2 dice_3
+GuestSeale5074 got: woolwool
+GuestSpring#4635 got: woolwool brick
+Userpanickattack got:  brick
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: ore
+UserMyrna8511 rolled: dice_2 dice_3
+GuestSeale5074 got: woolwool
+GuestSpring#4635 got: woolwool brick
+Userpanickattack got:  brick
+UserMyrna8511 wants to give:  brick for: lumber
+UserMyrna8511 wants to give:  brickwool for: lumber
+UserMyrna8511 wants to give:  brick for: grain
+GuestSeale5074 wants to give Myrna8511 : wool for:  brick
+UserMyrna8511 wants to give:  brickwool for: grain
+GuestSeale5074 wants to give Myrna8511 : woolwool for:  brick
+UserMyrna8511 wants to give:  brick brick for: grain
+GuestSeale5074 wants to give Myrna8511 : woolwool for: lumber
+Userpanickattack rolled: dice_3 dice_3
+UserMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+GuestSpring#4635 rolled: dice_6 dice_3
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwoolwool brick
+GuestSpring#4635 wants to give:  brick for: grain
+GuestSpring#4635 wants to give:  brick for: ore
+GuestSpring#4635 wants to give:  brick for: wool
+GuestSeale5074 wants to give Spring#4635 : grain for: lumber
+GuestSpring#4635 traded:  brickfor: wool with: Seale5074
+GuestSpring#4635 gave bank: woolwoolwoolwoolwoolwool and took grainore
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_5 dice_1
+UserMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: graingrain for: lumber
+GuestSeale5074 wants to give: graingraingrain for: lumber
+GuestSeale5074 wants to give: graingrain for: ore
+GuestSeale5074 gave bank: graingraingraingrain and took ore
+GuestSeale5074 bought development card
+GuestSeale5074 wants to give: wool for: lumber
+UserMyrna8511 rolled: dice_1 dice_5
+UserMyrna8511 got: grain
+GuestSeale5074 got: graingrain
+UserMyrna8511 built a settlement: +1 VP
+UserMyrna8511 wants to give:  brick for: lumber
+UserMyrna8511 wants to give:  brick for: grain
+GuestSeale5074 wants to give Myrna8511 : grain for: ore
+UserMyrna8511 wants to give:  brick brick for: graingrain
+UserMyrna8511 traded:  brick brickfor: graingrain with: Seale5074
+UserMyrna8511 gave bank: graingrain and took ore
+UserMyrna8511 bought development card
+Userpanickattack rolled: dice_4 dice_5
+UserMyrna8511 got:  brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwoolwool brick
+Userpanickattack wants to give:  brick for: grain
+Userpanickattack wants to give:  brick for: ore
+GuestSeale5074 wants to give panickattack : grain for: lumber
+Userpanickattack wants to give:  brick for: lumber
+Userpanickattack wants to give: wool for: grain
+Userpanickattack wants to give: wool for: ore
+GuestSeale5074 wants to give panickattack : wool for: lumber
+Userpanickattack gave bank: woolwoolwoolwool and took grainore
+Userpanickattack bought development card
+Userpanickattack wants to give:  brick for: grain
+Userpanickattack wants to give:  brick for: ore
+GuestSpring#4635 rolled: dice_4 dice_3
+Seale5074 discarding resource cards
+GuestSeale5074 discarded:  brickwoolgraingraingrain
+GuestSpring#4635 moved robber robber: prob_8 ore
+GuestSpring#4635 stole card from: Seale5074
+GuestSpring#4635 wants to give:  brick for: ore
+GuestSeale5074 rolled: dice_6 dice_2
+GuestSpring#4635 got: lumberlumberlumber
+Userpanickattack got: lumberlumber
+GuestSeale5074 used Year of Plenty card year of plenty
+GuestSeale5074 took from bank: lumber lumber
+GuestSeale5074 built a road
+GuestSeale5074 built a settlement: +1 VP
+UserMyrna8511 rolled: dice_2 dice_2
+UserMyrna8511 got: lumberlumberore
+GuestSpring#4635 got: orelumber
+Userpanickattack got: lumberlumber
+UserMyrna8511 used Knight card knight
+UserMyrna8511 moved robber robber: prob_6 grain
+UserYou stole: wool from: panickattack
+UserMyrna8511 built a road
+UserMyrna8511 built a settlement: +1 VP
+Userpanickattack used Knight card knight
+Userpanickattack moved robber robber: prob_8 ore
+UserNo player to steal from
+Userpanickattack rolled: dice_2 dice_3
+GuestSeale5074 got: woolwoollumber
+GuestSpring#4635 got: woolwool brick brick
+Userpanickattack got:  brick
+Userpanickattack wants to give:  brick for: wool
+Userpanickattack wants to give: lumber for: woolgrain
+GuestSeale5074 wants to give panickattack : wool for:  brickgrainore
+GuestSeale5074 wants to give panickattack : wool for:  brickgrain
+GuestSeale5074 wants to give panickattack : wool for: lumber brick
+GuestSpring#4635 wants to give panickattack : wool for: grain
+Userpanickattack built a road
+Userpanickattack received longest road: +2 VPs
+Userpanickattack built a road
+GuestSpring#4635 rolled: dice_4 dice_2
+UserMyrna8511 got: graingrain
+GuestSeale5074 got: graingrain
+Userpanickattack got: graingrain
+GuestSpring#4635 wants to give: lumber for: grain
+GuestSpring#4635 wants to give: lumber for: ore
+GuestSpring#4635 wants to give:  brick for: ore
+GuestSpring#4635 wants to give:  brick for: grain
+GuestSpring#4635 wants to give:  brick for: grain
+GuestSpring#4635 built a road
+GuestSpring#4635 wants to give: wool for: grain
+GuestSpring#4635 built a road
+GuestSpring#4635 built a road
+GuestSpring#4635 built a road
+Guestlongest road has passed from: panickattack to: Spring#4635: +2 VPs
+GuestSeale5074 rolled: dice_6 dice_6
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 wants to give: wool for:  brick
+GuestSeale5074 wants to give: grain for:  brick
+UserMyrna8511 rolled: dice_3 dice_4
+UserMyrna8511 moved robber robber: prob_9 wool
+UserYou stole: grain from: panickattack
+Userpanickattack rolled: dice_1 dice_3
+UserMyrna8511 got: lumberlumberore
+GuestSpring#4635 got: orelumber
+Userpanickattack got: lumberlumber
+Userpanickattack wants to give:  brick for: wool
+Userpanickattack wants to give: lumber for: wool
+Userpanickattack built a road
+Userpanickattack built a road
+Userlongest road has passed from: Spring#4635 to: panickattack: +2 VPs
+Userpanickattack built a road
+GuestSpring#4635 rolled: dice_2 dice_4
+UserMyrna8511 got: graingrain
+GuestSeale5074 got: graingrain
+Userpanickattack got: graingrain
+GuestSeale5074 rolled: dice_2 dice_2
+UserMyrna8511 got: lumberlumberore
+GuestSpring#4635 got: orelumber
+Userpanickattack got: lumberlumber
+GuestSeale5074 wants to give: woolgraingrain for: oreoreore
+GuestSeale5074 wants to give: woolgrain for: oreore
+GuestSeale5074 wants to give: lumberwoolgrain for: oreoreore
+UserMyrna8511 wants to give Seale5074 : ore for: woolgraingrain
+UserMyrna8511 rolled: dice_5 dice_6
+UserMyrna8511 got: wool
+GuestSeale5074 got: wool
+UserMyrna8511 built a city: +1 VP
+UserMyrna8511 gave bank: graingrain and took ore
+UserMyrna8511 wants to give: ore for: woolgraingrain
+GuestSeale5074 wants to give Myrna8511 : woolgraingrain for: oreore
+UserMyrna8511 wants to give: lumberore for: woolgraingrain
+UserMyrna8511 bought development card
+Userpanickattack rolled: dice_3 dice_5
+GuestSeale5074 got: oreoreore
+GuestSpring#4635 got: lumberlumberlumber
+Userpanickattack got: lumberlumber
+Userpanickattack wants to give: grain for: lumber
+Userpanickattack wants to give: grain for: wool
+Userpanickattack traded: grainfor: lumber with: Spring#4635
+Userpanickattack gave bank: lumberlumberlumberlumberlumberlumber and took woolore
+Userpanickattack bought development card
+GuestSpring#4635 rolled: dice_6 dice_1
+Seale5074 and Spring#4635 discarding resource cards
+GuestSeale5074 discarded: lumberwoolwoolwoolgrain
+GuestSpring#4635 discarded: lumberlumberlumberwoolwool
+GuestSpring#4635 moved robber robber: prob_6 grain
+GuestSpring#4635 stole card from: panickattack
+GuestSpring#4635 built a city: +1 VP
+GuestSeale5074 rolled: dice_6 dice_5
+UserMyrna8511 got: wool
+GuestSeale5074 got: wool
+GuestSeale5074 built a city: +1 VP
+UserMyrna8511 used Knight card knight
+UserMyrna8511 moved robber robber: prob_9 wool
+UserNo player to steal from
+UserMyrna8511 rolled: dice_2 dice_5
+UserMyrna8511 moved robber robber: prob_5 brick
+UserYou stole: lumber from: Spring#4635
+UserMyrna8511 wants to give: lumber for: ore
+UserMyrna8511 wants to give: lumber for: grain
+UserMyrna8511 gave bank: lumberlumberlumberlumber and took ore
+Userpanickattack rolled: dice_4 dice_5
+UserMyrna8511 got:  brick brick
+GuestSeale5074 got: graingrain
+Userpanickattack got: woolwoolwool brick
+Userpanickattack wants to give:  brick for: grain
+GuestSeale5074 started an embargo against panickattack
+Userpanickattack wants to give Myrna8511 & Spring#4635 :  brick for: ore
+Userpanickattack wants to give Myrna8511 & Spring#4635 :  brickwool for: grainore
+Userpanickattack wants to give Myrna8511 & Spring#4635 :  brickwoolwool for: grainore
+UserMyrna8511 started an embargo against panickattack
+Userpanickattack used Road Building card road buildling
+Userpanickattack placed a road
+Userpanickattack placed a road
+GuestSpring#4635 rolled: dice_1 dice_4
+GuestSeale5074 got: woolwoollumber
+GuestSpring#4635 got: woolwoolwool
+GuestSeale5074 rolled: dice_6 dice_4
+GuestSpring#4635 got: graingrain
+Userpanickattack got: woolwool
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 wants to give: woolgrain for: oreore
+GuestSeale5074 wants to give: woolgrain for: ore
+GuestSeale5074 wants to give: woolwoolgrain for: ore
+GuestSeale5074 wants to give: grain for:  brick
+GuestSeale5074 wants to give: grain for: lumber brick brick
+UserMyrna8511 rolled: dice_2 dice_1
+UserMyrna8511 got: oreore
+GuestSeale5074 got:  brick brick brick
+Userpanickattack got: ore
+UserMyrna8511 wants to give: ore for: grain
+UserMyrna8511 wants to give:  brickore for: grain
+GuestSeale5074 wants to give Myrna8511 : grain for: lumberore
+UserMyrna8511 wants to give: lumberore for: grain
+UserMyrna8511 traded: lumberorefor: grain with: Spring#4635
+UserMyrna8511 bought development card
+Userpanickattack rolled: dice_3 dice_4
+Seale5074 discarding resource cards
+GuestSeale5074 discarded:  brickwoolwoolgraingrain
+Userpanickattack moved robber robber: prob_8 ore
+Userpanickattack stole card from: Seale5074
+Userpanickattack gave bank: woolwool and took lumber
+Userpanickattack built a settlement: +1 VP
+Userpanickattack wants to give Spring#4635 : wool for: grain
+GuestSpring#4635 rolled: dice_1 dice_5
+UserMyrna8511 got: graingrain
+GuestSeale5074 got: graingrain
+Userpanickattack got: graingrain
+GuestSeale5074 rolled: dice_6 dice_2
+GuestSpring#4635 got: lumberlumberlumber
+Userpanickattack got: lumberlumber
+GuestSeale5074 wants to give: grain for: lumber
+GuestSeale5074 traded: grainfor: lumber with: Spring#4635
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+UserMyrna8511 used Knight card knight
+UserMyrna8511 received largest army: +2 VPs
+UserMyrna8511 moved robber robber: prob_5 brick
+UserYou stole: grain from: panickattack
+UserMyrna8511 rolled: dice_4 dice_4
+GuestSeale5074 got: oreoreoreore
+GuestSpring#4635 got: lumberlumberlumber
+Userpanickattack got: lumberlumber
+UserMyrna8511 wants to give:  brick brickgrain for: woolwoolore
+UserMyrna8511 traded:  brick brickgrainfor: woolwoolore with: Spring#4635
+UserMyrna8511 bought development card
+UserMyrna8511 bought development card
+Userpanickattack rolled: dice_3 dice_5
+GuestSeale5074 got: oreoreoreore
+GuestSpring#4635 got: lumberlumberlumber
+Userpanickattack got: lumberlumber
+Userpanickattack gave bank: lumberlumber and took  brick
+Userpanickattack gave bank: lumberlumberlumberlumber and took grainore
+Userpanickattack gave bank: woolwool and took ore
+Userpanickattack built a city: +1 VP
+trophy panickattack won the game! trophy

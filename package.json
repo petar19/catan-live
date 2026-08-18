@@ -1,0 +1,14 @@
+{
+  "name": "catan-live",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "functions",
+    "packages/*"
+  ],
+  "scripts": {
+    "test:parser": "npm run test --workspace=packages/parser",
+    "dev:web": "npm run dev --workspace=apps/web",
+    "build:web": "npm run build --workspace=apps/web"
+  }
+}

@@ -1,0 +1,572 @@
+GuestHenneGG placed a settlement
+GuestHenneGG placed a road
+GuestRois4554 placed a settlement
+GuestRois4554 placed a road
+Userchewyj604 placed a settlement
+Userchewyj604 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberbricklumber
+Userchewyj604 placed a settlement
+Userchewyj604 placed a road
+Userchewyj604 received starting resources bricklumberwool
+GuestRois4554 placed a settlement
+GuestRois4554 placed a road
+GuestRois4554 received starting resources grainwoolwool
+GuestHenneGG placed a settlement
+GuestHenneGG placed a road
+GuestHenneGG received starting resources lumberwoolore
+GuestHenneGG rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestRois4554 rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+Userchewyj604 rolled dice_4 dice_3
+UserBot is selecting where to place robber for chewyj604
+Userchewyj604 moved robber robber to  prob_5 grain tile
+Userchewyj604 stole card from Rois4554
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brick
+Userchewyj604 got wool
+GuestRois4554 got wool
+icon_helmetMyrna8511 wants to give lumber for wool
+Userchewyj604 wants to give Myrna8511 wool for lumber
+icon_helmetchewyj604 traded wool for lumber with Myrna8511
+icon_helmetMyrna8511 built a road
+GuestHenneGG rolled dice_3 dice_6
+Userchewyj604 got brickbrick
+GuestRois4554 got ore
+GuestHenneGG wants to give lumber for brick
+icon_helmetMyrna8511 wants to give HenneGG brick for lumberwool
+GuestRois4554 rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got wool
+Userchewyj604 got lumber
+Userchewyj604 rolled dice_4 dice_1
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHenneGG got grain
+Userchewyj604 built a settlement (+1 VP)
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 wants to give lumber for grain
+GuestHenneGG wants to give Myrna8511 grain for brick
+icon_helmetMyrna8511 wants to give HenneGG brick for grainore
+GuestHenneGG rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestHenneGG bought development card
+GuestRois4554 rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got wool
+Userchewyj604 got lumber
+GuestRois4554 gave bank woolwoolwoolwool and took grain
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_1 dice_1
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_4 wool tile
+icon_helmetYou stole wool from Rois4554
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumberlumber for grain
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHenneGG rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestHenneGG gave bank lumberlumberlumberlumber and took brick
+GuestHenneGG built a road
+GuestRois4554 used Knight card knight
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole lumber from you
+GuestRois4554 rolled dice_6 dice_4
+GuestHenneGG got brick
+GuestRois4554 got wool
+Userchewyj604 rolled dice_1 dice_1
+icon_helmetMyrna8511 rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestHenneGG rolled dice_4 dice_5
+Userchewyj604 got brickbrick
+GuestRois4554 got ore
+GuestRois4554 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got ore
+Userchewyj604 rolled dice_2 dice_1
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+Userchewyj604 got graingrain
+GuestRois4554 got grain
+icon_helmetMyrna8511 rolled dice_1 dice_5
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got ore
+GuestHenneGG rolled dice_3 dice_3
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got ore
+GuestRois4554 rolled dice_5 dice_1
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got ore
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_2 dice_5
+Userchewyj604 discarded brickgrainoreore
+Userchewyj604 moved robber robber to  prob_8 lumber tile
+Userchewyj604 stole card from HenneGG
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_3 grain tile
+icon_helmetYou stole ore from chewyj604
+GuestHenneGG rolled dice_3 dice_2
+icon_helmetMyrna8511 got grain
+GuestHenneGG got grain
+GuestRois4554 got grain
+GuestHenneGG built a settlement (+1 VP)
+GuestRois4554 used Knight card knight
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole lumber from you
+GuestRois4554 rolled dice_5 dice_5
+GuestHenneGG got brickbrick
+GuestRois4554 got wool
+GuestRois4554 wants to give wool for brick
+Userchewyj604 wants to give Rois4554 lumber for wool
+GuestRois4554 wants to give wool for ore
+GuestRois4554 traded wool for ore with chewyj604
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_6 dice_4
+GuestHenneGG got brickbrick
+GuestRois4554 got wool
+Userchewyj604 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_4 wool tile
+icon_helmetYou stole lumber from chewyj604
+GuestHenneGG rolled dice_6 dice_4
+GuestHenneGG got brickbrick
+GuestRois4554 got wool
+GuestRois4554 used Knight card knight
+GuestRois4554 received largest army (+2 VPs)
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole card from HenneGG
+GuestRois4554 rolled dice_2 dice_6
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestRois4554 built a road
+Userchewyj604 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got oreore
+icon_helmetMyrna8511 rolled dice_4 dice_2
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got oreore
+icon_helmetMyrna8511 wants to give ore for brickbrick
+GuestHenneGG rolled dice_4 dice_2
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got oreore
+GuestHenneGG built a road
+GuestRois4554 rolled dice_4 dice_4
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+Userchewyj604 rolled dice_6 dice_6
+Userchewyj604 gave bank oreoreore and took grain
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestHenneGG got brickbrick
+GuestRois4554 got wool
+icon_helmetMyrna8511 wants to give ore for brickbrick
+GuestHenneGG wants to give Myrna8511 brickbrick for oreore
+icon_helmetMyrna8511 wants to give lumberore for brickbrick
+icon_helmetMyrna8511 traded lumberore for brickbrick with HenneGG
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHenneGG rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestHenneGG wants to give brick for grain
+GuestHenneGG built a road
+GuestRois4554 rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestRois4554 wants to give wool for brick
+GuestHenneGG wants to give Rois4554 brick for grain
+GuestHenneGG wants to give Rois4554 brick for grain
+GuestHenneGG wants to give Rois4554 brick for woolore
+GuestRois4554 gave bank woolwoolwoolwool and took brick
+GuestRois4554 gave bank woolwoolwoolwool and took ore
+Userchewyj604 rolled dice_5 dice_5
+GuestHenneGG got brickbrick
+GuestRois4554 got wool
+icon_helmetMyrna8511 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userchewyj604 got oreore
+GuestHenneGG rolled dice_5 dice_4
+Userchewyj604 got brickbrick
+GuestRois4554 got ore
+GuestHenneGG gave bank brickbrickbrickbrick and took grain
+GuestHenneGG built a settlement (+1 VP)
+GuestRois4554 rolled dice_6 dice_5
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got woollumber
+Userchewyj604 got lumber
+Userchewyj604 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got wool
+Userchewyj604 built a road
+Userchewyj604 gave bank oreoreore and took lumber
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestHenneGG got brickbrickbrick
+GuestRois4554 got wool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestHenneGG used Knight card knight
+GuestHenneGG moved robber robber to  prob_6 ore tile
+GuestHenneGG stole card from chewyj604
+GuestHenneGG rolled dice_6 dice_6
+icon_helmetMyrna8511 got grain
+GuestHenneGG built a road
+GuestHenneGG built a road
+GuestRois4554 rolled dice_4 dice_4
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+GuestRois4554 got wool
+GuestRois4554 wants to give ore for wool
+GuestRois4554 wants to give oreore for wool
+GuestRois4554 gave bank woolwoolwoolwool and took grain
+Userchewyj604 rolled dice_3 dice_1
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got wool
+Userchewyj604 bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_2
+icon_helmetMyrna8511 got grain
+GuestHenneGG got grain
+GuestRois4554 got grain
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give lumbergrain for wool
+GuestHenneGG wants to give Myrna8511 wool for grainore
+icon_helmetMyrna8511 traded lumbergrain for wool with chewyj604
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHenneGG rolled dice_1 dice_6
+GuestHenneGG moved robber robber to  prob_5 grain tile
+GuestHenneGG stole brick from you
+GuestHenneGG wants to give oreore for woolgrain
+GuestHenneGG built a settlement (+1 VP)
+GuestRois4554 rolled dice_6 dice_3
+icon_helmetMyrna8511 got ore
+GuestHenneGG got brick
+Userchewyj604 got brickbrick
+GuestRois4554 got ore
+GuestRois4554 built a city (+1 VP)
+Userchewyj604 rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got woollumber
+Userchewyj604 got lumber
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_helmetMyrna8511 got ore
+GuestHenneGG got brick
+Userchewyj604 got brickbrick
+GuestRois4554 got oreore
+GuestHenneGG rolled dice_3 dice_1
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got wool
+GuestHenneGG built a road
+GuestHenneGG received longest road (+2 VPs)
+GuestHenneGG built a road
+GuestRois4554 rolled dice_5 dice_1
+icon_helmetMyrna8511 got oreore
+GuestHenneGG got oreore
+Userchewyj604 got oreore
+Userchewyj604 rolled dice_6 dice_1
+Userchewyj604 discarded lumberbrickbrickbrickore
+icon_helmetMyrna8511 discarded lumberlumberbrickore
+Userchewyj604 moved robber robber to  prob_6 ore tile
+Userchewyj604 stole card from HenneGG
+Userchewyj604 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole brick from HenneGG
+GuestHenneGG rolled dice_6 dice_2
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumber
+Userchewyj604 got wool
+GuestRois4554 got wool
+GuestRois4554 rolled dice_1 dice_5
+icon_helmetMyrna8511 got oreore
+GuestHenneGG got oreore
+Userchewyj604 got oreore
+Userchewyj604 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded lumberbrickoreore
+Userchewyj604 moved robber robber to  prob_5 grain tile
+Userchewyj604 stole card from Rois4554
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got wool
+icon_helmetMyrna8511 gave bank brickbrickbrick and took grain
+GuestHenneGG rolled dice_2 dice_3
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHenneGG got grain
+GuestHenneGG wants to give oreore for grain
+GuestRois4554 rolled dice_3 dice_4
+GuestHenneGG discarded lumberwooloreore
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole card from HenneGG
+GuestRois4554 wants to give wool for grain
+GuestRois4554 wants to give wool for ore
+GuestRois4554 wants to give woolwool for grain
+GuestRois4554 wants to give ore for wool
+Userchewyj604 rolled dice_3 dice_2
+icon_helmetMyrna8511 got grain
+GuestHenneGG got grain
+GuestRois4554 got graingrain
+Userchewyj604 wants to give ore for grain
+Userchewyj604 gave bank oreoreore and took grain
+icon_helmetMyrna8511 rolled dice_1 dice_3
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got wool
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestHenneGG rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumberlumber
+GuestHenneGG got woollumber
+Userchewyj604 got lumber
+GuestRois4554 rolled dice_6 dice_4
+GuestHenneGG got brickbrickbrick
+GuestRois4554 got woolwool
+GuestRois4554 built a settlement (+1 VP)
+GuestRois4554 gave bank woolwoolwool and took grain
+GuestRois4554 built a city (+1 VP)
+Userchewyj604 rolled dice_4 dice_2
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestHenneGG got ore
+Userchewyj604 got oreore
+Userchewyj604 gave bank woolwoolwool and took grain
+Userchewyj604 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got woolwool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestHenneGG rolled dice_5 dice_2
+GuestHenneGG discarded lumberbrickbrickbrickwool
+GuestHenneGG moved robber robber to  prob_5 grain tile
+GuestHenneGG stole brick from you
+GuestHenneGG built a city (+1 VP)
+GuestRois4554 rolled dice_4 dice_3
+GuestRois4554 moved robber robber to  prob_5 grain tile
+GuestRois4554 stole card from HenneGG
+GuestRois4554 wants to give brick for grain
+GuestRois4554 wants to give brick for ore
+Userchewyj604 rolled dice_2 dice_1
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumberlumber
+Userchewyj604 got graingraingrain
+GuestRois4554 got graingrain
+icon_helmetMyrna8511 rolled dice_2 dice_3
+ prob_5 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+GuestRois4554 got graingrain
+icon_helmetMyrna8511 wants to give grain for wool
+GuestHenneGG rolled dice_4 dice_3
+GuestRois4554 discarded brickwoolwoolwool
+GuestHenneGG moved robber robber to  prob_5 grain tile
+GuestHenneGG stole card from Rois4554
+GuestRois4554 rolled dice_3 dice_6
+icon_helmetMyrna8511 got ore
+GuestHenneGG got brick
+Userchewyj604 got brickbrickbrick
+GuestRois4554 got oreoreore
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_2 dice_3
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHenneGG got graingrain
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole brick from HenneGG
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give brickgrain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+GuestHenneGG rolled dice_4 dice_5
+icon_helmetMyrna8511 got ore
+GuestHenneGG got brick
+Userchewyj604 got brickbrickbrick
+GuestRois4554 got oreoreore
+GuestRois4554 rolled dice_2 dice_6
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumberlumber
+Userchewyj604 got wool
+GuestRois4554 got woolwool
+GuestRois4554 bought development card
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_2 dice_5
+GuestHenneGG discarded lumberlumberlumbergrain
+Userchewyj604 discarded brickbrickbrickwoolwool
+icon_helmetMyrna8511 discarded lumberbrickgrainore
+Userchewyj604 moved robber robber to  prob_5 grain tile
+Userchewyj604 stole card from Rois4554
+Userchewyj604 bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brickbrick
+Userchewyj604 got wool
+GuestRois4554 got woolwool
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brickbrick for wool
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give brickore for wool
+GuestHenneGG rolled dice_6 dice_6
+icon_helmetMyrna8511 got graingrain
+GuestRois4554 rolled dice_2 dice_4
+icon_helmetMyrna8511 got oreoreore
+GuestHenneGG got oreore
+Userchewyj604 got oreoreore
+GuestRois4554 used Monopoly card monopoly
+GuestRois4554 stole 9 ore
+GuestRois4554 gave bank oreoreoreoreoreore and took graingrain
+GuestRois4554 built a city (+1 VP)
+Userchewyj604 rolled dice_4 dice_1
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHenneGG got graingrain
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_9 ore tile
+icon_helmetYou stole ore from Rois4554
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give brickgrain for wool
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give brickbrick for grain
+icon_helmetMyrna8511 wants to give brickgrainore for wool
+icon_helmetMyrna8511 gave bank brickbrickbrick and took wool
+GuestHenneGG rolled dice_2 dice_1
+icon_helmetMyrna8511 got lumber
+GuestHenneGG got lumberlumber
+Userchewyj604 got graingraingrain
+GuestRois4554 got graingrain
+GuestHenneGG gave bank graingraingraingrain and took wool
+GuestRois4554 rolled dice_5 dice_2
+Userchewyj604 discarded brickwoolgraingrain
+GuestRois4554 moved robber robber to  prob_5 grain tile
+GuestRois4554 stole card from HenneGG
+GuestRois4554 used Monopoly card monopoly
+GuestRois4554 stole 6 grain
+GuestRois4554 gave bank graingraingraingraingraingrain and took oreore
+GuestRois4554 bought development card
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_5 dice_5
+GuestHenneGG got brickbrickbrickbrick
+GuestRois4554 got woolwool
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 wants to give lumbergrain for brick
+icon_helmetMyrna8511 traded lumbergrain for brick with HenneGG
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHenneGG rolled dice_1 dice_1
+GuestHenneGG got lumberlumber
+GuestHenneGG built a settlement (+1 VP)
+GuestHenneGG built a road
+GuestHenneGG built a road
+GuestRois4554 rolled dice_2 dice_4
+icon_helmetMyrna8511 got oreoreore
+GuestHenneGG got oreore
+Userchewyj604 got oreoreore
+Userchewyj604 rolled dice_2 dice_2
+icon_helmetMyrna8511 got brickbrickbrick
+Userchewyj604 got wool
+GuestRois4554 got woolwool
+icon_helmetMyrna8511 rolled dice_1 dice_3
+icon_helmetMyrna8511 got brickbrickbrick
+Userchewyj604 got wool
+GuestRois4554 got woolwool
+icon_helmetMyrna8511 gave bank brickbrickbrickbrickbrickbrick and took graingrain
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestHenneGG rolled dice_5 dice_1
+icon_helmetMyrna8511 got oreoreore
+GuestHenneGG got oreore
+Userchewyj604 got oreoreore
+GuestRois4554 rolled dice_2 dice_4
+ Not enough cards in bank to distribute.
+GuestRois4554 gave bank woolwoolwool and took grain
+GuestRois4554 bought development card
+GuestRois4554 used Knight card knight
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole card from HenneGG
+Userchewyj604 rolled dice_6 dice_6
+icon_helmetMyrna8511 got graingrain
+Userchewyj604 gave bank oreoreore and took lumber
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_3
+icon_helmetMyrna8511 got ore
+GuestHenneGG got brick
+Userchewyj604 got brickbrickbrick
+GuestRois4554 got oreoreoreore
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestHenneGG rolled dice_5 dice_1
+ prob_6 ore tile is blocked by the robber. No resources produced.
+GuestHenneGG got ore
+Userchewyj604 got oreoreore
+GuestRois4554 rolled dice_6 dice_5
+icon_helmetMyrna8511 got woollumberlumber
+GuestHenneGG got woollumber
+Userchewyj604 got lumber
+GuestRois4554 used Knight card knight
+GuestRois4554 moved robber robber to  prob_5 grain tile
+GuestRois4554 stole card from HenneGG
+GuestRois4554 gave bank oreoreore and took grain
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_5 dice_6
+icon_helmetMyrna8511 got woollumberlumber
+GuestHenneGG got woollumber
+Userchewyj604 got lumber
+Userchewyj604 gave bank oreoreore and took grain
+Userchewyj604 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+icon_helmetMyrna8511 got oreore
+GuestHenneGG got brick
+Userchewyj604 got brickbrickbrick
+GuestRois4554 got oreoreoreore
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took grain
+icon_helmetMyrna8511 bought development card
+GuestHenneGG rolled dice_1 dice_6
+GuestRois4554 discarded lumberoreoreore
+Userchewyj604 discarded lumberbrickbrickbrickwool
+GuestBot is selecting cards to discard for HenneGG
+GuestHenneGG discarded brickorelumberwoollumberbrick
+GuestHenneGG moved robber robber to  prob_5 grain tile
+GuestHenneGG stole card from Rois4554
+GuestRois4554 used Knight card knight
+GuestRois4554 moved robber robber to  prob_6 ore tile
+GuestRois4554 stole ore from you
+GuestRois4554 rolled dice_5 dice_3
+icon_helmetMyrna8511 got lumberlumber
+GuestHenneGG got lumberlumber
+Userchewyj604 got woolwool
+GuestRois4554 got woolwool
+GuestRois4554 gave bank oreoreore and took grain
+GuestRois4554 bought development card
+Userchewyj604 rolled dice_6 dice_1
+GuestHenneGG discarded lumberlumberbrickwool
+Userchewyj604 moved robber robber to  prob_5 grain tile
+Userchewyj604 stole card from HenneGG
+Userchewyj604 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 got graingraingrain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_12 grain tile
+icon_helmetNo player to steal from
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took ore
+icon_helmetMyrna8511 built a city (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestHenneGG has left the game
+Userchewyj604 has left the game

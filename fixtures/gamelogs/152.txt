@@ -1,0 +1,411 @@
+icon_helmetMyrna8511 has reconnected
+Guestbyeezyy placed a settlement
+Guestbyeezyy placed a road
+GuestAiminho16 placed a settlement
+GuestAiminho16 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestHFizzles placed a settlement
+GuestHFizzles placed a road
+GuestHFizzles placed a settlement
+GuestHFizzles placed a road
+GuestHFizzles received starting resources woolgrainwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources grainlumberbrick
+GuestAiminho16 placed a settlement
+GuestAiminho16 placed a road
+GuestAiminho16 received starting resources graingrainwool
+Guestbyeezyy placed a settlement
+Guestbyeezyy placed a road
+Guestbyeezyy received starting resources orewoolgrain
+Guestbyeezyy rolled dice_2 dice_5
+Guestbyeezyy moved robber robber to  prob_6 grain tile
+Guestbyeezyy stole card from Aiminho16
+Guestbyeezyy bought development card
+GuestAiminho16 rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got ore
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_4 wool tile
+icon_helmetYou stole ore from byeezyy
+icon_helmetMyrna8511 built a road
+GuestHFizzles rolled dice_5 dice_4
+Guestbyeezyy got ore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got ore
+GuestAiminho16 got brick
+GuestHFizzles bought development card
+Guestbyeezyy rolled dice_4 dice_4
+GuestHFizzles got grain
+GuestAiminho16 rolled dice_2 dice_1
+Guestbyeezyy got lumberwool
+GuestHFizzles got wool
+icon_helmetMyrna8511 rolled dice_1 dice_3
+ prob_4 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got lumber
+GuestHFizzles used Knight card knight
+GuestHFizzles moved robber robber to  prob_9 brick tile
+GuestHFizzles stole card from Aiminho16
+GuestHFizzles rolled dice_1 dice_1
+GuestHFizzles got ore
+GuestHFizzles wants to give wool for lumber
+GuestHFizzles traded wool for lumber with Myrna8511
+GuestHFizzles built a road
+Guestbyeezyy rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumber
+GuestAiminho16 got woolwool
+Guestbyeezyy bought development card
+GuestAiminho16 rolled dice_3 dice_3
+Guestbyeezyy got ore
+icon_helmetMyrna8511 got grain
+GuestAiminho16 got grain
+icon_helmetMyrna8511 rolled dice_1 dice_2
+Guestbyeezyy got lumberwool
+GuestHFizzles got wool
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 wants to give lumber for ore
+icon_helmetMyrna8511 wants to give lumber for brick
+GuestHFizzles rolled dice_5 dice_4
+ prob_9 brick tile is blocked by the robber. No resources produced.
+Guestbyeezyy got ore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got ore
+GuestHFizzles bought development card
+Guestbyeezyy rolled dice_2 dice_5
+Guestbyeezyy moved robber robber to  prob_6 grain tile
+Guestbyeezyy stole grain from you
+GuestAiminho16 rolled dice_2 dice_5
+GuestAiminho16 moved robber robber to  prob_8 grain tile
+GuestAiminho16 stole card from HFizzles
+GuestAiminho16 bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 traded lumber for grain with Aiminho16
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestHFizzles used Knight card knight
+GuestHFizzles moved robber robber to  prob_9 brick tile
+GuestHFizzles stole card from Aiminho16
+GuestHFizzles rolled dice_6 dice_4
+GuestHFizzles got wool
+icon_helmetMyrna8511 got woolwool
+GuestAiminho16 got grain
+Guestbyeezyy rolled dice_2 dice_6
+GuestHFizzles got grain
+GuestAiminho16 used Knight card knight
+GuestAiminho16 moved robber robber to  prob_8 grain tile
+GuestAiminho16 stole card from HFizzles
+GuestAiminho16 rolled dice_6 dice_3
+Guestbyeezyy got ore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+icon_helmetMyrna8511 rolled dice_1 dice_2
+Guestbyeezyy got lumberwool
+GuestHFizzles got wool
+icon_helmetMyrna8511 wants to give wool for grain
+GuestAiminho16 wants to give Myrna8511 grain for lumberwool
+GuestHFizzles rolled dice_6 dice_4
+GuestHFizzles got wool
+icon_helmetMyrna8511 got woolwool
+GuestAiminho16 got grain
+GuestHFizzles bought development card
+Guestbyeezyy rolled dice_3 dice_1
+Guestbyeezyy got wool
+GuestHFizzles got wool
+icon_helmetMyrna8511 got lumber
+Guestbyeezyy wants to give lumberwool for grain
+Guestbyeezyy traded lumberwool for grain with Aiminho16
+Guestbyeezyy built a city (+1 VP)
+GuestAiminho16 rolled dice_4 dice_3
+icon_helmetMyrna8511 discarded woolwoolwoolore
+GuestAiminho16 moved robber robber to  prob_9 ore tile
+GuestAiminho16 stole card from HFizzles
+GuestAiminho16 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+GuestHFizzles used Knight card knight
+GuestHFizzles received largest army (+2 VPs)
+GuestHFizzles moved robber robber to  prob_6 grain tile
+GuestHFizzles stole card from Aiminho16
+GuestHFizzles rolled dice_3 dice_4
+GuestHFizzles moved robber robber to  prob_5 lumber tile
+GuestHFizzles stole ore from you
+Guestbyeezyy rolled dice_2 dice_5
+Guestbyeezyy moved robber robber to  prob_10 wool tile
+Guestbyeezyy stole card from HFizzles
+GuestAiminho16 rolled dice_6 dice_4
+ prob_10 wool tile is blocked by the robber. No resources produced.
+GuestAiminho16 got grain
+icon_helmetMyrna8511 rolled dice_6 dice_2
+GuestHFizzles got grain
+GuestHFizzles rolled dice_4 dice_5
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+GuestHFizzles wants to give wool for brick
+GuestHFizzles wants to give ore for brick
+GuestHFizzles bought development card
+Guestbyeezyy rolled dice_3 dice_5
+GuestHFizzles got grain
+Guestbyeezyy wants to give wool for grain
+Guestbyeezyy wants to give lumber for grain
+GuestAiminho16 wants to give byeezyy grain for lumberore
+Guestbyeezyy wants to give wool for brick
+Guestbyeezyy wants to give lumber for brick
+GuestAiminho16 rolled dice_1 dice_2
+Guestbyeezyy got lumberwoolwool
+GuestHFizzles got wool
+GuestAiminho16 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+Guestbyeezyy got wool
+GuestHFizzles got wool
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumber for grain
+GuestHFizzles wants to give Myrna8511 grain for lumberwool
+GuestAiminho16 wants to give Myrna8511 grain for lumberore
+icon_helmetMyrna8511 wants to give HFizzles lumberwool for graingrain
+icon_helmetMyrna8511 wants to give Aiminho16 lumberore for graingrain
+GuestHFizzles rolled dice_2 dice_2
+Guestbyeezyy got wool
+GuestHFizzles got wool
+icon_helmetMyrna8511 got lumber
+GuestHFizzles wants to give wool for lumber
+icon_helmetMyrna8511 wants to give HFizzles lumber for grain
+GuestHFizzles wants to give Myrna8511 grain for lumberwool
+icon_helmetMyrna8511 wants to give HFizzles lumberwool for graingrain
+icon_helmetMyrna8511 wants to give HFizzles lumberwool for grainore
+GuestHFizzles bought development card
+Guestbyeezyy rolled dice_3 dice_4
+Guestbyeezyy discarded lumberlumberlumberwoolwoolore
+Guestbyeezyy moved robber robber to  prob_6 grain tile
+Guestbyeezyy stole lumber from you
+Guestbyeezyy gave bank woolwoolwoolwool and took grain
+Guestbyeezyy bought development card
+GuestAiminho16 rolled dice_4 dice_2
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got ore
+icon_helmetMyrna8511 rolled dice_3 dice_5
+GuestHFizzles got grain
+icon_helmetMyrna8511 wants to give lumber for grain
+GuestHFizzles wants to give Myrna8511 wool for lumber
+GuestAiminho16 wants to give Myrna8511 grain for lumberore
+GuestHFizzles rolled dice_6 dice_6
+GuestHFizzles wants to give wool for lumber
+icon_helmetMyrna8511 wants to give HFizzles lumber for grain
+GuestHFizzles used Year of Plenty card year of plenty
+GuestHFizzles took from bank lumber brick
+GuestHFizzles built a settlement (+1 VP)
+Guestbyeezyy rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumberlumber
+GuestAiminho16 got woolwool
+GuestAiminho16 rolled dice_5 dice_4
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+GuestAiminho16 wants to give woolwool for lumber
+icon_helmetMyrna8511 wants to give Aiminho16 lumber for brick
+icon_helmetMyrna8511 wants to give Aiminho16 lumberlumber for brick
+Guestbyeezyy wants to give Aiminho16 lumber for woolgrain
+GuestMyrna8511 traded lumberlumber for brick with Aiminho16
+GuestAiminho16 gave bank woolwoolwoolwool and took brick
+GuestAiminho16 built a road
+icon_helmetMyrna8511 rolled dice_2 dice_2
+Guestbyeezyy got wool
+GuestHFizzles got wool
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give lumberore for grain
+GuestAiminho16 wants to give Myrna8511 grain for lumberore
+icon_helmetAiminho16 traded grain for lumberore with Myrna8511
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHFizzles rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got ore
+GuestHFizzles got ore
+GuestHFizzles gave bank woolwool and took grain
+Guestbyeezyy rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got ore
+GuestHFizzles got ore
+Guestbyeezyy used Knight card knight
+Guestbyeezyy moved robber robber to  prob_10 wool tile
+Guestbyeezyy stole card from HFizzles
+Guestbyeezyy gave bank oreoreoreore and took grain
+Guestbyeezyy bought development card
+GuestAiminho16 rolled dice_3 dice_2
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+icon_helmetMyrna8511 rolled dice_2 dice_3
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 wants to give lumber for wool
+GuestAiminho16 wants to give Myrna8511 wool for ore
+icon_helmetMyrna8511 wants to give Aiminho16 ore for woolwool
+icon_helmetMyrna8511 gave bank lumberlumber and took brick
+icon_helmetMyrna8511 built a road
+GuestHFizzles rolled dice_1 dice_5
+Guestbyeezyy got ore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got grain
+GuestAiminho16 got grain
+GuestHFizzles gave bank woolwool and took grain
+GuestHFizzles built a city (+1 VP)
+Guestbyeezyy rolled dice_4 dice_5
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+Guestbyeezyy used Monopoly card monopoly
+Guestbyeezyy stole 2 grain
+Guestbyeezyy built a city (+1 VP)
+GuestAiminho16 rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+GuestAiminho16 built a road
+GuestAiminho16 wants to give woolwool for ore
+icon_helmetMyrna8511 wants to give Aiminho16 ore for brickwool
+icon_helmetMyrna8511 wants to give Aiminho16 ore for woolgrain
+GuestHFizzles wants to give Aiminho16 ore for woolwoolwool
+GuestAiminho16 gave bank woolwoolwoolwool and took ore
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 discarded lumberoreoreore
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole ore from HFizzles
+icon_helmetMyrna8511 wants to give lumber for wool
+GuestAiminho16 wants to give Myrna8511 wool for ore
+icon_helmetMyrna8511 wants to give Aiminho16 ore for woolwool
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 gave bank lumberlumber and took wool
+icon_helmetMyrna8511 bought development card
+GuestHFizzles rolled dice_6 dice_3
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+Guestbyeezyy rolled dice_5 dice_3
+GuestHFizzles got graingrain
+GuestAiminho16 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got grain
+GuestAiminho16 got grain
+GuestAiminho16 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 traded ore for wool with Aiminho16
+icon_helmetMyrna8511 gave bank lumberlumber and took brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHFizzles rolled dice_6 dice_1
+GuestHFizzles moved robber robber to  prob_6 grain tile
+GuestHFizzles stole ore from you
+Guestbyeezyy rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+Guestbyeezyy wants to give lumber for wool
+Guestbyeezyy gave bank oreoreoreore and took grain
+GuestAiminho16 rolled dice_1 dice_1
+GuestHFizzles got oreore
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestHFizzles got graingrain
+GuestAiminho16 got brick
+GuestHFizzles rolled dice_6 dice_3
+Guestbyeezyy got oreore
+GuestHFizzles got ore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+GuestHFizzles built a city (+1 VP)
+GuestHFizzles built a city (+1 VP)
+Guestbyeezyy rolled dice_3 dice_2
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+GuestAiminho16 rolled dice_5 dice_1
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Guestbyeezyy got oreore
+GuestHFizzles got oreore
+GuestAiminho16 gave bank woolwoolwool and took grain
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole ore from HFizzles
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 traded lumber for wool with Aiminho16
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 bought development card
+GuestHFizzles rolled dice_6 dice_5
+Guestbyeezyy got graingrain
+icon_helmetMyrna8511 got brick
+GuestAiminho16 got grain
+Guestbyeezyy rolled dice_4 dice_1
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwool
+Guestbyeezyy wants to give grainore for brick
+Guestbyeezyy wants to give grainore for wool
+Guestbyeezyy traded grainore for brick with Aiminho16
+Guestbyeezyy wants to give oreore for wool
+Guestbyeezyy used Road Building card road building
+Guestbyeezyy placed a road
+Guestbyeezyy placed a road
+Guestbyeezyy gave bank oreoreoreore and took wool
+Guestbyeezyy built a settlement (+1 VP)
+GuestAiminho16 rolled dice_2 dice_2
+Guestbyeezyy got woolwool
+GuestHFizzles got woolwool
+icon_helmetMyrna8511 got lumberlumber
+GuestAiminho16 built a city (+1 VP)
+GuestAiminho16 built a road
+icon_helmetMyrna8511 rolled dice_3 dice_2
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwoolwool
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give lumber for wool
+GuestAiminho16 wants to give Myrna8511 wool for lumberore
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetAiminho16 traded wool for lumberore with Myrna8511
+icon_helmetMyrna8511 gave bank lumberlumber and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank lumberlumber and took grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestHFizzles rolled dice_6 dice_3
+Guestbyeezyy got oreore
+GuestHFizzles got oreore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+GuestHFizzles gave bank woolwool and took grain
+Guestbyeezyy rolled dice_5 dice_4
+Guestbyeezyy got oreore
+GuestHFizzles got oreore
+icon_helmetMyrna8511 got oreore
+GuestAiminho16 got brick
+Guestbyeezyy bought development card
+GuestAiminho16 rolled dice_2 dice_3
+icon_helmetMyrna8511 got lumberlumberlumber
+GuestAiminho16 got woolwoolwool
+GuestAiminho16 gave bank woolwoolwoolwoolwoolwool and took grainore
+GuestAiminho16 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_5
+GuestHFizzles got woolwool
+icon_helmetMyrna8511 got woolwoolwool
+GuestAiminho16 got graingraingrain
+icon_helmetMyrna8511 gave bank oreoreoreoreoreore and took brickbrickbrick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+Guestbyeezyy has left the game
+GuestHFizzles has left the game
+GuestAiminho16 has left the game

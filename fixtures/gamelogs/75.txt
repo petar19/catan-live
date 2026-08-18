@@ -1,0 +1,329 @@
+GuestYolonc#9587 placed a settlement
+GuestYolonc#9587 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestHrothgar2112 placed a settlement
+GuestHrothgar2112 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources: brickorebrick
+GuestHrothgar2112 placed a settlement
+GuestHrothgar2112 placed a road
+GuestHrothgar2112 received starting resources: woollumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: lumberlumberwool
+GuestYolonc#9587 placed a settlement
+GuestYolonc#9587 placed a road
+GuestYolonc#9587 received starting resources: grainlumberlumber
+GuestYolonc#9587 rolled: dice_3 dice_2
+GuestYolonc#9587 got: grain
+GuestHrothgar2112 got: brick
+GuestYolonc#9587 wants to give: grain for: brick
+GuestYolonc#9587 traded: grainfor: brick with: Seale5074
+GuestYolonc#9587 wants to give: grain for: brick
+GuestYolonc#9587 traded: grainfor: brick with: Hrothgar2112
+GuestYolonc#9587 built a road
+GuestYolonc#9587 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+GuestHrothgar2112 got: lumberwool
+icon_helmetMyrna8511 wants to give: lumber for: brick
+GuestSeale5074 wants to give Myrna8511 : ore for: lumber
+GuestHrothgar2112 rolled: dice_1 dice_5
+GuestSeale5074 got: ore
+GuestYolonc#9587 got: ore
+GuestHrothgar2112 got: wool
+GuestHrothgar2112 wants to give: woolwool for: brick
+GuestSeale5074 wants to give Hrothgar2112 : ore for: lumberwool
+GuestSeale5074 rolled: dice_5 dice_1
+GuestSeale5074 got: ore
+GuestYolonc#9587 got: ore
+GuestHrothgar2112 got: wool
+GuestSeale5074 wants to give: brick for: lumbergrain
+GuestSeale5074 traded: brickfor: lumbergrain with: Hrothgar2112
+GuestSeale5074 built a city: +1 VP
+GuestYolonc#9587 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: grainwool
+GuestSeale5074 got: lumber
+GuestYolonc#9587 got: lumber
+GuestYolonc#9587 wants to give: ore for: brick
+GuestYolonc#9587 wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give Yolonc#9587 : wool for: brick
+GuestYolonc#9587 traded: orefor: wool with: Hrothgar2112
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: grainwool
+GuestSeale5074 got: lumber
+GuestYolonc#9587 got: lumber
+icon_helmetMyrna8511 wants to give: woolgrain for: brick
+icon_helmetMyrna8511 wants to give: woolwoolgrain for: brick
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 traded: lumberfor: wool with: Hrothgar2112
+icon_helmetMyrna8511 gave bank: woolwoolwoolwool and took brick
+icon_helmetMyrna8511 built a road
+GuestHrothgar2112 rolled: dice_1 dice_6
+GuestHrothgar2112 moved robber robberto prob_8 brick tile
+GuestHrothgar2112 stole card from: Seale5074
+GuestHrothgar2112 built a road
+GuestSeale5074 rolled: dice_6 dice_1
+GuestSeale5074 moved robber robberto prob_5 brick tile
+GuestSeale5074 stole card from: Hrothgar2112
+GuestSeale5074 wants to give: ore for: brick
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give Seale5074 : grain for: brick
+GuestSeale5074 traded: orefor: wool with: Hrothgar2112
+GuestYolonc#9587 rolled: dice_1 dice_5
+GuestSeale5074 got: ore
+GuestYolonc#9587 got: ore
+GuestHrothgar2112 got: wool
+GuestYolonc#9587 wants to give: ore for: grain
+GuestYolonc#9587 wants to give: ore for: brick
+GuestYolonc#9587 wants to give: lumber for: grain
+GuestYolonc#9587 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: lumberwool
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: lumberore
+GuestYolonc#9587 wants to give: lumberore for: brick
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+GuestSeale5074 got: ore
+GuestYolonc#9587 got: ore
+GuestHrothgar2112 got: wool
+GuestHrothgar2112 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: grainwool
+GuestSeale5074 got: lumber
+GuestYolonc#9587 got: lumber
+GuestHrothgar2112 wants to give: lumberwool for: grain
+GuestHrothgar2112 traded: lumberwoolfor: grain with: Myrna8511
+GuestSeale5074 rolled: dice_3 dice_4
+GuestSeale5074 moved robber robberto prob_6 ore tile
+GuestSeale5074 stole card from: Yolonc#9587
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 traded: orefor: grain with: Myrna8511
+GuestSeale5074 wants to give: lumber for: grain
+GuestSeale5074 wants to give: lumber for: ore
+GuestYolonc#9587 rolled: dice_3 dice_4
+GuestYolonc#9587 moved robber robberto prob_4 ore tile
+GuestYolonc#9587 stole: lumber from you
+GuestYolonc#9587 wants to give: lumber for: brick
+GuestYolonc#9587 wants to give: ore for: brick
+GuestYolonc#9587 wants to give: lumberore for: grain
+GuestYolonc#9587 wants to give: lumberore for: brick
+GuestYolonc#9587 traded: lumberorefor: grain with: Myrna8511
+GuestYolonc#9587 wants to give: lumberlumberore for: brick
+GuestYolonc#9587 wants to give: ore for: lumberlumber
+GuestYolonc#9587 wants to give: lumber for: ore
+GuestSeale5074 wants to give Yolonc#9587 : ore for: grain
+GuestYolonc#9587 traded: lumberfor: ore with: Seale5074
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+GuestHrothgar2112 rolled: dice_3 dice_1
+prob_4 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: lumber
+GuestYolonc#9587 got: lumber
+GuestHrothgar2112 bought development card
+GuestSeale5074 rolled: dice_2 dice_3
+GuestYolonc#9587 got: grain
+GuestHrothgar2112 got: brick
+GuestSeale5074 wants to give: lumber for: brick
+GuestSeale5074 wants to give: ore for: brick
+GuestSeale5074 wants to give: lumberlumber for: brick
+GuestSeale5074 wants to give: lumberore for: brick
+GuestSeale5074 wants to give: lumberlumberore for: brick
+GuestSeale5074 wants to give: lumberlumberlumberore for: brick
+GuestSeale5074 gave bank: lumberlumberlumberlumber and took brick
+GuestSeale5074 wants to give: ore for: lumber
+GuestSeale5074 traded: orefor: lumber with: Yolonc#9587
+GuestSeale5074 built a road
+GuestYolonc#9587 rolled: dice_3 dice_2
+GuestYolonc#9587 got: grain
+GuestHrothgar2112 got: brick
+GuestYolonc#9587 wants to give: grain for: brick
+GuestYolonc#9587 wants to give: lumber for: brick
+GuestYolonc#9587 wants to give: lumbergrain for: brick
+GuestYolonc#9587 traded: lumbergrainfor: brick with: Hrothgar2112
+GuestYolonc#9587 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+icon_helmetMyrna8511 wants to give: woolore for: brick
+icon_helmetMyrna8511 wants to give: woolore for: brick
+icon_helmetMyrna8511 wants to give: woolore for: grain
+icon_helmetMyrna8511 wants to give: lumberore for: grain
+icon_helmetMyrna8511 wants to give: lumberore for: brick
+icon_helmetMyrna8511 traded: woolorefor: grain with: Yolonc#9587
+icon_helmetMyrna8511 wants to give: lumberore for: brick
+GuestHrothgar2112 rolled: dice_4 dice_1
+GuestYolonc#9587 got: grain
+GuestHrothgar2112 got: brick
+GuestHrothgar2112 built a settlement: +1 VP
+GuestHrothgar2112 used Year of Plenty card year of plenty
+GuestHrothgar2112 took from bank: wool grain
+GuestHrothgar2112 built a road
+GuestSeale5074 rolled: dice_6 dice_6
+GuestYolonc#9587 rolled: dice_4 dice_3
+GuestBot is selecting where to place robber for Yolonc#9587
+GuestYolonc#9587 moved robber robberto prob_6 wool tile
+GuestYolonc#9587 stole card from: Hrothgar2112
+GuestYolonc#9587 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+GuestYolonc#9587 got: graingrain
+icon_helmetMyrna8511 wants to give: ore for: lumberlumber
+icon_helmetMyrna8511 wants to give: lumberore for: brick
+icon_helmetMyrna8511 wants to give: lumberlumberore for: brick
+GuestHrothgar2112 rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: brickbrick
+GuestYolonc#9587 got: grain
+GuestSeale5074 rolled: dice_3 dice_4
+GuestSeale5074 moved robber robberto prob_5 grain tile
+GuestSeale5074 stole card from: Yolonc#9587
+GuestSeale5074 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give Seale5074 : lumberwool for: brick
+icon_helmetMyrna8511 wants to give Seale5074 : lumberore for: brick
+GuestSeale5074 wants to give Myrna8511 : brick for: lumbergrain
+icon_helmetMyrna8511 wants to give Seale5074 : lumberwoolore for: brick
+GuestMyrna8511 traded: lumberwoolorefor: brick with: Seale5074
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give: wool for: grain
+GuestSeale5074 wants to give: wool for: lumber
+GuestSeale5074 wants to give: wool for: ore
+GuestYolonc#9587 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: grainwool
+GuestSeale5074 got: grainlumber
+GuestYolonc#9587 got: lumber
+GuestYolonc#9587 wants to give: grain for: brick
+GuestYolonc#9587 gave bank: graingrain and took brick
+GuestYolonc#9587 built a road
+icon_helmetMyrna8511 rolled: dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHrothgar2112 got: brick
+icon_helmetMyrna8511 wants to give: woolgrain for: brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 wants to give: grain for: wool
+GuestSeale5074 wants to give Myrna8511 : wool for: grainore
+GuestSeale5074 wants to give Myrna8511 : wool for: lumbergrain
+GuestSeale5074 wants to give Myrna8511 : wool for: lumber
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: wool with: Seale5074
+icon_helmetMyrna8511 gave bank: woolwool and took brick
+icon_helmetMyrna8511 built a road
+GuestHrothgar2112 rolled: dice_4 dice_2
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: oreore
+GuestHrothgar2112 got: woolwool
+GuestHrothgar2112 gave bank: woolwoolwool and took lumber
+GuestHrothgar2112 built a road
+GuestSeale5074 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: grainwool
+GuestSeale5074 got: grainlumber
+GuestYolonc#9587 got: lumber
+GuestSeale5074 built a city: +1 VP
+GuestYolonc#9587 rolled: dice_6 dice_1
+GuestYolonc#9587 moved robber robberto prob_6 ore tile
+GuestYolonc#9587 stole card from: Seale5074
+GuestYolonc#9587 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give Yolonc#9587 : grain for: lumberwool
+GuestYolonc#9587 wants to give: lumberlumber for: grain
+GuestYolonc#9587 wants to give: lumber for: brick
+GuestYolonc#9587 wants to give: lumberlumber for: brick
+GuestYolonc#9587 wants to give: lumber for: wool
+icon_helmetMyrna8511 wants to give Yolonc#9587 : wool for: lumberlumber
+GuestYolonc#9587 traded: lumberfor: wool with: Myrna8511
+GuestYolonc#9587 wants to give: lumberwool for: grain
+icon_helmetMyrna8511 rolled: dice_1 dice_4
+GuestYolonc#9587 got: graingrain
+GuestHrothgar2112 got: brickgrain
+GuestHrothgar2112 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: brickbrick
+GuestYolonc#9587 got: grain
+GuestSeale5074 rolled: dice_6 dice_1
+Yolonc#9587 discarding resource cards
+GuestYolonc#9587 discarded: lumberwoolgraingrain
+GuestSeale5074 moved robber robberto prob_5 grain tile
+GuestSeale5074 stole card from: Hrothgar2112
+GuestSeale5074 wants to give: brick for: lumberore
+GuestSeale5074 wants to give: brick for: lumberwool
+GuestSeale5074 traded: brickfor: lumberwool with: Myrna8511
+GuestSeale5074 built a road
+GuestSeale5074 built a settlement: +1 VP
+GuestYolonc#9587 rolled: dice_5 dice_1
+GuestSeale5074 got: oreoreore
+GuestYolonc#9587 got: oreore
+GuestHrothgar2112 got: woolwool
+GuestYolonc#9587 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+icon_helmetMyrna8511 moved robber robberto prob_9 lumber tile
+icon_helmetYou stole: ore from: Seale5074
+icon_helmetMyrna8511 wants to give: ore for: lumberwool
+GuestHrothgar2112 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumberoreore
+GuestSeale5074 got: oreore
+GuestYolonc#9587 got: lumberlumber
+GuestSeale5074 rolled: dice_2 dice_4
+GuestSeale5074 got: oreoreore
+GuestYolonc#9587 got: oreore
+GuestHrothgar2112 got: woolwool
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 traded: orefor: grain with: Hrothgar2112
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 wants to give: oreore for: grain
+GuestSeale5074 wants to give: woolore for: grain
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 traded: woolfor: ore with: Hrothgar2112
+GuestSeale5074 wants to give: oreore for: grain
+GuestSeale5074 wants to give: oreoreore for: grain
+GuestSeale5074 gave bank: oreoreoreore and took grain
+GuestSeale5074 built a city: +1 VP
+GuestYolonc#9587 rolled: dice_4 dice_3
+GuestYolonc#9587 moved robber robberto prob_6 ore tile
+GuestNo player to steal from
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: wool
+GuestSeale5074 got: woolbrickbrick
+GuestYolonc#9587 got: grain
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: brick for: grain
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 traded: lumberfor: wool with: Hrothgar2112
+icon_helmetMyrna8511 gave bank: woolwool and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+GuestHrothgar2112 rolled: dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestYolonc#9587 got: oreore
+GuestHrothgar2112 got: woolwool
+GuestHrothgar2112 gave bank: woolwoolwoolwoolwoolwool and took brickgrain
+GuestSeale5074 rolled: dice_6 dice_5
+GuestSeale5074 got: brickbrickbrick
+GuestYolonc#9587 got: graingrain
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 traded: brickfor: lumber with: Hrothgar2112
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 traded: brickfor: lumber with: Yolonc#9587
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+GuestYolonc#9587 rolled: dice_2 dice_5
+Yolonc#9587 discarding resource cards
+GuestYolonc#9587 discarded: oreoreoreoreore
+GuestYolonc#9587 moved robber robberto prob_8 brick tile
+GuestYolonc#9587 stole card from: Seale5074
+GuestYolonc#9587 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+GuestSeale5074 got: brickbrickbrick
+GuestYolonc#9587 got: graingraingrain
+GuestHrothgar2112 rolled: dice_6 dice_6
+GuestSeale5074 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: graingrainwool
+GuestSeale5074 got: graingrainlumberlumber
+GuestYolonc#9587 got: lumberlumber
+GuestSeale5074 wants to give: grain for: wool
+icon_helmetMyrna8511 started an embargo against Seale5074
+GuestSeale5074 wants to give Yolonc#9587 & Hrothgar2112 : brick for: wool
+GuestYolonc#9587 started an embargo against Seale5074
+GuestSeale5074 wants to give Hrothgar2112 : brickgrain for: wool
+GuestSeale5074 gave bank: brickbrick and took wool
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 built a road
+GuestSeale5074 received longest road: +2 VPs
+trophy Seale5074 won the game! 

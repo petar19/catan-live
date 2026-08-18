@@ -1,0 +1,461 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestNightsheep placed a settlement
+GuestNightsheep placed a road
+UserEggBacnToast placed a settlement
+UserEggBacnToast placed a road
+GuestRetardTrade placed a settlement
+GuestRetardTrade placed a road
+GuestRetardTrade placed a settlement
+GuestRetardTrade placed a road
+GuestRetardTrade received starting resources lumberbrickwool
+UserEggBacnToast placed a settlement
+UserEggBacnToast placed a road
+UserEggBacnToast received starting resources bricklumberlumber
+GuestNightsheep placed a settlement
+GuestNightsheep placed a road
+GuestNightsheep received starting resources lumberwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberlumberore
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+GuestNightsheep rolled dice_5 dice_3
+GuestRetardTrade got lumber
+GuestNightsheep got lumber
+icon_helmetMyrna8511 got grain
+UserEggBacnToast rolled dice_4 dice_4
+GuestRetardTrade got lumber
+GuestNightsheep got lumber
+icon_helmetMyrna8511 got grain
+GuestRetardTrade rolled dice_5 dice_3
+GuestRetardTrade got lumber
+GuestNightsheep got lumber
+icon_helmetMyrna8511 got grain
+GuestRetardTrade built a road
+icon_helmetMyrna8511 rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give grain for wool
+GuestNightsheep wants to give Myrna8511 wool for grainore
+GuestNightsheep wants to give Myrna8511 wool for graingrain
+icon_helmetMyrna8511 wants to give graingrain for woolwool
+icon_helmetMyrna8511 wants to give lumbergrain for woolwool
+icon_helmetMyrna8511 wants to give lumbergrain for wool
+GuestNightsheep rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberlumberlumbergrain
+GuestNightsheep moved robber robber to  prob_5 brick tile
+GuestNightsheep stole grain from you
+GuestNightsheep gave bank lumberlumberlumberlumber and took ore
+GuestNightsheep bought development card
+UserEggBacnToast rolled dice_5 dice_5
+GuestRetardTrade got grain
+UserEggBacnToast got ore
+GuestNightsheep got grain
+icon_helmetMyrna8511 got ore
+GuestRetardTrade rolled dice_4 dice_2
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+GuestRetardTrade gave bank lumberlumberlumberlumber and took brick
+GuestRetardTrade built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_3
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 wants to give ore for brick
+UserEggBacnToast wants to give Myrna8511 brick for grain
+icon_helmetMyrna8511 wants to give Myrna8511 grain for brickwool
+GuestNightsheep rolled dice_4 dice_6
+GuestRetardTrade got grain
+UserEggBacnToast got ore
+GuestNightsheep got grain
+icon_helmetMyrna8511 got ore
+UserEggBacnToast rolled dice_2 dice_5
+UserEggBacnToast discarded lumberbrickoreore
+UserEggBacnToast moved robber robber to  prob_6 ore tile
+UserEggBacnToast stole card from RetardTrade
+UserEggBacnToast built a road
+UserEggBacnToast built a road
+GuestRetardTrade rolled dice_4 dice_3
+GuestRetardTrade moved robber robber to  prob_9 brick tile
+GuestRetardTrade stole card from Nightsheep
+icon_helmetMyrna8511 rolled dice_5 dice_5
+GuestRetardTrade got grain
+UserEggBacnToast got ore
+GuestNightsheep got grain
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for grain
+GuestNightsheep wants to give Myrna8511 grain for oreore
+icon_helmetNightsheep traded grain for oreore with Myrna8511
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestNightsheep used Knight card knight
+GuestNightsheep moved robber robber to  prob_5 brick tile
+GuestNightsheep stole card from RetardTrade
+GuestNightsheep rolled dice_3 dice_5
+GuestRetardTrade got lumber
+GuestNightsheep got lumber
+icon_helmetMyrna8511 got graingrain
+GuestNightsheep built a city (+1 VP)
+UserEggBacnToast rolled dice_3 dice_1
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+GuestRetardTrade rolled dice_2 dice_4
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+GuestRetardTrade bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_10 grain tile
+icon_helmetYou stole lumber from Nightsheep
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for brick
+GuestNightsheep wants to give Myrna8511 wool for lumberore
+icon_helmetNightsheep traded wool for lumberore with Myrna8511
+icon_helmetMyrna8511 bought development card
+GuestNightsheep rolled dice_1 dice_5
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+UserEggBacnToast rolled dice_6 dice_4
+ prob_10 grain tile is blocked by the robber. No resources produced.
+UserEggBacnToast got ore
+icon_helmetMyrna8511 got oreore
+GuestRetardTrade rolled dice_2 dice_4
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 rolled dice_3 dice_3
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 wants to give oreore for brickbrick
+UserEggBacnToast wants to give Myrna8511 brick for wool
+icon_helmetMyrna8511 wants to give oreore for brick
+icon_helmetMyrna8511 wants to give lumberore for brick
+icon_helmetMyrna8511 gave bank oreoreoreore and took brick
+icon_helmetMyrna8511 built a road
+GuestNightsheep rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+UserEggBacnToast rolled dice_4 dice_1
+GuestRetardTrade got brick
+GuestNightsheep got oreore
+icon_helmetMyrna8511 got brickbrick
+UserEggBacnToast wants to give brick for wool
+UserEggBacnToast traded brick for wool with Nightsheep
+UserEggBacnToast bought development card
+UserEggBacnToast built a road
+UserEggBacnToast built a road
+UserEggBacnToast received longest road (+2 VPs)
+GuestRetardTrade rolled dice_2 dice_6
+GuestRetardTrade got lumber
+GuestNightsheep got lumber
+icon_helmetMyrna8511 got graingrain
+GuestRetardTrade built a road
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberbrickgraingrain
+icon_helmetMyrna8511 moved robber robber to  prob_8 lumber tile
+icon_helmetYou stole lumber from RetardTrade
+icon_helmetMyrna8511 wants to give lumberore for wool
+GuestNightsheep rolled dice_1 dice_4
+GuestRetardTrade got brick
+GuestNightsheep got oreore
+icon_helmetMyrna8511 got brickbrick
+GuestNightsheep wants to give ore for brick
+icon_helmetMyrna8511 wants to give Nightsheep brick for wool
+GuestNightsheep built a road
+UserEggBacnToast rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumber
+GuestRetardTrade rolled dice_5 dice_3
+ prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 wants to give brickgrain for lumberlumber
+icon_helmetMyrna8511 wants to give grainore for lumberlumber
+icon_helmetMyrna8511 traded grainore for lumberlumber with RetardTrade
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestNightsheep rolled dice_6 dice_3
+UserEggBacnToast got woolbrick
+GuestNightsheep got brickbrick
+GuestNightsheep wants to give ore for grain
+GuestNightsheep gave bank oreoreoreore and took grain
+GuestNightsheep built a settlement (+1 VP)
+UserEggBacnToast rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumberlumber
+UserEggBacnToast wants to give brick for grain
+GuestRetardTrade rolled dice_4 dice_6
+GuestRetardTrade got grain
+UserEggBacnToast got ore
+GuestNightsheep got graingraingrain
+icon_helmetMyrna8511 got oreore
+GuestRetardTrade built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_10 grain tile
+icon_helmetYou stole ore from Nightsheep
+icon_helmetMyrna8511 gave bank oreore and took wool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestNightsheep rolled dice_3 dice_3
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got oreore
+GuestNightsheep wants to give grain for lumberbrick
+UserEggBacnToast wants to give Nightsheep brick for grain
+UserEggBacnToast wants to give Nightsheep brickore for grain
+GuestEggBacnToast traded brickore for grain with Nightsheep
+UserEggBacnToast rolled dice_6 dice_5
+UserEggBacnToast got lumber
+UserEggBacnToast built a road
+UserEggBacnToast built a settlement (+1 VP)
+GuestRetardTrade rolled dice_2 dice_3
+GuestRetardTrade got brick
+GuestNightsheep got oreore
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 built a road
+GuestNightsheep rolled dice_2 dice_2
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got wool
+icon_helmetMyrna8511 got lumber
+GuestNightsheep built a city (+1 VP)
+UserEggBacnToast rolled dice_3 dice_5
+GuestRetardTrade got lumberlumber
+GuestNightsheep got lumberlumber
+icon_helmetMyrna8511 got graingrain
+GuestRetardTrade rolled dice_3 dice_3
+GuestRetardTrade got ore
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got oreore
+GuestRetardTrade built a road
+GuestRetardTrade built a road
+icon_helmetMyrna8511 rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwool
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give lumber for wool
+GuestNightsheep wants to give Myrna8511 wool for grainore
+icon_helmetMyrna8511 gave bank oreore and took wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank oreore and took wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestNightsheep rolled dice_6 dice_5
+UserEggBacnToast got lumber
+GuestNightsheep wants to give wool for grain
+GuestNightsheep gave bank woolwoolwool and took grain
+GuestNightsheep built a road
+GuestNightsheep built a settlement (+1 VP)
+UserEggBacnToast rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumberlumber
+GuestRetardTrade rolled dice_6 dice_6
+icon_helmetMyrna8511 rolled dice_2 dice_2
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwoolwool
+icon_helmetMyrna8511 got lumber
+GuestNightsheep rolled dice_5 dice_4
+UserEggBacnToast got woolbrick
+GuestNightsheep got brickbrick
+GuestNightsheep wants to give brick for ore
+GuestNightsheep wants to give brick for ore
+GuestNightsheep traded brick for ore with EggBacnToast
+GuestNightsheep gave bank woolwool and took grain
+GuestNightsheep bought development card
+UserEggBacnToast rolled dice_6 dice_5
+UserEggBacnToast got lumber
+GuestNightsheep got grain
+UserEggBacnToast gave bank lumberlumberlumber and took grain
+UserEggBacnToast built a settlement (+1 VP)
+GuestRetardTrade rolled dice_3 dice_6
+UserEggBacnToast got woolbrick
+GuestNightsheep got brickbrick
+GuestRetardTrade gave bank lumberlumberlumberlumber and took grain
+icon_helmetMyrna8511 rolled dice_3 dice_6
+UserEggBacnToast got woolbrick
+GuestNightsheep got brickbrick
+GuestNightsheep used Knight card knight
+GuestNightsheep moved robber robber to  prob_8 grain tile
+GuestNightsheep stole lumber from you
+GuestNightsheep rolled dice_5 dice_4
+UserEggBacnToast got woolbrick
+GuestNightsheep got brickbrick
+GuestNightsheep wants to give brick for wool
+UserEggBacnToast wants to give Nightsheep wool for lumber
+GuestNightsheep gave bank brickbrickbrickbrickbrickbrick and took woolore
+GuestNightsheep bought development card
+GuestNightsheep built a road
+UserEggBacnToast rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+GuestRetardTrade got lumberlumber
+GuestNightsheep got lumberlumber
+UserEggBacnToast wants to give wool for grain
+UserEggBacnToast wants to give brickbrickbrick for grain
+UserEggBacnToast gave bank brickbrickbrick and took grain
+UserEggBacnToast built a road
+UserEggBacnToast built a settlement (+1 VP)
+GuestRetardTrade rolled dice_1 dice_5
+GuestRetardTrade got ore
+UserEggBacnToast got brickbrick
+icon_helmetMyrna8511 got oreore
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 grain tile
+icon_helmetYou stole lumber from Nightsheep
+icon_helmetMyrna8511 rolled dice_6 dice_2
+GuestRetardTrade got lumberlumber
+GuestNightsheep got lumberlumber
+icon_helmetMyrna8511 got graingraingrain
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took ore
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestNightsheep used Knight card knight
+GuestNightsheep received largest army (+2 VPs)
+GuestNightsheep moved robber robber to  prob_8 grain tile
+GuestNightsheep stole grain from you
+GuestNightsheep rolled dice_1 dice_5
+GuestRetardTrade got ore
+UserEggBacnToast got brickbrick
+icon_helmetMyrna8511 got oreoreore
+UserEggBacnToast rolled dice_6 dice_1
+GuestRetardTrade discarded lumberlumberlumberoreore
+UserEggBacnToast moved robber robber to  prob_6 ore tile
+UserEggBacnToast stole ore from you
+UserEggBacnToast wants to give brickbrickbrick for grain
+UserEggBacnToast gave bank brickbrickbrick and took grain
+UserEggBacnToast bought development card
+GuestRetardTrade rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwoolwool
+icon_helmetMyrna8511 got lumberlumber
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwoolwool
+icon_helmetMyrna8511 got lumberlumber
+GuestNightsheep rolled dice_1 dice_6
+GuestNightsheep discarded lumberlumberwoolwoolwool
+GuestNightsheep moved robber robber to  prob_10 ore tile
+GuestNightsheep stole card from EggBacnToast
+GuestNightsheep gave bank woolwool and took brick
+GuestNightsheep built a settlement (+1 VP)
+UserEggBacnToast used Knight card knight
+UserEggBacnToast moved robber robber to  prob_5 ore tile
+UserEggBacnToast stole card from Nightsheep
+UserEggBacnToast rolled dice_6 dice_1
+UserEggBacnToast moved robber robber to  prob_6 ore tile
+UserEggBacnToast stole lumber from you
+GuestRetardTrade rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumberlumberlumber
+icon_helmetMyrna8511 rolled dice_3 dice_2
+GuestRetardTrade got brick
+UserEggBacnToast got brick
+GuestNightsheep got oreoreore
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumberbrickbrick and took woolgrain
+icon_helmetMyrna8511 bought development card
+GuestNightsheep rolled dice_2 dice_6
+GuestRetardTrade got lumberlumber
+GuestNightsheep got lumberlumber
+icon_helmetMyrna8511 got graingraingrain
+UserEggBacnToast used Knight card knight
+UserEggBacnToast moved robber robber to  prob_10 grain tile
+UserEggBacnToast stole card from Nightsheep
+UserEggBacnToast rolled dice_4 dice_5
+UserEggBacnToast got woolwoolbrick
+GuestNightsheep got brickbrick
+UserEggBacnToast gave bank lumberlumberlumberbrickbrickbrick and took grainore
+UserEggBacnToast bought development card
+GuestRetardTrade rolled dice_6 dice_3
+UserEggBacnToast got woolwoolbrick
+GuestNightsheep got brickbrick
+GuestRetardTrade gave bank lumberlumberlumberlumber and took wool
+GuestRetardTrade built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_6
+GuestNightsheep discarded lumberbrickbrickbrick
+icon_helmetMyrna8511 moved robber robber to  prob_5 ore tile
+icon_helmetYou stole ore from Nightsheep
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 5 ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 gave bank oreore and took wool
+icon_helmetMyrna8511 bought development card
+GuestNightsheep rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwoolwool
+icon_helmetMyrna8511 got lumberlumber
+GuestNightsheep wants to give brick for ore
+GuestNightsheep wants to give brick for grain
+UserEggBacnToast rolled dice_2 dice_3
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestRetardTrade got brick
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got brickbrick
+UserEggBacnToast wants to give lumber for grain
+UserEggBacnToast wants to give lumberbrick for grain
+UserEggBacnToast wants to give lumberbrick for grain
+UserEggBacnToast built a road
+GuestRetardTrade rolled dice_6 dice_2
+GuestRetardTrade got grainlumberlumber
+GuestNightsheep got lumberlumber
+icon_helmetMyrna8511 got graingraingrain
+GuestRetardTrade gave bank lumberlumber and took wool
+GuestRetardTrade built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberlumberlumberlumbergrain
+icon_helmetMyrna8511 moved robber robber to  prob_10 grain tile
+icon_helmetYou stole wool from Nightsheep
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 ore tile
+icon_helmetYou stole lumber from Nightsheep
+icon_helmetMyrna8511 bought development card
+GuestNightsheep rolled dice_1 dice_5
+GuestRetardTrade got ore
+UserEggBacnToast got brickbrick
+icon_helmetMyrna8511 got oreoreoreore
+UserEggBacnToast rolled dice_1 dice_3
+GuestRetardTrade got lumber
+UserEggBacnToast got lumber
+GuestNightsheep got woolwoolwool
+icon_helmetMyrna8511 got lumberlumber
+UserEggBacnToast gave bank brickbrickbrickwoolwoolwool and took grainore
+UserEggBacnToast bought development card
+GuestRetardTrade rolled dice_2 dice_4
+GuestRetardTrade got ore
+UserEggBacnToast got brickbrick
+icon_helmetMyrna8511 got oreoreoreore
+icon_helmetMyrna8511 rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestRetardTrade got brick
+UserEggBacnToast got brick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank lumber brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank oreoreoreoreoreore and took lumberlumberbrick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from EggBacnToast to Myrna8511 (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestNightsheep has left the game

@@ -1,0 +1,293 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestRetardTrade placed a settlement
+GuestRetardTrade placed a road
+GuestKaibs placed a settlement
+GuestKaibs placed a road
+icon_snorkelcherryyy placed a settlement
+icon_snorkelcherryyy placed a road
+icon_snorkelcherryyy placed a settlement
+icon_snorkelcherryyy placed a road
+icon_snorkelcherryyy received starting resources woolbricklumber
+GuestKaibs placed a settlement
+GuestKaibs placed a road
+GuestKaibs received starting resources bricklumberwool
+GuestRetardTrade placed a settlement
+GuestRetardTrade placed a road
+GuestRetardTrade received starting resources lumbergrain
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources grainbrickwool
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestKaibs got wool
+icon_helmetMyrna8511 got graingrain
+GuestRetardTrade rolled dice_4 dice_3
+GuestRetardTrade moved robber robber to  prob_8 ore tile
+GuestRetardTrade stole brick from you
+GuestRetardTrade built a road
+GuestKaibs rolled dice_4 dice_4
+ prob_8 ore tile is blocked by the robber. No resources produced.
+GuestKaibs got grain
+GuestRetardTrade got grain
+GuestKaibs built a road
+icon_snorkelcherryyy rolled dice_3 dice_6
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+icon_snorkelcherryyy built a road
+icon_helmetMyrna8511 rolled dice_3 dice_3
+icon_snorkelcherryyy got grain
+GuestRetardTrade got ore
+icon_helmetMyrna8511 wants to give grain for ore
+GuestRetardTrade rolled dice_5 dice_4
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+GuestKaibs rolled dice_3 dice_4
+GuestKaibs moved robber robber to  prob_4 wool tile
+GuestKaibs stole card from RetardTrade
+icon_snorkelcherryyy rolled dice_5 dice_6
+icon_snorkelcherryyy got wool
+icon_helmetMyrna8511 got brick
+icon_snorkelcherryyy wants to give wool for lumber
+icon_snorkelcherryyy wants to give brick for lumber
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for ore
+GuestRetardTrade rolled dice_1 dice_3
+ prob_4 wool tile is blocked by the robber. No resources produced.
+icon_snorkelcherryyy got lumber
+GuestKaibs got lumber
+GuestKaibs rolled dice_6 dice_2
+GuestKaibs got grain
+GuestRetardTrade got grain
+icon_helmetMyrna8511 got ore
+GuestKaibs built a settlement (+1 VP)
+icon_snorkelcherryyy rolled dice_2 dice_1
+GuestKaibs got brick
+GuestRetardTrade got ore
+icon_snorkelcherryyy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_2
+GuestKaibs got brick
+GuestRetardTrade got ore
+icon_helmetMyrna8511 bought development card
+GuestRetardTrade rolled dice_5 dice_1
+icon_snorkelcherryyy got oregrain
+GuestRetardTrade got ore
+GuestRetardTrade built a city (+1 VP)
+GuestKaibs rolled dice_3 dice_3
+icon_snorkelcherryyy got oregrain
+GuestRetardTrade got oreore
+GuestKaibs wants to give brick for ore
+icon_snorkelcherryyy rolled dice_6 dice_2
+GuestKaibs got grain
+GuestRetardTrade got grain
+icon_helmetMyrna8511 got ore
+icon_snorkelcherryyy wants to give brick for ore
+icon_helmetMyrna8511 wants to give cherryyy ore for lumberwool
+icon_snorkelcherryyy wants to give brickwool for ore
+icon_snorkelcherryyy traded brickwool for ore with RetardTrade
+icon_snorkelcherryyy built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+GuestRetardTrade rolled dice_6 dice_3
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+GuestRetardTrade bought development card
+GuestKaibs rolled dice_2 dice_4
+icon_snorkelcherryyy got oregraingrain
+GuestRetardTrade got oreore
+GuestKaibs wants to give brick for ore
+icon_helmetMyrna8511 wants to give Kaibs ore for lumberwool
+GuestKaibs gave bank graingraingrain and took lumber
+GuestKaibs built a road
+icon_snorkelcherryyy rolled dice_1 dice_5
+icon_snorkelcherryyy got oregraingrain
+GuestRetardTrade got oreore
+icon_snorkelcherryyy wants to give brick for ore
+icon_snorkelcherryyy wants to give graingrain for ore
+icon_snorkelcherryyy wants to give graingrain for lumber
+icon_snorkelcherryyy wants to give graingrain for wool
+icon_snorkelcherryyy traded graingrain for ore with RetardTrade
+icon_snorkelcherryyy built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestKaibs got woolwool
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 grain tile
+icon_helmetYou stole brick from cherryyy
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 traded grain for wool with Kaibs
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 bought development card
+GuestRetardTrade rolled dice_2 dice_6
+GuestKaibs got grain
+GuestRetardTrade got grain
+icon_helmetMyrna8511 got ore
+GuestRetardTrade built a city (+1 VP)
+GuestKaibs rolled dice_2 dice_2
+icon_snorkelcherryyy got lumberlumberwool
+GuestKaibs got lumber
+GuestRetardTrade got woolwool
+icon_helmetMyrna8511 got wool
+GuestKaibs built a settlement (+1 VP)
+icon_snorkelcherryyy rolled dice_3 dice_6
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+icon_snorkelcherryyy built a road
+icon_helmetMyrna8511 rolled dice_2 dice_1
+GuestKaibs got brick
+GuestRetardTrade got oreore
+icon_helmetMyrna8511 bought development card
+GuestRetardTrade rolled dice_1 dice_3
+icon_snorkelcherryyy got lumberlumberwool
+GuestKaibs got lumber
+GuestRetardTrade got woolwool
+icon_helmetMyrna8511 got wool
+GuestRetardTrade bought development card
+GuestKaibs rolled dice_3 dice_4
+GuestKaibs discarded brickbrickwoolgrain
+GuestKaibs moved robber robber to  prob_6 ore tile
+GuestKaibs stole card from RetardTrade
+GuestKaibs built a road
+icon_snorkelcherryyy rolled dice_5 dice_4
+icon_snorkelcherryyy got brick
+GuestKaibs got brick
+icon_snorkelcherryyy wants to give lumber for grain
+icon_helmetMyrna8511 wants to give cherryyy grain for lumberore
+icon_snorkelcherryyy wants to give lumberwool for grain
+icon_snorkelcherryyy wants to give lumberlumber for grain
+icon_snorkelcherryyy built a road
+icon_helmetMyrna8511 rolled dice_3 dice_5
+GuestKaibs got graingrain
+GuestRetardTrade got graingrain
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_snorkelcherryyy wants to give Myrna8511 lumber for grainore
+icon_snorkelcherryyy wants to give Myrna8511 lumber for brickgrain
+icon_helmetMyrna8511 wants to give brickore for lumberlumber
+GuestRetardTrade rolled dice_1 dice_1
+icon_snorkelcherryyy got lumberlumberlumber
+GuestKaibs got lumber
+GuestRetardTrade used Knight card knight
+GuestRetardTrade moved robber robber to  prob_9 brick tile
+GuestRetardTrade stole card from Kaibs
+GuestRetardTrade bought development card
+GuestRetardTrade bought development card
+GuestKaibs rolled dice_6 dice_1
+icon_snorkelcherryyy discarded lumberlumberlumberwool
+GuestKaibs moved robber robber to  prob_6 ore tile
+GuestKaibs stole card from RetardTrade
+GuestKaibs built a road
+GuestKaibs wants to give grain for brick
+icon_helmetMyrna8511 wants to give Kaibs brick for lumber
+icon_snorkelcherryyy rolled dice_3 dice_5
+GuestKaibs got graingrain
+GuestRetardTrade got graingrain
+icon_helmetMyrna8511 got ore
+icon_snorkelcherryyy wants to give lumber for grain
+icon_helmetMyrna8511 wants to give cherryyy grain for lumberlumber
+icon_helmetMyrna8511 wants to give cherryyy grain for lumberore
+GuestRetardTrade wants to give cherryyy grain for lumberwool
+icon_helmetMyrna8511 rolled dice_1 dice_2
+GuestKaibs got brick
+GuestRetardTrade got oreore
+GuestRetardTrade used Knight card knight
+GuestRetardTrade moved robber robber to  prob_6 grain tile
+GuestRetardTrade stole card from cherryyy
+GuestRetardTrade rolled dice_3 dice_2
+GuestKaibs got woolwool
+icon_helmetMyrna8511 got graingrain
+GuestKaibs rolled dice_1 dice_1
+icon_snorkelcherryyy got lumberlumberlumber
+GuestKaibs got lumber
+GuestKaibs built a settlement (+1 VP)
+GuestKaibs gave bank graingraingrain and took ore
+icon_snorkelcherryyy rolled dice_4 dice_5
+icon_snorkelcherryyy got brick
+GuestKaibs got brickbrick
+icon_snorkelcherryyy wants to give lumberlumber for grain
+icon_snorkelcherryyy traded lumberlumber for grain with Myrna8511
+icon_snorkelcherryyy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+icon_snorkelcherryyy got brick
+GuestKaibs got brickbrick
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 built a road
+GuestRetardTrade rolled dice_5 dice_5
+GuestKaibs got lumber
+GuestRetardTrade got lumberlumber
+icon_helmetMyrna8511 got grain
+GuestRetardTrade built a road
+GuestKaibs rolled dice_4 dice_4
+GuestKaibs got graingrain
+GuestRetardTrade got graingrain
+icon_helmetMyrna8511 got oreore
+GuestKaibs gave bank brickbrickbrickbrick and took oreore
+GuestKaibs built a city (+1 VP)
+icon_snorkelcherryyy rolled dice_1 dice_3
+icon_snorkelcherryyy got lumberlumberwool
+GuestKaibs got lumber
+GuestRetardTrade got woolwool
+icon_helmetMyrna8511 got wool
+icon_snorkelcherryyy wants to give lumber for grain
+icon_snorkelcherryyy wants to give lumberbrick for grain
+icon_snorkelcherryyy traded lumberbrick for grain with RetardTrade
+icon_snorkelcherryyy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestKaibs got graingrain
+GuestRetardTrade got graingrain
+icon_helmetMyrna8511 got oreore
+icon_helmetMyrna8511 wants to give ore for grain
+GuestRetardTrade started an embargo against cherryyy
+GuestRetardTrade started an embargo against Kaibs
+GuestRetardTrade started an embargo against Myrna8511
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole lumber from RetardTrade
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 wants to give cherryyy & Kaibs ore for grain
+icon_helmetMyrna8511 wants to give cherryyy & Kaibs oreore for grain
+GuestRetardTrade used Knight card knight
+GuestRetardTrade received largest army (+2 VPs)
+GuestRetardTrade moved robber robber to  prob_9 brick tile
+GuestRetardTrade stole card from cherryyy
+GuestRetardTrade rolled dice_1 dice_4
+GuestKaibs got woolwoolwool
+icon_helmetMyrna8511 got graingraingrain
+GuestRetardTrade built a settlement (+1 VP)
+GuestRetardTrade bought development card
+GuestRetardTrade gave bank graingrain and took wool
+GuestRetardTrade bought development card
+GuestKaibs rolled dice_6 dice_5
+icon_snorkelcherryyy got woolwoolwool
+GuestKaibs got brick
+icon_helmetMyrna8511 got brick
+GuestKaibs built a road
+GuestKaibs built a road
+GuestKaibs gave bank woolwoolwool and took ore
+GuestKaibs bought development card
+icon_snorkelcherryyy rolled dice_2 dice_6
+GuestKaibs got graingrain
+GuestRetardTrade got graingrain
+icon_helmetMyrna8511 got oreoreore
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 discarded lumberbrickgrainoreoreore
+icon_helmetMyrna8511 moved robber robber to  prob_8 grain tile
+icon_helmetYou stole lumber from RetardTrade
+icon_helmetMyrna8511 wants to give cherryyy & Kaibs ore for wool
+icon_helmetMyrna8511 wants to give cherryyy & Kaibs lumber for wool
+icon_snorkelcherryyy wants to give Myrna8511 wool for lumberlumber
+icon_snorkelcherryyy wants to give Myrna8511 wool for lumberore
+icon_helmetcherryyy traded wool for lumberore with Myrna8511
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestRetardTrade rolled dice_4 dice_2
+icon_snorkelcherryyy got oreoregraingraingrain
+GuestRetardTrade got oreoreore
+GuestRetardTrade built a city (+1 VP)
+trophyGuestRetardTrade won the game!trophy
+icon_snorkelcherryyy has left the game

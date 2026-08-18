@@ -1,0 +1,91 @@
+Reames placed a settlement
+Reames placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Rosy placed a settlement
+Rosy placed a road
+Sidman placed a settlement
+Sidman placed a road
+Sidman placed a settlement
+Sidman received starting resources wool brick grain 
+Sidman placed a road
+Rosy placed a settlement
+Rosy received starting resources lumber brick wool 
+Rosy placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources grain wool 
+Myrna8511 placed a road
+Reames placed a settlement
+Reames received starting resources lumber grain ore 
+Reames placed a road
+Reames rolled dice_5 dice_5
+Myrna8511 got ore 
+Reames got ore 
+Rosy got wool 
+Myrna8511 rolled dice_3 dice_2
+Reames got lumber 
+Sidman got lumber 
+Rosy got lumber 
+Myrna8511 bought development card
+Rosy rolled dice_4 dice_3
+robber Friendly Robber is active, tiles available to block are limited
+Rosy moved Robber robber to  prob_2 grain tile
+No player to steal from
+Rosy built a road
+Sidman rolled dice_5 dice_6
+Sidman got brick 
+Rosy got brick 
+Sidman built a road
+Reames rolled dice_5 dice_2
+robber Friendly Robber is active, tiles available to block are limited
+Reames moved Robber robber to  Desert
+No player to steal from
+Myrna8511 rolled dice_2 dice_1
+Reames got lumber 
+Sidman got brick 
+Rosy rolled dice_1 dice_6
+robber Friendly Robber is active, tiles available to block are limited
+Rosy moved Robber robber to  prob_2 grain tile
+No player to steal from
+Sidman rolled dice_3 dice_5
+Myrna8511 got wool 
+Reames got brick 
+Reames rolled dice_4 dice_5
+Myrna8511 got ore 
+Rosy got lumber lumber 
+Reames built a road
+Myrna8511 rolled dice_5 dice_1
+Myrna8511 got ore 
+Reames got ore 
+Sidman got grain ore 
+Myrna8511 used 
+robber Friendly Robber is active, tiles available to block are limited
+Myrna8511 moved Robber robber to  Desert
+No player to steal from
+Myrna8511 wants to give ore  for grain 
+Rosy rolled dice_3 dice_1
+Myrna8511 got grain 
+Sidman got wool 
+Rosy got wool 
+Rosy wants to give wool  for grain 
+Sidman rolled dice_4 dice_4
+Myrna8511 got wool 
+Reames got brick 
+Reames rolled dice_3 dice_4
+robber Friendly Robber is active, tiles available to block are limited
+Reames moved Robber robber to  prob_2 grain tile
+No player to steal from
+Reames wants to give lumber  for grain 
+Myrna8511 proposed counter offer to Reames, offering wool wool grain ore ore card  for lumber 
+Myrna8511 proposed counter offer to Reames, offering wool wool grain ore ore  for lumber 
+Myrna8511 rolled dice_4 dice_1
+Reames got lumber 
+Sidman got lumber 
+Rosy got lumber 
+Myrna8511 bought development card
+Rosy rolled dice_5 dice_4
+Myrna8511 got ore 
+Rosy got lumber lumber 
+Rosy gave bank lumber lumber lumber lumber  and took grain 
+Rosy built a settlement (+1 VP)
+trophy Rosy won the game! trophy

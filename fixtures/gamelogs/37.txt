@@ -1,0 +1,380 @@
+icon_sombrerocityDroppa placed a settlement
+icon_sombrerocityDroppa placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestChubz#1105 placed a settlement
+GuestChubz#1105 placed a road
+GuestVas#0377 placed a settlement
+GuestVas#0377 placed a road
+GuestVas#0377 placed a settlement
+GuestVas#0377 placed a road
+GuestVas#0377 received starting resources: woolorelumber
+GuestChubz#1105 placed a settlement
+GuestChubz#1105 placed a road
+GuestChubz#1105 received starting resources: graingraingrain
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: lumber bricklumber
+icon_sombrerocityDroppa placed a settlement
+icon_sombrerocityDroppa placed a road
+icon_sombrerocityDroppa received starting resources:  brickore brick
+icon_sombrerocityDroppa rolled: dice_2 dice_2
+GuestVas#0377 got: grain
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: wool
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+GuestVas#0377 got: grain
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: wool
+icon_helmetMyrna8511 built a road
+GuestChubz#1105 rolled: dice_6 dice_2
+icon_helmetMyrna8511 got:  brick
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: grain brick
+GuestChubz#1105 wants to give: graingrain for: ore
+GuestVas#0377 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: ore
+GuestChubz#1105 got: lumbergrain
+GuestVas#0377 built a road
+icon_sombrerocityDroppa rolled: dice_5 dice_3
+icon_helmetMyrna8511 got:  brick
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: grain brick
+icon_sombrerocityDroppa wants to give:  brick brick for: lumber
+icon_helmetMyrna8511 wants to give cityDroppa : lumber for: woolgrain
+icon_sombreroMyrna8511 traded: lumberfor: woolgrain with: cityDroppa
+icon_sombrerocityDroppa built a road
+icon_sombrerocityDroppa bought development card
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+GuestVas#0377 got: ore
+icon_helmetMyrna8511 wants to give:  brickore for: lumber
+GuestChubz#1105 wants to give Myrna8511 : lumber for: oreore
+GuestChubz#1105 rolled: dice_1 dice_2
+GuestVas#0377 got: woolwool
+GuestChubz#1105 got: wool
+GuestChubz#1105 wants to give: graingrain for: ore
+icon_helmetMyrna8511 wants to give Chubz#1105 : ore for: lumbergrain
+GuestChubz#1105 gave bank: graingraingraingrain and took ore
+GuestVas#0377 rolled: dice_6 dice_5
+icon_helmetMyrna8511 got:  brick
+icon_sombrerocityDroppa got: ore
+GuestVas#0377 wants to give: wool for: ore
+icon_helmetMyrna8511 wants to give Vas#0377 : ore for: lumbergrain
+GuestVas#0377 wants to give: woolwool for: ore
+GuestChubz#1105 wants to give Vas#0377 : ore for: lumber brick
+icon_sombrerocityDroppa wants to give Vas#0377 : ore for: lumberwool
+icon_sombrerocityDroppa rolled: dice_4 dice_4
+icon_helmetMyrna8511 got:  brick
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: grain brick
+icon_sombrerocityDroppa gave bank:  brick brick brick brick and took lumber
+icon_sombrerocityDroppa wants to give: ore for:  brickwool
+icon_helmetMyrna8511 rolled: dice_3 dice_4
+Vas#0377 and Chubz#1105 discarding resource cards
+GuestChubz#1105 discarded: graingraingraingrain
+GuestVas#0377 discarded:  brickwoolwoolgrain
+icon_helmetMyrna8511 moved robber robber: prob_8 grain
+icon_helmetBot is selecting who to rob for Myrna8511
+icon_helmetYou stole: wool from: Chubz#1105
+icon_helmetMyrna8511 wants to give: wool for:  brick
+icon_helmetMyrna8511 wants to give:  brick brickore for: lumber
+icon_helmetMyrna8511 traded:  brick brickorefor: lumber with: Chubz#1105
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestChubz#1105 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+GuestVas#0377 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: ore
+icon_sombrerocityDroppa got:  brickore
+icon_sombrerocityDroppa rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: ore
+icon_sombrerocityDroppa got:  brickore
+icon_sombrerocityDroppa wants to give:  brick for: grain
+GuestChubz#1105 wants to give cityDroppa : grain for: lumber
+icon_sombrerocityDroppa wants to give:  brick brick for: grain
+icon_helmetMyrna8511 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: wool
+GuestVas#0377 got: lumber
+GuestChubz#1105 got:  brick
+icon_helmetMyrna8511 built a road
+GuestChubz#1105 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: ore
+icon_sombrerocityDroppa got:  brickore
+GuestChubz#1105 wants to give:  brick for: lumber
+GuestChubz#1105 wants to give:  brickgrain for: lumber
+GuestVas#0377 rolled: dice_6 dice_6
+icon_helmetMyrna8511 got: lumber
+GuestVas#0377 built a settlement: +1 VP
+icon_sombrerocityDroppa used Knight card knight
+icon_sombrerocityDroppa moved robber robber: prob_5 ore
+icon_sombrerocityDroppa stole: ore from you
+icon_sombrerocityDroppa rolled: dice_6 dice_1
+cityDroppa discarding resource cards
+icon_sombrerocityDroppa discarded:  brick brickoreoreore
+icon_sombrerocityDroppa moved robber robber: prob_6 wool
+icon_sombrerocityDroppa stole: lumber from you
+icon_sombrerocityDroppa wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give cityDroppa : wool for: grain
+icon_helmetMyrna8511 wants to give cityDroppa : wool for: lumber
+icon_sombreroMyrna8511 traded: woolfor: lumber with: cityDroppa
+icon_sombrerocityDroppa built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber: prob_8 grain
+icon_helmetYou stole: ore from: cityDroppa
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 traded: orefor:  brick with: Chubz#1105
+icon_helmetMyrna8511 wants to give: oreore for: grain
+icon_helmetMyrna8511 traded: oreorefor: grain with: Chubz#1105
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestChubz#1105 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: oreore
+GuestChubz#1105 got: lumbergrain
+GuestChubz#1105 built a road
+GuestChubz#1105 wants to give:  brick for: grain
+GuestChubz#1105 wants to give: ore for: grain
+GuestVas#0377 rolled: dice_5 dice_2
+GuestVas#0377 moved robber robber: prob_9 ore
+GuestVas#0377 stole: ore from you
+icon_sombrerocityDroppa rolled: dice_6 dice_5
+icon_helmetMyrna8511 got:  brick brick
+icon_sombrerocityDroppa got: oreore
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+icon_sombrerocityDroppa got:  brick
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+GuestChubz#1105 rolled: dice_6 dice_5
+icon_helmetMyrna8511 got:  brick brick
+icon_sombrerocityDroppa got: oreore
+GuestChubz#1105 wants to give:  brick for: grain
+GuestChubz#1105 wants to give: ore for: grain
+GuestVas#0377 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: wool
+GuestVas#0377 got: lumberlumber
+GuestChubz#1105 got:  brick
+icon_sombrerocityDroppa rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreore
+GuestChubz#1105 got: lumbergrain
+icon_sombrerocityDroppa wants to give: oreore for: graingrain
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+icon_sombrerocityDroppa got:  brick
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 wants to give:  brick for: grain
+icon_helmetMyrna8511 wants to give:  brick brick for: lumber
+icon_helmetMyrna8511 wants to give:  brick brick for: grain
+GuestChubz#1105 rolled: dice_3 dice_6
+icon_sombrerocityDroppa got:  brick
+GuestChubz#1105 built a city: +1 VP
+GuestVas#0377 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: wool
+GuestVas#0377 got: lumberlumber
+GuestChubz#1105 got:  brick brick
+GuestVas#0377 gave bank: lumberlumber and took grain
+GuestVas#0377 gave bank: lumberlumber and took grain
+GuestVas#0377 built a city: +1 VP
+icon_sombrerocityDroppa rolled: dice_2 dice_1
+GuestVas#0377 got: woolwoolwool
+GuestChubz#1105 got: woolwool
+icon_sombrerocityDroppa wants to give: ore for: grain
+icon_sombrerocityDroppa wants to give:  brickore for: grain
+icon_sombrerocityDroppa gave bank:  brick brick and took grain
+icon_helmetMyrna8511 rolled: dice_6 dice_5
+icon_helmetMyrna8511 got:  brick brick
+icon_sombrerocityDroppa got: oreore
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give:  brickwool for: grain
+icon_helmetMyrna8511 wants to give:  brickwoolwool for: grain
+icon_helmetMyrna8511 wants to give:  brick brickwoolwool for: grain
+icon_helmetMyrna8511 traded:  brick brickwoolwoolfor: grain with: cityDroppa
+icon_helmetMyrna8511 gave bank:  brick brick brick brick and took grain
+icon_helmetMyrna8511 built a city: +1 VP
+GuestChubz#1105 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+GuestChubz#1105 built a road
+GuestVas#0377 rolled: dice_3 dice_4
+cityDroppa discarding resource cards
+icon_sombrerocityDroppa discarded:  brickwooloreoreoreore
+GuestVas#0377 moved robber robber: prob_5 ore
+GuestVas#0377 stole: lumber from you
+icon_sombrerocityDroppa rolled: dice_3 dice_5
+icon_helmetMyrna8511 got:  brick brickgrain
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: grain brick
+icon_sombrerocityDroppa gave bank:  brick brick and took grain
+icon_sombrerocityDroppa built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+Chubz#1105 discarding resource cards
+GuestChubz#1105 discarded:  brick brickwoolgrain
+icon_helmetMyrna8511 moved robber robber: prob_8 grain
+icon_helmetYou stole: ore from: Chubz#1105
+icon_helmetMyrna8511 wants to give:  brick for: wool
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 traded:  brickfor: wool with: Vas#0377
+icon_helmetMyrna8511 bought development card
+GuestChubz#1105 rolled: dice_6 dice_6
+icon_helmetMyrna8511 got: lumber
+GuestVas#0377 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got:  brick brickgrain
+GuestVas#0377 got:  brick
+icon_sombrerocityDroppa got:  brick
+GuestVas#0377 built a road
+icon_sombrerocityDroppa rolled: dice_3 dice_1
+GuestVas#0377 got: grain
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: woolwool
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got:  brick brickgrain
+GuestVas#0377 got:  brick
+icon_sombrerocityDroppa got:  brick
+icon_helmetMyrna8511 wants to give:  brick for: lumber
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank: graingrain and took lumber
+icon_helmetMyrna8511 built a road
+GuestChubz#1105 rolled: dice_6 dice_1
+GuestChubz#1105 moved robber robber: prob_5 ore
+GuestChubz#1105 stole:  brick from you
+GuestVas#0377 rolled: dice_6 dice_1
+GuestVas#0377 moved robber robber: prob_9 ore
+GuestVas#0377 stole card from: cityDroppa
+icon_sombrerocityDroppa rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_6 lumber
+icon_helmetYou stole:  brick from: Vas#0377
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got:  brick brickgrain
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: graingrain brick
+icon_helmetMyrna8511 wants to give:  brick brick for: wool
+icon_helmetMyrna8511 traded:  brick brickfor: wool with: cityDroppa
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestChubz#1105 rolled: dice_1 dice_6
+cityDroppa discarding resource cards
+icon_sombrerocityDroppa discarded:  brick brick brick brick
+GuestChubz#1105 moved robber robber: prob_5 ore
+GuestChubz#1105 stole:  brick from you
+GuestChubz#1105 wants to give:  brick brick for: lumber
+GuestChubz#1105 wants to give:  brickgrain for: lumber
+GuestChubz#1105 wants to give:  brickgrainore for: lumber
+GuestVas#0377 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: oreore
+icon_sombrerocityDroppa got:  brickoreore
+GuestVas#0377 wants to give: wool for: ore
+GuestChubz#1105 wants to give Vas#0377 : ore for: lumber
+icon_sombrerocityDroppa rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: oreore
+icon_sombrerocityDroppa got:  brickoreore
+icon_sombrerocityDroppa built a city: +1 VP
+icon_sombrerocityDroppa gave bank:  brick brick and took lumber
+icon_sombrerocityDroppa built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: wool
+GuestVas#0377 got: lumberlumberlumber
+GuestChubz#1105 got:  brick brick
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 gave bank: oreore and took grain
+icon_helmetMyrna8511 bought development card
+GuestChubz#1105 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: wool
+GuestVas#0377 got: lumberlumberlumber
+GuestChubz#1105 got:  brick brick
+GuestChubz#1105 gave bank:  brick brick brick brick and took lumber
+GuestChubz#1105 built a settlement: +1 VP
+GuestVas#0377 rolled: dice_2 dice_3
+GuestChubz#1105 got: lumberlumbergrain
+GuestVas#0377 built a settlement: +1 VP
+GuestVas#0377 built a road
+GuestVas#0377 built a road
+GuestVas#0377 gave bank: lumberlumber and took  brick
+GuestVas#0377 built a road
+GuestVas#0377 received longest road: +2 VPs
+icon_sombrerocityDroppa rolled: dice_2 dice_1
+GuestVas#0377 got: woolwoolwoolwool
+GuestChubz#1105 got: woolwool
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+GuestChubz#1105 got: grain
+icon_helmetMyrna8511 built a road
+GuestChubz#1105 rolled: dice_1 dice_2
+GuestVas#0377 got: woolwoolwoolwool
+GuestChubz#1105 got: woolwool
+GuestChubz#1105 built a settlement: +1 VP
+GuestChubz#1105 bought development card
+GuestVas#0377 rolled: dice_3 dice_4
+Vas#0377 discarding resource cards
+GuestVas#0377 discarded: woolwoolwoolwoolwool
+GuestVas#0377 moved robber robber: prob_6 brick
+GuestVas#0377 stole card from: Chubz#1105
+GuestVas#0377 wants to give: wool for:  brick
+GuestVas#0377 wants to give: wool for: grain
+GuestVas#0377 gave bank: woolwoolwoolwool and took grain
+icon_sombrerocityDroppa rolled: dice_2 dice_2
+GuestVas#0377 got: grain
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: woolwool
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+GuestVas#0377 got: grain
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: woolwool
+GuestChubz#1105 rolled: dice_2 dice_5
+GuestChubz#1105 moved robber robber: prob_6 lumber
+GuestChubz#1105 stole card from: Vas#0377
+GuestVas#0377 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreoreore
+GuestChubz#1105 got: lumberlumbergraingrain
+GuestVas#0377 wants to give: grain for:  brick
+icon_sombrerocityDroppa rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: oreore
+GuestVas#0377 got:  brick
+GuestChubz#1105 got:  brick
+icon_sombrerocityDroppa got:  brick brickoreore
+icon_sombrerocityDroppa wants to give:  brick for: grain
+icon_sombrerocityDroppa gave bank:  brick brick and took grain
+icon_sombrerocityDroppa wants to give: woolwool for: grain
+icon_sombrerocityDroppa gave bank: woolwoolwoolwool and took lumber
+icon_sombrerocityDroppa built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: oreoreore
+GuestChubz#1105 got: lumberlumbergraingrain
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 gave bank: oreoreoreore and took graingrain
+icon_helmetMyrna8511 built a city: +1 VP
+GuestChubz#1105 rolled: dice_2 dice_5
+Chubz#1105 discarding resource cards
+GuestChubz#1105 discarded: lumbergraingraingraingraingraingraingrain
+GuestChubz#1105 moved robber robber: prob_5 ore
+GuestChubz#1105 stole: ore from you
+GuestChubz#1105 built a road
+GuestChubz#1105 built a road
+GuestVas#0377 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: oreore
+GuestVas#0377 got:  brick
+GuestChubz#1105 got:  brick
+icon_sombrerocityDroppa got:  brick brickoreore
+GuestVas#0377 built a settlement: +1 VP
+GuestVas#0377 wants to give: grain for: lumber
+GuestVas#0377 wants to give: grain for: lumber
+icon_sombrerocityDroppa rolled: dice_3 dice_5
+icon_helmetMyrna8511 got:  brick brickgraingrain
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: graingrain brick brick
+icon_sombrerocityDroppa gave bank:  brick brick brick brick and took woolwool
+icon_sombrerocityDroppa bought development card
+icon_sombrerocityDroppa bought development card
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+icon_helmetMyrna8511 got:  brick brickgraingrain
+GuestVas#0377 got:  brick
+GuestChubz#1105 got: grain
+icon_sombrerocityDroppa got: graingrain brick brick
+icon_helmetMyrna8511 gave bank: graingrain and took lumber
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank: oreore and took lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road has passed from: Vas#0377 to: Myrna8511: +2 VPs
+trophy Myrna8511 won the game

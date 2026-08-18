@@ -1,0 +1,296 @@
+ GuestAnthia#1122 placed a settlement
+GuestAnthia#1122 placed a road
+GuestLabana#4266 placed a settlement
+GuestLabana#4266 placed a road
+GuestGoldhamer placed a settlement
+GuestGoldhamer placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: graingrainore
+GuestGoldhamer placed a settlement
+GuestGoldhamer placed a road
+GuestGoldhamer received starting resources:  brick brick
+GuestLabana#4266 placed a settlement
+GuestLabana#4266 placed a road
+GuestLabana#4266 received starting resources: oreore brick
+GuestAnthia#1122 placed a settlement
+GuestAnthia#1122 placed a road
+GuestAnthia#1122 received starting resources: woolwoolgrain
+GuestAnthia#1122 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: grain
+GuestAnthia#1122 got: ore
+GuestLabana#4266 got: ore
+GuestLabana#4266 rolled: dice_1 dice_2
+icon_helmetMyrna8511 got: grain
+GuestAnthia#1122 got: grain
+GuestLabana#4266 wants to give: ore for: lumber
+GuestGoldhamer rolled: dice_5 dice_2
+GuestGoldhamer moved robber robber: prob_8 ore
+GuestGoldhamer stole card from: Labana#4266
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: lumber
+GuestAnthia#1122 got: ore
+GuestGoldhamer got: lumber
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: grain for: ore
+icon_helmetMyrna8511 traded: grainfor: ore with: Labana#4266
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: grain for: ore
+icon_helmetMyrna8511 wants to give: lumber for: ore
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+GuestLabana#4266 wants to give Myrna8511 : ore for: lumbergrain
+icon_helmetLabana#4266 traded: orefor: lumbergrain with: Myrna8511
+icon_helmetMyrna8511 built a city: +1 VP
+GuestAnthia#1122 rolled: dice_1 dice_1
+icon_helmetMyrna8511 got: wool
+GuestAnthia#1122 bought development card
+GuestLabana#4266 rolled: dice_5 dice_4
+GuestLabana#4266 got: lumber
+GuestLabana#4266 built a road
+GuestGoldhamer rolled: dice_5 dice_6
+GuestAnthia#1122 got: wool
+GuestGoldhamer got: wool
+GuestLabana#4266 got: ore
+GuestGoldhamer built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: oreore
+GuestAnthia#1122 got: grain
+GuestGoldhamer got:  brick
+GuestLabana#4266 got:  brick
+icon_helmetMyrna8511 wants to give: ore for:  brick
+GuestAnthia#1122 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: oreore
+GuestAnthia#1122 got: grain
+GuestGoldhamer got:  brick
+GuestLabana#4266 got:  brick
+GuestAnthia#1122 wants to give: woolgrainore for: lumber brick
+GuestLabana#4266 wants to give Anthia#1122 :  brick for: woolgrain
+GuestLabana#4266 traded:  brickfor: woolgrain with: Anthia#1122
+GuestLabana#4266 rolled: dice_2 dice_5
+GuestBot is selecting where to place robber for Labana#4266
+GuestLabana#4266 moved robber robber: prob_5 lumber
+GuestLabana#4266 stole: ore from you
+GuestLabana#4266 built a settlement: +1 VP
+GuestGoldhamer rolled: dice_1 dice_4
+GuestAnthia#1122 got: ore
+GuestGoldhamer gave bank:  brick brick and took grain
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: ore
+GuestLabana#4266 got: ore
+icon_helmetMyrna8511 built a city: +1 VP
+GuestAnthia#1122 rolled: dice_5 dice_2
+GuestAnthia#1122 moved robber robber: prob_6 lumber
+GuestAnthia#1122 stole card from: Goldhamer
+GuestAnthia#1122 wants to give: grainore for: lumber
+GuestAnthia#1122 built a city: +1 VP
+GuestLabana#4266 rolled: dice_3 dice_1
+GuestAnthia#1122 got: wool
+GuestGoldhamer got:  brick
+GuestLabana#4266 got:  brickwool
+GuestLabana#4266 built a city: +1 VP
+GuestGoldhamer rolled: dice_5 dice_4
+GuestLabana#4266 got: lumberlumber
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreore
+GuestLabana#4266 got: ore
+icon_helmetMyrna8511 wants to give: grain for:  brick
+GuestAnthia#1122 rolled: dice_1 dice_2
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: grain
+GuestAnthia#1122 bought development card
+GuestLabana#4266 rolled: dice_6 dice_3
+GuestLabana#4266 got: lumberlumber
+GuestLabana#4266 wants to give: lumber for:  brick
+GuestGoldhamer wants to give Labana#4266 :  brick for: lumbergrain
+GuestLabana#4266 built a road
+GuestGoldhamer rolled: dice_1 dice_2
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: grain
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+GuestAnthia#1122 got: wool
+GuestGoldhamer got: wool
+GuestLabana#4266 got: oreore
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: lumber with: Labana#4266
+icon_helmetMyrna8511 wants to give: graingrain for:  brick
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took  brick
+icon_helmetMyrna8511 built a road
+GuestAnthia#1122 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: grain
+GuestAnthia#1122 bought development card
+GuestAnthia#1122 used Knight card knight
+GuestAnthia#1122 moved robber robber: prob_5 lumber
+GuestAnthia#1122 stole card from: Goldhamer
+GuestLabana#4266 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreore
+GuestLabana#4266 got: ore
+GuestLabana#4266 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give Labana#4266 : grain for:  brick
+GuestLabana#4266 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give Labana#4266 : grain for: lumberlumber
+GuestLabana#4266 traded: lumberfor: grain with: Anthia#1122
+GuestLabana#4266 built a city: +1 VP
+GuestGoldhamer rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreore
+GuestLabana#4266 got: oreore
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+GuestLabana#4266 got: lumberlumber
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: lumber with: Labana#4266
+icon_helmetMyrna8511 wants to give: graingrain for:  brick
+icon_helmetMyrna8511 traded: graingrainfor:  brick with: Goldhamer
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestAnthia#1122 rolled: dice_3 dice_4
+Anthia#1122 discarding resource cards
+GuestAnthia#1122 discarded: oreoreoreore
+GuestAnthia#1122 moved robber robber: prob_10 ore
+GuestAnthia#1122 stole card from: Labana#4266
+GuestAnthia#1122 used Year of Plenty card year of plenty
+GuestAnthia#1122 took from bank: lumber brick
+GuestAnthia#1122 built a road
+GuestAnthia#1122 built a settlement: +1 VP
+botGoldhamer has left the game, giving them 2 minutes to reconnect.
+botGoldhamer has disconnected. Bot will wait until next turn to give Goldhamer a chance to reconnect.
+GuestLabana#4266 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+botGoldhamer got: lumber
+GuestLabana#4266 got: lumberlumber
+GuestLabana#4266 wants to give: lumber for: grain
+GuestLabana#4266 traded: lumberfor: grain with: Myrna8511
+GuestLabana#4266 bought development card
+botGoldhamer rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: grain
+botGoldhamer built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber: prob_8 ore
+icon_helmetYou stole: lumber from: Labana#4266
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: graingrain for: lumber
+icon_helmetMyrna8511 gave bank: lumberlumber and took  brick
+icon_helmetMyrna8511 built a road
+GuestAnthia#1122 rolled: dice_4 dice_5
+GuestLabana#4266 got: lumberlumber
+GuestAnthia#1122 used Knight card knight
+GuestAnthia#1122 moved robber robber: prob_10 ore
+GuestAnthia#1122 stole card from: Labana#4266
+GuestLabana#4266 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+GuestAnthia#1122 got: oreore
+botGoldhamer got: lumber
+GuestLabana#4266 used Knight card knight
+GuestLabana#4266 moved robber robber: prob_6 lumber
+GuestLabana#4266 stole: grain from you
+botGoldhamer rolled: dice_2 dice_2
+GuestAnthia#1122 got: wool
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brickwoolwool
+botGoldhamer built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreoregrain
+GuestLabana#4266 got: oreore
+icon_helmetMyrna8511 wants to give: graingrain for: wool
+icon_helmetMyrna8511 traded: graingrainfor: wool with: Goldhamer
+icon_helmetMyrna8511 gave bank: lumberlumber and took  brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestAnthia#1122 rolled: dice_2 dice_5
+Anthia#1122 and Labana#4266 discarding resource cards
+GuestAnthia#1122 discarded: lumberwoolwoolgrainore
+GuestLabana#4266 discarded: lumberlumberwooloreore
+GuestAnthia#1122 moved robber robber: prob_10 ore
+GuestAnthia#1122 stole: grain from you
+GuestAnthia#1122 built a city: +1 VP
+GuestLabana#4266 rolled: dice_5 dice_2
+GuestLabana#4266 moved robber robber: prob_8 grain
+GuestLabana#4266 stole card from: Anthia#1122
+GuestLabana#4266 built a road
+GuestLabana#4266 bought development card
+botGoldhamer rolled: dice_4 dice_4
+GuestAnthia#1122 got: oreore
+GuestLabana#4266 got: oreore
+botGoldhamer wants to give: grain for: ore
+botGoldhamer traded: grainfor: ore with: Labana#4266
+icon_helmetMyrna8511 rolled: dice_6 dice_6
+GuestAnthia#1122 rolled: dice_1 dice_6
+GuestAnthia#1122 moved robber robber: prob_6 lumber
+GuestAnthia#1122 stole: grain from you
+GuestLabana#4266 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: oreoreore
+GuestAnthia#1122 got: graingrain
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brick brickore
+GuestLabana#4266 built a city: +1 VP
+botGoldhamer rolled: dice_2 dice_5
+botGoldhamer moved robber robber: prob_8 ore
+botGoldhamer stole card from: Labana#4266
+botGoldhamer gave bank:  brick brick and took ore
+botGoldhamer built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: lumberlumber
+GuestAnthia#1122 got: oreore
+botGoldhamer got: lumberlumber
+GuestAnthia#1122 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: oreoreore
+GuestAnthia#1122 got: graingrain
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brick brickoreore
+GuestAnthia#1122 built a city: +1 VP
+GuestLabana#4266 rolled: dice_6 dice_3
+GuestLabana#4266 got: lumberlumber
+GuestLabana#4266 built a road
+botGoldhamer rolled: dice_5 dice_4
+GuestLabana#4266 got: lumberlumber
+icon_helmetMyrna8511 rolled: dice_1 dice_3
+GuestAnthia#1122 got: woolwool
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brick brickwoolwool
+icon_helmetMyrna8511 gave bank: lumberlumberoreoreore and took graingrain
+icon_helmetMyrna8511 built a city: +1 VP
+GuestAnthia#1122 rolled: dice_2 dice_5
+Labana#4266 discarding resource cards
+GuestLabana#4266 discarded: lumber brickwooloreore
+GuestAnthia#1122 moved robber robber: prob_10 ore
+GuestAnthia#1122 stole card from: Labana#4266
+GuestAnthia#1122 bought development card
+GuestLabana#4266 rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreoregraingrain
+GuestLabana#4266 got: oreore
+GuestLabana#4266 wants to give: lumber for: grain
+GuestLabana#4266 built a road
+GuestLabana#4266 built a road
+GuestLabana#4266 received longest road: +2 VPs
+botGoldhamer rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: graingrain
+GuestAnthia#1122 got: oreoregraingrain
+GuestLabana#4266 got: oreore
+icon_helmetMyrna8511 rolled: dice_3 dice_4
+Anthia#1122 discarding resource cards
+GuestAnthia#1122 discarded: graingraingraingrainoreore
+icon_helmetMyrna8511 moved robber robber: prob_6 lumber
+icon_helmetYou stole: ore from: Labana#4266
+icon_helmetMyrna8511 gave bank: graingraingrain and took wool
+icon_helmetMyrna8511 bought development card
+GuestAnthia#1122 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: oreoreore
+GuestAnthia#1122 got: graingrain
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brick brickoreore
+GuestAnthia#1122 bought development card
+GuestLabana#4266 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: oreoreore
+GuestAnthia#1122 got: graingrain
+botGoldhamer got:  brick
+GuestLabana#4266 got:  brick brickoreore
+GuestLabana#4266 gave bank: oreoreoreore and took grain
+GuestLabana#4266 bought development card
+trophy Labana#4266 won the game!

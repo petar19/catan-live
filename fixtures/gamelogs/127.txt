@@ -1,0 +1,436 @@
+GuestHufflepuff84 placed a settlement
+GuestHufflepuff84 placed a road
+UserNetta5343 has disconnected.
+UserBot will wait until next turn to give Netta5343 a chance to reconnect
+botNetta5343 has left the game, giving them 2 minutes to reconnect.
+UserNetta5343 has reconnected
+GuestBenja3232 placed a settlement
+GuestBenja3232 placed a road
+UserNetta5343 placed a settlement
+UserNetta5343 placed a road
+UserNetta5343 has disconnected.
+UserBot will wait until next turn to give Netta5343 a chance to reconnect
+botNetta5343 has left the game, giving them 2 minutes to reconnect.
+Robber CupidNetta5343 has reconnected
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: woolgrainore
+GuestBenja3232 has disconnected.
+GuestBot will wait until next turn to give Benja3232 a chance to reconnect
+botBenja3232 has left the game, giving them 2 minutes to reconnect.
+GuestBenja3232 has reconnected
+Robber CupidNetta5343 placed a settlement
+Robber CupidNetta5343 placed a road
+Robber CupidNetta5343 received starting resources: grainwoollumber
+GuestBenja3232 placed a settlement
+GuestBenja3232 placed a road
+GuestBenja3232 received starting resources: brickwool
+GuestHufflepuff84 placed a settlement
+GuestHufflepuff84 placed a road
+GuestHufflepuff84 received starting resources: lumber
+GuestHufflepuff84 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: woolwool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestBenja3232 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: woolwool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestBenja3232 built a road
+Robber CupidNetta5343 rolled: dice_2 dice_5
+Robber CupidNetta5343 moved robber robber to prob_8 wool tile
+Robber CupidNetta5343 stole: wool from you
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+GuestBenja3232 got: wool
+GuestHufflepuff84 got: wool
+GuestHufflepuff84 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: grain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grain
+GuestHufflepuff84 got: brick
+GuestHufflepuff84 built a road
+GuestBenja3232 rolled: dice_2 dice_2
+Robber CupidNetta5343 got: brick
+Robber CupidNetta5343 rolled: dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: wool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+Robber CupidNetta5343 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_5
+Robber CupidNetta5343 got: lumber
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_5 dice_6
+Robber CupidNetta5343 got: lumber
+GuestBenja3232 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: lumber
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: lumber
+Robber CupidNetta5343 rolled: dice_6 dice_1
+Robber CupidNetta5343 moved robber robber to prob_8 lumber tile
+Robber CupidNetta5343 stole: card from: Benja3232
+Robber CupidNetta5343 wants to give: lumberwoolgrain for: brick
+icon_helmetMyrna8511 rolled: dice_6 dice_6
+Robber CupidNetta5343 got: lumber
+icon_helmetMyrna8511 wants to give: wool for: brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 traded: wool for: lumber with: Netta5343
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank: brick brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestHufflepuff84 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: grain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grain
+GuestHufflepuff84 got: brick
+GuestBenja3232 rolled: dice_1 dice_1
+GuestBenja3232 has disconnected.
+GuestBot will wait until next turn to give Benja3232 a chance to reconnect
+botBenja3232 has left the game, giving them 2 minutes to reconnect.
+GuestBenja3232 has reconnected
+Robber CupidNetta5343 rolled: dice_5 dice_4
+Robber CupidNetta5343 got: wool
+GuestBenja3232 got: brick
+GuestHufflepuff84 got: grain
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: woolwool
+GuestHufflepuff84 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: oreoreore
+GuestHufflepuff84 built a settlement: +1 VP
+GuestBenja3232 rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: grain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grain
+GuestHufflepuff84 got: brick
+GuestBenja3232 built a settlement: +1 VP
+Robber CupidNetta5343 rolled: dice_1 dice_6
+Myrna8511 and Netta5343 discarding resource cards
+icon_helmetMyrna8511 discarded: woolwoolwoolore
+Robber CupidNetta5343 discarded: lumberlumberwoolwoolwoolgrain
+Robber CupidNetta5343 moved robber robber to prob_9 wool tile
+Robber CupidNo player to steal from
+icon_helmetMyrna8511 rolled: dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+GuestBenja3232 got: brick
+GuestHufflepuff84 got: graingrain
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_5 dice_2
+GuestHufflepuff84 moved robber robber to prob_6 wool tile
+GuestHufflepuff84 stole: card from: Benja3232
+GuestHufflepuff84 built a road
+GuestBenja3232 rolled: dice_2 dice_4
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestHufflepuff84 got: wool
+GuestBenja3232 built a road
+Robber CupidNetta5343 rolled: dice_4 dice_5
+Robber CupidNetta5343 got: wool
+GuestBenja3232 got: brick
+GuestHufflepuff84 got: graingrain
+Robber CupidNetta5343 wants to give: woolgraingrain for: brick
+icon_helmetMyrna8511 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: lumber
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: lumbergrain
+GuestHufflepuff84 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: ore
+Robber CupidNetta5343 got: brick
+GuestHufflepuff84 wants to give: graingraingraingrain for: brick
+GuestHufflepuff84 gave bank: graingraingraingrain and took lumberbrick
+GuestHufflepuff84 built a road
+GuestBenja3232 rolled: dice_6 dice_5
+Robber CupidNetta5343 got: lumber
+GuestBenja3232 built a road
+Robber CupidNetta5343 rolled: dice_4 dice_2
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestHufflepuff84 got: wool
+Robber CupidNetta5343 built a settlement: +1 VP
+Robber CupidNetta5343 gave bank: graingraingraingrain and took brick
+Robber CupidNetta5343 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: lumbergrain
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 wants to give: lumber for: brick
+GuestHufflepuff84 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: grain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grain
+GuestHufflepuff84 got: brick
+GuestHufflepuff84 built a settlement: +1 VP
+GuestBenja3232 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: grain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grain
+GuestHufflepuff84 got: grainbrick
+GuestBenja3232 wants to give: graingrain for: brick
+GuestBenja3232 wants to give: graingraingrain for: brick
+GuestBenja3232 gave bank: graingraingraingrain and took brick
+GuestBenja3232 built a settlement: +1 VP
+Robber CupidNetta5343 rolled: dice_4 dice_3
+Robber CupidNetta5343 moved robber robber to prob_9 grain tile
+Robber CupidNetta5343 stole: card from: Hufflepuff84
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 traded: lumber for: wool with: Netta5343
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+Robber CupidNetta5343 got: wool
+GuestBenja3232 got: brickbrick
+GuestBenja3232 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: ore
+Robber CupidNetta5343 got: brick
+GuestHufflepuff84 got: ore
+Robber CupidNetta5343 rolled: dice_1 dice_5
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: wool
+Robber CupidNetta5343 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_1 dice_2
+icon_helmetMyrna8511 got: oreoreore
+GuestHufflepuff84 got: ore
+icon_helmetMyrna8511 wants to give: ore for: brickbrick
+icon_helmetMyrna8511 wants to give: oreore for: brickbrick
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 built a city: +1 VP
+GuestHufflepuff84 rolled: dice_3 dice_4
+GuestHufflepuff84 moved robber robber to prob_8 wool tile
+GuestHufflepuff84 stole: ore from you
+GuestBenja3232 rolled: dice_5 dice_5
+icon_helmetMyrna8511 got: lumber
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: lumbergrain
+GuestBenja3232 built a road
+Robber CupidNetta5343 rolled: dice_3 dice_3
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: wool
+icon_helmetMyrna8511 rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: ore
+Robber CupidNetta5343 got: brick
+GuestHufflepuff84 got: ore
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 wants to give: lumberore for: brickwool
+GuestHufflepuff84 rolled: dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: wool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestHufflepuff84 built a road
+GuestHufflepuff84 received longest road: +2 VPs
+GuestBenja3232 rolled: dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: wool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestBenja3232 built a road
+GuestBenja3232 wants to give: woolwoolwool for: brick
+Robber CupidNetta5343 rolled: dice_5 dice_6
+Robber CupidNetta5343 got: lumberlumberlumber
+Robber CupidNetta5343 built a road
+Robber CupidNetta5343 gave bank: graingraingrain and took brick
+Robber CupidNetta5343 built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_6
+Robber CupidNetta5343 got: grainwoolwool
+GuestBenja3232 got: brickbrick
+GuestHufflepuff84 got: graingrain
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: lumberore for: brickgrain
+GuestHufflepuff84 rolled: dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: wool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestHufflepuff84 built a city: +1 VP
+GuestBenja3232 rolled: dice_5 dice_1
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: woolwool
+GuestBenja3232 built a settlement: +1 VP
+GuestBenja3232 wants to give: woolwool for: ore
+GuestBenja3232 gave bank: woolwoolwoolwool and took ore
+Robber CupidNetta5343 rolled: dice_6 dice_3
+Robber CupidNetta5343 got: grainwoolwool
+GuestBenja3232 got: brickbrick
+GuestHufflepuff84 got: graingraingrain
+Robber CupidNetta5343 gave bank: woolwoolwool and took brick
+Robber CupidNetta5343 built a settlement: +1 VP
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to prob_9 grain tile
+icon_helmetYou stole: ore from: Hufflepuff84
+icon_helmetMyrna8511 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: graingrain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grainbrickgrain
+GuestHufflepuff84 got: grainbrickbrick
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give: lumber for: grain
+GuestBenja3232 wants to give: Myrna8511: brick for: oreore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: ore
+Robber CupidNetta5343 got: brick
+GuestHufflepuff84 got: ore
+GuestHufflepuff84 built a road
+GuestHufflepuff84 built a settlement: +1 VP
+GuestHufflepuff84 bought development card
+GuestBenja3232 rolled: dice_6 dice_6
+Robber CupidNetta5343 got: lumberlumber
+GuestBenja3232 wants to give: brickbrick for: oreore
+GuestBenja3232 built a road
+Robber CupidNetta5343 rolled: dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+Robber CupidNetta5343 got: woolwool
+GuestBenja3232 got: brickbrick
+Robber CupidNetta5343 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+Robber CupidNetta5343 got: woolwool
+GuestBenja3232 got: brickbrick
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+GuestHufflepuff84 rolled: dice_5 dice_1
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: woolwoolwool
+GuestHufflepuff84 gave bank: woolwoolwoolwool and took brick
+GuestHufflepuff84 gave bank: graingrain and took lumber
+GuestHufflepuff84 built a road
+GuestHufflepuff84 used Knight card knight
+GuestHufflepuff84 moved robber robber to prob_10 lumber tile
+GuestHufflepuff84 stole: lumber from you
+GuestBenja3232 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: woolwoolwool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+GuestBenja3232 wants to give: brick for: lumberore
+GuestBenja3232 traded: brick for: lumberore with: Myrna8511
+GuestBenja3232 built a road
+GuestBenja3232 built a road
+GuestBenja3232 wants to give: brick for: lumber
+Robber CupidNetta5343 rolled: dice_5 dice_2
+Netta5343 and Benja3232 discarding resource cards
+Robber CupidNetta5343 discarded: woolwoolwoolgrain
+GuestBenja3232 discarded: brickbrickbrickwoolwool
+Robber CupidNetta5343 moved robber robber to prob_9 grain tile
+Robber CupidNetta5343 stole: card from: Hufflepuff84
+icon_helmetMyrna8511 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: graingrain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grainbrickgrain
+GuestHufflepuff84 got: grainbrickbrick
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 traded: ore for: lumber with: Netta5343
+icon_helmetMyrna8511 built a settlement: +1 VP
+GuestHufflepuff84 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: ore
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: woolwoolwool
+GuestHufflepuff84 built a road
+GuestBenja3232 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: lumber
+Robber CupidNetta5343 got: brickgrain
+GuestBenja3232 got: lumbergrain
+GuestBenja3232 wants to give: grain for: lumber
+GuestBenja3232 traded: grain for: lumber with: Myrna8511
+GuestBenja3232 built a road
+GuestBenja3232 built a road
+Guestlongest road passed from: Hufflepuff84 to: Benja3232: +2 VPs
+Robber CupidNetta5343 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: graingrain
+Robber CupidNetta5343 got: grain
+GuestBenja3232 got: grainbrickgrain
+GuestHufflepuff84 got: grainbrickbrick
+Robber CupidNetta5343 gave bank: graingraingrain and took ore
+Robber CupidNetta5343 built a road
+icon_helmetMyrna8511 rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: woolwoolwool
+GuestBenja3232 got: lumber
+GuestHufflepuff84 got: lumber
+icon_helmetMyrna8511 gave bank: woolwoolwoolwool and took ore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: oreoreoreore
+GuestBenja3232 got: ore
+GuestHufflepuff84 got: ore
+GuestHufflepuff84 built a settlement: +1 VP
+GuestHufflepuff84 bought development card
+GuestBenja3232 rolled: dice_6 dice_3
+prob_9 grain tile is blocked by the robber. No resources produced.
+Robber CupidNetta5343 got: woolwool
+GuestBenja3232 got: brickbrick
+GuestBenja3232 built a city: +1 VP
+GuestBenja3232 built a settlement: +1 VP
+GuestBenja3232 wants to give: woolgrain for: lumber
+Robber CupidNetta5343 rolled: dice_5 dice_6
+Robber CupidNetta5343 got: lumberlumberlumber
+Robber CupidNetta5343 gave bank: woolwoolwool and took ore
+Robber CupidNetta5343 has disconnected.
+Robber CupidBot will wait until next turn to give Netta5343 a chance to reconnect
+botNetta5343 has left the game, giving them 2 minutes to reconnect.
+Robber CupidNetta5343 has reconnected
+Robber CupidNetta5343 built a city: +1 VP
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to prob_6 wool tile
+icon_helmetYou stole: grain from: Benja3232
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: ore
+GuestHufflepuff84 got: woolwoolwoolwool
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 built a city: +1 VP
+GuestHufflepuff84 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: woolwoolwool
+GuestBenja3232 got: lumberlumber
+GuestHufflepuff84 got: lumber
+GuestHufflepuff84 used Monopoly card monopoly
+GuestHufflepuff84 stole 5: lumber
+GuestHufflepuff84 built a road
+GuestHufflepuff84 built a road
+Guestlongest road passed from: Benja3232 to: Hufflepuff84: +2 VPs
+GuestHufflepuff84 gave bank: woolwoolwoolwool and took brick
+GuestHufflepuff84 built a road
+GuestBenja3232 rolled: dice_6 dice_1
+GuestBenja3232 moved robber robber to prob_9 grain tile
+GuestBenja3232 stole: card from: Hufflepuff84
+GuestBenja3232 gave bank: woolwool and took ore
+Robber CupidNetta5343 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: oreore
+GuestBenja3232 got: woolwool
+GuestHufflepuff84 got: woolwoolwoolwool
+icon_helmetMyrna8511 rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: oreoreore
+Robber CupidNetta5343 got: brickbrick
+GuestBenja3232 got: brick
+GuestHufflepuff84 got: ore
+icon_helmetMyrna8511 gave bank: oreoreoreore and took grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestHufflepuff84 rolled: dice_2 dice_5
+Benja3232 and Hufflepuff84 discarding resource cards
+GuestHufflepuff84 discarded: woolwoolwoolwoolwool
+GuestBenja3232 discarded: brickbrickbrickwool
+GuestHufflepuff84 moved robber robber to prob_10 lumber tile
+GuestHufflepuff84 stole: card from: Benja3232
+GuestHufflepuff84 bought development card
+GuestBenja3232 rolled: dice_5 dice_5
+prob_10 lumber tile is blocked by the robber. No resources produced.
+Robber CupidNetta5343 got: brickgraingrain
+GuestBenja3232 got: grain
+Robber CupidNetta5343 rolled: dice_1 dice_1
+Robber CupidNetta5343 gave bank: brickbrickbrick and took ore
+icon_helmetMyrna8511 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: woolwoolwool
+GuestBenja3232 got: lumberlumber
+GuestHufflepuff84 got: lumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army: +2 VPs
+trophy Myrna8511 won the game!

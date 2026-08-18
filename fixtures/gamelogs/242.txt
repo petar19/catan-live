@@ -1,0 +1,79 @@
+botErik placed a settlement
+botErik placed a road
+botBick placed a settlement
+botBick placed a road
+botDianna placed a settlement
+botDianna placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 received starting resources grain ore grain 
+icon_helmetMyrna8511 placed a road
+botDianna placed a settlement
+botDianna received starting resources brick lumber grain 
+botDianna placed a road
+botBick placed a settlement
+botBick received starting resources grain wool 
+botBick placed a road
+botErik placed a settlement
+botErik received starting resources grain wool wool 
+botErik placed a road
+botErik rolled dice_5 dice_4
+botErik got lumber 
+botBick got wool 
+botBick rolled dice_2 dice_3
+botErik got brick 
+botDianna got lumber 
+botBick got lumber 
+botDianna rolled dice_2 dice_6
+icon_helmetMyrna8511 got grain 
+botDianna got brick 
+botBick got grain 
+botDianna built a road
+icon_helmetMyrna8511 rolled dice_4 dice_6
+icon_helmetMyrna8511 got grain 
+botErik got grain 
+botDianna got lumber 
+botBick got lumber 
+botErik rolled dice_5 dice_2
+botErik moved Robber robber to  prob_8 grain tile
+botErik stole card  from Bick
+botErik built a road
+botErik wants to give grain  for brick 
+botBick rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the Robber. No resources produced
+botDianna got brick 
+botDianna rolled dice_3 dice_3
+icon_helmetMyrna8511 got grain 
+botErik got grain 
+botDianna got grain 
+botDianna wants to give grain  for wool 
+icon_helmetMyrna8511 rolled dice_3 dice_3
+icon_helmetMyrna8511 got grain 
+botErik got grain 
+botDianna got grain 
+icon_helmetMyrna8511 gave bank grain grain grain grain  and took wool 
+icon_helmetMyrna8511 bought development card
+botErik rolled dice_1 dice_1
+botErik gave bank grain grain grain grain  and took brick 
+botErik wants to give wool  for grain 
+botBick rolled dice_6 dice_1
+botBick moved Robber robber to  prob_6 grain tile
+botBick stole card  from Dianna
+botDianna rolled dice_6 dice_5
+botErik got wool 
+botDianna got brick 
+botDianna wants to give grain  for wool 
+botDianna built a road
+icon_helmetMyrna8511 rolled dice_5 dice_6
+botErik got wool 
+botDianna got brick 
+icon_helmetMyrna8511 used  Knight card knight 
+icon_helmetMyrna8511 moved Robber robber to  prob_8 brick tile
+icon_helmetYou stole brick  from Dianna
+botErik rolled dice_3 dice_3
+icon_helmetMyrna8511 got grain 
+botErik got grain 
+botDianna got grain 
+botErik built a settlement (+1 VP)
+trophybotErik won the game! trophy

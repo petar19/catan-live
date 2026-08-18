@@ -1,0 +1,465 @@
+icon_helmetMyrna8511 has reconnected
+Userdapred006 placed a settlement
+Userdapred006 placed a road
+UserOneTwoWe placed a settlement
+UserOneTwoWe placed a road
+Guestturls321 placed a settlement
+Guestturls321 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woolbricklumber
+Guestturls321 placed a settlement
+Guestturls321 placed a road
+Guestturls321 received starting resources brickgrainlumber
+UserOneTwoWe placed a settlement
+UserOneTwoWe placed a road
+UserOneTwoWe received starting resources lumberwoolwool
+Userdapred006 placed a settlement
+Userdapred006 placed a road
+Userdapred006 received starting resources grainlumberore
+Userdapred006 rolled dice_5 dice_3
+UserOneTwoWe got grain
+Guestturls321 got grain
+icon_helmetMyrna8511 got grain
+UserOneTwoWe rolled dice_1 dice_5
+Guestturls321 got ore
+icon_helmetMyrna8511 got wool
+Userdapred006 got ore
+Guestturls321 rolled dice_2 dice_5
+Guestturls321 moved robber robber to  prob_9 lumber tile
+Guestturls321 stole card from OneTwoWe
+Guestturls321 bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_2
+Guestturls321 got brickbrick
+Userdapred006 got grain
+Userdapred006 rolled dice_4 dice_1
+UserOneTwoWe got ore
+icon_helmetMyrna8511 got lumber
+Userdapred006 got ore
+Userdapred006 built a city (+1 VP)
+UserOneTwoWe rolled dice_2 dice_5
+UserOneTwoWe moved robber robber to  prob_6 ore tile
+UserOneTwoWe stole card from turls321
+UserOneTwoWe wants to give grain for brick
+Guestturls321 wants to give OneTwoWe brick for woolgrain
+UserOneTwoWe wants to give lumber for brick
+Guestturls321 wants to give OneTwoWe brick for lumbergrain
+UserOneTwoWe bought development card
+Guestturls321 used Knight card knight
+Guestturls321 moved robber robber to  prob_9 lumber tile
+Guestturls321 stole card from dapred006
+Guestturls321 rolled dice_2 dice_2
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got ore
+Guestturls321 wants to give brick for wool
+Guestturls321 wants to give lumber for grain
+Guestturls321 built a road
+Guestturls321 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 built a road
+Userdapred006 rolled dice_1 dice_2
+Guestturls321 got brickbrick
+Userdapred006 got grain
+UserOneTwoWe rolled dice_4 dice_2
+Guestturls321 got ore
+icon_helmetMyrna8511 got wool
+Userdapred006 got oreore
+UserOneTwoWe wants to give lumber for wool
+UserOneTwoWe wants to give lumber for brick
+icon_helmetMyrna8511 wants to give OneTwoWe wool for ore
+Guestturls321 rolled dice_6 dice_5
+UserOneTwoWe got wool
+Guestturls321 got lumber
+Guestturls321 wants to give brick for wool
+icon_helmetMyrna8511 wants to give turls321 wool for brickore
+UserOneTwoWe wants to give turls321 wool for brickbrick
+icon_helmetMyrna8511 wants to give turls321 wool for brickgrain
+Guestturls321 built a road
+icon_helmetMyrna8511 rolled dice_3 dice_5
+UserOneTwoWe got grain
+Guestturls321 got grain
+icon_helmetMyrna8511 got grain
+Userdapred006 rolled dice_2 dice_2
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got ore
+UserOneTwoWe rolled dice_3 dice_1
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got ore
+UserOneTwoWe built a city (+1 VP)
+Guestturls321 rolled dice_3 dice_4
+GuestBot is selecting where to place robber for turls321
+Guestturls321 moved robber robber to  prob_5 ore tile
+Guestturls321 stole card from dapred006
+Guestturls321 wants to give lumber for wool
+Guestturls321 wants to give brick for wool
+Guestturls321 traded brick for wool with Myrna8511
+Guestturls321 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_4
+UserOneTwoWe got woolwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 traded wool for ore with dapred006
+icon_helmetMyrna8511 bought development card
+Userdapred006 rolled dice_2 dice_5
+Userdapred006 moved robber robber to  prob_8 grain tile
+Userdapred006 stole card from turls321
+UserOneTwoWe rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserOneTwoWe got grain
+UserOneTwoWe wants to give wool for ore
+Userdapred006 wants to give OneTwoWe oreore for lumberbrick
+Guestturls321 rolled dice_5 dice_3
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserOneTwoWe got grain
+Guestturls321 wants to give lumber for grain
+Userdapred006 wants to give turls321 grain for lumberlumber
+icon_helmetMyrna8511 rolled dice_1 dice_3
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got ore
+Userdapred006 rolled dice_4 dice_3
+Userdapred006 moved robber robber to  prob_10 wool tile
+Userdapred006 stole card from OneTwoWe
+Userdapred006 built a city (+1 VP)
+UserOneTwoWe rolled dice_4 dice_4
+UserOneTwoWe got grain
+Guestturls321 got graingrain
+icon_helmetMyrna8511 got grain
+UserOneTwoWe bought development card
+Guestturls321 rolled dice_2 dice_1
+Guestturls321 got brickbrick
+Userdapred006 got graingrain
+Guestturls321 wants to give lumber for wool
+Guestturls321 built a road
+Guestturls321 wants to give lumbergrain for wool
+Guestturls321 wants to give ore for wool
+UserOneTwoWe wants to give turls321 wool for brickore
+Guestturls321 wants to give lumberbrick for oreore
+Guestturls321 traded lumberbrick for oreore with dapred006
+Guestturls321 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_3
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got oreore
+Userdapred006 rolled dice_3 dice_2
+UserOneTwoWe got ore
+icon_helmetMyrna8511 got lumber
+Userdapred006 got oreore
+Userdapred006 built a road
+Userdapred006 wants to give grain for brick
+Userdapred006 wants to give grain for lumber
+Userdapred006 traded grain for lumber with OneTwoWe
+Userdapred006 wants to give oreore for brick
+Userdapred006 gave bank oreoreoreore and took brick
+Userdapred006 built a settlement (+1 VP)
+UserOneTwoWe rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+UserOneTwoWe bought development card
+UserOneTwoWe bought development card
+Guestturls321 rolled dice_2 dice_6
+UserOneTwoWe got grain
+Guestturls321 got graingrain
+icon_helmetMyrna8511 got grain
+Guestturls321 wants to give grain for wool
+Guestturls321 wants to give lumber for wool
+icon_helmetMyrna8511 rolled dice_4 dice_1
+UserOneTwoWe got ore
+icon_helmetMyrna8511 got lumber
+Userdapred006 got oreore
+Userdapred006 rolled dice_2 dice_5
+Userdapred006 moved robber robber to  prob_8 grain tile
+Userdapred006 stole card from OneTwoWe
+UserOneTwoWe used Knight card knight
+UserOneTwoWe moved robber robber to  prob_8 grain tile
+UserOneTwoWe stole card from turls321
+UserOneTwoWe rolled dice_1 dice_3
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got oreore
+UserOneTwoWe bought development card
+Guestturls321 rolled dice_4 dice_1
+UserOneTwoWe got ore
+icon_helmetMyrna8511 got lumber
+Userdapred006 got oreore
+Guestturls321 wants to give grain for ore
+Guestturls321 wants to give grain for ore
+Guestturls321 traded grain for ore with dapred006
+Guestturls321 gave bank lumberlumberlumber and took wool
+Guestturls321 bought development card
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole ore from dapred006
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 6 ore
+icon_helmetMyrna8511 built a city (+1 VP)
+Userdapred006 rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+UserOneTwoWe rolled dice_5 dice_2
+UserOneTwoWe moved robber robber to  prob_3 brick tile
+UserOneTwoWe stole card from turls321
+Guestturls321 rolled dice_6 dice_3
+UserOneTwoWe got lumberlumber
+icon_helmetMyrna8511 got lumber
+Userdapred006 got graingrainlumberlumber
+icon_helmetMyrna8511 rolled dice_2 dice_2
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got oreore
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took graingrain
+icon_helmetMyrna8511 built a city (+1 VP)
+Userdapred006 rolled dice_2 dice_4
+Guestturls321 got oreore
+icon_helmetMyrna8511 got woolwoolwool
+Userdapred006 got wooloreore
+Userdapred006 built a city (+1 VP)
+Userdapred006 bought development card
+UserOneTwoWe rolled dice_4 dice_2
+Guestturls321 got oreore
+icon_helmetMyrna8511 got woolwoolwool
+Userdapred006 got woolwooloreore
+UserOneTwoWe gave bank lumberlumberlumberlumber and took brick
+Guestturls321 rolled dice_4 dice_5
+UserOneTwoWe got lumberlumber
+icon_helmetMyrna8511 got lumberlumber
+Userdapred006 got graingrainlumberlumber
+Guestturls321 wants to give ore for grain
+Guestturls321 wants to give ore for wool
+Guestturls321 gave bank lumberlumberlumber and took wool
+icon_helmetMyrna8511 rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain
+icon_helmetMyrna8511 bought development card
+Userdapred006 rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+Userdapred006 bought development card
+Userdapred006 bought development card
+UserOneTwoWe rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+UserOneTwoWe gave bank woolwoolwoolwool and took grain
+UserOneTwoWe used Road Building card road building
+UserOneTwoWe placed a road
+UserOneTwoWe placed a road
+UserOneTwoWe built a settlement (+1 VP)
+Guestturls321 used Knight card knight
+Guestturls321 moved robber robber to  prob_6 wool tile
+Guestturls321 stole card from dapred006
+Guestturls321 rolled dice_5 dice_6
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+Guestturls321 gave bank lumberlumberlumberlumberlumberlumber and took brickgrain
+Guestturls321 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole lumber from dapred006
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give lumber for ore
+icon_helmetMyrna8511 wants to give lumber for brick
+Userdapred006 used Knight card knight
+Userdapred006 moved robber robber to  prob_8 grain tile
+Userdapred006 stole card from OneTwoWe
+Userdapred006 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+Guestturls321 got graingrain
+icon_helmetMyrna8511 got graingrain
+UserOneTwoWe used Knight card knight
+UserOneTwoWe moved robber robber to  prob_6 ore tile
+UserOneTwoWe stole card from dapred006
+UserOneTwoWe rolled dice_5 dice_2
+Guestturls321 discarded lumberlumberoreore
+UserOneTwoWe moved robber robber to  prob_9 grain tile
+UserOneTwoWe stole card from turls321
+UserOneTwoWe wants to give woolwool for grain
+UserOneTwoWe wants to give lumberwool for grain
+icon_helmetMyrna8511 wants to give OneTwoWe grain for brickore
+UserOneTwoWe wants to give lumberore for grain
+UserOneTwoWe wants to give woolore for grain
+UserOneTwoWe traded lumberore for grain with Myrna8511
+UserOneTwoWe bought development card
+Guestturls321 rolled dice_2 dice_6
+UserOneTwoWe got graingrain
+Guestturls321 got graingrain
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 rolled dice_2 dice_1
+Guestturls321 got brickbrickbrick
+Userdapred006 got graingraingraingrain
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 gave bank lumberlumber and took brick
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give lumbergrain for wool
+Userdapred006 rolled dice_3 dice_1
+UserOneTwoWe got ore
+Guestturls321 got lumber
+Userdapred006 got oreore
+Userdapred006 bought development card
+Userdapred006 bought development card
+UserOneTwoWe rolled dice_3 dice_5
+UserOneTwoWe got graingrain
+Guestturls321 got graingrain
+icon_helmetMyrna8511 got graingrain
+UserOneTwoWe used Knight card knight
+UserOneTwoWe received largest army (+2 VPs)
+UserOneTwoWe moved robber robber to  prob_6 ore tile
+UserOneTwoWe stole card from dapred006
+UserOneTwoWe bought development card
+UserOneTwoWe gave bank graingraingraingrain and took brick
+UserOneTwoWe built a road
+Guestturls321 rolled dice_5 dice_2
+Guestturls321 discarded brickgraingraingrainore
+Guestturls321 moved robber robber to  prob_6 wool tile
+Guestturls321 stole card from dapred006
+Guestturls321 built a road
+Guestturls321 built a road
+Guestturls321 received longest road (+2 VPs)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+UserOneTwoWe got lumberlumber
+Guestturls321 got grain
+icon_helmetMyrna8511 got lumberlumber
+Userdapred006 got graingrainlumberlumber
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 gave bank lumberlumber and took wool
+icon_helmetMyrna8511 bought development card
+Userdapred006 used Knight card knight
+Userdapred006 moved robber robber to  prob_8 grain tile
+Userdapred006 stole card from OneTwoWe
+Userdapred006 rolled dice_1 dice_1
+icon_helmetMyrna8511 got brickbrickbrick
+UserOneTwoWe used Knight card knight
+UserOneTwoWe moved robber robber to  prob_9 grain tile
+UserOneTwoWe stole card from turls321
+UserOneTwoWe rolled dice_2 dice_1
+Guestturls321 got brickbrickbrick
+Userdapred006 got graingraingraingrain
+UserOneTwoWe wants to give lumber for brick
+UserOneTwoWe wants to give lumbergrain for brick
+UserOneTwoWe wants to give lumberwoolgrain for brick
+UserOneTwoWe traded lumberwoolgrain for brick with Myrna8511
+UserOneTwoWe built a road
+Guestturls321 rolled dice_4 dice_2
+Guestturls321 got oreore
+icon_helmetMyrna8511 got woolwoolwool
+Userdapred006 got woolwooloreore
+Guestturls321 gave bank brickbrick and took ore
+Guestturls321 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_5
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 wants to give grain for ore
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank ore ore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+Userdapred006 rolled dice_5 dice_2
+Userdapred006 discarded lumberlumbergraingraingraingraingrain
+Userdapred006 moved robber robber to  prob_8 grain tile
+Userdapred006 stole card from OneTwoWe
+Userdapred006 bought development card
+Userdapred006 bought development card
+UserOneTwoWe rolled dice_3 dice_6
+UserOneTwoWe got lumberlumber
+Guestturls321 got grain
+icon_helmetMyrna8511 got lumberlumber
+Userdapred006 got graingrainlumberlumber
+Guestturls321 rolled dice_6 dice_5
+UserOneTwoWe got woolwool
+Guestturls321 got lumberlumber
+icon_helmetMyrna8511 rolled dice_3 dice_6
+UserOneTwoWe got lumberlumber
+Guestturls321 got grain
+icon_helmetMyrna8511 got lumberlumber
+Userdapred006 got graingrainlumberlumber
+icon_helmetMyrna8511 gave bank lumberlumber and took ore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank brick brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+Userdapred006 used Knight card knight
+Userdapred006 moved robber robber to  prob_5 lumber tile
+UserNo player to steal from
+Userdapred006 rolled dice_1 dice_1
+icon_helmetMyrna8511 got brickbrickbrick
+Userdapred006 gave bank lumberlumberlumberlumber and took ore
+Userdapred006 bought development card
+UserOneTwoWe rolled dice_1 dice_5
+Guestturls321 got oreore
+icon_helmetMyrna8511 got woolwoolwool
+Userdapred006 got woolwooloreore
+Guestturls321 rolled dice_6 dice_6
+Guestturls321 got wool
+Guestturls321 built a road
+Guestturls321 gave bank lumberlumberlumber and took wool
+Guestturls321 bought development card
+Guestturls321 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole ore from dapred006
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_helmetMyrna8511 got brickbrickbrick
+icon_helmetMyrna8511 gave bank brickbrickbrickwoolwoolwool and took lumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+Userdapred006 rolled dice_6 dice_6
+Guestturls321 got wool
+Userdapred006 used Knight card knight
+Userdapred006 moved robber robber to  prob_5 lumber tile
+Userdapred006 stole ore from you
+UserOneTwoWe rolled dice_3 dice_6
+UserOneTwoWe got lumberlumber
+Guestturls321 got grain
+icon_helmetMyrna8511 got lumberlumber
+Userdapred006 got graingrainlumberlumber
+UserOneTwoWe wants to give lumberlumber for grain
+UserOneTwoWe wants to give lumberwool for brick
+UserOneTwoWe wants to give woolwool for brick
+UserOneTwoWe wants to give lumberwoolwool for brick
+UserOneTwoWe gave bank lumberlumberlumberlumber and took ore
+Guestturls321 rolled dice_2 dice_2
+UserOneTwoWe got ore
+Guestturls321 got lumberlumber
+Userdapred006 got oreore
+Guestturls321 used Monopoly card monopoly
+Guestturls321 stole 6 ore
+Guestturls321 built a city (+1 VP)
+Guestturls321 gave bank oreoreore and took brick
+Guestturls321 built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole wool from dapred006
+icon_helmetMyrna8511 rolled dice_5 dice_1
+Guestturls321 got oreore
+icon_helmetMyrna8511 got woolwoolwool
+Userdapred006 got woolwooloreore
+icon_helmetMyrna8511 gave bank woolwoolwool and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from turls321 to Myrna8511 (+2 VPs)
+Userdapred006 rolled dice_1 dice_4
+UserOneTwoWe got ore
+icon_helmetMyrna8511 got lumberlumberlumberlumber
+Userdapred006 got oreore
+Userdapred006 gave bank graingraingraingrainoreoreoreore and took brickbrick
+Userdapred006 built a road
+Userdapred006 built a settlement (+1 VP)
+trophyUserdapred006 won the game!trophy
+UserOneTwoWe has left the game
+Userdapred006 has left the game

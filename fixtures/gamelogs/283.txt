@@ -1,0 +1,416 @@
+Mashevskaya placed a settlement
+Mashevskaya placed a road
+Kent#3816 placed a settlement
+Kent#3816 placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Yolonc placed a settlement
+Yolonc placed a road
+Yolonc placed a settlement
+Yolonc received starting resources wool lumber brick
+Yolonc placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources brick brick ore
+Myrna8511 placed a road
+Kent#3816 placed a settlement
+Kent#3816 received starting resources brick brick
+Kent#3816 placed a road
+Mashevskaya placed a settlement
+Mashevskaya received starting resources wool ore lumber
+Mashevskaya placed a road
+Mashevskaya rolled dice_1 dice_5
+Yolonc got lumber
+Kent#3816 got wool
+Kent#3816 rolled dice_4 dice_3
+Kent#3816 moved Robber robber to prob_5 lumber tile
+Kent#3816 stole card from Yolonc
+Kent#3816 built a road
+Myrna8511 rolled dice_5 dice_6
+Myrna8511 got wool
+Mashevskaya got wool
+Myrna8511 wants to give brick for lumber
+Myrna8511 gave brick and got lumber from Mashevskaya
+Myrna8511 built a road
+Yolonc rolled dice_1 dice_2
+Myrna8511 got ore
+Mashevskaya got ore
+Yolonc built a road
+Mashevskaya rolled dice_2 dice_3
+prob_5 lumber tile is blocked by the Robber. No resources produced
+Myrna8511 got lumber
+Kent#3816 got lumber
+Mashevskaya got lumber
+Mashevskaya built a road
+Kent#3816 rolled dice_1 dice_1
+Myrna8511 rolled dice_2 dice_5
+Myrna8511 moved Robber robber to prob_5 lumber tile
+You stole ore from Mashevskaya
+Yolonc rolled dice_5 dice_6
+Myrna8511 got wool
+Mashevskaya got wool
+Mashevskaya rolled dice_1 dice_3
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain
+Mashevskaya bought development card
+Kent#3816 rolled dice_5 dice_2
+Kent#3816 moved Robber robber to prob_5 lumber tile
+Kent#3816 stole card from Mashevskaya
+Kent#3816 wants to give wool for grain
+Kent#3816 wants to give wool for ore
+Myrna8511 rolled dice_6 dice_4
+Kent#3816 got brick
+Mashevskaya got brick
+Myrna8511 wants to give ore for grain
+Yolonc rolled dice_6 dice_5
+Myrna8511 got wool
+Mashevskaya got wool
+Mashevskaya rolled dice_3 dice_1
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain
+Kent#3816 rolled dice_2 dice_1
+Myrna8511 got ore
+Mashevskaya got ore
+Kent#3816 wants to give wool for ore
+Myrna8511 proposed counter offer to Kent#3816, offering ore for grain
+Kent#3816 wants to give wool for grain
+Yolonc proposed counter offer to Kent#3816, offering grain for wool card
+Kent#3816 wants to give brick wool for grain
+Kent#3816 gave brick wool and got grain from Yolonc
+Kent#3816 built a settlement (+1 VP)
+Myrna8511 rolled dice_6 dice_1
+Myrna8511 discarded brick wool wool ore ore
+Myrna8511 moved Robber robber to prob_5 lumber tile
+You stole ore from Mashevskaya
+Myrna8511 wants to give ore for grain
+Yolonc rolled dice_6 dice_6
+Yolonc got wool
+Yolonc wants to give wool for lumber
+Yolonc wants to give wool for ore
+Mashevskaya rolled dice_5 dice_1
+Yolonc got lumber
+Kent#3816 got wool wool
+Mashevskaya wants to give wool for lumber
+Kent#3816 rolled dice_3 dice_1
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain
+Kent#3816 wants to give wool for grain
+Mashevskaya proposed counter offer to Kent#3816, offering grain for lumber
+Kent#3816 wants to give wool for ore
+Myrna8511 rolled dice_5 dice_4
+Yolonc got grain
+Kent#3816 got grain
+Myrna8511 wants to give ore for grain
+Myrna8511 wants to give brick for grain
+Yolonc proposed counter offer to Myrna8511, offering grain grain for ore ore
+Kent#3816 proposed counter offer to Myrna8511, offering wool for ore
+Yolonc proposed counter offer to Myrna8511, offering wool grain grain for ore ore
+Yolonc proposed counter offer to Myrna8511, offering wool grain grain for ore ore
+Myrna8511 gave ore ore and got wool grain grain from Yolonc
+Myrna8511 wants to give wool for lumber
+Myrna8511 wants to give grain for lumber
+Myrna8511 wants to give wool grain for lumber
+Myrna8511 built a settlement (+1 VP)
+Yolonc rolled dice_5 dice_5
+Myrna8511 got ore
+Kent#3816 got grain brick
+Mashevskaya got brick
+Yolonc built a settlement (+1 VP)
+Mashevskaya rolled dice_6 dice_1
+Mashevskaya moved Robber robber to prob_8 brick tile
+Mashevskaya stole ore from you
+Mashevskaya used Year of Plenty card year of plenty
+Mashevskaya took from bank lumber ore
+Mashevskaya built a settlement (+1 VP)
+Kent#3816 rolled dice_6 dice_3
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Kent#3816 wants to give grain for lumber
+Kent#3816 wants to give grain for ore
+Myrna8511 rolled dice_2 dice_2
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain
+Myrna8511 wants to give brick for lumber
+Yolonc rolled dice_1 dice_5
+Yolonc got lumber lumber
+Kent#3816 got wool wool
+Yolonc wants to give lumber for ore
+Yolonc wants to give lumber lumber for ore
+Yolonc wants to give lumber for brick
+Yolonc gave lumber and got brick from Myrna8511
+Yolonc built a road
+Mashevskaya rolled dice_2 dice_1
+Myrna8511 got ore ore
+Yolonc got ore
+Mashevskaya got ore
+Mashevskaya built a city (+1 VP)
+Kent#3816 rolled dice_6 dice_6
+Yolonc got wool
+Kent#3816 wants to give wool for ore
+Kent#3816 wants to give wool wool for lumber
+Kent#3816 wants to give wool grain for lumber
+Myrna8511 proposed counter offer to Kent#3816, offering lumber for grain
+Kent#3816 gave grain and got lumber from Myrna8511
+Kent#3816 built a road
+Myrna8511 rolled dice_4 dice_5
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Myrna8511 built a city (+1 VP)
+Yolonc rolled dice_6 dice_2
+prob_8 brick tile is blocked by the Robber. No resources produced
+Myrna8511 got grain grain
+Yolonc built a city (+1 VP)
+Mashevskaya rolled dice_5 dice_4
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Kent#3816 rolled dice_6 dice_3
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Kent#3816 wants to give grain for ore
+Kent#3816 wants to give grain for brick
+Kent#3816 wants to give grain grain for brick
+Kent#3816 gave bank grain grain grain grain and took ore
+Kent#3816 bought development card
+Myrna8511 rolled dice_1 dice_6
+Myrna8511 moved Robber robber to prob_5 lumber tile
+You stole wool from Mashevskaya
+Yolonc rolled dice_3 dice_4
+Yolonc moved Robber robber to prob_5 lumber tile
+Yolonc stole card from Mashevskaya
+Yolonc wants to give grain for brick
+Yolonc wants to give grain for lumber
+Yolonc wants to give grain for ore
+Yolonc wants to give grain grain for ore
+Yolonc wants to give grain grain for lumber
+Yolonc wants to give grain grain for brick
+Mashevskaya rolled dice_4 dice_2
+Yolonc got lumber lumber
+Kent#3816 got wool wool
+Kent#3816 rolled dice_2 dice_2
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain
+Kent#3816 wants to give wool wool for lumber
+Kent#3816 wants to give wool wool wool for lumber
+Kent#3816 gave bank wool wool wool wool and took lumber
+Myrna8511 rolled dice_3 dice_6
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Myrna8511 wants to give brick for lumber
+Myrna8511 gave brick and got lumber from Yolonc
+Myrna8511 built a road
+Yolonc rolled dice_5 dice_4
+Yolonc got grain
+Kent#3816 got grain
+Mashevskaya got grain
+Yolonc wants to give grain grain for brick
+Yolonc wants to give grain grain for lumber
+Yolonc wants to give wool for lumber
+Yolonc wants to give wool for brick
+Yolonc wants to give wool grain grain for brick
+Yolonc wants to give wool grain grain for lumber
+Yolonc gave wool grain grain and got lumber from Kent#3816
+Yolonc gave bank grain grain grain grain and took brick
+Yolonc built a road
+Yolonc built a settlement (+1 VP)
+Mashevskaya rolled dice_5 dice_3
+Myrna8511 got grain grain brick
+Yolonc got brick brick
+Kent#3816 got brick
+Mashevskaya gave bank grain grain grain grain and took lumber
+Mashevskaya built a road
+Kent#3816 rolled dice_6 dice_6
+Yolonc got wool wool
+Kent#3816 wants to give grain for lumber
+Kent#3816 wants to give grain grain for lumber
+Kent#3816 wants to give grain grain grain for lumber
+Myrna8511 rolled dice_2 dice_4
+Yolonc got lumber lumber
+Kent#3816 got wool wool
+Myrna8511 wants to give grain for lumber
+Myrna8511 wants to give grain grain for lumber
+Myrna8511 gave grain grain and got lumber from Yolonc
+Myrna8511 built a road
+Yolonc rolled dice_1 dice_5
+Yolonc got lumber lumber
+Kent#3816 got wool wool
+Yolonc built a road
+Yolonc built a settlement (+1 VP)
+Mashevskaya rolled dice_4 dice_6
+Myrna8511 got ore
+Kent#3816 got grain brick
+Mashevskaya got brick
+Kent#3816 rolled dice_6 dice_4
+Myrna8511 got ore
+Kent#3816 got grain brick
+Mashevskaya got brick
+Kent#3816 wants to give wool wool for lumber
+Kent#3816 wants to give wool wool wool for lumber
+Kent#3816 gave wool wool wool and got lumber from Yolonc
+Kent#3816 wants to give grain grain grain for lumber
+Kent#3816 gave bank grain grain grain grain and took lumber
+Kent#3816 built a road
+Kent#3816 built a settlement (+1 VP)
+Kent#3816 wants to give wool for lumber
+Kent#3816 wants to give wool for ore
+Myrna8511 rolled dice_5 dice_6
+Myrna8511 got wool wool
+Mashevskaya got wool wool wool
+Myrna8511 bought development card
+Myrna8511 bought development card
+Yolonc rolled dice_4 dice_5
+Yolonc got grain
+Kent#3816 got grain grain
+Mashevskaya got grain
+Yolonc wants to give wool for ore
+Yolonc wants to give grain for ore
+Yolonc gave bank grain grain and took ore
+Mashevskaya rolled dice_4 dice_4
+Myrna8511 got grain grain brick
+Yolonc got brick brick
+Kent#3816 got brick
+Kent#3816 rolled dice_1 dice_1
+Kent#3816 wants to give grain for lumber
+Kent#3816 wants to give grain for ore
+Kent#3816 wants to give wool grain for lumber
+Myrna8511 rolled dice_3 dice_5
+Myrna8511 got grain grain brick
+Yolonc got brick brick
+Kent#3816 got brick
+Myrna8511 wants to give brick for grain
+Myrna8511 wants to give wool for grain
+Myrna8511 wants to give brick wool for grain
+Myrna8511 wants to give wool for grain grain
+Yolonc rolled dice_2 dice_4
+Yolonc got lumber lumber
+Kent#3816 got wool wool
+Yolonc gave bank lumber lumber brick brick brick brick and took grain grain ore
+Yolonc bought development card
+Yolonc bought development card
+Mashevskaya rolled dice_1 dice_4
+prob_5 lumber tile is blocked by the Robber. No resources produced
+Myrna8511 got lumber lumber
+Yolonc got lumber lumber lumber
+Mashevskaya got lumber
+Mashevskaya built a settlement (+1 VP)
+Kent#3816 rolled dice_2 dice_5
+Myrna8511 discarded brick wool grain grain grain
+Kent#3816 discarded brick wool wool grain grain
+Kent#3816 moved Robber robber to prob_5 lumber tile
+Kent#3816 stole card from Yolonc
+Kent#3816 wants to give wool for lumber
+Kent#3816 built a road
+Kent#3816 received longest road (+2 VPs)
+Myrna8511 rolled dice_5 dice_4
+Yolonc got grain
+Kent#3816 got grain grain
+Mashevskaya got grain
+Myrna8511 used Road Building card road building
+Myrna8511 placed a road
+Myrna8511 placed a road
+Myrna8511 built a settlement (+1 VP)
+Yolonc used Knight card knight
+Yolonc moved Robber robber to prob_9 grain tile
+Yolonc stole card from Kent#3816
+Yolonc rolled dice_6 dice_4
+Myrna8511 got ore
+Kent#3816 got ore grain brick
+Mashevskaya got brick
+Yolonc gave bank lumber lumber and took ore
+Yolonc bought development card
+Mashevskaya rolled dice_5 dice_3
+Myrna8511 got ore grain grain brick
+Yolonc got brick brick
+Kent#3816 got brick
+Kent#3816 rolled dice_3 dice_1
+Myrna8511 got brick
+Yolonc got grain
+Mashevskaya got grain grain
+Kent#3816 wants to give grain for lumber
+Myrna8511 proposed counter offer to Kent#3816, offering lumber for brick
+Myrna8511 proposed counter offer to Kent#3816, offering lumber brick for ore
+Kent#3816 gave ore and got lumber brick from Myrna8511
+Kent#3816 built a road
+Kent#3816 wants to give grain grain for lumber
+Kent#3816 wants to give grain grain for ore
+Kent#3816 wants to give grain grain grain for lumber
+Kent#3816 wants to give grain grain grain for ore
+Kent#3816 gave bank grain grain grain grain and took ore
+Myrna8511 rolled dice_1 dice_1
+Myrna8511 built a city (+1 VP)
+Yolonc rolled dice_1 dice_4
+Myrna8511 got lumber lumber
+Yolonc got lumber lumber lumber
+Kent#3816 got lumber
+Mashevskaya got lumber lumber lumber
+Yolonc wants to give grain for lumber
+Yolonc wants to give grain for ore
+Yolonc wants to give grain for wool
+Yolonc gave grain and got wool from Kent#3816
+Yolonc used Monopoly card monopoly
+Yolonc stole 6 grain
+Yolonc built a road
+Yolonc built a road
+Yolonc built a settlement (+1 VP)
+Yolonc gave bank grain grain grain grain and took ore ore
+Yolonc bought development card
+Mashevskaya rolled dice_4 dice_3
+Mashevskaya moved Robber robber to prob_6 lumber tile
+Mashevskaya stole card from Yolonc
+Mashevskaya built a road
+Mashevskaya built a road
+Kent#3816 rolled dice_3 dice_4
+Kent#3816 moved Robber robber to prob_5 lumber tile
+Kent#3816 stole card from Mashevskaya
+Kent#3816 wants to give ore for grain
+Mashevskaya started an embargo against Kent#3816
+Kent#3816 built a road
+Kent#3816 built a road
+Myrna8511 rolled dice_1 dice_6
+Myrna8511 moved Robber robber to prob_6 lumber tile
+Player has no cards
+Mashevskaya has disconnected. A bot will take over next turn unless Mashevskaya reconnects.
+Myrna8511 built a road
+Mashevskaya has reconnected
+Yolonc used Knight card knight
+Yolonc moved Robber robber to prob_9 grain tile
+Yolonc stole card from Mashevskaya
+Yolonc rolled dice_1 dice_5
+Yolonc got lumber lumber lumber
+Kent#3816 got wool wool
+Mashevskaya got lumber
+Yolonc gave bank lumber lumber and took ore
+Mashevskaya rolled dice_3 dice_5
+Myrna8511 got ore grain grain brick brick
+Yolonc got brick brick
+Kent#3816 got brick
+Kent#3816 rolled dice_4 dice_5
+prob_9 grain tile is blocked by the Robber. No resources produced
+Yolonc got grain
+Kent#3816 wants to give wool for grain
+Kent#3816 wants to give wool for lumber
+Kent#3816 gave wool and got grain from Myrna8511
+Kent#3816 wants to give wool for lumber
+Kent#3816 bought development card
+Myrna8511 rolled dice_3 dice_4
+Myrna8511 moved Robber robber to prob_5 lumber tile
+You stole brick from Yolonc
+Myrna8511 built a settlement (+1 VP)
+Yolonc used Knight card knight
+Yolonc received largest army (+2 VPs)
+Yolonc moved Robber robber to prob_8 ore tile
+Yolonc stole brick from you
+Yolonc rolled dice_2 dice_1
+Myrna8511 got ore ore ore
+Yolonc got ore
+Mashevskaya got ore ore
+Yolonc bought development card
+trophy Yolonc won the game!

@@ -1,0 +1,336 @@
+GuestKen#8555 placed a settlement
+GuestKen#8555 placed a road
+GuestJapha#7210 placed a settlement
+GuestJapha#7210 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+UserCheesyMack placed a settlement
+UserCheesyMack placed a road
+UserCheesyMack placed a settlement
+UserCheesyMack placed a road
+UserCheesyMack received starting resources: woollumberlumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: grainwoollumber
+GuestJapha#7210 placed a settlement
+GuestJapha#7210 placed a road
+GuestJapha#7210 received starting resources:  brick brick
+GuestKen#8555 placed a settlement
+GuestKen#8555 placed a road
+GuestKen#8555 received starting resources: lumbergrain
+GuestKen#8555 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: grainore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+GuestJapha#7210 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+UserCheesyMack got: lumber
+GuestKen#8555 got: ore
+icon_helmetMyrna8511 rolled: dice_3 dice_6
+UserCheesyMack got: lumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: grain for: ore
+UserCheesyMack rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: grain
+UserCheesyMack got: lumber
+GuestKen#8555 got: ore
+UserCheesyMack gave bank: lumberlumber and took  brick
+UserCheesyMack built a road
+UserCheesyMack gave bank: lumberlumber and took grain
+GuestKen#8555 rolled: dice_3 dice_2
+icon_helmetMyrna8511 got: grainore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+GuestKen#8555 wants to give: grainore for:  brick
+GuestJapha#7210 rolled: dice_4 dice_2
+UserCheesyMack got: lumber
+GuestJapha#7210 got:  brick
+GuestJapha#7210 wants to give:  brick for: lumber
+GuestJapha#7210 traded:  brickfor: lumber with: Myrna8511
+GuestJapha#7210 built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_1
+UserCheesyMack got: lumber
+GuestJapha#7210 got:  brick
+icon_helmetMyrna8511 wants to give: graingrain for: ore
+icon_helmetMyrna8511 wants to give:  brick for: ore
+icon_helmetMyrna8511 wants to give:  brickgrain for: ore
+icon_helmetMyrna8511 wants to give: woolgrain for: ore
+icon_helmetMyrna8511 traded:  brickgrainfor: ore with: Ken#8555
+icon_helmetMyrna8511 built a city: +1 VP
+UserCheesyMack rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: grainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+UserCheesyMack wants to give: lumber for:  brick
+UserCheesyMack traded: lumberfor:  brick with: Japha#7210
+UserCheesyMack built a settlement: +1 VP
+GuestKen#8555 rolled: dice_5 dice_2
+Ken#8555 discarding resource cards
+GuestKen#8555 discarded: graingraingraingrain
+GuestKen#8555 moved robber robber: prob_6 lumber
+GuestNo player to steal from
+GuestKen#8555 built a road
+GuestJapha#7210 rolled: dice_1 dice_6
+GuestJapha#7210 moved robber robber: prob_4 wool
+GuestJapha#7210 stole card from: Ken#8555
+GuestJapha#7210 wants to give:  brickgrain for: wool
+GuestJapha#7210 traded:  brickgrainfor: wool with: Myrna8511
+GuestJapha#7210 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+UserCheesyMack got: lumberlumber
+GuestJapha#7210 got:  brick
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: lumber with: CheesyMack
+icon_helmetMyrna8511 built a road
+UserCheesyMack rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: grainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+GuestKen#8555 rolled: dice_6 dice_6
+GuestJapha#7210 got: lumberlumber
+GuestJapha#7210 rolled: dice_5 dice_4
+UserCheesyMack got: lumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+GuestJapha#7210 built a road
+GuestJapha#7210 built a road
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: graingrain
+UserCheesyMack got: orelumber
+GuestKen#8555 got: ore
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 traded: orefor: lumber with: CheesyMack
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 wants to give: grainore for:  brickwool
+icon_helmetMyrna8511 built a city: +1 VP
+UserCheesyMack rolled: dice_1 dice_4
+icon_helmetMyrna8511 got: graingrainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+UserCheesyMack gave bank: lumberlumber and took grain
+GuestKen#8555 rolled: dice_6 dice_5
+GuestKen#8555 wants to give: lumber for:  brick
+GuestKen#8555 wants to give: lumber for: wool
+GuestJapha#7210 rolled: dice_4 dice_3
+Myrna8511 discarding resource cards
+icon_helmetMyrna8511 discarded: graingrainoreore
+GuestJapha#7210 moved robber robber: prob_10 grain
+GuestJapha#7210 stole: lumber from you
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: lumberlumberoreore
+GuestKen#8555 got:  brick
+GuestJapha#7210 got: lumberore
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 wants to give: grain for:  brick
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 wants to give: lumber for: wool
+icon_helmetMyrna8511 wants to give: ore for: wool
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 wants to give: grainore for: wool
+icon_helmetMyrna8511 wants to give: grainore for:  brick
+icon_helmetMyrna8511 wants to give: lumberore for:  brick
+icon_helmetMyrna8511 wants to give: lumberore for: wool
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took  brick
+UserCheesyMack rolled: dice_4 dice_2
+UserCheesyMack got: lumberlumber
+GuestJapha#7210 got:  brick
+UserCheesyMack gave bank: lumberlumber and took ore
+UserCheesyMack built a city: +1 VP
+GuestKen#8555 rolled: dice_3 dice_4
+Japha#7210 discarding resource cards
+GuestJapha#7210 discarded: lumberlumbergraingrain
+GuestKen#8555 moved robber robber: prob_8 lumber
+GuestKen#8555 stole: ore from you
+GuestJapha#7210 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: woolwool
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: woolwool
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give: ore for: grain
+icon_helmetMyrna8511 traded: woolfor: grain with: Ken#8555
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserCheesyMack rolled: dice_2 dice_5
+Ken#8555 discarding resource cards
+GuestKen#8555 discarded: lumbergrainoreore
+UserCheesyMack moved robber robber: prob_5 grain
+UserCheesyMack stole: wool from you
+GuestKen#8555 rolled: dice_6 dice_5
+GuestKen#8555 built a settlement: +1 VP
+GuestJapha#7210 rolled: dice_2 dice_4
+UserCheesyMack got: lumberlumberlumber
+GuestJapha#7210 got:  brick
+icon_helmetMyrna8511 rolled: dice_4 dice_5
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+icon_helmetMyrna8511 wants to give: ore for:  brick
+icon_helmetMyrna8511 traded: orefor:  brick with: Japha#7210
+icon_helmetMyrna8511 built a road
+UserCheesyMack rolled: dice_6 dice_1
+UserCheesyMack moved robber robber: prob_8 ore
+UserCheesyMack stole: wool from you
+UserCheesyMack gave bank: lumberlumber and took  brick
+UserCheesyMack built a road
+UserCheesyMack gave bank: lumberlumber and took grain
+GuestKen#8555 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: graingrainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: grain
+GuestJapha#7210 rolled: dice_3 dice_6
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+GuestJapha#7210 built a city: +1 VP
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: woolwoolwool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+UserCheesyMack rolled: dice_3 dice_6
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+UserCheesyMack gave bank: lumberlumber and took  brick
+UserCheesyMack built a settlement: +1 VP
+GuestKen#8555 rolled: dice_5 dice_1
+UserCheesyMack got: lumberlumberlumber
+GuestJapha#7210 got:  brick
+GuestKen#8555 wants to give: lumber for:  brick
+GuestKen#8555 traded: lumberfor:  brick with: Japha#7210
+GuestKen#8555 built a road
+GuestJapha#7210 rolled: dice_4 dice_5
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got:  brick
+GuestJapha#7210 gave bank:  brick brick brick brick and took wool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_6 lumber
+icon_helmetYou stole: wool from: CheesyMack
+icon_helmetMyrna8511 rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: woolwoolwool
+UserCheesyMack got: wool
+icon_helmetMyrna8511 wants to give: woolwool for:  brick
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 gave bank: woolwoolwoolwool and took  brick
+UserCheesyMack rolled: dice_1 dice_6
+UserCheesyMack moved robber robber: prob_8 ore
+UserCheesyMack stole: wool from you
+UserCheesyMack gave bank: lumberlumberlumberlumber and took  brick brick
+UserCheesyMack built a road
+UserCheesyMack built a road
+GuestKen#8555 rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: graingrain
+UserCheesyMack got: orelumberlumber
+GuestKen#8555 got: ore
+GuestJapha#7210 rolled: dice_3 dice_4
+GuestJapha#7210 moved robber robber: prob_6 lumber
+GuestJapha#7210 stole card from: CheesyMack
+icon_helmetMyrna8511 rolled: dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber: prob_9 lumber
+icon_helmetYou stole: wool from: CheesyMack
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grainfor: lumber with: Japha#7210
+icon_helmetMyrna8511 built a road
+UserCheesyMack rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: graingrainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: graingrain
+UserCheesyMack wants to give: lumber for: grain
+UserCheesyMack traded: lumberfor: grain with: Japha#7210
+UserCheesyMack bought development card
+GuestKen#8555 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: graingrainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: graingrain
+GuestKen#8555 wants to give: grain for: wool
+GuestJapha#7210 rolled: dice_5 dice_6
+GuestKen#8555 got: grain
+GuestJapha#7210 wants to give: graingraingrain for:  brick
+GuestJapha#7210 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: lumberlumberoreore
+GuestKen#8555 got:  brickore
+GuestJapha#7210 got: lumberoreore
+icon_helmetMyrna8511 wants to give: lumber for:  brick
+icon_helmetMyrna8511 wants to give: lumberore for:  brick
+icon_helmetMyrna8511 gave bank: graingrain and took  brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+icon_helmetMyrna8511 built a city: +1 VP
+UserCheesyMack rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: woolwool
+UserCheesyMack got: woolwool
+GuestKen#8555 got: wool
+GuestJapha#7210 got: wool
+UserCheesyMack used Knight card knight
+UserCheesyMack moved robber robber: prob_10 grain
+UserCheesyMack stole: ore from you
+GuestKen#8555 rolled: dice_5 dice_6
+icon_helmetMyrna8511 got: oreore
+GuestKen#8555 got: grain
+GuestKen#8555 wants to give: graingrain for:  brick
+GuestKen#8555 gave bank: graingraingraingrain and took  brick
+GuestKen#8555 built a road
+GuestKen#8555 built a settlement: +1 VP
+GuestJapha#7210 rolled: dice_4 dice_3
+Japha#7210 discarding resource cards
+GuestJapha#7210 discarded: lumbergraingrainore
+GuestJapha#7210 moved robber robber: prob_3 wool
+GuestJapha#7210 stole: ore from you
+GuestJapha#7210 gave bank: oreore and took  brick
+GuestJapha#7210 built a road
+GuestJapha#7210 received longest road: +2 VPs
+icon_helmetMyrna8511 rolled: dice_6 dice_6
+GuestJapha#7210 got: lumberlumberlumberlumber
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumberwool for: grain
+icon_helmetMyrna8511 wants to give: lumberwoolore for: grain
+UserCheesyMack rolled: dice_2 dice_6
+icon_helmetMyrna8511 got: lumberlumberoreore
+GuestKen#8555 got:  brick brickore
+GuestJapha#7210 got: lumberoreore
+UserCheesyMack wants to give: wool for: grain
+GuestKen#8555 rolled: dice_4 dice_5
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got: grain brick
+GuestKen#8555 built a road
+GuestKen#8555 wants to give: ore for: lumber
+icon_helmetMyrna8511 wants to give Ken#8555 : lumber for: grain
+GuestKen#8555 traded: orefor: lumber with: Japha#7210
+GuestKen#8555 built a road
+GuestJapha#7210 rolled: dice_2 dice_3
+icon_helmetMyrna8511 got: graingrainoreore
+GuestKen#8555 got: grain
+GuestJapha#7210 got: graingrainore
+GuestJapha#7210 built a city: +1 VP
+GuestJapha#7210 built a road
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+Myrna8511 discarding resource cards
+icon_helmetMyrna8511 discarded: lumberlumberlumberoreoreoreore
+icon_helmetMyrna8511 moved robber robber: prob_9 grain
+icon_helmetYou stole: grain from: Japha#7210
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber: prob_8 ore
+icon_helmetYou stole: lumber from: Japha#7210
+UserCheesyMack rolled: dice_3 dice_4
+UserCheesyMack moved robber robber: prob_5 grain
+UserCheesyMack stole card from: Japha#7210
+UserCheesyMack gave bank: lumberlumber and took grain
+UserCheesyMack bought development card
+GuestKen#8555 rolled: dice_4 dice_1
+icon_helmetMyrna8511 got: oreore
+GuestJapha#7210 got: oreore
+GuestJapha#7210 rolled: dice_4 dice_5
+UserCheesyMack got: lumberlumber
+GuestKen#8555 got: lumber
+GuestJapha#7210 got: graingrain brick
+GuestJapha#7210 built a settlement: +1 VP
+GuestJapha#7210 built a city: +1 VP
+trophy Japha#7210 won the game

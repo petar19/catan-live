@@ -1,0 +1,406 @@
+Guestthebetterman placed a settlement
+Guestthebetterman placed a road
+GuestFoley9293 placed a settlement
+GuestFoley9293 placed a road
+GuestLan1403 placed a settlement
+GuestLan1403 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources grainwoolgrain
+GuestLan1403 placed a settlement
+GuestLan1403 placed a road
+GuestLan1403 received starting resources woolbrickwool
+GuestFoley9293 placed a settlement
+GuestFoley9293 placed a road
+GuestFoley9293 received starting resources lumberoreore
+Guestthebetterman placed a settlement
+Guestthebetterman placed a road
+Guestthebetterman received starting resources orewool
+Guestthebetterman rolled dice_6 dice_3
+icon_helmetMyrna8511 got wool
+GuestLan1403 got grainwool
+GuestFoley9293 rolled dice_6 dice_1
+GuestFoley9293 moved robber robber to  prob_6 brick tile
+GuestFoley9293 stole card from thebetterman
+GuestLan1403 rolled dice_6 dice_6
+icon_helmetMyrna8511 got grain
+GuestLan1403 wants to give wool for lumber
+GuestLan1403 wants to give woolwool for lumber
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_6 wool tile
+icon_helmetYou stole wool from Lan1403
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give grain for lumber
+Guestthebetterman has disconnected. Bot will wait until next turn to give thebetterman a chance to reconnect.
+botthebetterman has left the game
+Guestthebetterman has reconnected
+Guestthebetterman rolled dice_6 dice_5
+GuestLan1403 got brick
+GuestFoley9293 got ore
+GuestFoley9293 rolled dice_4 dice_5
+icon_helmetMyrna8511 got wool
+GuestLan1403 got grainwool
+GuestLan1403 rolled dice_2 dice_1
+GuestFoley9293 got lumber
+GuestLan1403 wants to give wool for lumber
+GuestLan1403 wants to give woolgrain for lumber
+GuestLan1403 traded woolgrain for lumber with Foley9293
+GuestLan1403 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_5
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brick
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took lumberbrick
+icon_helmetMyrna8511 built a road
+Guestthebetterman rolled dice_2 dice_1
+GuestFoley9293 got lumber
+GuestFoley9293 rolled dice_3 dice_3
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brick
+GuestFoley9293 wants to give lumber for grain
+GuestFoley9293 traded lumber for grain with Myrna8511
+GuestFoley9293 built a city (+1 VP)
+GuestLan1403 rolled dice_4 dice_5
+icon_helmetMyrna8511 got wool
+GuestLan1403 got grainwool
+GuestLan1403 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give Lan1403 lumber for brickwool
+GuestLan1403 wants to give woolgrain for lumber
+icon_helmetMyrna8511 wants to give Lan1403 lumber for woolore
+GuestLan1403 traded woolgrain for lumber with Foley9293
+GuestLan1403 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_5
+icon_helmetMyrna8511 got ore
+GuestFoley9293 got brickbrick
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_3 dice_4
+GuestBot is selecting where to place robber for thebetterman
+Guestthebetterman moved robber robber to  prob_8 brick tile
+Guestthebetterman stole card from Foley9293
+Guestthebetterman wants to give brick for lumber
+icon_helmetMyrna8511 wants to give thebetterman lumber for brickwool
+icon_helmetMyrna8511 wants to give thebetterman lumber for brickore
+icon_helmetMyrna8511 wants to give thebetterman lumber for brickgrain
+GuestMyrna8511 traded lumber for brickore with thebetterman
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_5 dice_5
+Guestthebetterman got oregrain
+GuestFoley9293 wants to give wool for lumber
+GuestLan1403 rolled dice_2 dice_4
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brickwool
+GuestLan1403 got wool
+GuestLan1403 gave bank woolwool and took lumber
+icon_helmetMyrna8511 rolled dice_1 dice_5
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brickwool
+GuestLan1403 got wool
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 traded grain for wool with Lan1403
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_6 dice_6
+icon_helmetMyrna8511 got grain
+Guestthebetterman wants to give brick for lumber
+Guestthebetterman gave bank brickbrick and took lumber
+Guestthebetterman built a settlement (+1 VP)
+GuestFoley9293 rolled dice_6 dice_5
+GuestLan1403 got brick
+GuestFoley9293 got ore
+GuestFoley9293 bought development card
+GuestLan1403 rolled dice_6 dice_5
+GuestLan1403 got brick
+GuestFoley9293 got ore
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got ore
+Guestthebetterman got lumber
+icon_helmetMyrna8511 wants to give grain for wool
+Guestthebetterman rolled dice_6 dice_5
+GuestLan1403 got brick
+GuestFoley9293 got ore
+GuestFoley9293 rolled dice_4 dice_4
+ prob_8 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got ore
+Guestthebetterman got lumber
+GuestLan1403 rolled dice_1 dice_6
+GuestLan1403 moved robber robber to  prob_10 ore tile
+GuestLan1403 stole card from thebetterman
+GuestLan1403 built a road
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got ore
+Guestthebetterman got lumber
+GuestFoley9293 got brickbrick
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 built a city (+1 VP)
+Guestthebetterman rolled dice_5 dice_5
+ prob_10 ore tile is blocked by the robber. No resources produced.
+Guestthebetterman got grain
+Guestthebetterman wants to give lumber for brick
+icon_helmetMyrna8511 wants to give thebetterman brick for lumberwool
+icon_helmetMyrna8511 wants to give thebetterman brick for lumberore
+Guestthebetterman traded lumber for brick with Foley9293
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_4 dice_2
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brickwool
+GuestLan1403 got wool
+GuestFoley9293 built a road
+GuestLan1403 rolled dice_5 dice_3
+icon_helmetMyrna8511 got oreore
+Guestthebetterman got lumber
+GuestFoley9293 got brickbrick
+GuestLan1403 gave bank woolwool and took lumber
+GuestLan1403 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_5
+GuestLan1403 got brick
+GuestFoley9293 got ore
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 traded grain for wool with Foley9293
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_4 dice_3
+GuestFoley9293 discarded brickbrickoreore
+Guestthebetterman moved robber robber to  prob_8 ore tile
+Guestthebetterman stole grain from you
+Guestthebetterman built a settlement (+1 VP)
+GuestFoley9293 rolled dice_2 dice_4
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brickwool
+GuestLan1403 got wool
+GuestFoley9293 bought development card
+GuestLan1403 rolled dice_2 dice_1
+GuestFoley9293 got lumber
+GuestLan1403 wants to give brick for lumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 wool tile
+icon_helmetYou stole wool from thebetterman
+icon_helmetMyrna8511 rolled dice_1 dice_1
+GuestLan1403 got wool
+GuestFoley9293 got woolwool
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_3 dice_6
+icon_helmetMyrna8511 got woolwool
+GuestLan1403 got graingrainwool
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_2 dice_4
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got grain
+Guestthebetterman got brick
+GuestFoley9293 used Knight card knight
+GuestFoley9293 moved robber robber to  prob_9 grain tile
+GuestFoley9293 stole card from Lan1403
+GuestFoley9293 built a settlement (+1 VP)
+GuestLan1403 rolled dice_4 dice_4
+icon_helmetMyrna8511 got oreore
+Guestthebetterman got lumber
+GuestFoley9293 got brickbrickbrick
+GuestLan1403 gave bank woolwool and took lumber
+GuestLan1403 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_2
+Guestthebetterman got grain
+GuestFoley9293 got ore
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank lumber grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_3 dice_1
+icon_helmetMyrna8511 got wool
+Guestthebetterman got lumber
+GuestLan1403 got wool
+GuestFoley9293 got graingrain
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_5 dice_2
+GuestFoley9293 moved robber robber to  prob_9 wool tile
+GuestFoley9293 stole ore from you
+GuestFoley9293 bought development card
+GuestLan1403 rolled dice_2 dice_2
+icon_helmetMyrna8511 got wool
+Guestthebetterman got lumber
+GuestLan1403 got wool
+GuestFoley9293 got graingrain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole brick from Foley9293
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole brick from Foley9293
+Guestthebetterman rolled dice_5 dice_4
+icon_helmetMyrna8511 got woolwool
+GuestLan1403 got graingrainwool
+GuestFoley9293 got grain
+Guestthebetterman wants to give lumber for brick
+Guestthebetterman wants to give lumbergrain for brickwool
+Guestthebetterman wants to give grain for wool
+GuestFoley9293 rolled dice_2 dice_4
+icon_helmetMyrna8511 got graingrain
+Guestthebetterman got brickwool
+GuestLan1403 got wool
+GuestFoley9293 used Year of Plenty card year of plenty
+GuestFoley9293 took from bank ore ore
+GuestFoley9293 built a city (+1 VP)
+GuestLan1403 rolled dice_4 dice_1
+Guestthebetterman got grain
+GuestFoley9293 got oreore
+GuestLan1403 wants to give brickgrain for ore
+GuestFoley9293 wants to give Lan1403 ore for lumberbrick
+GuestLan1403 gave bank woolwool and took ore
+GuestLan1403 bought development card
+icon_helmetMyrna8511 rolled dice_6 dice_3
+icon_helmetMyrna8511 got woolwool
+GuestLan1403 got graingrainwool
+GuestFoley9293 got grain
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 gave bank woolwool and took lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank woolwool and took ore
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_1 dice_4
+Guestthebetterman got grain
+GuestFoley9293 got oreore
+Guestthebetterman built a road
+Guestthebetterman received longest road (+2 VPs)
+GuestFoley9293 rolled dice_5 dice_6
+GuestLan1403 got brick
+GuestFoley9293 got oreore
+GuestFoley9293 built a city (+1 VP)
+GuestLan1403 rolled dice_5 dice_6
+GuestLan1403 got brick
+GuestFoley9293 got oreore
+GuestLan1403 wants to give brick for lumber
+GuestLan1403 gave bank woolwool and took lumber
+GuestLan1403 gave bank graingraingraingrain and took lumber
+GuestLan1403 built a road
+GuestLan1403 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+icon_helmetMyrna8511 got brickbrick
+Guestthebetterman got oreoregraingrain
+Guestthebetterman rolled dice_1 dice_2
+GuestFoley9293 got lumberlumber
+Guestthebetterman wants to give grain for brick
+icon_helmetMyrna8511 wants to give thebetterman brick for graingrain
+GuestMyrna8511 traded brick for graingrain with thebetterman
+Guestthebetterman built a settlement (+1 VP)
+Guestthebetterman built a city (+1 VP)
+GuestFoley9293 rolled dice_6 dice_4
+icon_helmetMyrna8511 got brickbrick
+Guestthebetterman got oreoregraingraingrain
+GuestFoley9293 built a road
+GuestFoley9293 wants to give oreore for brick
+GuestFoley9293 gave bank oreoreoreore and took brick
+GuestFoley9293 built a road
+GuestLan1403 rolled dice_6 dice_4
+icon_helmetMyrna8511 got brickbrick
+Guestthebetterman got oreoregraingraingrain
+icon_helmetMyrna8511 rolled dice_6 dice_2
+ prob_8 brick tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+Guestthebetterman got lumber
+GuestLan1403 got ore
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 8 grain
+icon_helmetMyrna8511 gave bank graingrain and took wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank brickbrickbrickbrick and took wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank graingraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_4 dice_2
+icon_helmetMyrna8511 got graingrain
+Guestthebetterman got brickbrickbrickwool
+GuestLan1403 got wool
+GuestFoley9293 rolled dice_3 dice_4
+Guestthebetterman discarded brickbrickoreore
+GuestFoley9293 moved robber robber to  prob_6 brick tile
+GuestFoley9293 stole card from thebetterman
+GuestLan1403 rolled dice_4 dice_3
+GuestLan1403 moved robber robber to  prob_10 grain tile
+GuestLan1403 stole card from thebetterman
+GuestLan1403 used Knight card knight
+GuestLan1403 moved robber robber to  prob_6 brick tile
+GuestLan1403 stole card from thebetterman
+GuestLan1403 wants to give ore for lumber
+GuestLan1403 wants to give brickore for lumber
+icon_helmetMyrna8511 rolled dice_5 dice_6
+GuestLan1403 got brick
+GuestFoley9293 got oreore
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_10 ore tile
+icon_helmetYou stole wool from thebetterman
+icon_helmetMyrna8511 gave bank graingrain and took ore
+icon_helmetMyrna8511 bought development card
+Guestthebetterman rolled dice_2 dice_5
+Guestthebetterman moved robber robber to  prob_6 grain tile
+Guestthebetterman stole brick from you
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_2 dice_3
+Guestthebetterman got grain
+GuestFoley9293 got oreore
+GuestFoley9293 wants to give oreore for wool
+GuestLan1403 rolled dice_1 dice_3
+icon_helmetMyrna8511 got wool
+Guestthebetterman got lumberlumber
+GuestLan1403 got wool
+GuestFoley9293 got graingrain
+GuestLan1403 wants to give brickbrick for lumber
+GuestLan1403 wants to give brickbrickore for lumber
+GuestLan1403 wants to give brickbrickwoolore for lumber
+GuestLan1403 traded brickbrickore for lumber with thebetterman
+GuestLan1403 wants to give wool for grain
+GuestLan1403 traded wool for grain with Foley9293
+GuestLan1403 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_5
+Guestthebetterman has disconnected. Bot will wait until next turn to give thebetterman a chance to reconnect.
+botthebetterman has left the game
+GuestFoley9293 discarded oreoreoreore
+icon_helmetMyrna8511 moved robber robber to  prob_6 brick tile
+icon_helmetYou stole brick from thebetterman
+Guestthebetterman has reconnected
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 ore tile
+icon_helmetYou stole grain from thebetterman
+Guestthebetterman rolled dice_4 dice_4
+icon_helmetMyrna8511 got oreore
+Guestthebetterman got lumber
+GuestLan1403 got oreore
+GuestFoley9293 got brickbrickbrickbrick
+Guestthebetterman built a road
+GuestFoley9293 rolled dice_3 dice_1
+icon_helmetMyrna8511 got wool
+Guestthebetterman got lumberlumber
+GuestLan1403 got wool
+GuestFoley9293 got graingrain
+GuestFoley9293 bought development card
+GuestFoley9293 wants to give brickbrick for lumber
+GuestFoley9293 traded brickbrick for lumber with thebetterman
+GuestFoley9293 wants to give brick for wool
+GuestLan1403 rolled dice_6 dice_3
+icon_helmetMyrna8511 got woolwoolwool
+GuestLan1403 got graingrainwool
+GuestFoley9293 got graingrain
+GuestLan1403 built a city (+1 VP)
+GuestLan1403 gave bank woolwool and took lumber
+icon_helmetMyrna8511 rolled dice_3 dice_3
+icon_helmetMyrna8511 got graingrain
+Guestthebetterman got brickbrickbrickwool
+GuestLan1403 got woolwool
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took lumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetlongest road passed from thebetterman to Myrna8511 (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestFoley9293 has left the game
+Guestthebetterman has left the game

@@ -1,0 +1,406 @@
+Blane#5094 has started spectating!
+UserOpex placed a settlement
+UserOpex placed a road
+Blane#5094 has stopped spectating!
+GuestIy2733 placed a settlement
+Blane#5094 has started spectating!
+GuestIy2733 placed a road
+GuestFuller569 placed a settlement
+GuestFuller569 placed a road
+Blane#5094 has stopped spectating!
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: grainore
+GuestFuller569 placed a settlement
+GuestFuller569 placed a road
+GuestFuller569 received starting resources: graingrainore
+GuestIy2733 placed a settlement
+GuestIy2733 placed a road
+GuestIy2733 received starting resources: woolwoollumber
+UserOpex placed a settlement
+UserOpex placed a road
+UserOpex received starting resources: woollumber
+UserOpex rolled: dice_2 dice_2
+UserOpex got: lumber
+GuestFuller569 got: grainlumber
+GuestIy2733 got: wool
+GuestIy2733 rolled: dice_6 dice_6
+GuestFuller569 rolled: dice_4 dice_3
+GuestFuller569 moved robber robber to  prob_9 ore tile
+GuestFuller569 stole: card from: Opex
+GuestFuller569 bought development card
+icon_helmetMyrna8511 rolled: dice_5 dice_1
+icon_helmetMyrna8511 got: grain
+UserOpex got: wool
+UserOpex rolled: dice_2 dice_3
+UserOpex got: grain
+GuestFuller569 got: grain
+GuestIy2733 got: lumberlumber
+GuestIy2733 rolled: dice_5 dice_2
+GuestIy2733 moved robber robber to  prob_5 grain tile
+GuestIy2733 stole: card from: Fuller569
+GuestIy2733 wants to give: wool for: lumber
+GuestFuller569 used card knight
+GuestFuller569 moved robber robber to  prob_9 ore tile
+GuestFuller569 stole: card from: Opex
+GuestFuller569 rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: wool
+UserOpex got: brick
+GuestIy2733 got: wool
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: grain
+UserOpex got: wool
+Fuller569 started a vote to disable karma
+icon_helmetMyrna8511 bought development card
+UserOpex rolled: dice_4 dice_1
+UserOpex got: grain
+GuestFuller569 got: grain
+GuestIy2733 got: lumberlumber
+UserOpex built a road
+GuestIy2733 rolled: dice_5 dice_2
+Iy2733 discarding resource cards
+GuestIy2733 discarded: lumberwoolwoolwoolwool
+GuestIy2733 moved robber robber to  prob_5 grain tile
+GuestIy2733 stole: card from: Fuller569
+GuestFuller569 has disconnected.
+GuestBot will wait until next turn to give Fuller569 a chance to reconnect
+botFuller569 has left the game, giving them 2 minutes to reconnect.
+GuestIy2733 gave bank: lumberlumberlumberlumber and took brick
+GuestIy2733 built a road
+botFuller569 rolled: dice_6 dice_6
+icon_helmetMyrna8511 rolled: dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole: grain from: Fuller569
+UserOpex rolled: dice_4 dice_1
+UserOpex got: grain
+botFuller569 got: grain
+GuestIy2733 got: lumberlumber
+GuestIy2733 rolled: dice_6 dice_3
+ prob_9 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: oregrain
+UserOpex got: ore
+botFuller569 rolled: dice_2 dice_2
+UserOpex got: lumber
+botFuller569 got: grainlumber
+GuestIy2733 got: wool
+botFuller569 wants to give: grain for: ore
+icon_helmetMyrna8511 rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: grain
+UserOpex got: wool
+UserOpex rolled: dice_5 dice_5
+botFuller569 got: brickore
+GuestIy2733 got: brick
+UserOpex bought development card
+GuestIy2733 rolled: dice_5 dice_2
+Fuller569 discarding resource cards
+botBot is selecting cards to discard for Fuller569
+botFuller569 discarded: graingraingrainore
+GuestIy2733 moved robber robber to  prob_4 lumber tile
+GuestIy2733 stole: card from: Fuller569
+GuestIy2733 built a settlement: +1 VP
+botFuller569 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: oregrain
+UserOpex got: ore
+botFuller569 got: wool
+GuestIy2733 got: woolwool
+botFuller569 wants to give: grain for: lumber
+botFuller569 traded: grain for: lumber with: Iy2733
+botFuller569 built a road
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: grain
+UserOpex got: wool
+icon_helmetMyrna8511 wants to give: grain for: ore
+icon_helmetMyrna8511 wants to give: graingrain for: ore
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took ore
+icon_helmetMyrna8511 built a city: +1 VP
+UserOpex rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: graingrain
+UserOpex got: wool
+UserOpex used card knight
+UserOpex moved robber robber to  prob_6 grain tile
+UserOpex stole: grain from you
+UserOpex bought development card
+GuestIy2733 rolled: dice_4 dice_4
+icon_helmetMyrna8511 got: wool
+UserOpex got: brick
+GuestIy2733 got: wool
+GuestIy2733 gave bank: woolwool and took brick
+GuestIy2733 built a road
+botFuller569 rolled: dice_4 dice_3
+botFuller569 moved robber robber to  prob_9 ore tile
+botFuller569 stole: wool from you
+botFuller569 wants to give: wool for: lumber
+Blane#5094 has started spectating!
+icon_helmetMyrna8511 rolled: dice_2 dice_2
+UserOpex got: lumber
+botFuller569 got: grainlumber
+GuestIy2733 got: wool
+UserOpex used card knight
+UserOpex moved robber robber to  prob_6 grain tile
+UserOpex stole: grain from you
+UserOpex rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: wool
+UserOpex got: brick
+GuestIy2733 got: wool
+UserOpex built a road
+UserOpex built a settlement: +1 VP
+Blane#5094 has stopped spectating!
+GuestIy2733 rolled: dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+UserOpex got: wool
+botFuller569 rolled: dice_5 dice_2
+botFuller569 moved robber robber to  prob_9 ore tile
+botFuller569 stole: card from: Opex
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+UserOpex rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: brick
+GuestIy2733 rolled: dice_6 dice_3
+ prob_9 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: grain
+botFuller569 got: wool
+GuestIy2733 got: woolwool
+GuestIy2733 gave bank: woolwoolwoolwool and took lumberbrick
+GuestIy2733 built a settlement: +1 VP
+botFuller569 rolled: dice_5 dice_5
+botFuller569 got: brickore
+GuestIy2733 got: brick
+botFuller569 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole: wool from: Fuller569
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give: woolgrain for: lumber
+UserOpex rolled: dice_2 dice_2
+UserOpex got: grainlumber
+botFuller569 got: grainlumber
+GuestIy2733 got: wool
+UserOpex gave bank: lumberlumber and took ore
+UserOpex bought development card
+GuestIy2733 rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: wool
+UserOpex got: brickbrick
+GuestIy2733 got: woolwool
+GuestIy2733 gave bank: woolwool and took lumber
+GuestIy2733 built a road
+botFuller569 rolled: dice_5 dice_5
+botFuller569 got: brickoreore
+GuestIy2733 got: brick
+botFuller569 built a city: +1 VP
+botFuller569 built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_5
+icon_helmetMyrna8511 got: wool
+UserOpex got: brickbrick
+GuestIy2733 got: woolwool
+icon_helmetMyrna8511 wants to give: wool for: ore
+icon_helmetMyrna8511 wants to give: woolwool for: lumber
+icon_helmetMyrna8511 wants to give: woolgrain for: lumber
+UserOpex rolled: dice_1 dice_6
+UserOpex moved robber robber to  prob_9 grain tile
+UserOpex stole: card from: Iy2733
+UserOpex gave bank: brickbrickbrick and took lumber
+UserOpex built a road
+GuestIy2733 rolled: dice_4 dice_1
+UserOpex got: grain
+botFuller569 got: grain
+GuestIy2733 got: lumberlumber
+GuestIy2733 built a road
+botFuller569 rolled: dice_4 dice_6
+botFuller569 got: brickbrickoreore
+GuestIy2733 got: brick
+botFuller569 bought development card
+botFuller569 wants to give: wool for: lumber
+icon_helmetMyrna8511 rolled: dice_4 dice_6
+botFuller569 got: brickbrickoreore
+GuestIy2733 got: brick
+icon_helmetMyrna8511 wants to give: woolwool for: ore
+icon_helmetMyrna8511 traded: woolwool for: ore with: Fuller569
+icon_helmetMyrna8511 bought development card
+UserOpex rolled: dice_2 dice_5
+Fuller569 discarding resource cards
+botBot is selecting cards to discard for Fuller569
+botFuller569 discarded: brickbrickwoolwool
+UserOpex moved robber robber to  prob_8 wool tile
+UserOpex stole: card from: Iy2733
+UserOpex wants to give: grain for: brick
+UserOpex traded: grain for: brick with: Fuller569
+UserOpex built a settlement: +1 VP
+GuestIy2733 rolled: dice_3 dice_4
+GuestIy2733 moved robber robber to  prob_5 grain tile
+GuestIy2733 stole: card from: Opex
+botFuller569 used card knight
+botFuller569 moved robber robber to  prob_9 grain tile
+botFuller569 stole: card from: Iy2733
+botFuller569 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: graingrain
+UserOpex got: wool
+botFuller569 got: grain
+botFuller569 bought development card
+botFuller569 wants to give: brick for: wool
+icon_helmetMyrna8511 wants to give: Fuller569: wool for: brickbrick
+icon_helmetMyrna8511 wants to give: Fuller569: wool for: brickore
+icon_helmetMyrna8511 wants to give: Fuller569: woolgrain for: brickore
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: graingrain
+UserOpex got: wool
+botFuller569 got: grain
+icon_helmetMyrna8511 wants to give: graingrain for: lumber
+icon_helmetMyrna8511 used card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 gave bank: graingraingraingrain and took lumber
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserOpex rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: graingraingrain
+UserOpex got: wool
+botFuller569 got: grain
+UserOpex wants to give: wool for: brick
+UserOpex traded: wool for: brick with: Fuller569
+UserOpex wants to give: wool for: ore
+GuestIy2733 rolled: dice_6 dice_1
+GuestIy2733 moved robber robber to  prob_9 ore tile
+GuestIy2733 stole: grain from you
+GuestIy2733 gave bank: woolwool and took lumber
+GuestIy2733 built a settlement: +1 VP
+botFuller569 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: graingraingrain
+UserOpex got: wool
+botFuller569 got: grain
+botFuller569 gave bank: graingraingraingrain and took lumber
+botFuller569 built a road
+botFuller569 used card knight
+botFuller569 received largest army: +2 VPs
+botFuller569 moved robber robber to  prob_9 grain tile
+botFuller569 stole: grain from you
+icon_helmetMyrna8511 rolled: dice_6 dice_6
+UserOpex rolled: dice_4 dice_6
+botFuller569 got: brickbrickoreore
+GuestIy2733 got: brick
+UserOpex wants to give: wool for: ore
+UserOpex gave bank: woolwoolwool and took ore
+GuestIy2733 rolled: dice_5 dice_5
+botFuller569 got: brickbrickoreore
+GuestIy2733 got: brick
+botFuller569 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: graingraingrain
+UserOpex got: wool
+botFuller569 got: grain
+botFuller569 built a city: +1 VP
+botFuller569 gave bank: brickbrickbrickbrick and took grain
+icon_helmetMyrna8511 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: graingraingrain
+UserOpex got: wool
+botFuller569 got: grain
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grain for: wool with: Opex
+icon_helmetMyrna8511 gave bank: graingraingrain and took ore
+icon_helmetMyrna8511 bought development card
+UserOpex rolled: dice_2 dice_1
+icon_helmetMyrna8511 got: brick
+UserOpex wants to give: ore for: lumber
+UserOpex bought development card
+UserOpex used card road building
+UserOpex placed a road
+UserOpex received longest road: +2 VPs
+UserOpex placed a road
+GuestIy2733 rolled: dice_2 dice_2
+UserOpex got: grainlumber
+botFuller569 got: graingrainlumberlumber
+GuestIy2733 got: woolwool
+botFuller569 rolled: dice_6 dice_5
+botFuller569 gave bank: graingraingraingrain and took brick
+botFuller569 built a road
+botFuller569 wants to give: wool for: brick
+icon_helmetMyrna8511 wants to give: Fuller569: brick for: woolore
+icon_helmetMyrna8511 wants to give: Fuller569: brick for: oreore
+icon_helmetMyrna8511 wants to give: Fuller569: brick for: woolwool
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+botFuller569 got: brickbrickoreoreore
+GuestIy2733 got: brick
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 wants to give: grain for: lumber
+icon_helmetMyrna8511 traded: grain for: lumber with: Fuller569
+icon_helmetMyrna8511 wants to give: grain for: wool
+icon_helmetMyrna8511 traded: grain for: wool with: Fuller569
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserOpex rolled: dice_3 dice_1
+UserOpex got: grainlumber
+botFuller569 got: graingrainlumberlumber
+GuestIy2733 got: woolwool
+UserOpex used card monopoly
+UserOpex stole 5: brick
+UserOpex gave bank: brickbrickbrick and took wool
+UserOpex built a settlement: +1 VP
+GuestIy2733 rolled: dice_4 dice_5
+ prob_9 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got: oreore
+UserOpex got: ore
+botFuller569 got: woolwool
+GuestIy2733 got: woolwool
+GuestIy2733 gave bank: woolwoolwoolwoolwoolwool and took oreoreore
+botFuller569 rolled: dice_1 dice_4
+UserOpex got: graingrain
+botFuller569 got: graingrain
+GuestIy2733 got: lumberlumberlumber
+botFuller569 built a city: +1 VP
+botFuller569 gave bank: graingraingraingrain and took brick
+botFuller569 wants to give: ore for: grain
+icon_helmetMyrna8511 wants to give: Fuller569: grain for: wooloreore
+botFuller569 traded: ore for: grain with: Opex
+botFuller569 built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+UserOpex rolled: dice_3 dice_4
+UserOpex moved robber robber to  prob_6 grain tile
+UserOpex stole: card from: Fuller569
+UserOpex gave bank: lumberlumber and took ore
+UserOpex built a city: +1 VP
+GuestIy2733 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: oreoregrain
+UserOpex got: oreore
+botFuller569 got: woolwool
+GuestIy2733 got: woolwoolgrain
+GuestIy2733 gave bank: woolwool and took grain
+GuestIy2733 built a city: +1 VP
+botFuller569 rolled: dice_6 dice_5
+icon_helmetMyrna8511 rolled: dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole: ore from: Opex
+icon_helmetMyrna8511 built a city: +1 VP
+UserOpex rolled: dice_2 dice_4
+icon_helmetMyrna8511 got: graingraingrain
+UserOpex got: wool
+botFuller569 got: graingraingrain
+GuestIy2733 rolled: dice_2 dice_5
+GuestIy2733 moved robber robber to  prob_8 brick tile
+GuestIy2733 stole: card from: Opex
+botFuller569 rolled: dice_3 dice_1
+UserOpex got: grainlumber
+botFuller569 got: graingrainlumberlumber
+GuestIy2733 got: woolwool
+botFuller569 gave bank: graingraingraingrain and took brick
+botFuller569 built a road
+icon_helmetMyrna8511 rolled: dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole: ore from: Fuller569
+icon_helmetMyrna8511 gave bank: graingraingrain and took wool
+icon_helmetMyrna8511 bought development card
+UserOpex rolled: dice_2 dice_3
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestIy2733 got: lumberlumberlumberlumber
+UserOpex built a road
+GuestIy2733 rolled: dice_5 dice_5
+botFuller569 got: brickbrickoreoreoreore
+GuestIy2733 got: brickbrick
+GuestIy2733 built a road
+GuestIy2733 built a road
+GuestIy2733 gave bank: lumberlumberlumberlumber and took ore
+GuestIy2733 gave bank: woolwool and took grain
+botFuller569 rolled: dice_1 dice_1
+UserOpex got: brick
+GuestIy2733 got: brick
+botFuller569 gave bank: brickbrick and took grain
+botFuller569 built a city: +1 VP
+trophy Fuller569 won the game! trophy
+UserOpex has left the game

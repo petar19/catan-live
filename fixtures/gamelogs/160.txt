@@ -1,0 +1,549 @@
+GuestCofRED placed a settlement
+GuestCofRED placed a road
+GuestReidy placed a settlement
+GuestReidy placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestSaltyLad placed a settlement
+GuestSaltyLad placed a road
+GuestSaltyLad placed a settlement
+GuestSaltyLad placed a road
+GuestSaltyLad received starting resources grainwoolbrick
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woolgrainwool
+GuestReidy placed a settlement
+GuestReidy placed a road
+GuestReidy received starting resources woollumberwool
+GuestCofRED placed a settlement
+GuestCofRED placed a road
+GuestCofRED received starting resources orewool
+GuestCofRED rolled dice_6 dice_2
+GuestSaltyLad got brick
+icon_helmetMyrna8511 got brick
+GuestReidy got brick
+GuestReidy rolled dice_6 dice_5
+icon_helmetMyrna8511 got wool
+GuestReidy got wool
+GuestReidy built a road
+icon_helmetMyrna8511 rolled dice_3 dice_2
+GuestCofRED got lumber
+icon_helmetMyrna8511 got ore
+GuestReidy got lumber
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_3 dice_1
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+GuestSaltyLad built a road
+GuestCofRED rolled dice_3 dice_5
+GuestSaltyLad got brick
+icon_helmetMyrna8511 got brick
+GuestReidy got brick
+GuestReidy rolled dice_1 dice_5
+GuestSaltyLad got lumber
+GuestCofRED got grain
+icon_helmetMyrna8511 got grain
+GuestReidy wants to give lumber for grain
+icon_helmetMyrna8511 wants to give Reidy grain for lumberlumber
+GuestReidy wants to give lumberwool for grain
+icon_helmetMyrna8511 wants to give Reidy grain for lumberore
+GuestMyrna8511 traded grain for lumberlumber with Reidy
+icon_helmetMyrna8511 rolled dice_4 dice_5
+GuestCofRED got brickwool
+GuestReidy got wool
+icon_helmetMyrna8511 built a road
+GuestSaltyLad rolled dice_6 dice_6
+GuestSaltyLad built a settlement (+1 VP)
+GuestCofRED rolled dice_1 dice_5
+GuestSaltyLad got lumber
+GuestCofRED got grain
+icon_helmetMyrna8511 got grain
+GuestCofRED built a road
+GuestCofRED bought development card
+GuestReidy rolled dice_4 dice_3
+GuestReidy moved robber robber to  prob_8 brick tile
+GuestReidy stole card from SaltyLad
+GuestReidy wants to give wool for lumber
+GuestSaltyLad started an embargo against Reidy
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 lumber tile
+icon_helmetYou stole wool from CofRED
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestCofRED got ore
+icon_helmetMyrna8511 got ore
+GuestReidy got ore
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestSaltyLad rolled dice_6 dice_4
+GuestCofRED got ore
+icon_helmetMyrna8511 got ore
+GuestReidy got ore
+GuestSaltyLad built a road
+GuestCofRED used Knight card knight
+GuestCofRED moved robber robber to  prob_8 brick tile
+GuestCofRED stole wool from you
+GuestCofRED rolled dice_1 dice_5
+GuestSaltyLad got lumber
+GuestCofRED got grain
+icon_helmetMyrna8511 got grain
+GuestReidy rolled dice_2 dice_3
+GuestCofRED got lumber
+icon_helmetMyrna8511 got oreore
+GuestReidy got lumber
+GuestReidy gave bank woolwoolwoolwool and took ore
+GuestReidy built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_1
+GuestSaltyLad got lumberwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_1 dice_6
+GuestSaltyLad moved robber robber to  prob_5 lumber tile
+GuestSaltyLad stole card from Reidy
+GuestSaltyLad built a road
+GuestCofRED rolled dice_3 dice_4
+GuestCofRED moved robber robber to  prob_8 brick tile
+GuestCofRED stole ore from you
+GuestCofRED built a city (+1 VP)
+GuestReidy rolled dice_1 dice_2
+GuestSaltyLad got lumberwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 lumber tile
+icon_helmetYou stole wool from CofRED
+icon_helmetMyrna8511 rolled dice_6 dice_5
+icon_helmetMyrna8511 got wool
+GuestReidy got wool
+GuestSaltyLad rolled dice_2 dice_5
+GuestSaltyLad moved robber robber to  prob_6 grain tile
+GuestSaltyLad stole wool from you
+GuestCofRED rolled dice_4 dice_3
+GuestCofRED moved robber robber to  prob_5 ore tile
+GuestCofRED stole wool from you
+GuestReidy rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestCofRED got lumberlumber
+GuestReidy got lumberlumber
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestSaltyLad got lumber
+GuestCofRED got graingrain
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_2 dice_1
+GuestSaltyLad got lumberwool
+icon_helmetMyrna8511 got wool
+GuestSaltyLad wants to give CofRED & Myrna8511 wool for grain
+GuestSaltyLad wants to give CofRED & Myrna8511 woolwool for grain
+GuestSaltyLad gave bank lumberlumberlumberlumber and took grainore
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_4 dice_6
+GuestCofRED got ore
+icon_helmetMyrna8511 got ore
+GuestReidy got oreore
+GuestCofRED bought development card
+GuestReidy rolled dice_6 dice_5
+icon_helmetMyrna8511 got wool
+GuestReidy got wool
+GuestReidy wants to give lumber for grain
+GuestReidy wants to give wool for grain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole grain from CofRED
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_1 dice_3
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+GuestSaltyLad gave bank lumberlumber and took ore
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_3 dice_1
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+GuestReidy rolled dice_6 dice_5
+icon_helmetMyrna8511 got wool
+GuestReidy got wool
+GuestReidy wants to give lumber for grain
+GuestSaltyLad wants to give Reidy grain for lumberlumber
+GuestReidy wants to give lumberwool for grain
+GuestReidy wants to give Reidy lumberlumber for brickgrain
+GuestReidy wants to give lumberlumberlumber for brickgrain
+GuestSaltyLad traded grain for lumberlumber with Reidy
+GuestReidy wants to give wool for lumber
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestCofRED got lumberlumber
+icon_helmetMyrna8511 got oreore
+GuestReidy got lumberlumber
+GuestSaltyLad rolled dice_6 dice_1
+GuestReidy discarded lumberlumberlumberlumberwoolwool
+GuestSaltyLad moved robber robber to  prob_6 grain tile
+GuestSaltyLad stole card from CofRED
+GuestSaltyLad wants to give CofRED & Myrna8511 lumber for ore
+GuestSaltyLad traded lumber for ore with Myrna8511
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSaltyLad got lumber
+GuestReidy rolled dice_4 dice_2
+ prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSaltyLad got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSaltyLad got lumber
+GuestSaltyLad rolled dice_5 dice_6
+icon_helmetMyrna8511 got wool
+GuestReidy got wool
+GuestSaltyLad gave bank lumberlumberlumberlumber and took grainore
+GuestSaltyLad bought development card
+GuestSaltyLad used Knight card knight
+GuestSaltyLad moved robber robber to  prob_5 ore tile
+GuestSaltyLad stole wool from you
+GuestCofRED rolled dice_3 dice_2
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestCofRED got lumberlumber
+GuestReidy got lumberlumber
+GuestCofRED wants to give lumber for wool
+GuestCofRED wants to give lumberlumber for wool
+icon_helmetMyrna8511 wants to give CofRED wool for lumbergrain
+GuestCofRED traded lumberlumber for wool with SaltyLad
+GuestCofRED used Year of Plenty card year of plenty
+GuestCofRED took from bank brick grain
+GuestCofRED built a settlement (+1 VP)
+GuestReidy rolled dice_6 dice_1
+GuestReidy discarded lumberlumberlumberwool
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole lumber from you
+icon_helmetMyrna8511 rolled dice_5 dice_5
+GuestCofRED got oreore
+icon_helmetMyrna8511 got ore
+GuestReidy got oreore
+GuestSaltyLad rolled dice_6 dice_4
+GuestCofRED got oreore
+icon_helmetMyrna8511 got ore
+GuestReidy got oreore
+GuestSaltyLad used Knight card knight
+GuestSaltyLad moved robber robber to  prob_5 ore tile
+GuestSaltyLad stole ore from you
+GuestSaltyLad gave bank lumberlumberlumberlumber and took woolgrain
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_2 dice_3
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestCofRED got lumberlumber
+GuestReidy got lumberlumber
+GuestCofRED wants to give ore for wool
+icon_helmetMyrna8511 wants to give CofRED wool for lumber
+GuestMyrna8511 traded wool for lumber with CofRED
+GuestCofRED wants to give lumberlumberlumber for grain
+GuestCofRED gave bank lumberlumberlumber and took grain
+GuestCofRED bought development card
+GuestReidy rolled dice_3 dice_5
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrick
+GuestReidy built a road
+GuestReidy built a settlement (+1 VP)
+GuestReidy gave bank oreoreore and took grain
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give ore for brick
+GuestSaltyLad wants to give Myrna8511 brick for woolore
+icon_helmetMyrna8511 wants to give woolore for lumber
+GuestSaltyLad rolled dice_4 dice_5
+GuestCofRED got brickbrickbrickwool
+GuestReidy got wool
+GuestCofRED rolled dice_1 dice_6
+GuestCofRED discarded brickbrickoreore
+GuestCofRED moved robber robber to  prob_8 brick tile
+GuestCofRED stole card from SaltyLad
+GuestReidy rolled dice_1 dice_6
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole card from CofRED
+GuestReidy built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_3
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give ore for brick
+GuestSaltyLad wants to give Myrna8511 lumber for woolore
+icon_helmetMyrna8511 wants to give woolore for brick
+icon_helmetMyrna8511 wants to give wooloreore for lumberbrick
+GuestSaltyLad rolled dice_4 dice_6
+GuestCofRED got oreore
+icon_helmetMyrna8511 got ore
+GuestReidy got oreore
+GuestCofRED used Knight card knight
+GuestCofRED moved robber robber to  prob_8 brick tile
+GuestCofRED stole card from Reidy
+GuestCofRED rolled dice_2 dice_6
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestCofRED built a road
+GuestReidy rolled dice_6 dice_3
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestReidy gave bank oreoreore and took grain
+GuestReidy bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_3
+GuestSaltyLad got lumber
+GuestCofRED got graingrain
+icon_helmetMyrna8511 got grain
+GuestReidy got lumber
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give lumberwool for grain
+icon_helmetMyrna8511 gave bank brickbrick and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestSaltyLad rolled dice_5 dice_2
+GuestCofRED discarded brickbrickwooloreore
+GuestSaltyLad moved robber robber to  prob_5 lumber tile
+GuestSaltyLad stole card from Reidy
+GuestSaltyLad wants to give CofRED & Myrna8511 brick for wool
+GuestSaltyLad traded brick for wool with Myrna8511
+GuestSaltyLad gave bank lumberlumber and took ore
+GuestSaltyLad bought development card
+GuestSaltyLad used Knight card knight
+GuestSaltyLad moved robber robber to  prob_6 grain tile
+GuestSaltyLad stole lumber from you
+GuestCofRED rolled dice_3 dice_4
+GuestCofRED moved robber robber to  prob_8 brick tile
+GuestCofRED stole card from SaltyLad
+GuestCofRED bought development card
+GuestReidy rolled dice_1 dice_6
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole card from CofRED
+icon_helmetMyrna8511 rolled dice_2 dice_2
+GuestSaltyLad got grainlumber
+GuestReidy got lumber
+GuestSaltyLad rolled dice_3 dice_5
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestSaltyLad wants to give CofRED & Myrna8511 brick for wool
+GuestSaltyLad wants to give CofRED & Myrna8511 brickbrick for wool
+GuestSaltyLad gave bank lumberlumber and took wool
+GuestSaltyLad built a settlement (+1 VP)
+GuestCofRED rolled dice_1 dice_6
+GuestReidy discarded lumberlumberbrickwool
+GuestCofRED moved robber robber to  prob_6 lumber tile
+GuestCofRED stole card from Reidy
+GuestReidy used Knight card knight
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole card from CofRED
+GuestReidy rolled dice_2 dice_5
+GuestReidy moved robber robber to  prob_8 brick tile
+GuestReidy stole card from SaltyLad
+GuestReidy built a road
+icon_helmetMyrna8511 rolled dice_5 dice_1
+GuestSaltyLad got lumber
+GuestCofRED got graingrain
+icon_helmetMyrna8511 got graingrain
+GuestReidy got lumber
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_5 dice_4
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestCofRED rolled dice_2 dice_5
+GuestCofRED discarded brickbrickgraingrain
+GuestCofRED moved robber robber to  prob_6 lumber tile
+GuestCofRED stole card from Reidy
+GuestCofRED used Road Building card road building
+GuestCofRED placed a road
+GuestCofRED placed a road
+GuestCofRED wants to give brickbrickbrick for lumber
+GuestCofRED gave bank brickbrickbrick and took lumber
+GuestCofRED built a settlement (+1 VP)
+GuestReidy rolled dice_2 dice_6
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestReidy built a road
+icon_helmetMyrna8511 rolled dice_2 dice_1
+GuestSaltyLad got lumberwool
+icon_helmetMyrna8511 got woolwool
+icon_helmetMyrna8511 gave bank brickbrick and took ore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_4 grain tile
+icon_helmetYou stole wool from SaltyLad
+GuestSaltyLad rolled dice_5 dice_4
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestCofRED rolled dice_4 dice_4
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestReidy rolled dice_2 dice_3
+GuestCofRED got lumberlumber
+icon_helmetMyrna8511 got oreore
+GuestReidy got lumberlumber
+GuestReidy gave bank woolwoolwool and took grain
+GuestReidy built a settlement (+1 VP)
+GuestReidy built a road
+GuestReidy received longest road (+2 VPs)
+GuestReidy gave bank brickbrickbrick and took grain
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole ore from Reidy
+icon_helmetMyrna8511 gave bank brickbrick and took grain
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_4 dice_3
+GuestSaltyLad moved robber robber to  prob_6 grain tile
+GuestSaltyLad stole ore from you
+GuestSaltyLad wants to give CofRED & Myrna8511 brickbrick for wool
+GuestSaltyLad wants to give CofRED & Myrna8511 brickbrick for grain
+GuestSaltyLad gave bank lumberlumberbrickbrickbrickbrick and took woolgrain
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_1 dice_1
+GuestReidy got wool
+GuestReidy rolled dice_3 dice_2
+GuestCofRED got lumberlumber
+icon_helmetMyrna8511 got oreore
+GuestReidy got lumberlumber
+GuestReidy built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole wool from Reidy
+icon_helmetMyrna8511 rolled dice_6 dice_3
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestSaltyLad rolled dice_6 dice_6
+GuestCofRED got grain
+GuestSaltyLad used Road Building card road building
+GuestSaltyLad placed a road
+GuestSaltyLad placed a road
+GuestCofRED rolled dice_2 dice_5
+GuestCofRED discarded lumberlumberbrickbrickbrickbrick
+GuestCofRED moved robber robber to  prob_5 ore tile
+GuestCofRED stole ore from you
+GuestCofRED built a settlement (+1 VP)
+GuestCofRED built a road
+GuestReidy rolled dice_5 dice_2
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole wool from you
+GuestReidy gave bank woolwoolwool and took brick
+GuestReidy built a road
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestSaltyLad rolled dice_3 dice_3
+ prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSaltyLad got lumber
+GuestReidy got lumberlumber
+GuestCofRED rolled dice_3 dice_4
+GuestCofRED moved robber robber to  prob_5 ore tile
+GuestCofRED stole ore from you
+GuestReidy rolled dice_6 dice_4
+GuestCofRED got oreore
+icon_helmetMyrna8511 got ore
+GuestReidy got oreore
+GuestReidy built a road
+icon_helmetMyrna8511 rolled dice_6 dice_2
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+icon_helmetMyrna8511 gave bank brickbrick and took grain
+icon_helmetMyrna8511 bought development card
+GuestSaltyLad rolled dice_4 dice_5
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestSaltyLad gave bank brickbrickbrickbrick and took ore
+GuestCofRED rolled dice_2 dice_6
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestCofRED wants to give brickbrickbrick for grain
+GuestCofRED gave bank brickbrickbrick and took grain
+GuestCofRED bought development card
+GuestReidy rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the robber. No resources produced.
+GuestCofRED got lumberlumber
+GuestReidy got lumberlumber
+GuestReidy built a settlement (+1 VP)
+GuestReidy gave bank brickbrickbrick and took grain
+GuestReidy bought development card
+GuestReidy gave bank brickbrickbrick and took grain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 ore tile
+icon_helmetYou stole brick from Reidy
+icon_helmetMyrna8511 rolled dice_6 dice_4
+ prob_10 ore tile is blocked by the robber. No resources produced.
+GuestCofRED got ore
+icon_helmetMyrna8511 got ore
+GuestSaltyLad rolled dice_2 dice_6
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestSaltyLad used Monopoly card monopoly
+GuestSaltyLad stole 7 ore
+GuestSaltyLad gave bank brickbrickbrickbrickoreore and took woolgrain
+GuestSaltyLad bought development card
+GuestSaltyLad gave bank oreoreoreore and took woolgrain
+GuestSaltyLad bought development card
+GuestCofRED rolled dice_5 dice_3
+GuestSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestCofRED used Year of Plenty card year of plenty
+GuestCofRED took from bank grain ore
+GuestCofRED bought development card
+GuestReidy used Knight card knight
+GuestReidy moved robber robber to  prob_6 grain tile
+GuestReidy stole brick from you
+GuestReidy rolled dice_6 dice_3
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestReidy gave bank brickbrickbrickbrickbrickbrick and took grainore
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestCofRED got orelumberlumber
+icon_helmetMyrna8511 got oreore
+GuestReidy got lumberlumber
+icon_helmetMyrna8511 gave bank brickbrick and took grain
+GuestSaltyLad rolled dice_3 dice_4
+GuestReidy discarded lumberlumberbrickwoolwool
+GuestBot is selecting cards to discard for CofRED
+GuestCofRED discarded brickorelumberlumber
+GuestSaltyLad moved robber robber to  prob_5 ore tile
+GuestSaltyLad stole brick from you
+GuestCofRED rolled dice_6 dice_3
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestSaltyLad has disconnected. Bot will wait until next turn to give SaltyLad a chance to reconnect.
+botSaltyLad has left the game
+GuestSaltyLad has reconnected
+GuestSaltyLad has disconnected. Bot will wait until next turn to give SaltyLad a chance to reconnect.
+botSaltyLad has left the game
+GuestReidy rolled dice_3 dice_6
+GuestCofRED got brickbrickbrickwool
+GuestReidy got woolwool
+GuestReidy wants to give wool for lumber
+GuestReidy gave bank woolwoolwool and took ore
+icon_helmetMyrna8511 rolled dice_1 dice_1
+GuestReidy got wool
+botSaltyLad rolled dice_1 dice_3
+botSaltyLad got graingrainlumber
+GuestReidy got lumber
+botSaltyLad used Monopoly card monopoly
+botSaltyLad stole 8 brick
+botSaltyLad gave bank brickbrickbrickbrick and took wool
+botSaltyLad built a settlement (+1 VP)
+botSaltyLad gave bank brickbrickbrickbrick and took wool
+GuestCofRED rolled dice_5 dice_3
+botSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestReidy rolled dice_5 dice_3
+botSaltyLad got brickbrick
+icon_helmetMyrna8511 got brick
+GuestReidy got brickbrickbrick
+GuestReidy gave bank brickbrickbrick and took ore
+GuestReidy built a city (+1 VP)
+trophyGuestReidy won the game!trophy

@@ -1,0 +1,424 @@
+UserKissOfDeath4 placed a settlement
+UserKissOfDeath4 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+UserBot is placing a settlement for Shortugen
+UserShortugen placed a settlement
+UserBot is placing a road for Shortugen
+UserShortugen placed a road
+UserWouter82 placed a settlement
+UserWouter82 placed a road
+UserWouter82 placed a settlement
+UserWouter82 placed a road
+UserWouter82 received starting resources brickgraingrain
+UserShortugen placed a settlement
+UserShortugen placed a road
+UserShortugen received starting resources grainbrickwool
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources orebricklumber
+UserKissOfDeath4 placed a settlement
+UserKissOfDeath4 placed a road
+UserKissOfDeath4 received starting resources woolorebrick
+UserKissOfDeath4 rolled dice_2 dice_6
+UserKissOfDeath4 got grain
+UserWouter82 got wool
+icon_helmetMyrna8511 got grain
+UserKissOfDeath4 bought development card
+icon_helmetMyrna8511 rolled dice_6 dice_4
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+icon_helmetMyrna8511 built a road
+UserShortugen rolled dice_3 dice_3
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserShortugen built a road
+UserWouter82 rolled dice_6 dice_1
+UserWouter82 moved robber robber to  prob_6 lumber tile
+UserWouter82 stole card from Shortugen
+UserWouter82 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give Wouter82 lumber for wool
+UserMyrna8511 traded lumber for wool with Wouter82
+UserWouter82 built a road
+UserKissOfDeath4 used Knight card knight
+UserKissOfDeath4 moved robber robber to  prob_5 lumber tile
+UserKissOfDeath4 stole card from Shortugen
+UserKissOfDeath4 rolled dice_2 dice_2
+UserShortugen got wool
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 rolled dice_4 dice_5
+UserShortugen got lumbergrain
+UserWouter82 got grain
+UserShortugen rolled dice_3 dice_5
+UserKissOfDeath4 got grain
+UserWouter82 got wool
+icon_helmetMyrna8511 got grain
+UserWouter82 rolled dice_5 dice_5
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+UserWouter82 gave bank graingraingraingrain and took brick
+UserKissOfDeath4 rolled dice_6 dice_6
+UserKissOfDeath4 gave bank woolwoolwoolwool and took lumber
+UserKissOfDeath4 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_1
+UserWouter82 got brick
+UserShortugen rolled dice_5 dice_2
+UserBot is selecting where to place robber for Shortugen
+UserShortugen moved robber robber to  prob_6 grain tile
+UserShortugen stole card from Wouter82
+UserWouter82 rolled dice_5 dice_2
+UserBot is selecting where to place robber for Wouter82
+UserWouter82 moved robber robber to  prob_8 grain tile
+UserWouter82 stole ore from you
+UserKissOfDeath4 rolled dice_4 dice_2
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_4
+UserKissOfDeath4 got ore
+UserShortugen got lumber
+UserWouter82 got lumber
+UserShortugen rolled dice_2 dice_4
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserShortugen wants to give wool for lumber
+icon_helmetMyrna8511 wants to give Shortugen lumber for brick
+icon_helmetMyrna8511 wants to give Shortugen lumber for woolore
+UserShortugen traded wool for lumber with Myrna8511
+UserShortugen gave bank lumberlumberlumberlumber and took brick
+UserShortugen built a road
+UserWouter82 rolled dice_5 dice_6
+UserKissOfDeath4 got brick
+UserShortugen got brick
+icon_helmetMyrna8511 got brick
+UserWouter82 bought development card
+UserWouter82 built a settlement (+1 VP)
+UserKissOfDeath4 rolled dice_6 dice_5
+UserKissOfDeath4 got brick
+UserShortugen got brick
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 rolled dice_6 dice_4
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+UserShortugen rolled dice_3 dice_4
+UserShortugen moved robber robber to  prob_5 ore tile
+UserShortugen stole card from KissOfDeath4
+UserWouter82 rolled dice_4 dice_1
+ prob_5 ore tile is blocked by the robber. No resources produced.
+UserShortugen got lumber
+UserWouter82 got lumber
+UserWouter82 built a road
+UserKissOfDeath4 rolled dice_5 dice_5
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+UserKissOfDeath4 wants to give wool for lumber
+UserKissOfDeath4 wants to give woolwool for lumber
+UserKissOfDeath4 traded woolwool for lumber with Shortugen
+UserKissOfDeath4 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+UserShortugen got lumbergrain
+UserWouter82 got grain
+UserShortugen rolled dice_2 dice_1
+UserKissOfDeath4 got ore
+icon_helmetMyrna8511 got oreore
+UserShortugen built a settlement (+1 VP)
+UserShortugen bought development card
+UserWouter82 rolled dice_2 dice_5
+UserWouter82 moved robber robber to  prob_8 grain tile
+UserWouter82 stole wool from you
+UserKissOfDeath4 rolled dice_2 dice_2
+UserShortugen got woolwool
+icon_helmetMyrna8511 got grain
+UserKissOfDeath4 bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_3
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserShortugen got wool
+UserWouter82 got woolwool
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded brick for wool with Wouter82
+icon_helmetMyrna8511 bought development card
+UserShortugen rolled dice_5 dice_3
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserShortugen got wool
+UserWouter82 got woolwool
+UserShortugen wants to give wool for brick
+UserShortugen traded wool for brick with KissOfDeath4
+UserShortugen gave bank woolwoolwoolwool and took lumber
+UserShortugen built a road
+UserWouter82 rolled dice_1 dice_5
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserWouter82 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give Wouter82 lumber for woolwool
+UserMyrna8511 traded lumber for woolwool with Wouter82
+UserWouter82 built a road
+UserWouter82 gave bank woolwoolwoolwool and took brick
+UserKissOfDeath4 rolled dice_1 dice_1
+UserKissOfDeath4 got brick
+UserWouter82 got brick
+icon_helmetMyrna8511 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserShortugen got wool
+UserWouter82 got woolwool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 wool tile
+icon_helmetYou stole brick from Wouter82
+UserShortugen rolled dice_2 dice_4
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserShortugen wants to give lumber for grain
+UserShortugen traded lumber for grain with Wouter82
+UserShortugen built a settlement (+1 VP)
+UserWouter82 rolled dice_4 dice_6
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+UserWouter82 used Knight card knight
+UserWouter82 moved robber robber to  prob_8 grain tile
+UserWouter82 stole brick from you
+UserWouter82 wants to give wool for lumber
+UserWouter82 wants to give woolwool for lumber
+icon_helmetMyrna8511 wants to give Wouter82 lumber for woolgrain
+UserMyrna8511 traded lumber for woolgrain with Wouter82
+UserWouter82 built a road
+UserWouter82 received longest road (+2 VPs)
+UserWouter82 built a settlement (+1 VP)
+UserKissOfDeath4 rolled dice_1 dice_6
+UserKissOfDeath4 moved robber robber to  prob_8 wool tile
+UserKissOfDeath4 stole card from Wouter82
+UserKissOfDeath4 gave bank woolwoolwool and took lumber
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 wool tile is blocked by the robber. No resources produced.
+UserKissOfDeath4 got grain
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank graingrain and took ore
+UserShortugen rolled dice_4 dice_1
+UserKissOfDeath4 got oreore
+UserShortugen got lumber
+UserWouter82 got lumber
+UserWouter82 rolled dice_1 dice_2
+UserKissOfDeath4 got ore
+UserShortugen got oreore
+icon_helmetMyrna8511 got oreore
+UserKissOfDeath4 rolled dice_6 dice_4
+UserKissOfDeath4 got woolwool
+UserWouter82 got wool
+UserKissOfDeath4 gave bank woolwoolwool and took grain
+UserKissOfDeath4 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+UserShortugen got woolwool
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 built a city (+1 VP)
+UserShortugen rolled dice_2 dice_1
+UserKissOfDeath4 got ore
+UserShortugen got oreore
+icon_helmetMyrna8511 got oreoreore
+UserShortugen wants to give wool for grain
+UserWouter82 rolled dice_5 dice_6
+UserKissOfDeath4 got brick
+UserShortugen got brick
+icon_helmetMyrna8511 got brick
+UserWouter82 gave bank woolwool and took brick
+UserWouter82 built a road
+UserKissOfDeath4 rolled dice_1 dice_5
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserKissOfDeath4 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give KissOfDeath4 lumberwool for grain
+UserKissOfDeath4 wants to give ore for lumber
+icon_helmetMyrna8511 rolled dice_2 dice_3
+UserKissOfDeath4 got oreoreore
+UserShortugen got lumber
+UserWouter82 got lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 bought development card
+UserShortugen rolled dice_6 dice_5
+UserKissOfDeath4 got brick
+UserShortugen got brick
+icon_helmetMyrna8511 got brick
+UserShortugen built a road
+UserShortugen built a road
+UserWouter82 rolled dice_5 dice_1
+UserShortugen got lumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserKissOfDeath4 rolled dice_3 dice_1
+UserShortugen got woolwool
+icon_helmetMyrna8511 got graingrain
+UserKissOfDeath4 wants to give ore for lumber
+UserKissOfDeath4 traded ore for lumber with Myrna8511
+UserKissOfDeath4 built a road
+UserKissOfDeath4 wants to give ore for lumber
+UserShortugen wants to give KissOfDeath4 lumber for grain
+UserKissOfDeath4 traded ore for lumber with Shortugen
+UserKissOfDeath4 built a road
+icon_helmetMyrna8511 rolled dice_4 dice_6
+UserKissOfDeath4 got woolwoolwool
+UserWouter82 got wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole lumber from Wouter82
+icon_helmetMyrna8511 wants to give ore for wool
+UserKissOfDeath4 wants to give Myrna8511 wool for lumberore
+UserKissOfDeath4 wants to give Myrna8511 wool for grainore
+UserShortugen rolled dice_2 dice_2
+UserShortugen got woolwool
+icon_helmetMyrna8511 got graingrain
+UserShortugen wants to give wool for ore
+UserShortugen wants to give wool for brick
+UserShortugen wants to give wool for grain
+UserKissOfDeath4 wants to give Shortugen ore for woolgrain
+UserShortugen gave bank woolwoolwooloreoreore and took brickgrain
+UserShortugen built a settlement (+1 VP)
+UserWouter82 rolled dice_4 dice_2
+UserShortugen got grainlumber
+UserWouter82 got grain
+icon_helmetMyrna8511 got lumber
+UserKissOfDeath4 rolled dice_2 dice_1
+UserKissOfDeath4 got ore
+UserShortugen got oreore
+icon_helmetMyrna8511 got oreoreore
+UserKissOfDeath4 wants to give ore for grain
+UserKissOfDeath4 wants to give wool for grain
+icon_helmetMyrna8511 wants to give KissOfDeath4 grain for woolwool
+UserMyrna8511 traded grain for woolwool with KissOfDeath4
+UserKissOfDeath4 built a settlement (+1 VP)
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_8 wool tile
+icon_helmetYou stole ore from Shortugen
+icon_helmetMyrna8511 rolled dice_1 dice_4
+UserKissOfDeath4 got oreoreoreore
+UserShortugen got lumber
+UserWouter82 got lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 wants to give oreoreore for grain
+icon_helmetMyrna8511 gave bank oreoreore and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+UserShortugen rolled dice_4 dice_6
+UserKissOfDeath4 got woolwoolwool
+UserWouter82 got wool
+UserShortugen bought development card
+UserWouter82 rolled dice_6 dice_6
+UserKissOfDeath4 rolled dice_1 dice_3
+UserShortugen got woolwool
+icon_helmetMyrna8511 got graingraingrain
+UserKissOfDeath4 wants to give ore for grain
+icon_helmetMyrna8511 wants to give KissOfDeath4 grain for oreore
+UserKissOfDeath4 traded ore for grain with Wouter82
+UserKissOfDeath4 gave bank oreoreore and took grain
+UserKissOfDeath4 bought development card
+UserKissOfDeath4 bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_3
+UserShortugen got woolwool
+icon_helmetMyrna8511 got graingraingrain
+icon_helmetMyrna8511 gave bank graingrain and took ore
+icon_helmetMyrna8511 bought development card
+UserShortugen used Knight card knight
+UserShortugen moved robber robber to  prob_4 grain tile
+UserShortugen stole grain from you
+UserShortugen rolled dice_2 dice_5
+UserShortugen discarded lumberlumberwoolwoolwool
+UserShortugen moved robber robber to  prob_8 grain tile
+UserShortugen stole grain from you
+UserShortugen bought development card
+UserShortugen bought development card
+UserWouter82 rolled dice_4 dice_1
+UserKissOfDeath4 got oreoreoreore
+UserShortugen got lumber
+UserWouter82 got lumber
+UserWouter82 gave bank lumberlumber and took ore
+UserWouter82 bought development card
+UserWouter82 bought development card
+UserKissOfDeath4 used Knight card knight
+UserKissOfDeath4 moved robber robber to  prob_4 grain tile
+UserKissOfDeath4 stole lumber from you
+UserKissOfDeath4 rolled dice_6 dice_4
+UserKissOfDeath4 got woolwoolwool
+UserWouter82 got wool
+UserKissOfDeath4 wants to give woolore for grain
+UserKissOfDeath4 wants to give woolore for brick
+UserKissOfDeath4 wants to give lumberwoolore for grain
+UserKissOfDeath4 wants to give oreoreore for grain
+UserKissOfDeath4 gave bank oreoreore and took grain
+UserKissOfDeath4 wants to give woolwool for grain
+UserKissOfDeath4 bought development card
+UserKissOfDeath4 gave bank woolwoolwool and took brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 ore tile
+icon_helmetYou stole brick from KissOfDeath4
+icon_helmetMyrna8511 rolled dice_3 dice_5
+UserKissOfDeath4 got graingrain
+UserShortugen got wool
+UserWouter82 got woolwool
+icon_helmetMyrna8511 got graingraingrain
+UserShortugen rolled dice_2 dice_6
+UserKissOfDeath4 got graingrain
+UserShortugen got wool
+UserWouter82 got woolwool
+icon_helmetMyrna8511 got graingraingrain
+UserShortugen used Road Building card road building
+UserShortugen placed a road
+Userlongest road passed from Wouter82 to Shortugen (+2 VPs)
+UserShortugen placed a road
+UserWouter82 used Knight card knight
+UserWouter82 moved robber robber to  prob_8 grain tile
+UserWouter82 stole grain from you
+UserWouter82 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+UserShortugen got wool
+UserWouter82 got woolwool
+UserWouter82 gave bank woolwoolwoolwool and took lumberbrick
+UserWouter82 built a settlement (+1 VP)
+UserKissOfDeath4 used Knight card knight
+UserKissOfDeath4 moved robber robber to  prob_4 grain tile
+UserKissOfDeath4 stole brick from you
+UserKissOfDeath4 rolled dice_1 dice_6
+UserKissOfDeath4 moved robber robber to  prob_8 grain tile
+UserKissOfDeath4 stole grain from you
+UserKissOfDeath4 wants to give grain for wool
+UserShortugen wants to give KissOfDeath4 wool for grainore
+UserKissOfDeath4 gave bank graingraingrain and took wool
+UserKissOfDeath4 bought development card
+UserKissOfDeath4 built a road
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_5 ore tile
+icon_helmetYou stole grain from KissOfDeath4
+icon_helmetMyrna8511 gave bank graingraingraingrain and took woolore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank wool ore
+icon_helmetMyrna8511 bought development card
+UserShortugen rolled dice_6 dice_1
+UserShortugen moved robber robber to  prob_8 grain tile
+UserNo player to steal from
+UserWouter82 rolled dice_6 dice_6
+UserKissOfDeath4 used Knight card knight
+UserKissOfDeath4 moved robber robber to  prob_4 grain tile
+UserNo player to steal from
+UserKissOfDeath4 rolled dice_1 dice_4
+UserKissOfDeath4 got oreoreoreore
+UserShortugen got lumber
+UserWouter82 got lumber
+UserKissOfDeath4 wants to give oreoreore for woolgrain
+icon_helmetMyrna8511 rolled dice_6 dice_2
+UserKissOfDeath4 got graingrain
+UserShortugen got wool
+UserWouter82 got woolwool
+icon_helmetMyrna8511 got graingraingrain
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 4 ore
+icon_helmetMyrna8511 built a city (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+UserKissOfDeath4 has left the game
+UserWouter82 has left the game

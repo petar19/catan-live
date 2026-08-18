@@ -1,0 +1,435 @@
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+Guestpatridk placed a settlement
+Guestpatridk placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 received starting resources: woollumberwool
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources: orewoollumber
+Guestpatridk placed a settlement
+Guestpatridk placed a road
+Guestpatridk received starting resources: graingrainbrick
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+GuestYolonc received starting resources: lumberlumberbrick
+GuestYolonc rolled: dice_6 dice_4
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+Guestpatridk got: wool
+GuestYolonc built a road
+Guestpatridk rolled: dice_2 dice_5
+Guestpatridk moved robber robber to  prob_4 brick tile
+Guestpatridk stole: card from: Yolonc
+Guestpatridk built a road
+GuestSeale5074 rolled: dice_6 dice_2
+Myrna8511 got: wool
+GuestSeale5074 got: grain
+GuestYolonc got: grain
+Guestpatridk got: grain
+GuestSeale5074 wants to give: wool for: brick
+GuestSeale5074 wants to give: wool for: ore
+Myrna8511 rolled: dice_6 dice_5
+Guestpatridk got: brick
+Myrna8511 wants to give: wool for: brick
+Myrna8511 gave bank: woolwool and took brick
+Myrna8511 built a road
+GuestYolonc rolled: dice_2 dice_3
+Myrna8511 got: wool
+Guestpatridk got: grainore
+Guestpatridk rolled: dice_3 dice_1
+GuestYolonc got: ore
+Guestpatridk wants to give: grain for: lumber
+Myrna8511 wants to give: patridk: lumber for: graingrain
+GuestSeale5074 wants to give: patridk: wool for: ore
+Myrna8511 wants to give: patridk: lumber for: grainore
+GuestMyrna8511 traded: lumber for: graingrain with: patridk
+Guestpatridk built a settlement: +1 VP
+GuestSeale5074 rolled: dice_4 dice_6
+Myrna8511 got: lumber
+GuestSeale5074 got: wool
+Guestpatridk got: wool
+GuestSeale5074 wants to give: woolwool for: brick
+GuestSeale5074 wants to give: woolwool for: ore
+GuestSeale5074 traded: woolwool for: ore with: Yolonc
+Myrna8511 rolled: dice_2 dice_6
+Myrna8511 got: wool
+GuestSeale5074 got: grain
+GuestYolonc got: grain
+Guestpatridk got: graingrain
+Myrna8511 gave bank: woolwool and took brick
+Myrna8511 built a settlement: +1 VP
+GuestYolonc rolled: dice_3 dice_4
+GuestBot is selecting where to place robber for Yolonc
+GuestYolonc moved robber robber to  prob_8 grain tile
+GuestYolonc stole: card from: patridk
+GuestYolonc wants to give: woolwool for: lumber
+Guestpatridk rolled: dice_6 dice_3
+GuestSeale5074 got: grainore
+GuestYolonc got: brick
+GuestSeale5074 rolled: dice_4 dice_3
+GuestSeale5074 discarded: lumberwoolgraingrain
+GuestSeale5074 moved robber robber to  prob_5 grain tile
+GuestSeale5074 stole: card from: patridk
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 wants to give: ore for: lumber
+GuestSeale5074 wants to give: ore for: grain
+GuestSeale5074 traded: ore for: grain with: Yolonc
+GuestSeale5074 built a city: +1 VP
+Myrna8511 rolled: dice_4 dice_3
+Myrna8511 moved robber robber to  prob_8 grain tile
+You stole: grain from: patridk
+GuestYolonc rolled: dice_2 dice_1
+Myrna8511 got: brick
+GuestSeale5074 got: lumber
+GuestYolonc got: lumber
+Guestpatridk got: lumber
+GuestYolonc built a settlement: +1 VP
+Guestpatridk rolled: dice_5 dice_1
+Myrna8511 got: wool
+GuestYolonc got: lumberlumber
+Guestpatridk got: lumber
+GuestSeale5074 rolled: dice_6 dice_2
+Myrna8511 got: wool
+GuestYolonc got: grain
+Myrna8511 rolled: dice_3 dice_6
+GuestSeale5074 got: graingrainore
+GuestYolonc got: brickbrick
+Guestpatridk has disconnected.
+GuestBot will wait until next turn to give patridk a chance to reconnect
+botpatridk has left the game, giving them 2 minutes to reconnect.
+Myrna8511 wants to give: grain for: lumber
+GuestSeale5074 wants to give: Myrna8511: lumber for: oreore
+GuestSeale5074 wants to give: Myrna8511: lumber for: woolore
+Myrna8511 gave bank: woolwool and took lumber
+Myrna8511 built a road
+GuestYolonc rolled: dice_3 dice_4
+GuestYolonc discarded: lumberbrickwoolore
+GuestYolonc moved robber robber to  prob_5 grain tile
+GuestYolonc stole: grain from you
+GuestYolonc built a road
+botpatridk rolled: dice_5 dice_2
+botpatridk moved robber robber to  prob_4 brick tile
+botpatridk stole: card from: Seale5074
+botpatridk wants to give: grain for: ore
+GuestSeale5074 rolled: dice_6 dice_4
+Myrna8511 got: lumberlumber
+GuestSeale5074 got: wool
+botpatridk got: wool
+GuestSeale5074 bought development card
+Myrna8511 rolled: dice_2 dice_3
+Myrna8511 got: grainwool
+botpatridk got: grainore
+Myrna8511 wants to give: grain for: brick
+Myrna8511 wants to give: lumber for: brick
+Myrna8511 wants to give: lumbergrain for: brick
+Myrna8511 wants to give: lumbergrain for: woolwool
+Myrna8511 wants to give: grain for: wool
+Myrna8511 wants to give: lumber for: wool
+GuestYolonc rolled: dice_1 dice_5
+Myrna8511 got: wool
+GuestYolonc got: lumberlumber
+botpatridk got: lumber
+GuestYolonc wants to give: grain for: brick
+GuestYolonc wants to give: lumber for: brick
+GuestYolonc wants to give: lumbergrain for: brick
+botpatridk rolled: dice_2 dice_6
+Myrna8511 got: wool
+GuestSeale5074 got: graingrain
+GuestYolonc got: grain
+botpatridk got: graingrain
+botpatridk gave bank: graingraingraingrain and took brick
+botpatridk built a road
+GuestSeale5074 used card knight
+GuestBot is selecting where to place robber for Seale5074
+GuestSeale5074 moved robber robber to  prob_5 grain tile
+GuestSeale5074 stole: card from: patridk
+GuestSeale5074 rolled: dice_5 dice_3
+Myrna8511 got: wool
+GuestSeale5074 got: graingrain
+GuestYolonc got: grain
+botpatridk got: graingrain
+GuestSeale5074 wants to give: grain for: brick
+GuestSeale5074 wants to give: graingrain for: brick
+GuestSeale5074 wants to give: graingraingrain for: brick
+GuestSeale5074 gave bank: graingraingraingrain and took brick
+GuestSeale5074 built a road
+Myrna8511 rolled: dice_3 dice_6
+GuestSeale5074 got: graingrainore
+GuestYolonc got: brickbrick
+Myrna8511 wants to give: grain for: brick
+Myrna8511 wants to give: wool for: brick
+Myrna8511 gave bank: woolwool and took brick
+Myrna8511 built a settlement: +1 VP
+Myrna8511 wants to give: grain for: wool
+GuestYolonc rolled: dice_5 dice_3
+Myrna8511 got: wool
+GuestSeale5074 got: graingrain
+GuestYolonc got: grain
+botpatridk got: graingrain
+GuestYolonc built a road
+GuestYolonc built a settlement: +1 VP
+GuestYolonc wants to give: grain for: ore
+GuestSeale5074 wants to give: Yolonc: ore for: brick
+GuestYolonc gave bank: graingraingraingrain and took oreore
+botpatridk rolled: dice_6 dice_1
+botBot is selecting cards to discard for patridk
+botpatridk discarded: graingraingraingrain
+botpatridk moved robber robber to  prob_6 wool tile
+botpatridk stole: wool from you
+GuestSeale5074 rolled: dice_5 dice_3
+Myrna8511 got: wool
+GuestSeale5074 got: graingrain
+GuestYolonc got: graingrain
+botpatridk got: graingrain
+GuestSeale5074 wants to give: grain for: brick
+GuestSeale5074 wants to give: ore for: wool
+GuestSeale5074 traded: ore for: wool with: patridk
+GuestSeale5074 wants to give: graingrain for: brick
+GuestSeale5074 wants to give: graingraingrain for: brick
+GuestSeale5074 gave bank: graingraingraingrain and took brick
+GuestSeale5074 built a settlement: +1 VP
+Myrna8511 rolled: dice_2 dice_6
+Myrna8511 got: wool
+GuestSeale5074 got: graingrain
+GuestYolonc got: graingrain
+botpatridk got: graingrain
+Myrna8511 gave bank: woolwool and took brick
+Myrna8511 built a road
+GuestYolonc rolled: dice_5 dice_5
+Myrna8511 got: orelumberlumber
+GuestSeale5074 got: wool
+botpatridk got: wool
+GuestYolonc gave bank: graingrain and took ore
+GuestYolonc built a city: +1 VP
+botpatridk rolled: dice_3 dice_2
+Myrna8511 got: grainwool
+botpatridk got: grainore
+botpatridk built a city: +1 VP
+botpatridk gave bank: graingraingraingrain and took brick
+botpatridk built a settlement: +1 VP
+GuestSeale5074 rolled: dice_1 dice_6
+GuestSeale5074 moved robber robber to  prob_5 ore tile
+GuestSeale5074 stole: card from: patridk
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 wants to give: wool for: grain
+GuestSeale5074 traded: wool for: grain with: Myrna8511
+GuestSeale5074 wants to give: graingrain for: ore
+GuestSeale5074 gave bank: graingraingrain and took ore
+GuestSeale5074 bought development card
+Myrna8511 rolled: dice_1 dice_4
+Myrna8511 got: grainwool
+botpatridk got: grain
+Myrna8511 wants to give: lumber for: ore
+Myrna8511 gave bank: woolwoolwoolwool and took oreore
+Myrna8511 built a city: +1 VP
+GuestYolonc rolled: dice_4 dice_5
+GuestSeale5074 got: graingraingrainore
+GuestYolonc got: brickbrickbrick
+GuestYolonc wants to give: brick for: lumber
+botpatridk rolled: dice_3 dice_3
+Myrna8511 got: woolwool
+GuestYolonc got: lumberlumber
+botpatridk got: lumberlumber
+botpatridk wants to give: grain for: brick
+GuestSeale5074 rolled: dice_5 dice_4
+GuestSeale5074 got: graingraingrainore
+GuestYolonc got: brickbrickbrick
+GuestSeale5074 wants to give: graingrain for: ore
+GuestSeale5074 gave bank: graingraingrain and took ore
+GuestSeale5074 built a city: +1 VP
+Myrna8511 rolled: dice_6 dice_3
+GuestSeale5074 got: graingraingrainoreore
+GuestYolonc got: brickbrickbrick
+Myrna8511 wants to give: wool for: brick
+Myrna8511 traded: wool for: brick with: Yolonc
+Myrna8511 wants to give: lumber for: grain
+GuestSeale5074 wants to give: Myrna8511: grain for: lumberore
+GuestSeale5074 wants to give: Myrna8511: grain for: lumberwool
+GuestYolonc rolled: dice_3 dice_4
+GuestYolonc discarded: brickbrickbrickbrickbrick
+GuestBot is selecting where to place robber for Yolonc
+GuestYolonc moved robber robber to  prob_8 grain tile
+GuestYolonc stole: card from: patridk
+GuestYolonc built a road
+GuestYolonc received longest road: +2 VPs
+GuestYolonc built a road
+botpatridk rolled: dice_6 dice_2
+Myrna8511 got: woolwool
+GuestYolonc got: graingraingrain
+botpatridk wants to give: grain for: brick
+Myrna8511 wants to give: patridk: wool for: grain
+Myrna8511 wants to give: patridk: lumber for: grain
+Myrna8511 wants to give: patridk: lumberwool for: grain
+GuestSeale5074 rolled: dice_1 dice_1
+GuestSeale5074 wants to give: grain for: ore
+GuestSeale5074 wants to give: graingrain for: ore
+GuestSeale5074 wants to give: grain for: wool
+GuestSeale5074 traded: grain for: wool with: Myrna8511
+GuestSeale5074 wants to give: wool for: ore
+GuestSeale5074 wants to give: woolgrain for: ore
+GuestSeale5074 bought development card
+Myrna8511 rolled: dice_2 dice_1
+Myrna8511 got: brick
+GuestSeale5074 got: lumberlumber
+GuestYolonc got: lumber
+botpatridk got: lumber
+Myrna8511 built a settlement: +1 VP
+Myrna8511 built a road
+GuestYolonc rolled: dice_3 dice_5
+Myrna8511 got: woolwoolwool
+GuestYolonc got: graingraingrain
+GuestYolonc built a settlement: +1 VP
+GuestYolonc gave bank: graingraingraingrain and took woolore
+GuestYolonc bought development card
+botpatridk rolled: dice_1 dice_3
+Myrna8511 got: wool
+GuestSeale5074 got: brickbrick
+GuestYolonc got: oreorebrickwool
+botpatridk wants to give: lumber for: brick
+GuestSeale5074 rolled: dice_1 dice_3
+Myrna8511 got: wool
+GuestSeale5074 got: brickbrick
+GuestYolonc got: oreorebrickwool
+GuestSeale5074 used card year of plenty
+GuestSeale5074 took from bank: ore ore
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 wants to give: brick for: lumber
+GuestSeale5074 traded: brick for: lumber with: patridk
+Myrna8511 rolled: dice_6 dice_5
+GuestYolonc got: lumber
+botpatridk got: brick
+Myrna8511 gave bank: woolwoolwoolwool and took lumberbrick
+Myrna8511 built a road
+Myrna8511 wants to give: woolwool for: lumberlumberbrickbrick
+Myrna8511 traded: woolwool for: lumberlumberbrickbrick with: Seale5074
+Myrna8511 built a road
+Myrna8511 built a road
+longest road passed from: Yolonc to: Myrna8511: +2 VPs
+GuestYolonc rolled: dice_4 dice_5
+GuestSeale5074 got: graingraingraingrainoreore
+GuestYolonc got: brickbrickbrick
+GuestYolonc wants to give: brickbrick for: graingrain
+GuestSeale5074 started an embargo against Yolonc
+GuestYolonc built a road
+GuestYolonc built a road
+Guestlongest road passed from: Myrna8511 to: Yolonc: +2 VPs
+botpatridk rolled: dice_6 dice_2
+Myrna8511 got: woolwoolwool
+GuestYolonc got: graingraingraingrain
+botpatridk built a road
+GuestSeale5074 rolled: dice_5 dice_3
+Myrna8511 got: woolwoolwool
+GuestYolonc got: graingraingraingrain
+GuestSeale5074 wants to give: woolwool for: ore
+GuestSeale5074 bought development card
+GuestSeale5074 bought development card
+GuestSeale5074 wants to give: grain for: wool
+Myrna8511 rolled: dice_3 dice_2
+Myrna8511 got: grainwoolwool
+botpatridk got: grainoreoreore
+Myrna8511 gave bank: woolwoolwoolwoolwoolwoolwoolwool and took lumberlumberbrickbrick
+Myrna8511 built a road
+Myrna8511 built a road
+longest road passed from: Yolonc to: Myrna8511: +2 VPs
+Myrna8511 wants to give: grain for: lumberbrick
+Myrna8511 traded: grain for: lumberbrick with: Seale5074
+Myrna8511 built a road
+GuestYolonc rolled: dice_6 dice_4
+Myrna8511 got: orelumberlumberlumber
+GuestSeale5074 got: woolwool
+botpatridk got: woolwool
+GuestYolonc used card knight
+GuestYolonc moved robber robber to  prob_5 ore tile
+GuestYolonc stole: card from: patridk
+GuestYolonc built a city: +1 VP
+GuestYolonc wants to give: Myrna8511 & patridk: grain for: lumber
+GuestYolonc wants to give: Myrna8511 & patridk: wool for: lumber
+Myrna8511 started an embargo against Yolonc
+GuestYolonc wants to give: patridk: woolgrain for: lumber
+GuestYolonc wants to give: patridk: woolwoolgrain for: lumber
+GuestYolonc bought development card
+GuestYolonc gave bank: graingraingraingrain and took lumberlumber
+GuestYolonc built a road
+GuestYolonc built a road
+botpatridk rolled: dice_5 dice_3
+Myrna8511 got: woolwoolwool
+GuestSeale5074 got: graingrain
+GuestYolonc got: graingraingraingrain
+botpatridk got: graingrain
+botpatridk built a city: +1 VP
+botpatridk wants to give: brick for: ore
+GuestSeale5074 used card knight
+GuestSeale5074 moved robber robber to  prob_8 grain tile
+GuestSeale5074 stole: card from: Yolonc
+GuestSeale5074 rolled: dice_6 dice_2
+Myrna8511 got: woolwoolwool
+GuestSeale5074 got: graingrain
+botpatridk got: graingraingrain
+GuestSeale5074 gave bank: graingraingrain and took ore
+GuestSeale5074 gave bank: graingraingrain and took ore
+GuestSeale5074 bought development card
+GuestSeale5074 bought development card
+Myrna8511 rolled: dice_2 dice_6
+Myrna8511 got: woolwoolwool
+GuestSeale5074 got: graingrain
+botpatridk got: graingraingrain
+Myrna8511 gave bank: woolwoolwoolwool and took brickbrick
+Myrna8511 built a road
+Myrna8511 built a road
+Myrna8511 gave bank: woolwoolwoolwool and took brickgrain
+Myrna8511 built a settlement: +1 VP
+GuestYolonc used card knight
+GuestYolonc moved robber robber to  prob_8 wool tile
+GuestYolonc stole: ore from you
+GuestYolonc rolled: dice_2 dice_5
+botBot is selecting cards to discard for patridk
+botpatridk discarded: graingraingraingraingrain
+GuestYolonc discarded: brickwoolgraingrain
+GuestYolonc moved robber robber to  prob_6 wool tile
+GuestYolonc bought development card
+botpatridk rolled: dice_5 dice_3
+Myrna8511 got: woolwoolwool
+GuestSeale5074 got: graingrain
+GuestYolonc got: graingraingraingrain
+botpatridk got: graingraingrain
+botpatridk gave bank: graingraingraingrain and took lumber
+botpatridk built a road
+GuestSeale5074 used card knight
+GuestSeale5074 received largest army: +2 VPs
+GuestSeale5074 moved robber robber to  prob_8 wool tile
+GuestSeale5074 stole: wool from you
+GuestSeale5074 rolled: dice_5 dice_6
+GuestYolonc got: lumber
+botpatridk got: brickbrick
+GuestSeale5074 gave bank: graingraingrain and took ore
+GuestSeale5074 bought development card
+Myrna8511 rolled: dice_6 dice_3
+GuestSeale5074 got: graingraingraingrainoreore
+GuestYolonc got: brickbrickbrick
+GuestYolonc rolled: dice_3 dice_4
+GuestYolonc discarded: brickgraingraingrain
+GuestYolonc moved robber robber to  prob_8 grain tile
+GuestYolonc stole: card from: Seale5074
+GuestYolonc wants to give: patridk: grain for: lumber
+GuestYolonc wants to give: patridk: grain for: brick
+GuestYolonc gave bank: graingrain and took lumber
+GuestYolonc built a road
+GuestYolonc built a road
+botpatridk rolled: dice_2 dice_5
+botpatridk moved robber robber to  prob_4 wool tile
+botpatridk stole: wool from you
+GuestSeale5074 used card knight
+GuestBot is selecting where to place robber for Seale5074
+GuestSeale5074 moved robber robber to  prob_5 grain tile
+GuestSeale5074 stole: wool from you
+GuestSeale5074 rolled: dice_3 dice_4
+GuestSeale5074 moved robber robber to  prob_8 grain tile
+GuestSeale5074 stole: card from: Yolonc
+GuestSeale5074 bought development card
+trophy Seale5074 won the game! trophy

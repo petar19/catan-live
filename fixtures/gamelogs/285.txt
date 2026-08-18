@@ -1,0 +1,355 @@
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Giorgi placed a settlement
+Giorgi placed a road
+Townie placed a settlement
+Townie placed a road
+Kragh placed a settlement
+Kragh placed a road
+Kragh placed a settlement
+Kragh received starting resources wool brick grain 
+Kragh placed a road
+Townie placed a settlement
+Townie received starting resources brick wool grain 
+Townie placed a road
+Giorgi placed a settlement
+Giorgi received starting resources lumber wool brick 
+Giorgi placed a road
+Myrna8511 placed a settlement
+Myrna8511 received starting resources grain ore 
+Myrna8511 placed a road
+Myrna8511 rolled dice_5 dice_6
+Kragh got wool 
+Giorgi got wool 
+Townie got wool 
+Giorgi rolled dice_4 dice_6
+Myrna8511 got ore 
+Giorgi got ore 
+Townie got lumber 
+Giorgi wants to give lumber  for grain 
+Giorgi gave lumber  and got grain  from Myrna8511
+Townie rolled dice_2 dice_2
+Myrna8511 got brick 
+Kragh got brick 
+Giorgi got brick 
+Townie got brick 
+Townie built a road
+Townie wants to give wool  for lumber 
+Kragh rolled dice_5 dice_2
+Kragh moved Robber robber to  prob_9 lumber tile
+Kragh stole card  from Giorgi
+Kragh wants to give wool  for lumber 
+Myrna8511 proposed counter offer to Kragh, offering lumber  for wool card 
+Myrna8511 rolled dice_3 dice_1
+Myrna8511 got brick 
+Kragh got brick 
+Giorgi got brick 
+Townie got brick 
+Myrna8511 wants to give brick  for wool 
+Myrna8511 gave brick  and got wool  from Giorgi
+Myrna8511 built a road
+Giorgi rolled dice_2 dice_5
+Giorgi moved Robber robber to  prob_6 grain tile
+Giorgi stole card  from Kragh
+Giorgi gave bank brick brick brick brick  and took grain 
+Townie rolled dice_6 dice_5
+Kragh got wool 
+Giorgi got wool 
+Townie got wool 
+Townie wants to give wool  for ore 
+Kragh rolled dice_1 dice_1
+Kragh wants to give wool  for ore 
+Kragh wants to give brick  for ore 
+Kragh wants to give wool wool  for ore 
+Kragh gave wool wool  and got ore  from Giorgi
+Myrna8511 rolled dice_6 dice_6
+Giorgi rolled dice_2 dice_1
+Myrna8511 got brick 
+Kragh got grain 
+Giorgi wants to give wool  for ore 
+Townie rolled dice_3 dice_2
+Kragh got lumber 
+Giorgi got lumber 
+Townie got grain 
+Townie wants to give wool wool  for lumber 
+Townie gave wool wool  and got lumber  from Giorgi
+Townie built a settlement (+1 VP)
+Kragh rolled dice_4 dice_1
+Kragh got lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Kragh built a road
+Kragh built a settlement (+1 VP)
+Kragh wants to give brick  for wool 
+Kragh gave brick  and got wool  from Giorgi
+Myrna8511 rolled dice_5 dice_4
+Giorgi got lumber lumber 
+Townie got lumber 
+Myrna8511 wants to give ore  for grain 
+Myrna8511 wants to give ore  for lumber grain 
+Myrna8511 wants to give ore ore  for lumber lumber grain 
+Myrna8511 wants to give ore ore  for lumber 
+Myrna8511 wants to give ore  for lumber 
+Myrna8511 gave ore  and got lumber  from Giorgi
+Myrna8511 built a road
+Giorgi rolled dice_3 dice_3
+ prob_6 grain tile is blocked by the Robber. No resources produced
+Kragh got wool wool 
+Giorgi built a road
+Giorgi gave bank wool wool wool wool  and took brick 
+Giorgi built a road
+Townie rolled dice_5 dice_1
+ prob_6 grain tile is blocked by the Robber. No resources produced
+Kragh got wool wool 
+Townie wants to give grain  for wool 
+Townie gave grain  and got wool  from Kragh
+Townie built a road
+Kragh rolled dice_3 dice_6
+Giorgi got lumber lumber 
+Townie got lumber 
+Kragh bought development card
+Kragh wants to give wool  for ore 
+Myrna8511 rolled dice_6 dice_4
+Myrna8511 got ore 
+Giorgi got ore 
+Townie got lumber 
+Giorgi rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the Robber. No resources produced
+Kragh got wool wool 
+Giorgi wants to give wool  for ore 
+Giorgi bought development card
+Townie rolled dice_2 dice_6
+Myrna8511 got grain ore 
+Townie wants to give grain  for ore 
+Myrna8511 proposed counter offer to Townie, offering ore  for lumber grain 
+Kragh used 
+Kragh moved Robber robber to  prob_9 lumber tile
+Kragh stole card  from Townie
+Kragh rolled dice_4 dice_5
+ prob_9 lumber tile is blocked by the Robber. No resources produced
+Giorgi got lumber 
+Kragh gave bank wool wool wool wool  and took ore 
+Myrna8511 rolled dice_2 dice_3
+Kragh got lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Myrna8511 wants to give wool  for grain 
+Myrna8511 gave wool  and got grain  from Townie
+Myrna8511 built a city (+1 VP)
+Giorgi used 
+Giorgi moved Robber robber to  prob_6 grain tile
+Giorgi stole card  from Townie
+Giorgi rolled dice_5 dice_3
+Myrna8511 got grain ore ore 
+Giorgi gave bank lumber lumber lumber lumber  and took brick 
+Giorgi wants to give ore  for wool 
+Giorgi gave ore  and got wool  from Townie
+Giorgi built a settlement (+1 VP)
+Townie rolled dice_1 dice_4
+Kragh got lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Townie gave bank grain grain grain grain  and took brick 
+Townie wants to give ore  for wool 
+Townie gave ore  and got wool  from Kragh
+Townie built a settlement (+1 VP)
+Kragh rolled dice_6 dice_3
+Giorgi got lumber lumber lumber 
+Townie got lumber 
+Kragh wants to give wool  for grain 
+Myrna8511 rolled dice_1 dice_3
+Myrna8511 got brick brick 
+Kragh got brick 
+Giorgi got brick 
+Townie got brick 
+Myrna8511 wants to give brick ore  for lumber wool 
+Myrna8511 wants to give ore  for lumber 
+Myrna8511 wants to give ore  for wool 
+Myrna8511 wants to give brick  for wool 
+Myrna8511 wants to give brick  for lumber 
+Myrna8511 gave ore  and got lumber  from Kragh
+Myrna8511 wants to give brick  for wool 
+Myrna8511 wants to give ore  for wool 
+Myrna8511 wants to give brick ore  for wool 
+Giorgi rolled dice_5 dice_6
+Kragh got wool 
+Giorgi got wool 
+Townie got wool 
+Giorgi wants to give lumber  for grain 
+Giorgi built a road
+Townie rolled dice_4 dice_3
+Bot is selecting cards to discard for Kragh
+Kragh discarded grain lumber brick ore 
+Townie moved Robber robber to  prob_10 ore tile
+Townie stole brick  from you
+Townie wants to give brick  for grain 
+Townie built a road
+Kragh rolled dice_6 dice_2
+Myrna8511 got grain ore ore 
+Kragh wants to give wool  for grain 
+Kragh gave wool  and got grain  from Myrna8511
+Myrna8511 rolled dice_1 dice_4
+Kragh got lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Myrna8511 built a settlement (+1 VP)
+Giorgi rolled dice_4 dice_5
+Giorgi got lumber lumber lumber 
+Townie got lumber 
+Giorgi gave bank lumber lumber lumber lumber  and took brick 
+Giorgi wants to give wool  for ore 
+Giorgi gave wool  and got ore  from Myrna8511
+Giorgi built a road
+Giorgi received longest road (+2 VPs)
+Townie rolled dice_3 dice_3
+Kragh got wool wool grain 
+Townie got grain 
+Townie built a road
+Townie wants to give grain  for ore 
+Kragh rolled dice_1 dice_2
+Myrna8511 got grain brick brick 
+Kragh got grain 
+Kragh wants to give wool  for ore 
+Myrna8511 proposed counter offer to Kragh, offering ore  for wool wool 
+Kragh gave wool wool  and got ore  from Myrna8511
+Kragh built a city (+1 VP)
+Myrna8511 rolled dice_3 dice_4
+Myrna8511 moved Robber robber to  prob_6 grain tile
+You stole lumber  from Kragh
+Myrna8511 bought development card
+Myrna8511 built a road
+Giorgi rolled dice_2 dice_6
+Myrna8511 got grain grain ore ore 
+Townie rolled dice_3 dice_2
+Kragh got lumber lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Townie wants to give grain  for ore 
+Kragh rolled dice_5 dice_5
+Myrna8511 got ore 
+Giorgi got ore 
+Townie got lumber lumber 
+Kragh wants to give wool  for brick 
+Myrna8511 rolled dice_6 dice_6
+Giorgi got wool 
+Myrna8511 bought development card
+Myrna8511 bought development card
+Giorgi rolled dice_4 dice_2
+ prob_6 grain tile is blocked by the Robber. No resources produced
+Kragh got wool wool 
+Giorgi wants to give ore  for brick 
+Townie rolled dice_3 dice_5
+Myrna8511 got grain grain ore ore 
+Townie gave bank grain grain grain  and took brick 
+Townie built a road
+Townie wants to give grain  for brick 
+Kragh rolled dice_2 dice_1
+Myrna8511 got grain brick brick 
+Kragh got grain 
+Kragh wants to give wool  for brick 
+Kragh gave wool  and got brick  from Myrna8511
+Kragh built a road
+Myrna8511 rolled dice_4 dice_4
+Myrna8511 got grain grain ore ore 
+Myrna8511 built a city (+1 VP)
+Myrna8511 used 
+Myrna8511 took from bank ore ore
+Myrna8511 built a city (+1 VP)
+Myrna8511 bought development card
+Giorgi rolled dice_2 dice_3
+Kragh got lumber lumber 
+Giorgi got lumber 
+Townie got grain grain 
+Giorgi gave bank lumber lumber lumber lumber  and took grain 
+Townie rolled dice_1 dice_6
+Townie moved Robber robber to  prob_10 ore tile
+Townie stole brick  from you
+Townie built a settlement (+1 VP)
+Kragh rolled dice_1 dice_5
+Kragh got wool wool grain grain 
+Townie got grain 
+Kragh gave bank wool wool wool wool  and took brick 
+Kragh gave bank grain grain grain grain  and took lumber 
+Kragh built a road
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_6 grain tile
+You stole lumber  from Kragh
+Myrna8511 rolled dice_6 dice_1
+Myrna8511 moved Robber robber to  prob_9 lumber tile
+You stole grain  from Giorgi
+Giorgi rolled dice_6 dice_5
+Kragh got wool wool 
+Giorgi got wool 
+Townie got wool 
+Giorgi wants to give ore  for grain 
+Giorgi gave ore  and got grain  from Townie
+Townie rolled dice_4 dice_6
+Myrna8511 got ore ore 
+Giorgi got ore 
+Townie got lumber lumber 
+Townie bought development card
+Kragh rolled dice_6 dice_3
+ prob_9 lumber tile is blocked by the Robber. No resources produced
+Giorgi got lumber lumber 
+Myrna8511 rolled dice_6 dice_2
+Myrna8511 got grain grain grain grain ore ore 
+Myrna8511 wants to give ore  for wool 
+Myrna8511 wants to give ore ore  for wool 
+Myrna8511 gave ore ore  and got wool  from Giorgi
+Myrna8511 built a settlement (+1 VP)
+Myrna8511 gave bank grain grain  and took wool 
+Myrna8511 bought development card
+Myrna8511 used 
+Myrna8511 moved Robber robber to  prob_6 grain tile
+You stole wool  from Kragh
+Myrna8511 bought development card
+Giorgi rolled dice_2 dice_6
+Myrna8511 got grain grain grain grain ore ore ore 
+Giorgi wants to give ore  for grain 
+Giorgi bought development card
+Townie used 
+Townie moved Robber robber to  prob_10 ore tile
+Townie stole grain  from you
+Townie rolled dice_6 dice_3
+Giorgi got lumber lumber lumber 
+Townie got lumber 
+Kragh rolled dice_6 dice_1
+Bot is selecting cards to discard for Giorgi
+Giorgi discarded ore ore lumber lumber 
+Kragh moved Robber robber to  prob_4 brick tile
+Kragh stole grain  from you
+Myrna8511 rolled dice_5 dice_4
+Giorgi got lumber lumber lumber 
+Townie got lumber 
+Myrna8511 used 
+Myrna8511 stole 12 lumber
+Myrna8511 gave bank lumber lumber lumber lumber lumber lumber  and took wool wool 
+Myrna8511 bought development card
+Myrna8511 bought development card
+Myrna8511 gave bank lumber lumber lumber  and took brick 
+Myrna8511 built a road
+Giorgi rolled dice_2 dice_3
+Kragh got lumber lumber 
+Giorgi got lumber 
+Townie got grain grain grain 
+Giorgi used 
+Giorgi moved Robber robber to  prob_8 grain tile
+Giorgi stole lumber  from you
+Townie rolled dice_5 dice_6
+Kragh got wool wool 
+Giorgi got wool 
+Townie got wool 
+Townie gave bank grain grain grain  and took ore 
+Kragh rolled dice_3 dice_1
+Myrna8511 got brick brick 
+Kragh got brick 
+Giorgi got brick 
+Townie got brick 
+Kragh built a settlement (+1 VP)
+Myrna8511 rolled dice_1 dice_4
+Kragh got lumber lumber 
+Giorgi got lumber 
+Townie got grain grain grain 
+Myrna8511 used 
+Myrna8511 received largest army (+2 VPs)
+trophy Myrna8511 won the game! trophy

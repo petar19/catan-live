@@ -1,0 +1,348 @@
+UserHulkBD placed a settlement
+UserHulkBD placed a road
+GuestFernny#7716 placed a settlement
+GuestFernny#7716 placed a road
+UserCyronica placed a settlement
+UserCyronica placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources: bricklumber
+UserCyronica placed a settlement
+UserCyronica placed a road
+UserCyronica received starting resources: woolwoolgrain
+GuestFernny#7716 placed a settlement
+GuestFernny#7716 placed a road
+GuestFernny#7716 received starting resources: lumberwool
+UserHulkBD placed a settlement
+UserHulkBD placed a road
+UserHulkBD received starting resources: orelumberbrick
+UserHulkBD rolled: dice_5 dice_3
+UserHulkBD got: grain
+GuestFernny#7716 got: lumber
+UserHulkBD built a road
+GuestFernny#7716 rolled: dice_2 dice_6
+UserHulkBD got: grain
+GuestFernny#7716 got: lumber
+UserCyronica rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+UserCyronica got: grain
+GuestFernny#7716 got: grain
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: orebrick
+UserCyronica got: brick
+GuestFernny#7716 got: brick
+icon_helmetMyrna8511 built a road
+UserHulkBD rolled: dice_2 dice_5
+UserHulkBD moved robber robber: prob_9 lumber
+UserHulkBD stole: grain from you
+GuestFernny#7716 rolled: dice_3 dice_2
+UserCyronica got: wool
+GuestFernny#7716 built a road
+GuestFernny#7716 wants to give: lumber for: brick
+UserCyronica has disconnected. Bot will wait until next turn to give Cyronica a chance to reconnect.
+botCyronica has left the game, giving them 2 minutes to reconnect.
+GuestFernny#7716 traded: lumberfor: brick with: Myrna8511
+GuestFernny#7716 built a settlement: +1 VP
+botCyronica rolled: dice_3 dice_5
+UserHulkBD got: grain
+GuestFernny#7716 got: lumber
+botCyronica wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give Cyronica : lumber for: brickwool
+icon_helmetMyrna8511 rolled: dice_6 dice_2
+UserHulkBD got: grain
+GuestFernny#7716 got: lumber
+UserHulkBD rolled: dice_1 dice_2
+UserHulkBD got: lumber
+botCyronica got: wool
+GuestFernny#7716 got: lumber
+GuestFernny#7716 rolled: dice_1 dice_6
+GuestFernny#7716 moved robber robber: prob_8 grain
+GuestFernny#7716 stole card from: HulkBD
+GuestFernny#7716 wants to give: lumber for: brick
+botCyronica rolled: dice_3 dice_1
+UserHulkBD got: orebrick
+botCyronica gave bank: woolwoolwool and took lumber
+botCyronica built a road
+botCyronica wants to give: grain for: ore
+icon_helmetMyrna8511 wants to give Cyronica : ore for: woolgrain
+icon_helmetMyrna8511 wants to give Cyronica : ore for: brickwool
+icon_helmetMyrna8511 rolled: dice_1 dice_6
+HulkBD discarding resource cards
+UserHulkBD discarded: brickgraingraingrain
+icon_helmetMyrna8511 moved robber robber: prob_3 lumber
+icon_helmetYou stole: grain from: HulkBD
+UserHulkBD rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: lumber
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+UserHulkBD bought development card
+GuestFernny#7716 rolled: dice_6 dice_6
+botCyronica rolled: dice_6 dice_2
+UserHulkBD got: grain
+GuestFernny#7716 got: lumber
+botCyronica wants to give: grain for: ore
+icon_helmetMyrna8511 rolled: dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber: prob_8 lumber
+icon_helmetYou stole: wool from: Fernny#7716
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 wants to give: lumberore for: brick
+icon_helmetMyrna8511 wants to give: lumber for: ore
+UserHulkBD rolled: dice_5 dice_2
+UserHulkBD moved robber robber: prob_6 brick
+UserHulkBD stole card from: Fernny#7716
+GuestFernny#7716 rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: lumber
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 gave bank: woolwool and took brick
+GuestFernny#7716 built a road
+botCyronica rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: orebrick
+botCyronica wants to give: grain for: brick
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: grain
+botCyronica got: grain
+GuestFernny#7716 got: grain
+icon_helmetMyrna8511 wants to give: lumberlumber for: grainore
+icon_helmetMyrna8511 wants to give: lumber for: grain
+icon_helmetMyrna8511 wants to give: lumber for: ore
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserHulkBD rolled: dice_1 dice_4
+botCyronica got: wool
+GuestFernny#7716 got: wool
+UserHulkBD wants to give: ore for: brick
+GuestFernny#7716 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: lumberwool
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 gave bank: woolwool and took brick
+GuestFernny#7716 built a road
+GuestFernny#7716 gave bank: woolwool and took brick
+GuestFernny#7716 built a road
+GuestFernny#7716 received longest road: +2 VPs
+botCyronica rolled: dice_2 dice_2
+icon_helmetMyrna8511 got: brick
+UserHulkBD got: orebrick
+botCyronica gave bank: lumberlumberlumber and took ore
+icon_helmetMyrna8511 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: lumberwool
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+icon_helmetMyrna8511 wants to give: lumber for: brick
+icon_helmetMyrna8511 wants to give: wool for: brick
+icon_helmetMyrna8511 wants to give: lumberwool for: brick
+icon_helmetMyrna8511 wants to give: ore for: brick
+icon_helmetMyrna8511 gave bank: oreore and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserHulkBD rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: orebrickbrick
+UserHulkBD built a settlement: +1 VP
+GuestFernny#7716 rolled: dice_3 dice_2
+botCyronica got: wool
+GuestFernny#7716 got: wool
+GuestFernny#7716 gave bank: woolwool and took brick
+GuestFernny#7716 built a settlement: +1 VP
+botCyronica rolled: dice_4 dice_3
+Cyronica discarding resource cards
+botBot is selecting cards to discard for Cyronica
+botCyronica discarded: grainwoolorewool
+botCyronica moved robber robber: prob_8 lumber
+botCyronica stole card from: HulkBD
+botCyronica wants to give: grain for: brick
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: orebrickbrick
+botCyronica got: brick
+GuestFernny#7716 got: brick
+icon_helmetMyrna8511 wants to give: brick for: lumber
+icon_helmetMyrna8511 wants to give: brick for: wool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+UserHulkBD rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: lumberwool
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 rolled: dice_1 dice_6
+GuestFernny#7716 moved robber robber: prob_9 lumber
+GuestFernny#7716 stole: ore from you
+botCyronica rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: brick
+UserHulkBD got: orebrick
+GuestFernny#7716 got: ore
+botCyronica built a road
+icon_helmetMyrna8511 rolled: dice_3 dice_3
+icon_helmetMyrna8511 got: orebrickbrick
+botCyronica got: brick
+GuestFernny#7716 got: brick
+icon_helmetMyrna8511 wants to give: wool for: grain
+icon_helmetMyrna8511 wants to give: brick for: grain
+icon_helmetMyrna8511 wants to give: brickbrick for: wool
+icon_helmetMyrna8511 wants to give: brickore for: wool
+icon_helmetMyrna8511 wants to give: brickwoolore for: lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give: brickbrickwool for: lumber
+icon_helmetMyrna8511 wants to give: brickbrickwool for: grain
+icon_helmetMyrna8511 traded: brickbrickwoolfor: grain with: Cyronica
+icon_helmetMyrna8511 gave bank: oreore and took lumber
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserHulkBD rolled: dice_4 dice_6
+icon_helmetMyrna8511 got: grain
+botCyronica got: grain
+GuestFernny#7716 got: graingrain
+GuestFernny#7716 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: orebrickbrick
+botCyronica got: brick
+GuestFernny#7716 got: brick
+GuestFernny#7716 wants to give: brick for: lumber
+GuestFernny#7716 wants to give: brick for: ore
+GuestFernny#7716 bought development card
+GuestFernny#7716 bought development card
+botCyronica rolled: dice_2 dice_5
+Cyronica discarding resource cards
+botBot is selecting cards to discard for Cyronica
+botCyronica discarded: orebrickwoolgrainbrick
+botCyronica moved robber robber: prob_8 lumber
+botCyronica stole card from: Fernny#7716
+botCyronica built a settlement: +1 VP
+icon_helmetMyrna8511 rolled: dice_4 dice_5
+icon_helmetMyrna8511 got: lumberwool
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+icon_helmetMyrna8511 wants to give: brick for: grain
+icon_helmetMyrna8511 gave bank: brickbrick and took ore
+UserHulkBD rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: grain
+UserHulkBD got: grain
+UserHulkBD wants to give: woolwool for: lumber
+UserHulkBD traded: woolwoolfor: lumber with: Cyronica
+UserHulkBD built a road
+UserHulkBD bought development card
+GuestFernny#7716 rolled: dice_4 dice_1
+botCyronica got: wool
+GuestFernny#7716 got: wool
+GuestFernny#7716 gave bank: woolwool and took lumber
+GuestFernny#7716 built a road
+botCyronica rolled: dice_3 dice_1
+icon_helmetMyrna8511 got: lumberbrick
+UserHulkBD got: orebrick
+GuestFernny#7716 got: ore
+botCyronica wants to give: brick for: lumber
+botCyronica traded: brickfor: lumber with: Myrna8511
+botCyronica built a road
+icon_helmetMyrna8511 rolled: dice_5 dice_6
+UserHulkBD got: wool
+botCyronica got: wool
+icon_helmetMyrna8511 gave bank: brickbrick and took ore
+icon_helmetMyrna8511 built a city: +1 VP
+icon_helmetMyrna8511 built a road
+UserHulkBD rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: graingrain
+botCyronica got: grain
+GuestFernny#7716 got: graingrain
+UserHulkBD used Knight card knight
+UserHulkBD moved robber robber: prob_10 grain
+UserHulkBD stole card from: Fernny#7716
+UserHulkBD bought development card
+GuestFernny#7716 rolled: dice_4 dice_3
+GuestFernny#7716 moved robber robber: prob_9 lumber
+GuestFernny#7716 stole: grain from you
+GuestFernny#7716 bought development card
+botCyronica rolled: dice_6 dice_2
+icon_helmetMyrna8511 got: grain
+UserHulkBD got: lumbergrain
+GuestFernny#7716 got: lumber
+botCyronica wants to give: wool for: ore
+icon_helmetMyrna8511 rolled: dice_1 dice_1
+UserHulkBD got: ore
+GuestFernny#7716 got: ore
+UserHulkBD used Knight card knight
+UserHulkBD moved robber robber: prob_10 grain
+UserHulkBD stole card from: Fernny#7716
+UserHulkBD rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: lumberbrick
+UserHulkBD got: orebrick
+GuestFernny#7716 got: ore
+UserHulkBD built a settlement: +1 VP
+GuestFernny#7716 rolled: dice_6 dice_3
+icon_helmetMyrna8511 got: lumberwool
+UserHulkBD got: wool
+botCyronica got: lumber
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 bought development card
+GuestFernny#7716 built a road
+GuestFernny#7716 used Knight card knight
+GuestFernny#7716 moved robber robber: prob_9 lumber
+GuestFernny#7716 stole: grain from you
+botCyronica rolled: dice_5 dice_6
+UserHulkBD got: wool
+botCyronica got: wool
+botCyronica gave bank: woolwoolwool and took brick
+botCyronica built a road
+botCyronica wants to give: wool for: ore
+icon_helmetMyrna8511 rolled: dice_6 dice_4
+icon_helmetMyrna8511 got: graingrain
+botCyronica got: grain
+GuestFernny#7716 got: graingrain
+icon_helmetMyrna8511 built a settlement: +1 VP
+UserHulkBD rolled: dice_5 dice_4
+icon_helmetMyrna8511 got: wool
+UserHulkBD got: wool
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 rolled: dice_3 dice_6
+icon_helmetMyrna8511 got: wool
+UserHulkBD got: wool
+GuestFernny#7716 got: woolwool
+GuestFernny#7716 gave bank: woolwoolwoolwool and took oreore
+GuestFernny#7716 used Year of Plenty card year of plenty
+GuestFernny#7716 took from bank: brick ore
+GuestFernny#7716 built a city: +1 VP
+botCyronica rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: oreoreorebrickbrick
+botCyronica got: brickbrick
+GuestFernny#7716 got: brick
+botCyronica wants to give: wool for: lumber
+icon_helmetMyrna8511 wants to give Cyronica : lumber for: woolwool
+icon_helmetMyrna8511 wants to give Cyronica : lumber for: brickwool
+icon_helmetMyrna8511 rolled: dice_1 dice_6
+Myrna8511 and HulkBD discarding resource cards
+UserHulkBD discarded: woolwooloreore
+icon_helmetMyrna8511 discarded: lumberbrickbrickwoolwool
+icon_helmetMyrna8511 moved robber robber: prob_9 wool
+icon_helmetYou stole: grain from: Fernny#7716
+icon_helmetMyrna8511 built a city: +1 VP
+UserHulkBD rolled: dice_1 dice_3
+icon_helmetMyrna8511 got: lumberbrickbrick
+UserHulkBD got: orebrick
+GuestFernny#7716 got: ore
+GuestFernny#7716 rolled: dice_4 dice_2
+icon_helmetMyrna8511 got: oreoreorebrickbrick
+botCyronica got: brickbrick
+GuestFernny#7716 got: brick
+botCyronica rolled: dice_5 dice_3
+icon_helmetMyrna8511 got: grain
+UserHulkBD got: lumbergraingrain
+GuestFernny#7716 got: lumber
+botCyronica gave bank: brickbrickbrick and took lumber
+botCyronica built a road
+botCyronica wants to give: wool for: ore
+botCyronica traded: woolfor: ore with: Myrna8511
+icon_helmetMyrna8511 rolled: dice_1 dice_5
+icon_helmetMyrna8511 got: oreoreorebrickbrick
+botCyronica got: brickbrick
+GuestFernny#7716 got: brick
+icon_helmetMyrna8511 gave bank: woolwooloreoreoreore and took lumberlumberlumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road has passed from: Fernny#7716 to: Myrna8511: +2 VPs
+trophy Myrna8511 won the game!

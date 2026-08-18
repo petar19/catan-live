@@ -1,0 +1,398 @@
+icon_helmetMyrna8511 has reconnected
+ChristmasJavixuela placed a settlement
+ChristmasJavixuela placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestTFkolo placed a settlement
+GuestTFkolo placed a road
+GuestTFkolo placed a settlement
+GuestTFkolo placed a road
+GuestTFkolo received starting resources woollumberbrick
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources brickwoolwool
+ChristmasJavixuela placed a settlement
+ChristmasJavixuela placed a road
+ChristmasJavixuela received starting resources woolwoolgrain
+GuestZaytooneh placed a settlement
+GuestZaytooneh placed a road
+GuestZaytooneh received starting resources lumbergrain
+GuestZaytooneh rolled dice_4 dice_1
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got wool
+ChristmasJavixuela rolled dice_4 dice_5
+ChristmasJavixuela got grain
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got wool
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give wool for ore
+GuestZaytooneh wants to give Myrna8511 lumber for brickwool
+GuestTFkolo rolled dice_2 dice_6
+GuestTFkolo got brickbrick
+icon_helmetMyrna8511 got brick
+GuestTFkolo built a road
+GuestZaytooneh rolled dice_2 dice_3
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got wool
+GuestZaytooneh wants to give lumber for brick
+icon_helmetMyrna8511 wants to give Zaytooneh brick for lumberore
+GuestZaytooneh traded lumber for brick with TFkolo
+ChristmasJavixuela has disconnected. Bot will wait until next turn to give Javixuela a chance to reconnect.
+botJavixuela has left the game
+GuestZaytooneh built a road
+ChristmasJavixuela has reconnected
+ChristmasJavixuela rolled dice_2 dice_1
+GuestTFkolo got ore
+ChristmasJavixuela got ore
+GuestZaytooneh got lumber
+ChristmasJavixuela bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestTFkolo got brickbrick
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 wants to give brick for ore
+icon_helmetMyrna8511 wants to give brick for lumber
+GuestZaytooneh wants to give Myrna8511 lumber for brickbrick
+icon_helmetMyrna8511 wants to give Zaytooneh brickbrick for lumberlumber
+icon_helmetMyrna8511 wants to give Zaytooneh brickbrick for lumberore
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took ore
+icon_helmetMyrna8511 bought development card
+GuestTFkolo rolled dice_3 dice_1
+GuestTFkolo got grainlumber
+icon_helmetMyrna8511 got lumber
+GuestTFkolo built a settlement (+1 VP)
+GuestTFkolo built a road
+GuestZaytooneh rolled dice_2 dice_6
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brick
+ChristmasJavixuela rolled dice_1 dice_5
+ChristmasJavixuela got ore
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got grainore
+ChristmasJavixuela used Road Building card road building
+ChristmasJavixuela placed a road
+ChristmasJavixuela placed a road
+ChristmasJavixuela bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_6
+ChristmasJavixuela got grain
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got lumber
+icon_helmetMyrna8511 wants to give brick for lumberwool
+GuestZaytooneh wants to give Myrna8511 lumberwool for brickbrick
+icon_helmetMyrna8511 built a road
+GuestTFkolo rolled dice_3 dice_5
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brick
+GuestTFkolo wants to give wool for lumber
+GuestTFkolo wants to give wool for grain
+GuestZaytooneh wants to give TFkolo lumber for brickbrickwool
+GuestTFkolo wants to give brick for grain
+GuestTFkolo wants to give brick for lumber
+GuestTFkolo gave bank brickbrickbrickbrick and took grain
+GuestTFkolo bought development card
+GuestZaytooneh rolled dice_5 dice_2
+GuestZaytooneh discarded lumberwoolwoolgrain
+GuestZaytooneh moved robber robber to  prob_8 brick tile
+GuestZaytooneh stole card from TFkolo
+GuestZaytooneh built a settlement (+1 VP)
+ChristmasJavixuela rolled dice_5 dice_2
+ChristmasJavixuela moved robber robber to  prob_3 lumber tile
+ChristmasJavixuela stole card from TFkolo
+icon_helmetMyrna8511 rolled dice_4 dice_5
+ChristmasJavixuela got grain
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got lumberlumber
+icon_helmetMyrna8511 wants to give brick for lumber
+GuestZaytooneh wants to give Myrna8511 lumber for brickbrick
+icon_helmetMyrna8511 wants to give Zaytooneh brickbrick for lumberwool
+icon_helmetMyrna8511 wants to give brickgrain for lumberlumber
+GuestTFkolo used Knight card knight
+GuestTFkolo moved robber robber to  prob_9 grain tile
+GuestTFkolo stole grain from you
+GuestTFkolo rolled dice_2 dice_3
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got wool
+GuestTFkolo gave bank woolwool and took lumber
+GuestTFkolo built a road
+GuestZaytooneh rolled dice_6 dice_6
+GuestZaytooneh got brick
+GuestZaytooneh built a road
+ChristmasJavixuela used Knight card knight
+ChristmasJavixuela moved robber robber to  prob_5 wool tile
+ChristmasJavixuela stole card from TFkolo
+ChristmasJavixuela rolled dice_2 dice_2
+GuestTFkolo got grainlumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 rolled dice_1 dice_4
+ prob_5 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 traded brick for lumber with Zaytooneh
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestTFkolo rolled dice_6 dice_5
+ChristmasJavixuela got grainwool
+GuestZaytooneh rolled dice_5 dice_2
+GuestZaytooneh moved robber robber to  prob_4 grain tile
+GuestZaytooneh stole card from TFkolo
+ChristmasJavixuela rolled dice_5 dice_2
+ChristmasJavixuela moved robber robber to  prob_5 wool tile
+ChristmasJavixuela stole card from Zaytooneh
+ChristmasJavixuela wants to give grain for brick
+ChristmasJavixuela wants to give grain for lumber
+ChristmasJavixuela wants to give wool for lumber
+ChristmasJavixuela wants to give wool for brick
+ChristmasJavixuela wants to give woolgrain for lumberbrick
+ChristmasJavixuela wants to give woolgraingrain for lumberbrick
+icon_helmetMyrna8511 wants to give Javixuela brick for grainore
+ChristmasJavixuela wants to give woolwoolgraingrain for lumberbrick
+icon_helmetMyrna8511 rolled dice_1 dice_1
+GuestTFkolo rolled dice_5 dice_3
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+GuestZaytooneh rolled dice_4 dice_2
+ChristmasJavixuela got ore
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got grainore
+ChristmasJavixuela rolled dice_4 dice_6
+ChristmasJavixuela got wool
+icon_helmetMyrna8511 got wool
+ChristmasJavixuela wants to give grain for brick
+ChristmasJavixuela wants to give wool for brick
+ChristmasJavixuela wants to give wool for lumber
+icon_helmetMyrna8511 wants to give Javixuela brick for ore
+GuestZaytooneh wants to give Javixuela brick for grainore
+ChristmasJavixuela wants to give woolgrain for lumber
+icon_helmetMyrna8511 wants to give Javixuela brick for lumber
+ChristmasJavixuela wants to give woolgrain for lumberbrick
+ChristmasJavixuela traded wool for brick with TFkolo
+ChristmasJavixuela wants to give woolgrain for lumber
+ChristmasJavixuela traded woolgrain for lumber with Zaytooneh
+ChristmasJavixuela built a settlement (+1 VP)
+ChristmasJavixuela bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_3
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 bought development card
+GuestTFkolo rolled dice_5 dice_1
+ChristmasJavixuela got ore
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got grainore
+GuestTFkolo gave bank brickbrickbrickbrick and took lumber
+GuestTFkolo built a settlement (+1 VP)
+GuestZaytooneh rolled dice_3 dice_3
+ChristmasJavixuela got ore
+icon_helmetMyrna8511 got grain
+GuestZaytooneh got grainore
+GuestZaytooneh wants to give grain for lumber
+GuestZaytooneh wants to give ore for lumber
+GuestZaytooneh built a city (+1 VP)
+GuestZaytooneh bought development card
+ChristmasJavixuela rolled dice_3 dice_5
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 rolled dice_4 dice_1
+ prob_5 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole grain from Zaytooneh
+GuestTFkolo rolled dice_2 dice_6
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+GuestTFkolo gave bank brickbrickbrickbrick and took ore
+GuestZaytooneh used Knight card knight
+GuestZaytooneh moved robber robber to  prob_4 lumber tile
+GuestZaytooneh stole card from TFkolo
+GuestZaytooneh rolled dice_6 dice_5
+ChristmasJavixuela got graingrainwool
+ChristmasJavixuela rolled dice_6 dice_6
+ChristmasJavixuela got brick
+GuestZaytooneh got brick
+ChristmasJavixuela wants to give grain for lumber
+ChristmasJavixuela wants to give ore for lumber
+ChristmasJavixuela wants to give grain for ore
+ChristmasJavixuela wants to give wool for ore
+ChristmasJavixuela wants to give brick for ore
+ChristmasJavixuela bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole brick from Zaytooneh
+icon_helmetMyrna8511 rolled dice_4 dice_4
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 bought development card
+GuestTFkolo rolled dice_1 dice_6
+GuestTFkolo moved robber robber to  prob_6 grain tile
+GuestTFkolo stole grain from you
+GuestTFkolo gave bank brickbrickbrickbrick and took ore
+GuestZaytooneh rolled dice_3 dice_5
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+ChristmasJavixuela rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+ChristmasJavixuela got ore
+GuestZaytooneh got oreore
+ChristmasJavixuela wants to give brick for ore
+ChristmasJavixuela used Knight card knight
+ChristmasJavixuela moved robber robber to  prob_9 lumber tile
+ChristmasJavixuela stole card from Zaytooneh
+ChristmasJavixuela built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_6
+GuestTFkolo got brickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole brick from Javixuela
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+GuestTFkolo rolled dice_4 dice_6
+ChristmasJavixuela got wool
+icon_helmetMyrna8511 got wool
+GuestTFkolo gave bank brickbrickbrickbrick and took ore
+GuestTFkolo wants to give brick for wool
+GuestTFkolo wants to give brick for grain
+icon_helmetMyrna8511 wants to give TFkolo wool for brickbrick
+GuestZaytooneh rolled dice_3 dice_2
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got woolwool
+ChristmasJavixuela rolled dice_5 dice_5
+ChristmasJavixuela got wool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 rolled dice_2 dice_1
+GuestTFkolo got lumberore
+ChristmasJavixuela got oreore
+GuestZaytooneh got lumber
+icon_helmetMyrna8511 wants to give brick for grain
+icon_helmetMyrna8511 wants to give brickbrick for grain
+icon_helmetMyrna8511 wants to give brick for ore
+icon_helmetMyrna8511 wants to give brickbrick for ore
+icon_helmetMyrna8511 traded brickbrick for ore with TFkolo
+icon_helmetMyrna8511 gave bank woolwoolwool and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestTFkolo rolled dice_5 dice_6
+ChristmasJavixuela got graingraingrainwool
+GuestTFkolo wants to give brick for grain
+GuestTFkolo gave bank brickbrickbrickbrick and took grain
+GuestTFkolo built a city (+1 VP)
+GuestTFkolo built a road
+GuestZaytooneh rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+GuestZaytooneh got grain
+GuestZaytooneh built a settlement (+1 VP)
+ChristmasJavixuela rolled dice_1 dice_6
+ChristmasBot is selecting cards to discard for Javixuela
+ChristmasJavixuela discarded woolwoolgrainwool
+ChristmasBot is selecting where to place robber for Javixuela
+ChristmasJavixuela moved robber robber to  prob_6 grain tile
+ChristmasJavixuela has disconnected. Bot will wait until next turn to give Javixuela a chance to reconnect.
+botJavixuela has left the game
+botBot is selecting who to rob for Javixuela
+botJavixuela stole grain from you
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_6 ore tile
+icon_helmetYou stole wool from Zaytooneh
+GuestTFkolo rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+GuestZaytooneh got graingrain
+GuestZaytooneh rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got graingrain
+GuestZaytooneh got graingrain
+GuestZaytooneh wants to give grain for wool
+GuestZaytooneh gave bank graingrain and took wool
+GuestZaytooneh bought development card
+botJavixuela rolled dice_4 dice_4
+GuestTFkolo got brickbrickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+icon_helmetMyrna8511 rolled dice_6 dice_4
+botJavixuela got wool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 gave bank graingraingrain and took ore
+icon_helmetMyrna8511 bought development card
+GuestTFkolo rolled dice_6 dice_5
+botJavixuela got graingraingrainwool
+GuestTFkolo gave bank brickbrickbrickbrick and took ore
+GuestZaytooneh used Knight card knight
+GuestZaytooneh moved robber robber to  prob_9 grain tile
+GuestZaytooneh stole grain from you
+GuestZaytooneh rolled dice_4 dice_6
+botJavixuela got wool
+icon_helmetMyrna8511 got wool
+botJavixuela rolled dice_2 dice_6
+GuestTFkolo got brickbrickbrickbrick
+icon_helmetMyrna8511 got brickbrick
+botJavixuela gave bank woolwoolwool and took ore
+botJavixuela built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_6
+botJavixuela got woolwool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 gave bank brickbrickbrick and took ore
+GuestTFkolo rolled dice_2 dice_1
+GuestTFkolo got lumberoreore
+botJavixuela got oreore
+GuestZaytooneh got lumber
+GuestTFkolo gave bank brickbrickbrickbrick and took grain
+GuestTFkolo bought development card
+GuestZaytooneh rolled dice_4 dice_2
+botJavixuela got oreore
+icon_helmetMyrna8511 got graingrain
+GuestZaytooneh got graingrainoreore
+GuestZaytooneh wants to give grain for wool
+GuestZaytooneh gave bank graingrain and took wool
+GuestZaytooneh bought development card
+GuestZaytooneh built a road
+botJavixuela rolled dice_5 dice_4
+ prob_9 grain tile is blocked by the robber. No resources produced.
+GuestZaytooneh got lumberlumberlumber
+botJavixuela built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_2
+GuestTFkolo got wool
+icon_helmetMyrna8511 got wool
+GuestZaytooneh got woolwool
+icon_helmetMyrna8511 used Year of Plenty card year of plenty
+icon_helmetMyrna8511 took from bank ore ore
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestTFkolo rolled dice_4 dice_1
+GuestTFkolo got wool
+icon_helmetMyrna8511 got woolwool
+GuestZaytooneh got woolwool
+GuestZaytooneh rolled dice_1 dice_3
+GuestTFkolo got graingraingrainlumber
+icon_helmetMyrna8511 got lumberlumber
+GuestZaytooneh wants to give lumber for brick
+GuestZaytooneh bought development card
+GuestZaytooneh used Knight card knight
+GuestZaytooneh moved robber robber to  prob_8 brick tile
+GuestZaytooneh stole wool from you
+GuestZaytooneh gave bank lumberlumberlumberwoolwoolwool and took grainore
+GuestZaytooneh bought development card
+botJavixuela rolled dice_5 dice_6
+botJavixuela got graingraingraingrainwoolwool
+botJavixuela bought development card
+botJavixuela gave bank graingraingrain and took ore
+icon_helmetMyrna8511 rolled dice_4 dice_2
+botJavixuela got oreore
+icon_helmetMyrna8511 got graingrain
+GuestZaytooneh got graingrainoreore
+icon_helmetMyrna8511 gave bank woolwoolwool and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestZaytooneh has left the game
+GuestTFkolo has left the game

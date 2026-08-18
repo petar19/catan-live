@@ -1,0 +1,417 @@
+Guestspeedyscrote placed a settlement
+Guestspeedyscrote placed a road
+Guestsau5man placed a settlement
+Guestsau5man placed a road
+UserKnightKing21 placed a settlement
+UserKnightKing21 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources brickwoolgrain
+UserKnightKing21 placed a settlement
+UserKnightKing21 placed a road
+UserKnightKing21 received starting resources grainlumberore
+Guestsau5man placed a settlement
+Guestsau5man placed a road
+Guestsau5man received starting resources brickbrickgrain
+Guestspeedyscrote placed a settlement
+Guestspeedyscrote placed a road
+Guestspeedyscrote received starting resources orelumberbrick
+Guestspeedyscrote rolled dice_4 dice_3
+Guestspeedyscrote moved robber robber to  prob_6 grain tile
+Guestspeedyscrote stole card from sau5man
+Guestsau5man rolled dice_5 dice_2
+Guestsau5man moved robber robber to  prob_10 ore tile
+Guestsau5man stole card from KnightKing21
+UserKnightKing21 rolled dice_4 dice_3
+UserKnightKing21 moved robber robber to  prob_5 ore tile
+UserKnightKing21 stole card from speedyscrote
+UserKnightKing21 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_4
+ prob_5 ore tile is blocked by the robber. No resources produced.
+UserKnightKing21 got lumber
+Guestspeedyscrote rolled dice_6 dice_4
+Guestspeedyscrote got woolore
+UserKnightKing21 got ore
+icon_helmetMyrna8511 got wool
+Guestsau5man rolled dice_1 dice_4
+ prob_5 ore tile is blocked by the robber. No resources produced.
+UserKnightKing21 got lumber
+UserKnightKing21 rolled dice_5 dice_5
+Guestspeedyscrote got woolore
+UserKnightKing21 got ore
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 rolled dice_2 dice_6
+Guestsau5man got brick
+UserKnightKing21 got brick
+icon_helmetMyrna8511 got brick
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 traded wool for lumber with KnightKing21
+icon_helmetMyrna8511 wants to give wool for lumber
+Guestspeedyscrote rolled dice_4 dice_6
+Guestspeedyscrote got woolore
+UserKnightKing21 got ore
+icon_helmetMyrna8511 got wool
+Guestspeedyscrote wants to give oreore for lumberbrick
+Guestspeedyscrote wants to give ore for grain
+Guestspeedyscrote built a road
+Guestsau5man rolled dice_2 dice_5
+Guestsau5man moved robber robber to  prob_10 wool tile
+Guestsau5man stole card from speedyscrote
+UserKnightKing21 rolled dice_6 dice_2
+Guestsau5man got brick
+UserKnightKing21 got brick
+icon_helmetMyrna8511 got brick
+UserKnightKing21 wants to give brick for grain
+UserKnightKing21 wants to give brickore for grain
+UserKnightKing21 traded brickore for grain with sau5man
+UserKnightKing21 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_5
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brickbrick for wool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded brick for wool with sau5man
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+Guestspeedyscrote rolled dice_1 dice_6
+Guestsau5man discarded brickbrickbrickbrick
+Guestspeedyscrote moved robber robber to  prob_6 grain tile
+Guestspeedyscrote stole card from sau5man
+Guestspeedyscrote bought development card
+Guestsau5man rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+UserKnightKing21 rolled dice_6 dice_5
+Guestsau5man got lumber
+Guestspeedyscrote got lumber
+UserKnightKing21 got oreore
+UserKnightKing21 wants to give ore for grain
+icon_helmetMyrna8511 rolled dice_2 dice_4
+ prob_6 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+Guestspeedyscrote rolled dice_6 dice_6
+UserKnightKing21 got lumber
+Guestsau5man rolled dice_6 dice_3
+Guestspeedyscrote got grain
+icon_helmetMyrna8511 got lumberlumber
+Guestsau5man built a road
+UserKnightKing21 rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+UserKnightKing21 wants to give ore for wool
+icon_helmetMyrna8511 wants to give KnightKing21 wool for grainore
+icon_helmetMyrna8511 wants to give KnightKing21 wool for brickore
+UserKnightKing21 wants to give ore for grain
+icon_helmetMyrna8511 wants to give KnightKing21 wool for oreore
+icon_helmetMyrna8511 rolled dice_6 dice_3
+Guestspeedyscrote got grain
+icon_helmetMyrna8511 got lumberlumber
+icon_helmetMyrna8511 wants to give lumber for brick
+icon_helmetMyrna8511 wants to give lumber for grain
+Guestsau5man wants to give Myrna8511 grain for lumberwool
+icon_helmetsau5man traded grain for lumberwool with Myrna8511
+icon_helmetMyrna8511 wants to give wool for ore
+icon_helmetMyrna8511 wants to give lumber for ore
+Guestspeedyscrote rolled dice_3 dice_4
+GuestBot is selecting where to place robber for speedyscrote
+Guestspeedyscrote moved robber robber to  prob_8 brick tile
+Guestspeedyscrote stole card from KnightKing21
+Guestspeedyscrote built a city (+1 VP)
+Guestsau5man rolled dice_5 dice_5
+Guestspeedyscrote got woolwoolore
+UserKnightKing21 got ore
+icon_helmetMyrna8511 got woolore
+UserKnightKing21 rolled dice_1 dice_6
+icon_helmetMyrna8511 discarded lumberlumberwoolwool
+UserKnightKing21 moved robber robber to  prob_10 wool tile
+UserKnightKing21 stole card from speedyscrote
+UserKnightKing21 wants to give oreore for grain
+UserKnightKing21 gave bank oreoreoreore and took grain
+UserKnightKing21 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_2
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 bought development card
+Guestspeedyscrote used Knight card knight
+Guestspeedyscrote moved robber robber to  prob_6 grain tile
+Guestspeedyscrote stole card from KnightKing21
+Guestspeedyscrote rolled dice_3 dice_4
+Guestspeedyscrote moved robber robber to  prob_8 brick tile
+Guestspeedyscrote stole card from sau5man
+Guestspeedyscrote bought development card
+Guestsau5man rolled dice_1 dice_3
+Guestsau5man got grain
+icon_helmetMyrna8511 got grain
+UserKnightKing21 rolled dice_2 dice_5
+UserKnightKing21 moved robber robber to  prob_10 wool tile
+UserKnightKing21 stole card from speedyscrote
+icon_helmetMyrna8511 rolled dice_1 dice_5
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+Guestspeedyscrote rolled dice_6 dice_5
+Guestsau5man got lumber
+Guestspeedyscrote got lumber
+UserKnightKing21 got oreore
+Guestspeedyscrote wants to give lumber for brick
+Guestsau5man rolled dice_5 dice_3
+Guestsau5man got brick
+UserKnightKing21 got brickbrick
+icon_helmetMyrna8511 got brick
+Guestsau5man built a settlement (+1 VP)
+UserKnightKing21 rolled dice_2 dice_6
+Guestsau5man got brick
+UserKnightKing21 got brickbrick
+icon_helmetMyrna8511 got brick
+UserKnightKing21 wants to give brick for lumber
+Guestspeedyscrote wants to give KnightKing21 lumber for brickgrain
+Guestspeedyscrote wants to give KnightKing21 lumber for brickbrick
+UserKnightKing21 wants to give speedyscrote brickbrick for lumberwool
+UserKnightKing21 wants to give speedyscrote brickbrick for lumberlumber
+UserKnightKing21 bought development card
+icon_helmetMyrna8511 rolled dice_4 dice_1
+Guestsau5man got ore
+Guestspeedyscrote got oreore
+UserKnightKing21 got lumberlumber
+icon_helmetMyrna8511 wants to give wool for lumber
+Guestsau5man wants to give Myrna8511 lumber for woolwool
+icon_helmetMyrna8511 built a road
+Guestspeedyscrote rolled dice_2 dice_6
+Guestsau5man got brick
+UserKnightKing21 got brickbrick
+icon_helmetMyrna8511 got brick
+Guestspeedyscrote wants to give lumber for brickbrick
+UserKnightKing21 wants to give speedyscrote brick for lumber
+icon_helmetMyrna8511 wants to give speedyscrote brickwool for lumberore
+UserKnightKing21 wants to give speedyscrote brickbrick for wool
+Guestspeedyscrote wants to give lumber for brickgrain
+UserKnightKing21 wants to give speedyscrote brick for wool
+Guestsau5man rolled dice_5 dice_1
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+Guestsau5man built a road
+UserKnightKing21 rolled dice_1 dice_5
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+UserKnightKing21 wants to give brick for grain
+UserKnightKing21 wants to give brick for wool
+UserKnightKing21 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give KnightKing21 wool for lumber
+Guestspeedyscrote wants to give KnightKing21 lumber for brickbrick
+UserKnightKing21 wants to give lumberbrick for woolgrain
+UserKnightKing21 gave bank brickbrickbrickbrick and took wool
+UserKnightKing21 built a road
+UserKnightKing21 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_2
+Guestsau5man got ore
+Guestspeedyscrote got oreore
+UserKnightKing21 got lumberlumber
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 wants to give woolwool for lumber
+Guestspeedyscrote wants to give Myrna8511 lumber for brickbrick
+icon_helmetMyrna8511 traded woolwool for lumber with KnightKing21
+icon_helmetMyrna8511 built a settlement (+1 VP)
+Guestspeedyscrote rolled dice_4 dice_4
+Guestsau5man got brick
+UserKnightKing21 got brickbrick
+icon_helmetMyrna8511 got brickbrick
+Guestspeedyscrote wants to give lumber for brickbrick
+icon_helmetMyrna8511 wants to give speedyscrote brickbrick for lumberore
+Guestspeedyscrote wants to give lumber for grain
+icon_helmetMyrna8511 wants to give speedyscrote brickbrick for lumbergrain
+Guestsau5man wants to give speedyscrote grain for lumberlumber
+Guestsau5man wants to give speedyscrote grain for lumberore
+icon_helmetMyrna8511 wants to give speedyscrote brickbrick for lumberore
+Guestsau5man rolled dice_3 dice_3
+Guestsau5man got grain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got wool
+Guestsau5man gave bank graingraingrain and took ore
+Guestsau5man built a city (+1 VP)
+UserKnightKing21 rolled dice_4 dice_3
+Guestspeedyscrote discarded lumberlumberwoolore
+UserKnightKing21 discarded lumberbrickbrickgrain
+UserKnightKing21 moved robber robber to  prob_6 wool tile
+UserKnightKing21 stole wool from you
+UserKnightKing21 bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_3
+Guestsau5man got graingrain
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 wants to give brick for lumber
+Guestspeedyscrote rolled dice_4 dice_2
+ prob_6 wool tile is blocked by the robber. No resources produced.
+Guestsau5man got graingrain
+UserKnightKing21 got grain
+Guestsau5man rolled dice_6 dice_5
+Guestsau5man got lumberlumber
+Guestspeedyscrote got lumber
+UserKnightKing21 got oreore
+Guestsau5man wants to give grain for wool
+Guestsau5man wants to give lumber for wool
+icon_helmetMyrna8511 wants to give sau5man brickwool for lumberlumber
+icon_helmetMyrna8511 wants to give sau5man wool for lumbergrain
+icon_helmetMyrna8511 wants to give sau5man brickwool for lumbergrain
+GuestMyrna8511 traded brickwool for lumbergrain with sau5man
+Guestsau5man built a settlement (+1 VP)
+UserKnightKing21 rolled dice_5 dice_5
+Guestspeedyscrote got woolwoolore
+UserKnightKing21 got oreore
+icon_helmetMyrna8511 got woolore
+UserKnightKing21 wants to give ore for grain
+UserKnightKing21 bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_2
+Guestsau5man got oreore
+Guestspeedyscrote got oreore
+UserKnightKing21 got lumberlumber
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 11 ore
+Guestspeedyscrote has disconnected. Bot will wait until next turn to give speedyscrote a chance to reconnect.
+botspeedyscrote has left the game
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give oreore for grain
+icon_helmetMyrna8511 traded oreore for grain with sau5man
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 wants to give oreore for lumber
+icon_helmetMyrna8511 gave bank oreoreoreore and took lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+botspeedyscrote rolled dice_2 dice_4
+ prob_6 wool tile is blocked by the robber. No resources produced.
+Guestsau5man got graingraingrain
+UserKnightKing21 got grain
+botspeedyscrote used Year of Plenty card year of plenty
+botspeedyscrote took from bank brick grain
+botspeedyscrote built a road
+Guestsau5man rolled dice_2 dice_4
+ prob_6 wool tile is blocked by the robber. No resources produced.
+Guestsau5man got graingraingrain
+UserKnightKing21 got grain
+Guestsau5man gave bank graingraingrain and took ore
+Guestsau5man built a city (+1 VP)
+UserKnightKing21 rolled dice_6 dice_1
+UserKnightKing21 moved robber robber to  prob_8 brick tile
+UserKnightKing21 stole ore from you
+UserKnightKing21 bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_1
+Guestsau5man got brickbrickbrick
+botspeedyscrote got brick
+icon_helmetMyrna8511 got wool
+botspeedyscrote rolled dice_2 dice_1
+Guestsau5man got brickbrickbrick
+botspeedyscrote got brick
+icon_helmetMyrna8511 got wool
+botspeedyscrote built a settlement (+1 VP)
+Guestsau5man rolled dice_2 dice_4
+Guestsau5man got graingraingrain
+UserKnightKing21 got grain
+icon_helmetMyrna8511 got woolwool
+Guestsau5man gave bank brickbrickbrickbrickbrickbrick and took woolore
+Guestsau5man bought development card
+UserKnightKing21 rolled dice_6 dice_5
+Guestsau5man got lumberlumber
+botspeedyscrote got lumberlumber
+UserKnightKing21 got oreore
+UserKnightKing21 used Monopoly card monopoly
+UserKnightKing21 stole 4 grain
+UserKnightKing21 gave bank graingrain and took ore
+UserKnightKing21 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_2 dice_3
+Guestsau5man got oreore
+botspeedyscrote got oreore
+UserKnightKing21 got lumberlumber
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 gave bank woolwool and took grain
+icon_helmetMyrna8511 bought development card
+botspeedyscrote rolled dice_1 dice_2
+Guestsau5man got brickbrickbrick
+botspeedyscrote got brick
+icon_helmetMyrna8511 got wool
+botspeedyscrote built a road
+botspeedyscrote built a road
+Guestsau5man rolled dice_6 dice_2
+ prob_8 brick tile is blocked by the robber. No resources produced.
+Guestsau5man got brickbrick
+UserKnightKing21 got brickbrick
+Guestsau5man built a road
+Guestsau5man built a road
+Guestsau5man received longest road (+2 VPs)
+Guestsau5man gave bank brickbrickbrick and took wool
+UserKnightKing21 used Knight card knight
+UserKnightKing21 moved robber robber to  prob_5 ore tile
+UserKnightKing21 stole card from sau5man
+UserKnightKing21 rolled dice_1 dice_5
+Guestsau5man got graingraingrain
+UserKnightKing21 got graingrain
+icon_helmetMyrna8511 got woolwool
+UserKnightKing21 built a road
+UserKnightKing21 gave bank graingrain and took wool
+UserKnightKing21 built a settlement (+1 VP)
+UserKnightKing21 built a road
+icon_helmetMyrna8511 rolled dice_3 dice_6
+botspeedyscrote got graingrainlumber
+icon_helmetMyrna8511 got lumberlumber
+icon_helmetMyrna8511 gave bank woolwool and took grain
+icon_helmetMyrna8511 bought development card
+botspeedyscrote rolled dice_5 dice_1
+Guestsau5man got graingraingrain
+UserKnightKing21 got graingrain
+icon_helmetMyrna8511 got woolwool
+Guestsau5man used Knight card knight
+Guestsau5man moved robber robber to  prob_10 ore tile
+Guestsau5man stole card from KnightKing21
+Guestsau5man rolled dice_1 dice_3
+Guestsau5man got graingraingrain
+botspeedyscrote got grain
+icon_helmetMyrna8511 got graingrain
+Guestsau5man gave bank graingraingrain and took ore
+Guestsau5man built a city (+1 VP)
+Guestsau5man gave bank graingraingrain and took ore
+Guestsau5man bought development card
+UserKnightKing21 rolled dice_2 dice_6
+Guestsau5man got brickbrick
+UserKnightKing21 got brickbrickbrick
+icon_helmetMyrna8511 got brickbrickbrick
+UserKnightKing21 wants to give brick for grain
+UserKnightKing21 wants to give brick for wool
+icon_helmetMyrna8511 rolled dice_3 dice_1
+Guestsau5man got graingraingrain
+botspeedyscrote got grain
+icon_helmetMyrna8511 got graingrain
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a road
+icon_helmetlongest road passed from sau5man to Myrna8511 (+2 VPs)
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank woolwool and took ore
+icon_helmetMyrna8511 bought development card
+botspeedyscrote rolled dice_6 dice_5
+Guestsau5man got lumberlumber
+botspeedyscrote got lumberlumber
+UserKnightKing21 got oreoreore
+botspeedyscrote gave bank graingraingraingrain and took brick
+botspeedyscrote built a road
+Guestsau5man rolled dice_3 dice_4
+Guestsau5man discarded brickgraingraingrain
+UserKnightKing21 discarded lumberbrickbrickbrick
+Guestsau5man moved robber robber to  prob_8 brick tile
+Guestsau5man stole grain from you
+Guestsau5man built a road
+Guestsau5man built a road
+UserKnightKing21 rolled dice_3 dice_2
+Guestsau5man got oreore
+botspeedyscrote got oreore
+UserKnightKing21 got lumberlumber
+UserKnightKing21 built a city (+1 VP)
+trophyUserKnightKing21 won the game!trophy
+UserKnightKing21 has left the game
+Guestsau5man has left the game

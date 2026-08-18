@@ -1,0 +1,416 @@
+List of commands: /help
+GuestMaller#2504 placed a settlement
+GuestMaller#2504 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestMedor#9501 placed a settlement
+GuestMedor#9501 placed a road
+Userfuckby placed a settlement
+Userfuckby placed a road
+Userfuckby placed a settlement
+Userfuckby placed a road
+Userfuckby received starting resources woollumbergrain
+GuestMedor#9501 placed a settlement
+GuestMedor#9501 placed a road
+GuestMedor#9501 received starting resources grainwoollumber
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources grainlumberwool
+GuestMaller#2504 placed a settlement
+GuestMaller#2504 placed a road
+GuestMaller#2504 received starting resources brickore
+GuestMaller#2504 rolled dice_2 dice_6
+icon_helmetMyrna8511 got grain
+Userfuckby got grain
+GuestMaller#2504 got grain
+GuestMedor#9501 got grain
+icon_helmetMyrna8511 rolled dice_6 dice_4
+Userfuckby got wool
+GuestMaller#2504 got ore
+GuestMedor#9501 rolled dice_4 dice_5
+Userfuckby got lumber
+GuestMaller#2504 got brick
+Userfuckby rolled dice_1 dice_6
+Userfuckby moved robber robber to  prob_6 ore tile
+Userfuckby stole lumber from you
+Userfuckby wants to give lumber for ore
+Userfuckby wants to give lumber for brick
+GuestMaller#2504 wants to give fuckby brick for lumberwool
+UserMaller#2504 traded brick for lumberwool with fuckby
+Userfuckby built a road
+GuestMaller#2504 rolled dice_2 dice_2
+icon_helmetMyrna8511 got bricklumber
+GuestMedor#9501 got grain
+GuestMaller#2504 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_helmetMyrna8511 built a road
+GuestMedor#9501 rolled dice_4 dice_3
+GuestMedor#9501 moved robber robber to  prob_8 grain tile
+GuestMedor#9501 stole card from Maller#2504
+Userfuckby rolled dice_4 dice_6
+Userfuckby got wool
+GuestMaller#2504 got ore
+GuestMaller#2504 rolled dice_5 dice_5
+Userfuckby got wool
+GuestMaller#2504 got ore
+icon_helmetMyrna8511 rolled dice_3 dice_6
+Userfuckby got lumber
+GuestMaller#2504 got brick
+GuestMedor#9501 rolled dice_2 dice_3
+GuestMaller#2504 got lumber
+GuestMedor#9501 got brick
+GuestMedor#9501 built a road
+Userfuckby rolled dice_3 dice_4
+Userfuckby moved robber robber to  prob_6 ore tile
+Userfuckby stole grain from you
+Userfuckby wants to give woolgrain for brick
+Userfuckby wants to give grain for wool
+Userfuckby wants to give wool for grain
+Userfuckby wants to give lumber for grain
+icon_helmetMyrna8511 wants to give fuckby grain for lumberwool
+Userfuckby wants to give lumber for wool
+Userfuckby traded lumber for grain with Medor#9501
+Userfuckby gave bank graingraingrain and took brick
+Userfuckby built a settlement (+1 VP)
+GuestMaller#2504 rolled dice_5 dice_3
+icon_helmetMyrna8511 got grain
+Userfuckby got grain
+GuestMaller#2504 got grain
+GuestMedor#9501 got grain
+GuestMaller#2504 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_4
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMedor#9501 rolled dice_2 dice_2
+icon_helmetMyrna8511 got bricklumber
+GuestMaller#2504 got brick
+GuestMedor#9501 got grain
+GuestMedor#9501 gave bank graingraingraingrain and took brick
+GuestMedor#9501 built a settlement (+1 VP)
+Userfuckby rolled dice_4 dice_2
+ prob_6 ore tile is blocked by the robber. No resources produced.
+Userfuckby got grain
+GuestMedor#9501 got woolwool
+GuestMaller#2504 rolled dice_6 dice_3
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMaller#2504 wants to give brickbrick for wool
+icon_helmetMyrna8511 rolled dice_3 dice_4
+Userfuckby discarded lumberlumberwoolgrain
+icon_helmetMyrna8511 moved robber robber to  prob_5 lumber tile
+icon_helmetYou stole lumber from fuckby
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestMedor#9501 rolled dice_2 dice_5
+GuestMedor#9501 moved robber robber to  prob_8 grain tile
+GuestMedor#9501 stole lumber from you
+Userfuckby rolled dice_3 dice_5
+ prob_8 grain tile is blocked by the robber. No resources produced.
+Userfuckby got grain
+GuestMedor#9501 got grain
+GuestMaller#2504 rolled dice_4 dice_2
+icon_helmetMyrna8511 got oreore
+Userfuckby got grain
+GuestMedor#9501 got woolwool
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got bricklumber
+GuestMaller#2504 got brick
+GuestMedor#9501 got grain
+GuestMedor#9501 rolled dice_3 dice_4
+GuestMaller#2504 discarded brickbrickbrickore
+GuestMedor#9501 moved robber robber to  prob_5 lumber tile
+GuestMedor#9501 stole card from fuckby
+GuestMedor#9501 gave bank woolwoolwoolwool and took brick
+Userfuckby rolled dice_5 dice_1
+icon_helmetMyrna8511 got oreore
+Userfuckby got grain
+GuestMedor#9501 got woolwool
+Userfuckby gave bank graingraingrain and took brick
+Userfuckby built a road
+GuestMaller#2504 rolled dice_2 dice_1
+GuestMaller#2504 got ore
+GuestMedor#9501 got ore
+icon_helmetMyrna8511 rolled dice_6 dice_4
+Userfuckby got wool
+GuestMaller#2504 got ore
+GuestMedor#9501 got brick
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give ore for grain
+GuestMedor#9501 wants to give Myrna8511 wool for oreore
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give lumber for grain
+GuestMedor#9501 wants to give Myrna8511 grain for lumberore
+icon_helmetMedor#9501 traded grain for lumberore with Myrna8511
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestMedor#9501 rolled dice_4 dice_1
+ prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestMedor#9501 got brick
+GuestMedor#9501 built a road
+GuestMedor#9501 built a road
+Userfuckby rolled dice_5 dice_4
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMaller#2504 rolled dice_1 dice_2
+GuestMaller#2504 got ore
+GuestMedor#9501 got ore
+GuestMaller#2504 gave bank oreoreoreore and took lumber
+GuestMaller#2504 built a road
+icon_helmetMyrna8511 rolled dice_5 dice_6
+icon_helmetMyrna8511 got woolwoolwool
+Userfuckby got wool
+GuestMaller#2504 got wool
+GuestMedor#9501 rolled dice_5 dice_4
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMedor#9501 built a city (+1 VP)
+Userfuckby rolled dice_6 dice_6
+Userfuckby got lumber
+GuestMedor#9501 got lumberlumber
+Userfuckby gave bank lumberlumberlumber and took brick
+Userfuckby gave bank woolwoolwool and took brick
+Userfuckby built a road
+Userfuckby built a road
+GuestMaller#2504 rolled dice_5 dice_5
+Userfuckby got wool
+GuestMaller#2504 got ore
+GuestMedor#9501 got brick
+icon_helmetMyrna8511 rolled dice_4 dice_4
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got grain
+GuestMedor#9501 got grain
+GuestMedor#9501 rolled dice_2 dice_1
+GuestMaller#2504 got ore
+GuestMedor#9501 got ore
+GuestMedor#9501 built a settlement (+1 VP)
+GuestMedor#9501 built a road
+Userfuckby rolled dice_1 dice_2
+GuestMaller#2504 got ore
+GuestMedor#9501 got ore
+GuestMaller#2504 rolled dice_2 dice_3
+ prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestMedor#9501 got brick
+GuestMaller#2504 bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 moved robber robber to  prob_6 wool tile
+icon_helmetYou stole wool from Medor#9501
+icon_helmetMyrna8511 gave bank woolwoolwool and took lumber
+GuestMedor#9501 rolled dice_3 dice_5
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got grain
+GuestMedor#9501 got grain
+Userfuckby rolled dice_6 dice_2
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got grain
+GuestMedor#9501 got grain
+Userfuckby gave bank graingraingrain and took brick
+GuestMaller#2504 rolled dice_6 dice_5
+icon_helmetMyrna8511 got woolwoolwool
+Userfuckby got wool
+GuestMaller#2504 got wool
+GuestMaller#2504 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded woolwoolwoolgraingraingrain
+icon_helmetMyrna8511 moved robber robber to  prob_5 brick tile
+icon_helmetYou stole brick from Medor#9501
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give graingrain for lumber
+GuestMedor#9501 rolled dice_3 dice_5
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got graingrain
+GuestMedor#9501 got grain
+GuestMedor#9501 wants to give grain for ore
+Userfuckby rolled dice_4 dice_2
+icon_helmetMyrna8511 got oreore
+Userfuckby got grain
+GuestMedor#9501 got woolwoolwool
+GuestMaller#2504 rolled dice_2 dice_5
+GuestMedor#9501 discarded woolwoolwoolgrain
+icon_helmetMyrna8511 discarded lumberbrickbrickgraingrain
+GuestMaller#2504 moved robber robber to  prob_6 wool tile
+GuestMaller#2504 stole card from Medor#9501
+GuestMaller#2504 bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_3
+icon_helmetMyrna8511 got bricklumberlumber
+GuestMaller#2504 got brick
+GuestMedor#9501 got graingrain
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give grainore for brickbrick
+icon_helmetMyrna8511 bought development card
+GuestMedor#9501 rolled dice_6 dice_5
+icon_helmetMyrna8511 got woolwoolwool
+Userfuckby got wool
+GuestMaller#2504 got wool
+Userfuckby rolled dice_4 dice_2
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+Userfuckby got grain
+Userfuckby wants to give grain for lumber
+Userfuckby wants to give wool for lumber
+GuestMaller#2504 rolled dice_4 dice_3
+icon_helmetMyrna8511 discarded lumberlumberbrickwoolore
+GuestMaller#2504 moved robber robber to  prob_10 brick tile
+GuestMaller#2504 stole card from Medor#9501
+GuestMaller#2504 wants to give brickgrain for ore
+GuestMaller#2504 wants to give brickgrain for lumber
+GuestMaller#2504 wants to give brickbrick for lumber
+icon_helmetMyrna8511 rolled dice_4 dice_4
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got graingrain
+GuestMedor#9501 got grain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+GuestMedor#9501 rolled dice_3 dice_4
+GuestMaller#2504 discarded brickgraingraingrain
+Userfuckby discarded woolwoolgraingrain
+GuestMedor#9501 moved robber robber to  prob_8 grain tile
+GuestMedor#9501 stole grain from you
+GuestMedor#9501 wants to give graingrain for ore
+Userfuckby rolled dice_2 dice_4
+icon_helmetMyrna8511 got oreore
+Userfuckby got grain
+GuestMedor#9501 got woolwoolwool
+Userfuckby wants to give graingrain for lumber
+GuestMaller#2504 rolled dice_4 dice_4
+ prob_8 grain tile is blocked by the robber. No resources produced.
+Userfuckby got grain
+GuestMedor#9501 got grain
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 wool tile
+icon_helmetYou stole wool from Medor#9501
+icon_helmetMyrna8511 rolled dice_2 dice_6
+icon_helmetMyrna8511 got graingrain
+Userfuckby got grain
+GuestMaller#2504 got graingrain
+GuestMedor#9501 got grain
+icon_helmetMyrna8511 bought development card
+GuestMedor#9501 rolled dice_5 dice_4
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMedor#9501 gave bank graingraingraingrain and took ore
+GuestMedor#9501 built a city (+1 VP)
+Userfuckby rolled dice_5 dice_4
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+Userfuckby built a settlement (+1 VP)
+Userfuckby gave bank graingraingrain and took brick
+GuestMaller#2504 rolled dice_3 dice_2
+Userfuckby got lumber
+GuestMaller#2504 got lumberlumberlumber
+GuestMedor#9501 got brickbrick
+GuestMaller#2504 used card road building
+GuestMaller#2504 placed a road
+GuestMaller#2504 placed a road
+GuestMaller#2504 built a settlement (+1 VP)
+GuestMaller#2504 gave bank brickbrick and took wool
+GuestMaller#2504 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_1
+Userfuckby got lumber
+GuestMaller#2504 got bricklumberlumberlumber
+GuestMedor#9501 got brickbrick
+GuestMedor#9501 rolled dice_6 dice_3
+Userfuckby got lumberlumber
+GuestMaller#2504 got brick
+GuestMedor#9501 wants to give brickwool for lumbergrain
+GuestMedor#9501 wants to give brickbrickwool for lumbergrain
+Userfuckby rolled dice_5 dice_1
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+Userfuckby got graingrain
+Userfuckby wants to give lumberlumberlumber for wool
+Userfuckby gave bank lumberlumber and took wool
+Userfuckby built a settlement (+1 VP)
+Userfuckby gave bank lumberlumberlumberlumber and took oreore
+GuestMaller#2504 rolled dice_3 dice_1
+icon_helmetMyrna8511 got bricklumberlumber
+GuestMaller#2504 got brickbrick
+GuestMedor#9501 got graingrain
+GuestMaller#2504 built a road
+GuestMaller#2504 received longest road (+2 VPs)
+GuestMaller#2504 built a road
+icon_helmetMyrna8511 rolled dice_5 dice_1
+ prob_6 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+Userfuckby got graingrain
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give ore for wool
+GuestMedor#9501 wants to give Myrna8511 brick for lumberore
+Userfuckby has disconnected. Bot will wait until next turn to give fuckby a chance to reconnect.
+botfuckby has left the game
+GuestMaller#2504 wants to give Myrna8511 brick for wool
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 lumber tile
+icon_helmetYou stole grain from Maller#2504
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 traded lumber for wool with Medor#9501
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 built a road
+GuestMedor#9501 rolled dice_3 dice_4
+GuestMedor#9501 discarded brickbrickbrickgrain
+GuestMedor#9501 moved robber robber to  prob_8 grain tile
+GuestMedor#9501 stole card from Maller#2504
+GuestMedor#9501 built a settlement (+1 VP)
+botfuckby rolled dice_4 dice_2
+icon_helmetMyrna8511 got oreoreore
+botfuckby got graingrain
+GuestMedor#9501 got woolwoolwool
+botfuckby gave bank graingrain and took ore
+botfuckby built a city (+1 VP)
+GuestMaller#2504 rolled dice_1 dice_1
+GuestMedor#9501 got ore
+icon_helmetMyrna8511 used card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_5 lumber tile
+icon_helmetYou stole brick from Maller#2504
+icon_helmetMyrna8511 rolled dice_3 dice_2
+ prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestMaller#2504 got brick
+GuestMedor#9501 got brickbricklumber
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brick for grain
+GuestMedor#9501 rolled dice_5 dice_5
+botfuckby got wool
+GuestMaller#2504 got oreore
+GuestMedor#9501 got brickbrick
+GuestMedor#9501 built a road
+GuestMedor#9501 gave bank woolwool and took lumber
+GuestMedor#9501 built a road
+botfuckby rolled dice_4 dice_1
+ prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestMaller#2504 got brick
+GuestMedor#9501 got brickbricklumber
+GuestMaller#2504 rolled dice_1 dice_6
+GuestMedor#9501 discarded brickbrickbrickore
+GuestMaller#2504 moved robber robber to  prob_6 wool tile
+GuestMaller#2504 stole card from Medor#9501
+GuestMaller#2504 built a road
+GuestMaller#2504 built a road
+icon_helmetMyrna8511 rolled dice_4 dice_6
+botfuckby got wool
+GuestMaller#2504 got oreore
+GuestMedor#9501 got brickbrick
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brick for grain
+GuestMaller#2504 started an embargo against Myrna8511
+GuestMedor#9501 rolled dice_1 dice_2
+GuestMaller#2504 got oreore
+GuestMedor#9501 got oreore
+botfuckby rolled dice_3 dice_2
+botfuckby got lumberlumber
+GuestMaller#2504 got bricklumberlumberlumber
+GuestMedor#9501 got brickbricklumber
+botfuckby gave bank lumberlumber and took ore
+GuestMaller#2504 rolled dice_6 dice_3
+botfuckby got lumberlumberlumber
+GuestMaller#2504 got brick
+GuestMaller#2504 gave bank oreoreoreore and took wool
+GuestMaller#2504 built a settlement (+1 VP)
+trophyGuestMaller#2504 won the game! trophy
+GuestMedor#9501 has left the game
+GuestMaller#2504 has left the game

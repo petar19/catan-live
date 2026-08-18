@@ -1,0 +1,87 @@
+botSydney placed a settlement
+botSydney placed a road
+botCibis placed a settlement
+botCibis placed a road
+botSelden placed a settlement
+botSelden placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 received starting resources wool ore wool 
+icon_helmetMyrna8511 placed a road
+botSelden placed a settlement
+botSelden received starting resources wool brick lumber 
+botSelden placed a road
+botCibis placed a settlement
+botCibis received starting resources ore lumber lumber 
+botCibis placed a road
+botSydney placed a settlement
+botSydney received starting resources lumber grain brick 
+botSydney placed a road
+botSydney rolled dice_1 dice_3
+botCibis got lumber grain 
+botSydney built a road
+botCibis rolled dice_4 dice_3
+botCibis moved Robber robber to  prob_6 brick tile
+botCibis stole card  from Selden
+botCibis built a road
+botSelden rolled dice_1 dice_6
+botSelden moved Robber robber to  prob_8 ore tile
+botSelden stole card  from Cibis
+icon_helmetMyrna8511 rolled dice_3 dice_1
+botCibis got lumber grain 
+botSydney rolled dice_2 dice_3
+botSydney got wool 
+botSelden got lumber lumber 
+botCibis rolled dice_5 dice_5
+icon_helmetMyrna8511 got ore 
+botSydney got ore 
+botCibis got wool 
+botSelden got wool 
+botSelden rolled dice_5 dice_4
+icon_helmetMyrna8511 got wool wool 
+botSelden got grain 
+botSelden bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved Robber robber to  prob_10 wool tile
+icon_helmetYou stole wool  from Selden
+icon_helmetMyrna8511 gave bank wool wool wool wool  and took grain 
+icon_helmetMyrna8511 bought development card
+botSydney rolled dice_3 dice_2
+botSydney got wool 
+botSelden got lumber lumber 
+botCibis rolled dice_4 dice_3
+botCibis moved Robber robber to  prob_6 brick tile
+botCibis stole card  from Selden
+botCibis gave bank lumber lumber lumber lumber  and took ore 
+botSelden rolled dice_5 dice_3
+botSydney got ore 
+botCibis got brick ore 
+botSelden used  Monopoly card monopoly 
+botSelden stole 5 ore
+botSelden gave bank ore ore ore ore  and took brick 
+botSelden built a road
+icon_helmetMyrna8511 rolled dice_4 dice_1
+botSydney got wool 
+botSelden got lumber lumber 
+botSydney rolled dice_2 dice_5
+botSydney moved Robber robber to  prob_10 wool tile
+botSydney stole card  from Selden
+botSydney wants to give wool  for brick 
+botCibis rolled dice_4 dice_2
+icon_helmetMyrna8511 got grain 
+botSydney got brick 
+botSelden got brick 
+botSelden rolled dice_4 dice_5
+icon_helmetMyrna8511 got wool wool 
+botSelden got grain 
+botSelden gave bank lumber lumber lumber lumber  and took wool 
+icon_helmetMyrna8511 rolled dice_4 dice_1
+botSydney got wool 
+botSelden got lumber lumber 
+botSydney rolled dice_6 dice_4
+ prob_10 wool tile is blocked by the Robber. No resources produced
+icon_helmetMyrna8511 got ore 
+botSydney got ore 
+botSydney built a settlement (+1 VP)
+trophybotSydney won the game! trophy

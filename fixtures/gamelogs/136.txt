@@ -1,0 +1,421 @@
+GuestGoesto11 placed a settlement
+GuestGoesto11 placed a road
+GuestPhene7238 placed a settlement
+GuestPhene7238 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestOppen0965 placed a settlement
+GuestOppen0965 placed a road
+GuestOppen0965 placed a settlement
+GuestOppen0965 placed a road
+GuestOppen0965 received starting resources lumberbrickbrick
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources woollumbergrain
+GuestPhene7238 placed a settlement
+GuestPhene7238 placed a road
+GuestPhene7238 received starting resources graingrain
+GuestGoesto11 placed a settlement
+GuestGoesto11 placed a road
+GuestGoesto11 received starting resources lumberorewool
+GuestGoesto11 rolled dice_5 dice_6
+icon_helmetMyrna8511 got ore
+GuestGoesto11 got ore
+GuestPhene7238 rolled dice_1 dice_5
+GuestOppen0965 got bricklumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 rolled dice_6 dice_3
+GuestPhene7238 got grainwool
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 wants to give lumber for brick
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 bought development card
+GuestOppen0965 rolled dice_6 dice_6
+icon_helmetMyrna8511 got wool
+GuestOppen0965 built a road
+GuestOppen0965 built a road
+GuestGoesto11 rolled dice_4 dice_3
+GuestGoesto11 moved robber robber to  prob_6 lumber tile
+GuestGoesto11 stole card from Oppen0965
+GuestGoesto11 built a road
+GuestPhene7238 rolled dice_3 dice_1
+GuestOppen0965 got lumber
+GuestGoesto11 got lumberlumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole lumber from Goesto11
+icon_helmetMyrna8511 rolled dice_4 dice_2
+GuestOppen0965 got bricklumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumber for ore
+icon_helmetMyrna8511 wants to give lumber for brick
+GuestOppen0965 rolled dice_1 dice_4
+ prob_5 grain tile is blocked by the robber. No resources produced.
+GuestPhene7238 got ore
+GuestGoesto11 rolled dice_5 dice_5
+GuestPhene7238 got grainore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got ore
+GuestPhene7238 rolled dice_6 dice_1
+GuestPhene7238 moved robber robber to  prob_8 wool tile
+GuestPhene7238 stole lumber from you
+GuestPhene7238 wants to give lumber for ore
+GuestPhene7238 wants to give wool for ore
+GuestPhene7238 wants to give grain for ore
+GuestPhene7238 wants to give lumberwool for ore
+GuestPhene7238 wants to give lumberwool for ore
+GuestPhene7238 wants to give lumberwoolgrain for ore
+GuestPhene7238 bought development card
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestPhene7238 got grainore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 bought development card
+GuestOppen0965 rolled dice_4 dice_5
+GuestPhene7238 got grainwool
+icon_helmetMyrna8511 got grain
+GuestOppen0965 wants to give grain for wool
+GuestOppen0965 wants to give lumber for wool
+GuestOppen0965 traded lumber for wool with Phene7238
+GuestOppen0965 built a settlement (+1 VP)
+GuestGoesto11 rolled dice_1 dice_6
+GuestPhene7238 discarded lumbergraingraingrain
+GuestGoesto11 moved robber robber to  prob_6 lumber tile
+GuestGoesto11 stole card from Oppen0965
+GuestPhene7238 rolled dice_2 dice_3
+GuestPhene7238 got ore
+GuestOppen0965 got grain
+GuestGoesto11 got grain
+GuestPhene7238 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_6
+GuestPhene7238 got grainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got ore
+GuestOppen0965 rolled dice_5 dice_4
+GuestPhene7238 got grainwoolwool
+GuestOppen0965 got wool
+icon_helmetMyrna8511 got grain
+GuestGoesto11 rolled dice_5 dice_5
+GuestPhene7238 got grainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got ore
+GuestGoesto11 wants to give wool for ore
+GuestPhene7238 wants to give Goesto11 ore for brickwool
+GuestGoesto11 wants to give lumberwool for ore
+GuestGoesto11 traded lumberwool for ore with Phene7238
+GuestGoesto11 built a city (+1 VP)
+GuestPhene7238 rolled dice_2 dice_2
+GuestOppen0965 got lumber
+GuestGoesto11 got lumberlumberlumber
+GuestPhene7238 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestOppen0965 got lumber
+GuestGoesto11 got lumberlumberlumber
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestOppen0965 rolled dice_4 dice_2
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestOppen0965 got brick
+GuestOppen0965 built a road
+GuestGoesto11 rolled dice_4 dice_6
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+GuestPhene7238 rolled dice_2 dice_2
+GuestOppen0965 got lumber
+GuestGoesto11 got lumberlumberlumber
+GuestPhene7238 bought development card
+GuestPhene7238 bought development card
+GuestPhene7238 used Knight card knight
+GuestPhene7238 moved robber robber to  prob_11 ore tile
+GuestPhene7238 stole lumber from you
+icon_helmetMyrna8511 rolled dice_3 dice_4
+GuestGoesto11 discarded lumberlumberlumberlumber
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole lumber from Phene7238
+GuestOppen0965 rolled dice_1 dice_5
+GuestOppen0965 got bricklumber
+icon_helmetMyrna8511 got lumber
+GuestOppen0965 wants to give lumber for grain
+GuestOppen0965 built a road
+GuestOppen0965 received longest road (+2 VPs)
+GuestGoesto11 rolled dice_4 dice_6
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+GuestGoesto11 gave bank lumberlumberlumberlumber and took brick
+GuestPhene7238 used Knight card knight
+GuestPhene7238 moved robber robber to  prob_8 wool tile
+GuestPhene7238 stole ore from you
+GuestPhene7238 rolled dice_1 dice_3
+GuestOppen0965 got lumber
+GuestGoesto11 got lumberlumberlumber
+GuestPhene7238 bought development card
+GuestPhene7238 wants to give grain for wool
+GuestPhene7238 wants to give ore for wool
+GuestPhene7238 traded ore for wool with Oppen0965
+GuestPhene7238 bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_3
+ prob_8 wool tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give lumberore for brick
+icon_helmetMyrna8511 wants to give lumberore for woolgrain
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 traded ore for grain with Oppen0965
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 wants to give ore for lumber
+icon_helmetMyrna8511 traded ore for lumber with Goesto11
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took brick
+icon_helmetMyrna8511 built a road
+GuestOppen0965 rolled dice_4 dice_4
+ prob_8 wool tile is blocked by the robber. No resources produced.
+GuestOppen0965 wants to give grain for lumber
+GuestOppen0965 wants to give grain for ore
+GuestOppen0965 wants to give lumber for ore
+GuestOppen0965 traded grain for lumber with Phene7238
+GuestOppen0965 gave bank lumberlumberlumberlumber and took ore
+GuestOppen0965 built a city (+1 VP)
+GuestGoesto11 rolled dice_5 dice_2
+GuestGoesto11 moved robber robber to  prob_10 ore tile
+GuestGoesto11 stole card from Phene7238
+GuestPhene7238 used Knight card knight
+GuestPhene7238 received largest army (+2 VPs)
+GuestPhene7238 moved robber robber to  prob_4 lumber tile
+GuestPhene7238 stole card from Oppen0965
+GuestPhene7238 rolled dice_5 dice_1
+GuestOppen0965 got brickbricklumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestOppen0965 got brickbricklumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 wants to give lumbergrain for brickbrick
+icon_helmetMyrna8511 traded lumbergrain for brickbrick with Oppen0965
+GuestOppen0965 rolled dice_2 dice_2
+ prob_4 lumber tile is blocked by the robber. No resources produced.
+GuestGoesto11 got lumberlumber
+GuestOppen0965 wants to give lumber for wool
+GuestOppen0965 built a road
+GuestGoesto11 rolled dice_1 dice_5
+GuestOppen0965 got brickbricklumber
+icon_helmetMyrna8511 got lumber
+GuestGoesto11 gave bank lumberlumberlumberlumber and took grain
+GuestPhene7238 rolled dice_5 dice_4
+GuestPhene7238 got graingrainwoolwool
+GuestOppen0965 got wool
+icon_helmetMyrna8511 got grain
+GuestPhene7238 gave bank graingraingraingrain and took ore
+GuestPhene7238 bought development card
+icon_helmetMyrna8511 rolled dice_1 dice_6
+GuestOppen0965 discarded lumberlumberbrickbrick
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole wool from Phene7238
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 built a road
+GuestOppen0965 rolled dice_5 dice_3
+icon_helmetMyrna8511 got woolwool
+GuestOppen0965 built a settlement (+1 VP)
+GuestGoesto11 rolled dice_2 dice_3
+GuestPhene7238 got oreore
+GuestOppen0965 got grain
+GuestGoesto11 got grain
+GuestGoesto11 wants to give grain for wool
+icon_helmetMyrna8511 wants to give Goesto11 wool for lumbergrain
+GuestGoesto11 wants to give lumbergrain for wool
+GuestMyrna8511 traded wool for lumbergrain with Goesto11
+GuestGoesto11 built a settlement (+1 VP)
+GuestPhene7238 used Knight card knight
+GuestPhene7238 moved robber robber to  prob_4 lumber tile
+GuestPhene7238 stole card from Oppen0965
+GuestPhene7238 rolled dice_3 dice_2
+GuestPhene7238 got oreore
+GuestOppen0965 got grain
+GuestGoesto11 got grain
+icon_helmetMyrna8511 rolled dice_5 dice_6
+GuestOppen0965 got ore
+icon_helmetMyrna8511 got oreore
+GuestGoesto11 got oreore
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 bought development card
+GuestOppen0965 rolled dice_6 dice_3
+GuestPhene7238 got graingrainwoolwool
+GuestOppen0965 got wool
+icon_helmetMyrna8511 got graingrain
+GuestGoesto11 rolled dice_5 dice_5
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+GuestPhene7238 rolled dice_1 dice_5
+GuestOppen0965 got brickbrickbricklumber
+icon_helmetMyrna8511 got lumber
+GuestPhene7238 wants to give ore for lumber
+GuestPhene7238 wants to give grain for lumber
+GuestPhene7238 bought development card
+GuestPhene7238 bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestPhene7238 got oreore
+GuestOppen0965 got grain
+GuestGoesto11 got grain
+icon_helmetMyrna8511 wants to give oreore for brickbrick
+icon_helmetMyrna8511 wants to give oreore for brickwool
+icon_helmetMyrna8511 traded oreore for brickbrick with Oppen0965
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give oreore for wool
+icon_helmetMyrna8511 used Monopoly card monopoly
+icon_helmetMyrna8511 stole 12 ore
+icon_helmetMyrna8511 gave bank oreoreore and took wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 gave bank oreoreore and took grain
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 gave bank oreoreore and took brick
+GuestOppen0965 rolled dice_3 dice_1
+ prob_4 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got lumber
+GuestGoesto11 got lumberlumber
+GuestOppen0965 built a settlement (+1 VP)
+GuestGoesto11 rolled dice_5 dice_2
+GuestGoesto11 moved robber robber to  prob_10 ore tile
+GuestGoesto11 stole ore from you
+GuestPhene7238 used Knight card knight
+GuestPhene7238 moved robber robber to  prob_8 wool tile
+GuestPhene7238 stole lumber from you
+GuestPhene7238 rolled dice_2 dice_4
+GuestOppen0965 got brickbrickbricklumber
+icon_helmetMyrna8511 got lumberlumber
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole grain from Phene7238
+icon_helmetMyrna8511 rolled dice_2 dice_4
+GuestOppen0965 got brickbrickbricklumber
+icon_helmetMyrna8511 got lumberlumber
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took wool
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestOppen0965 rolled dice_4 dice_3
+GuestOppen0965 discarded brickbrickbrickbrickgrain
+GuestOppen0965 moved robber robber to  prob_9 grain tile
+GuestOppen0965 stole card from Phene7238
+GuestOppen0965 built a road
+GuestOppen0965 built a road
+GuestGoesto11 rolled dice_3 dice_3
+GuestOppen0965 got brickbrickbricklumber
+icon_helmetMyrna8511 got lumberlumber
+GuestPhene7238 rolled dice_3 dice_6
+ prob_9 grain tile is blocked by the robber. No resources produced.
+GuestPhene7238 got woolwool
+GuestOppen0965 got wool
+GuestPhene7238 used Road Building card road building
+GuestPhene7238 placed a road
+GuestPhene7238 placed a road
+icon_helmetMyrna8511 rolled dice_6 dice_4
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+icon_helmetMyrna8511 wants to give ore for grain
+icon_helmetMyrna8511 wants to give oreore for grain
+GuestOppen0965 rolled dice_2 dice_1
+GuestGoesto11 got brickbrickwoolwool
+GuestOppen0965 built a settlement (+1 VP)
+GuestGoesto11 rolled dice_2 dice_5
+GuestPhene7238 discarded woolgraingrainore
+GuestGoesto11 discarded lumberwoolgrainore
+GuestGoesto11 moved robber robber to  prob_9 wool tile
+GuestGoesto11 stole card from Oppen0965
+GuestGoesto11 built a road
+GuestPhene7238 rolled dice_6 dice_3
+ prob_9 wool tile is blocked by the robber. No resources produced.
+GuestPhene7238 got graingrain
+icon_helmetMyrna8511 got graingraingrain
+GuestPhene7238 bought development card
+icon_helmetMyrna8511 rolled dice_2 dice_3
+GuestPhene7238 got oreore
+GuestOppen0965 got grain
+GuestGoesto11 got grain
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 wants to give grainore for wool
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestOppen0965 rolled dice_6 dice_4
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+GuestOppen0965 gave bank graingraingrain and took ore
+GuestGoesto11 rolled dice_6 dice_6
+icon_helmetMyrna8511 got woolwoolwool
+GuestPhene7238 rolled dice_6 dice_4
+GuestPhene7238 got graingrainoreore
+GuestOppen0965 got grain
+icon_helmetMyrna8511 got oreore
+GuestPhene7238 wants to give oreore for brickbrick
+GuestPhene7238 wants to give oreore for lumberbrick
+GuestPhene7238 wants to give oreore for lumberlumber
+GuestPhene7238 wants to give oreore for lumberwool
+GuestPhene7238 wants to give oreore for lumbergrain
+GuestPhene7238 wants to give oreoreore for lumber
+GuestPhene7238 wants to give oreoreore for brick
+GuestPhene7238 traded oreoreore for brick with Goesto11
+GuestPhene7238 wants to give oreoreore for grain
+GuestPhene7238 used Monopoly card monopoly
+GuestPhene7238 stole 8 ore
+GuestPhene7238 gave bank oreoreoreore and took wool
+GuestPhene7238 built a settlement (+1 VP)
+GuestPhene7238 built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestOppen0965 got lumberlumber
+icon_helmetMyrna8511 got lumberlumber
+GuestGoesto11 got lumberlumberlumber
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 gave bank lumberlumber and took ore
+icon_helmetMyrna8511 bought development card
+GuestOppen0965 rolled dice_4 dice_2
+GuestOppen0965 got brickbrickbricklumberlumber
+icon_helmetMyrna8511 got lumberlumber
+GuestOppen0965 wants to give lumber for wool
+GuestOppen0965 wants to give brick for wool
+GuestOppen0965 gave bank lumberlumberlumber and took ore
+GuestOppen0965 gave bank brickbrickbrick and took wool
+GuestOppen0965 bought development card
+GuestGoesto11 rolled dice_6 dice_2
+GuestPhene7238 got lumberlumber
+icon_helmetMyrna8511 got woolwoolwoolwool
+GuestGoesto11 got lumber
+GuestGoesto11 built a settlement (+1 VP)
+GuestPhene7238 used Knight card knight
+GuestPhene7238 moved robber robber to  prob_6 brick tile
+GuestPhene7238 stole card from Oppen0965
+GuestPhene7238 rolled dice_6 dice_5
+GuestOppen0965 got ore
+icon_helmetMyrna8511 got oreore
+GuestGoesto11 got grainoreore
+GuestPhene7238 built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole grain from Phene7238
+icon_helmetMyrna8511 rolled dice_6 dice_6
+icon_helmetMyrna8511 got woolwoolwool
+GuestGoesto11 got wool
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank lumberlumberlumberlumber and took graingrain
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 gave bank woolwoolwool and took ore
+icon_helmetMyrna8511 bought development card
+GuestOppen0965 rolled dice_5 dice_6
+GuestOppen0965 got ore
+icon_helmetMyrna8511 got oreore
+GuestGoesto11 got grainoreore
+GuestOppen0965 used Knight card knight
+GuestOppen0965 moved robber robber to  prob_8 wool tile
+GuestOppen0965 stole wool from you
+GuestOppen0965 bought development card
+GuestGoesto11 rolled dice_5 dice_2
+GuestGoesto11 discarded lumberlumberlumbergrainore
+GuestGoesto11 moved robber robber to  Desert
+GuestGoesto11 stole card from Oppen0965
+GuestGoesto11 built a city (+1 VP)
+GuestPhene7238 rolled dice_6 dice_3
+GuestPhene7238 got graingrainwoolwool
+GuestOppen0965 got wool
+icon_helmetMyrna8511 got graingraingrain
+GuestPhene7238 bought development card
+GuestPhene7238 bought development card
+trophyGuestPhene7238 won the game!trophy
+GuestGoesto11 has left the game
+GuestPhene7238 created a rematch and is waiting for you!
+GuestPhene7238 has left the game

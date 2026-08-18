@@ -1,0 +1,199 @@
+GuestKEENOR placed a settlement
+GuestKEENOR placed a road
+Usermunnabhai placed a settlement
+Usermunnabhai placed a road
+GuestKaibs placed a settlement
+GuestKaibs placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources lumberbrickore
+GuestKaibs placed a settlement
+GuestKaibs placed a road
+GuestKaibs received starting resources woollumbergrain
+Usermunnabhai placed a settlement
+Usermunnabhai placed a road
+Usermunnabhai received starting resources graingrainwool
+GuestKEENOR placed a settlement
+GuestKEENOR placed a road
+GuestKEENOR received starting resources lumberbrick
+GuestKEENOR rolled dice_6 dice_5
+Usermunnabhai got grain
+icon_helmetMyrna8511 got ore
+GuestKEENOR built a road
+Usermunnabhai rolled dice_2 dice_1
+GuestKaibs got wool
+Usermunnabhai got orewool
+Usermunnabhai bought development card
+GuestKaibs rolled dice_4 dice_2
+GuestKaibs got grain
+Usermunnabhai got woolgrain
+icon_helmetMyrna8511 got grain
+icon_helmetMyrna8511 rolled dice_5 dice_4
+GuestKEENOR got lumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 built a road
+GuestKEENOR rolled dice_5 dice_2
+GuestKEENOR moved robber robber to  prob_6 grain tile
+GuestKEENOR stole card from munnabhai
+Usermunnabhai used Knight card knight
+Usermunnabhai moved robber robber to  prob_8 brick tile
+Usermunnabhai stole card from KEENOR
+Usermunnabhai rolled dice_2 dice_1
+GuestKaibs got wool
+Usermunnabhai got orewool
+Usermunnabhai bought development card
+GuestKaibs rolled dice_2 dice_6
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestKaibs got brick
+GuestKaibs built a road
+icon_helmetMyrna8511 rolled dice_6 dice_5
+Usermunnabhai got grain
+icon_helmetMyrna8511 got ore
+icon_helmetMyrna8511 wants to give lumber for grain
+icon_helmetMyrna8511 traded lumber for grain with munnabhai
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestKEENOR rolled dice_5 dice_3
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestKaibs got brick
+Usermunnabhai rolled dice_2 dice_2
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingrainbrick
+Usermunnabhai built a road
+GuestKaibs rolled dice_5 dice_1
+GuestKaibs got grain
+Usermunnabhai got woolgrain
+icon_helmetMyrna8511 got graingrain
+GuestKaibs wants to give wool for lumber
+GuestKaibs wants to give grain for lumber
+GuestKaibs wants to give wool for grain
+GuestKaibs traded wool for grain with Myrna8511
+GuestKaibs gave bank graingraingraingrain and took lumber
+GuestKaibs built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_6 dice_3
+GuestKaibs got lumber
+GuestKEENOR got lumber
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestKEENOR rolled dice_5 dice_6
+Usermunnabhai got grain
+icon_helmetMyrna8511 got oreore
+Usermunnabhai rolled dice_1 dice_1
+icon_helmetMyrna8511 got oreore
+GuestKaibs rolled dice_6 dice_1
+GuestKaibs moved robber robber to  prob_6 wool tile
+GuestKaibs stole ore from you
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestKaibs got lumberlumber
+GuestKEENOR got wool
+icon_helmetMyrna8511 built a city (+1 VP)
+GuestKEENOR rolled dice_5 dice_1
+ prob_6 wool tile is blocked by the robber. No resources produced.
+GuestKaibs got grain
+Usermunnabhai got grain
+icon_helmetMyrna8511 got graingrain
+Usermunnabhai rolled dice_3 dice_6
+GuestKaibs got lumber
+GuestKEENOR got lumber
+icon_helmetMyrna8511 got lumberlumber
+Usermunnabhai wants to give wool for brick
+Usermunnabhai wants to give wool for ore
+Usermunnabhai wants to give woolgrain for brick
+Usermunnabhai wants to give wool for grain
+icon_helmetMyrna8511 wants to give munnabhai grain for brickwool
+icon_helmetMyrna8511 wants to give munnabhai grain for woolore
+GuestKaibs rolled dice_6 dice_5
+Usermunnabhai got grain
+icon_helmetMyrna8511 got oreore
+icon_helmetMyrna8511 rolled dice_2 dice_1
+GuestKaibs got wool
+Usermunnabhai got orewool
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give ore for wool
+icon_helmetMyrna8511 traded ore for wool with munnabhai
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give lumber for brick
+icon_helmetMyrna8511 bought development card
+GuestKEENOR rolled dice_6 dice_1
+GuestKaibs discarded lumberlumberlumbergrain
+Usermunnabhai discarded woolwoolgraingraingrain
+GuestKEENOR moved robber robber to  prob_6 grain tile
+GuestKEENOR stole card from Kaibs
+Usermunnabhai rolled dice_3 dice_1
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingrainbrickbrick
+Usermunnabhai built a settlement (+1 VP)
+GuestKaibs rolled dice_4 dice_3
+GuestKaibs moved robber robber to  prob_6 wool tile
+GuestKaibs stole grain from you
+icon_helmetMyrna8511 rolled dice_1 dice_3
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingrainbrickbrick
+icon_helmetMyrna8511 wants to give brick for wool
+icon_helmetMyrna8511 wants to give brickgrain for wool
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_3 wool tile
+icon_helmetYou stole ore from Kaibs
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+GuestKEENOR rolled dice_6 dice_3
+GuestKaibs got lumber
+GuestKEENOR got lumber
+icon_helmetMyrna8511 got lumberlumber
+Usermunnabhai rolled dice_5 dice_1
+GuestKaibs got grain
+Usermunnabhai got woolgrain
+icon_helmetMyrna8511 got woolgraingrain
+GuestKaibs rolled dice_4 dice_1
+GuestKaibs got lumberlumber
+GuestKEENOR got wool
+GuestKaibs wants to give lumber for brick
+GuestKaibs wants to give grain for brick
+Usermunnabhai wants to give Kaibs brick for lumberore
+Usermunnabhai wants to give Kaibs brick for lumberlumber
+GuestKaibs wants to give lumberlumber for brick
+GuestKaibs traded lumberlumber for brick with munnabhai
+GuestKaibs built a road
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingrainbrickbrick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank graingraingrain and took wool
+icon_helmetMyrna8511 bought development card
+GuestKEENOR rolled dice_2 dice_3
+GuestKaibs got lumberlumber
+GuestKEENOR got wool
+GuestKEENOR wants to give wool for lumber
+GuestKEENOR gave bank lumberlumberlumberlumber and took ore
+GuestKEENOR bought development card
+Usermunnabhai rolled dice_1 dice_3
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingraingrainbrickbrick
+Usermunnabhai built a road
+Usermunnabhai built a settlement (+1 VP)
+GuestKaibs rolled dice_1 dice_5
+GuestKaibs got grain
+Usermunnabhai got woolgrain
+icon_helmetMyrna8511 got woolgraingrain
+GuestKaibs gave bank graingraingraingrain and took ore
+GuestKaibs bought development card
+icon_helmetMyrna8511 rolled dice_3 dice_1
+GuestKaibs got grain
+Usermunnabhai got brick
+icon_helmetMyrna8511 got graingraingrainbrickbrick
+icon_helmetMyrna8511 gave bank graingraingrain and took lumber
+icon_helmetMyrna8511 built a settlement (+1 VP)
+icon_helmetMyrna8511 gave bank graingraingrain and took lumber
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+trophyicon_helmetMyrna8511 won the game!trophy
+Usermunnabhai has left the game
+GuestKEENOR has left the game
+GuestKaibs has left the game

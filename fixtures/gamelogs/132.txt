@@ -1,0 +1,325 @@
+List of commands: /help
+GuestMarget9431 placed a settlement
+GuestMarget9431 placed a road
+GuestNaibaf1314 placed a settlement
+GuestNaibaf1314 placed a road
+GuestBrodieZack placed a settlement
+GuestBrodieZack placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources oregrainlumber
+GuestMarget9431 has disconnected. Bot will wait until next turn to give Marget9431 a chance to reconnect.
+botMarget9431 has left the game
+GuestBrodieZack placed a settlement
+GuestBrodieZack placed a road
+GuestBrodieZack received starting resources woollumberwool
+GuestNaibaf1314 placed a settlement
+GuestNaibaf1314 placed a road
+GuestNaibaf1314 received starting resources grainore
+botMarget9431 placed a settlement
+botMarget9431 placed a road
+botMarget9431 received starting resources woolwoolbrick
+botMarget9431 rolled dice_4 dice_4
+icon_helmetMyrna8511 got brick
+GuestNaibaf1314 got ore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+botMarget9431 wants to give wool for lumber
+GuestNaibaf1314 rolled dice_1 dice_4
+icon_helmetMyrna8511 got grain
+GuestNaibaf1314 got grain
+GuestBrodieZack rolled dice_1 dice_5
+icon_helmetMyrna8511 got ore
+GuestNaibaf1314 got lumber
+GuestBrodieZack got lumber
+GuestBrodieZack wants to give wool for brick
+GuestBrodieZack wants to give woolwool for brick
+GuestBrodieZack traded woolwool for brick with Marget9431
+GuestBrodieZack built a road
+icon_helmetMyrna8511 rolled dice_5 dice_4
+GuestNaibaf1314 got wool
+GuestBrodieZack got woolbrick
+icon_helmetMyrna8511 wants to give brick for ore
+icon_helmetMyrna8511 traded brick for ore with Naibaf1314
+icon_helmetMyrna8511 built a city (+1 VP)
+botMarget9431 rolled dice_3 dice_3
+icon_helmetMyrna8511 got oreore
+GuestNaibaf1314 got lumber
+GuestBrodieZack got lumber
+botMarget9431 wants to give wool for lumber
+GuestNaibaf1314 rolled dice_4 dice_6
+icon_helmetMyrna8511 got wool
+GuestNaibaf1314 got brick
+botMarget9431 got wool
+GuestBrodieZack got wool
+GuestNaibaf1314 built a road
+GuestNaibaf1314 built a settlement (+1 VP)
+GuestBrodieZack rolled dice_2 dice_4
+icon_helmetMyrna8511 got oreore
+GuestNaibaf1314 got lumberlumber
+GuestBrodieZack got lumber
+GuestBrodieZack built a road
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_9 wool tile
+icon_helmetYou stole lumber from Naibaf1314
+icon_helmetMyrna8511 wants to give lumberore for brickgrain
+icon_helmetMyrna8511 wants to give ore for brick
+botMarget9431 rolled dice_3 dice_3
+icon_helmetMyrna8511 got oreore
+GuestNaibaf1314 got lumberlumber
+GuestBrodieZack got lumber
+botMarget9431 gave bank woolwoolwoolwool and took lumber
+botMarget9431 built a road
+GuestNaibaf1314 rolled dice_5 dice_5
+icon_helmetMyrna8511 got wool
+GuestNaibaf1314 got brick
+botMarget9431 got wool
+GuestBrodieZack got wool
+GuestNaibaf1314 wants to give ore for brick
+GuestNaibaf1314 built a road
+GuestBrodieZack rolled dice_4 dice_5
+ prob_9 wool tile is blocked by the robber. No resources produced.
+GuestBrodieZack got brick
+GuestBrodieZack built a road
+GuestBrodieZack wants to give wool for brick
+GuestBrodieZack wants to give woolwool for brick
+GuestBrodieZack wants to give lumber for brick
+GuestBrodieZack wants to give lumberwool for brick
+GuestBrodieZack gave bank woolwoolwoolwool and took brick
+GuestBrodieZack built a road
+GuestBrodieZack received longest road (+2 VPs)
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 discarded wooloreoreoreore
+icon_helmetMyrna8511 moved robber robber to  prob_8 wool tile
+icon_helmetYou stole wool from Marget9431
+botMarget9431 rolled dice_4 dice_1
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+GuestNaibaf1314 rolled dice_5 dice_2
+icon_helmetMyrna8511 discarded lumberwoolgrainore
+GuestNaibaf1314 moved robber robber to  prob_8 brick tile
+GuestNaibaf1314 stole lumber from you
+GuestBrodieZack has disconnected. Bot will wait until next turn to give BrodieZack a chance to reconnect.
+botBrodieZack has left the game
+botBrodieZack rolled dice_4 dice_4
+ prob_8 brick tile is blocked by the robber. No resources produced.
+GuestNaibaf1314 got ore
+botMarget9431 got wool
+botBrodieZack got wool
+GuestBrodieZack has reconnected
+icon_helmetMyrna8511 rolled dice_5 dice_4
+GuestNaibaf1314 got wool
+GuestBrodieZack got woolbrick
+icon_helmetMyrna8511 bought development card
+botMarget9431 rolled dice_6 dice_3
+GuestNaibaf1314 got wool
+GuestBrodieZack got woolbrick
+GuestNaibaf1314 rolled dice_3 dice_3
+icon_helmetMyrna8511 got oreore
+GuestNaibaf1314 got lumberlumber
+GuestBrodieZack got lumber
+GuestNaibaf1314 gave bank lumberlumber and took ore
+GuestNaibaf1314 built a city (+1 VP)
+GuestBrodieZack rolled dice_4 dice_6
+icon_helmetMyrna8511 got wool
+GuestNaibaf1314 got brickbrick
+botMarget9431 got wool
+GuestBrodieZack got wool
+GuestBrodieZack wants to give wool for grain
+GuestBrodieZack wants to give woolwool for grain
+GuestBrodieZack wants to give woolwoolwool for grain
+GuestBrodieZack gave bank woolwoolwoolwool and took grain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole brick from Naibaf1314
+icon_helmetMyrna8511 rolled dice_3 dice_5
+icon_helmetMyrna8511 got brick
+GuestNaibaf1314 got ore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+icon_helmetMyrna8511 wants to give brick for lumber
+icon_helmetMyrna8511 traded brick for lumber with Naibaf1314
+icon_helmetMyrna8511 built a road
+botMarget9431 rolled dice_2 dice_5
+botMarget9431 moved robber robber to  prob_9 wool tile
+botMarget9431 stole card from Naibaf1314
+GuestNaibaf1314 rolled dice_3 dice_1
+icon_helmetMyrna8511 got grain
+botMarget9431 got lumberbrick
+GuestNaibaf1314 built a road
+GuestNaibaf1314 built a road
+GuestBrodieZack rolled dice_2 dice_3
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+GuestBrodieZack built a settlement (+1 VP)
+GuestBrodieZack built a road
+icon_helmetMyrna8511 rolled dice_2 dice_5
+botBot is selecting cards to discard for Marget9431
+botMarget9431 discarded woolwoolwoolbrick
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole grain from Naibaf1314
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 traded grain for wool with Marget9431
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+botMarget9431 rolled dice_4 dice_2
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+GuestBrodieZack got lumber
+botMarget9431 built a settlement (+1 VP)
+GuestNaibaf1314 rolled dice_4 dice_1
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+GuestNaibaf1314 bought development card
+GuestBrodieZack rolled dice_3 dice_2
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+icon_helmetMyrna8511 rolled dice_4 dice_2
+ prob_6 lumber tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got oreore
+botMarget9431 got ore
+GuestBrodieZack got lumber
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give graingrain for wool
+icon_helmetMyrna8511 traded graingrain for wool with Marget9431
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 bought development card
+botMarget9431 rolled dice_1 dice_4
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+GuestNaibaf1314 used Knight card knight
+GuestNaibaf1314 moved robber robber to  prob_6 ore tile
+GuestNaibaf1314 stole grain from you
+GuestNaibaf1314 rolled dice_4 dice_3
+GuestNaibaf1314 moved robber robber to  prob_8 brick tile
+GuestNaibaf1314 stole grain from you
+GuestBrodieZack rolled dice_6 dice_5
+icon_helmetMyrna8511 got lumberlumber
+botMarget9431 got lumber
+GuestBrodieZack got wool
+GuestBrodieZack wants to give lumber for brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole grain from Naibaf1314
+icon_helmetMyrna8511 rolled dice_6 dice_1
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole grain from Naibaf1314
+icon_helmetMyrna8511 wants to give lumber for brick
+icon_helmetMyrna8511 wants to give lumber for wool
+botMarget9431 rolled dice_2 dice_5
+botMarget9431 moved robber robber to  prob_9 wool tile
+botMarget9431 stole card from BrodieZack
+botMarget9431 wants to give grain for wool
+botMarget9431 traded grain for wool with BrodieZack
+GuestNaibaf1314 rolled dice_3 dice_3
+icon_helmetMyrna8511 got oreore
+GuestNaibaf1314 got lumberlumberlumber
+botMarget9431 got ore
+GuestBrodieZack got lumber
+GuestNaibaf1314 gave bank lumberlumber and took brick
+GuestBrodieZack rolled dice_2 dice_3
+icon_helmetMyrna8511 got graingrain
+GuestNaibaf1314 got grain
+GuestBrodieZack wants to give lumber for brick
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 discarded lumbergraingrainore
+icon_helmetMyrna8511 moved robber robber to  prob_6 lumber tile
+icon_helmetYou stole grain from Naibaf1314
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 traded grain for wool with Marget9431
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give grainore for brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_5 grain tile
+icon_helmetYou stole grain from Naibaf1314
+icon_helmetMyrna8511 bought development card
+botMarget9431 rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumberlumber
+botMarget9431 got lumber
+GuestBrodieZack got wool
+botMarget9431 wants to give ore for brick
+GuestNaibaf1314 rolled dice_5 dice_4
+GuestNaibaf1314 got woolwool
+GuestBrodieZack got woolbrick
+GuestNaibaf1314 built a settlement (+1 VP)
+GuestBrodieZack rolled dice_4 dice_5
+GuestNaibaf1314 got woolwool
+GuestBrodieZack got woolbrick
+GuestBrodieZack built a road
+GuestBrodieZack built a road
+GuestBrodieZack gave bank woolwool and took lumber
+GuestBrodieZack wants to give wool for brick
+GuestBrodieZack wants to give woolgrain for brick
+icon_helmetMyrna8511 rolled dice_2 dice_6
+icon_helmetMyrna8511 got brickbrick
+GuestNaibaf1314 got ore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 traded grain for wool with Naibaf1314
+icon_helmetMyrna8511 built a settlement (+1 VP)
+botMarget9431 rolled dice_3 dice_6
+GuestNaibaf1314 got woolwool
+GuestBrodieZack got woolbrick
+botMarget9431 built a road
+botMarget9431 wants to give lumber for ore
+botMarget9431 bought development card
+GuestNaibaf1314 rolled dice_5 dice_4
+GuestNaibaf1314 got woolwool
+GuestBrodieZack got woolbrick
+GuestNaibaf1314 wants to give wool for brick
+GuestNaibaf1314 wants to give wool for lumber
+GuestNaibaf1314 traded wool for lumber with Marget9431
+GuestNaibaf1314 wants to give woolwoolwoolwool for brick
+GuestNaibaf1314 gave bank woolwoolwool and took brick
+GuestNaibaf1314 built a settlement (+1 VP)
+GuestBrodieZack rolled dice_3 dice_6
+GuestNaibaf1314 got woolwool
+GuestBrodieZack got woolbrick
+GuestBrodieZack built a settlement (+1 VP)
+GuestBrodieZack gave bank woolwool and took lumber
+GuestBrodieZack gave bank woolwool and took lumber
+GuestBrodieZack built a road
+GuestBrodieZack built a road
+icon_helmetMyrna8511 rolled dice_4 dice_6
+icon_helmetMyrna8511 got woolwool
+GuestNaibaf1314 got brickbrickbrick
+botMarget9431 got wool
+GuestBrodieZack got woolwool
+botMarget9431 rolled dice_3 dice_5
+icon_helmetMyrna8511 got brickbrick
+GuestNaibaf1314 got oreore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+botMarget9431 built a road
+botMarget9431 used Monopoly card monopoly
+botMarget9431 stole 8 wool
+botMarget9431 bought development card
+botMarget9431 gave bank woolwoolwoolwool and took grain
+botMarget9431 gave bank woolwoolwoolwool and took ore
+GuestNaibaf1314 rolled dice_6 dice_2
+icon_helmetMyrna8511 got brickbrick
+GuestNaibaf1314 got oreore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+GuestNaibaf1314 gave bank oreoreoreore and took lumberlumber
+GuestNaibaf1314 built a road
+GuestNaibaf1314 built a road
+GuestBrodieZack rolled dice_3 dice_5
+icon_helmetMyrna8511 got brickbrick
+GuestNaibaf1314 got oreore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+GuestBrodieZack gave bank woolwool and took lumber
+icon_helmetMyrna8511 rolled dice_5 dice_3
+icon_helmetMyrna8511 got brickbrick
+GuestNaibaf1314 got oreore
+botMarget9431 got brickwool
+GuestBrodieZack got wool
+icon_helmetMyrna8511 gave bank brickbrickbrickbrick and took woolgrain
+icon_helmetMyrna8511 built a settlement (+1 VP)
+trophyicon_helmetMyrna8511 won the game! trophy

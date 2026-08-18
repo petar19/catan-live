@@ -1,0 +1,331 @@
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+GuestDdene#3604 placed a settlement
+GuestDdene#3604 placed a road
+UserYolonc placed a settlement
+UserYolonc placed a road
+GuestKent#3816 placed a settlement
+GuestKent#3816 placed a road
+GuestKent#3816 placed a settlement
+GuestKent#3816 received starting resources oregrainbrick 
+GuestKent#3816 placed a road
+UserYolonc placed a settlement
+UserYolonc received starting resources lumberbrick 
+UserYolonc placed a road
+GuestDdene#3604 placed a settlement
+GuestDdene#3604 received starting resources brickore 
+GuestDdene#3604 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 received starting resources lumberore 
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 rolled dice_2dice_1
+GuestDdene#3604 got wool 
+GuestDdene#3604 rolled dice_4dice_2
+icon_helmetMyrna8511 got grainlumber 
+GuestDdene#3604 has disconnected. Bot will wait until next turn to give Ddene#3604 a chance to reconnect. 
+botDdene#3604 has left the game 
+UserYolonc rolled dice_6dice_3
+icon_helmetMyrna8511 got brick 
+UserYolonc got lumber 
+UserYolonc built a road
+GuestKent#3816 rolled dice_6dice_4
+icon_helmetMyrna8511 got wool 
+UserYolonc got wool 
+GuestKent#3816 got ore 
+botDdene#3604 got ore 
+icon_helmetMyrna8511 rolled dice_4dice_1
+icon_helmetMyrna8511 got ore 
+UserYolonc got brick 
+GuestKent#3816 got wool 
+botDdene#3604 got brickore 
+icon_helmetMyrna8511 built a road
+botDdene#3604 rolled dice_3dice_2
+icon_helmetMyrna8511 got ore 
+UserYolonc got brick 
+GuestKent#3816 got wool 
+botDdene#3604 got brickore 
+botDdene#3604 gave bank brickbrick and took lumber 
+botDdene#3604 gave bank oreoreoreore and took grain 
+botDdene#3604 built a road
+UserYolonc rolled dice_2dice_5
+UserYolonc moved Robber robberto  prob_5ore tile
+UserYolonc stole card from Ddene#3604 
+UserYolonc built a settlement(+1 VP) 
+GuestKent#3816 rolled dice_6dice_5
+GuestKent#3816 wants to give wool for lumber 
+icon_helmetMyrna8511 proposed counter offer to Kent#3816 lumber for grain 
+GuestKent#3816 wants to give wool for grain 
+GuestKent#3816 wants to give brickwool for lumber 
+GuestKent#3816 traded brickwool for lumber with Myrna8511 
+icon_helmetMyrna8511 rolled dice_3dice_5
+UserYolonc got lumber 
+GuestKent#3816 got woolbrick 
+icon_helmetMyrna8511 wants to give wool for lumber 
+icon_helmetMyrna8511 wants to give wool for brick 
+botDdene#3604 rolled dice_6dice_2
+UserYolonc got lumber 
+GuestKent#3816 got woolbrick 
+UserYolonc rolled dice_4dice_3
+GuestKent#3816 discarded brickwoolwoolore 
+UserYolonc moved Robber robberto  prob_10ore tile
+UserYolonc stole card from Ddene#3604 
+UserYolonc wants to give lumber for grain 
+UserYolonc built a road
+GuestKent#3816 rolled dice_5dice_5
+ prob_10ore tileis blocked by the Robber. No resources produced. 
+icon_helmetMyrna8511 got wool 
+UserYolonc got wool 
+GuestKent#3816 built a road
+icon_helmetMyrna8511 rolled dice_6dice_4
+ prob_10ore tileis blocked by the Robber. No resources produced. 
+icon_helmetMyrna8511 got wool 
+UserYolonc got wool 
+icon_helmetMyrna8511 wants to give wool for lumber 
+icon_helmetMyrna8511 wants to give woolwool for lumber 
+icon_helmetMyrna8511 wants to give brickwool for grain 
+icon_helmetMyrna8511 gave bank woolwoolwoolwool and took grain 
+icon_helmetMyrna8511 built a city(+1 VP) 
+botDdene#3604 rolled dice_6dice_5
+UserYolonc rolled dice_4dice_3
+UserYolonc moved Robber robberto  prob_5ore tile
+UserYolonc stole brick from you 
+UserYolonc wants to give wool for grain 
+UserYolonc wants to give woolwool for grain 
+GuestKent#3816 rolled dice_1dice_5
+icon_helmetMyrna8511 got graingrainlumber 
+UserYolonc got ore 
+icon_helmetMyrna8511 rolled dice_2dice_3
+ prob_5ore tileis blocked by the Robber. No resources produced. 
+UserYolonc got brick 
+GuestKent#3816 got wool 
+botDdene#3604 got brick 
+botDdene#3604 rolled dice_6dice_1
+botDdene#3604 moved Robber robberto  prob_10wool tile
+botDdene#3604 stole card from Yolonc 
+UserYolonc rolled dice_2dice_5
+UserYolonc moved Robber robberto  prob_10ore tile
+UserYolonc stole card from Ddene#3604 
+UserYolonc wants to give brickwool for grain 
+UserYolonc wants to give ore for grain 
+icon_helmetMyrna8511 proposed counter offer to Yolonc grain for brickwoolore 
+GuestKent#3816 proposed counter offer to Yolonc wool for lumber 
+UserYolonc traded brickwoolore for grain with Myrna8511 
+UserYolonc built a settlement(+1 VP) 
+GuestKent#3816 rolled dice_3dice_6
+icon_helmetMyrna8511 got brickbrick 
+UserYolonc got lumberbrick 
+GuestKent#3816 wants to give wool for lumber 
+icon_helmetMyrna8511 rolled dice_2dice_2
+UserYolonc got lumberlumber 
+GuestKent#3816 got ore 
+botDdene#3604 got lumber 
+icon_helmetMyrna8511 built a settlement(+1 VP) 
+botDdene#3604 rolled dice_1dice_5
+icon_helmetMyrna8511 got graingrainlumber 
+UserYolonc got ore 
+UserYolonc rolled dice_4dice_2
+icon_helmetMyrna8511 got graingrainlumber 
+UserYolonc got ore 
+UserYolonc built a road
+UserYolonc built a road
+GuestKent#3816 rolled dice_4dice_6
+ prob_10ore tileis blocked by the Robber. No resources produced. 
+icon_helmetMyrna8511 got woolwool 
+UserYolonc got wool 
+GuestKent#3816 wants to give wool for lumber 
+GuestKent#3816 traded wool for lumber with Myrna8511 
+icon_helmetMyrna8511 rolled dice_3dice_5
+UserYolonc got lumber 
+GuestKent#3816 got woolbrick 
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 wants to give brick for ore 
+icon_helmetMyrna8511 gave bank brickbrick and took ore 
+icon_helmetMyrna8511 bought development card
+botDdene#3604 rolled dice_3dice_6
+icon_helmetMyrna8511 got brickbrickbrick 
+UserYolonc got lumberbrick 
+UserYolonc rolled dice_4dice_3
+UserYolonc moved Robber robberto  prob_5ore tile
+UserYolonc stole wool from you 
+UserYolonc gave bank lumberlumber and took grain 
+UserYolonc built a settlement(+1 VP) 
+GuestKent#3816 rolled dice_6dice_6
+GuestKent#3816 got grain 
+GuestKent#3816 built a settlement(+1 VP) 
+icon_helmetMyrna8511 rolled dice_3dice_5
+UserYolonc got lumberlumber 
+GuestKent#3816 got woolwoolbrick 
+icon_helmetMyrna8511 wants to give brick for wool 
+icon_helmetMyrna8511 traded brick for wool with Ddene#3604 
+icon_helmetMyrna8511 used  Road Building card road building 
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement(+1 VP) 
+botDdene#3604 rolled dice_1dice_2
+icon_helmetMyrna8511 got brick 
+botDdene#3604 got wool 
+UserYolonc rolled dice_3dice_4
+UserYolonc moved Robber robberto  prob_6lumber tile
+UserYolonc stole grain from you 
+UserYolonc wants to give wool for grain 
+UserYolonc wants to give wool for ore 
+UserYolonc gave bank lumberlumber and took grain 
+GuestKent#3816 rolled dice_5dice_6
+GuestKent#3816 wants to give woolwool for lumber 
+GuestKent#3816 wants to give woolwool for grain 
+icon_helmetMyrna8511 rolled dice_3dice_1
+UserYolonc got lumberlumberlumber 
+GuestKent#3816 got ore 
+botDdene#3604 got lumber 
+botDdene#3604 rolled dice_4dice_6
+icon_helmetMyrna8511 got woolwool 
+UserYolonc got wool 
+GuestKent#3816 got ore 
+botDdene#3604 got ore 
+botDdene#3604 wants to give lumber for grain 
+UserYolonc rolled dice_6dice_4
+icon_helmetMyrna8511 got woolwool 
+UserYolonc got wool 
+GuestKent#3816 got ore 
+botDdene#3604 got ore 
+UserYolonc wants to give lumber for ore 
+GuestKent#3816 proposed counter offer to Yolonc ore for lumbergrain 
+UserYolonc gave bank lumberlumber and took ore 
+UserYolonc built a city(+1 VP) 
+GuestKent#3816 rolled dice_4dice_3
+GuestKent#3816 discarded woolwoolwooloreore 
+GuestKent#3816 moved Robber robberto  prob_9brick tile
+GuestKent#3816 stole card from Yolonc 
+GuestKent#3816 wants to give wool for grain 
+GuestKent#3816 wants to give brickwool for grain 
+icon_helmetMyrna8511 rolled dice_3dice_6
+ prob_9brick tileis blocked by the Robber. No resources produced. 
+UserYolonc got lumber 
+GuestKent#3816 got grain 
+icon_helmetMyrna8511 wants to give brickwool for grain 
+icon_helmetMyrna8511 gave bank brickbrickwoolwoolwool and took grainore 
+icon_helmetMyrna8511 bought development card
+botDdene#3604 rolled dice_2dice_4
+icon_helmetMyrna8511 got graingrainorelumber 
+UserYolonc got ore 
+botDdene#3604 wants to give lumber for grain 
+UserYolonc rolled dice_5dice_4
+ prob_9brick tileis blocked by the Robber. No resources produced. 
+UserYolonc got lumber 
+GuestKent#3816 got grain 
+UserYolonc gave bank lumberlumber and took grain 
+UserYolonc bought development card
+GuestKent#3816 rolled dice_3dice_3
+icon_helmetMyrna8511 got graingrainorelumber 
+UserYolonc got ore 
+GuestKent#3816 built a city(+1 VP) 
+GuestKent#3816 wants to give brick for ore 
+icon_helmetMyrna8511 proposed counter offer to Kent#3816 ore for brickwool 
+icon_helmetMyrna8511 rolled dice_4dice_2
+icon_helmetMyrna8511 got graingrainorelumber 
+UserYolonc got ore 
+icon_helmetMyrna8511 built a city(+1 VP) 
+icon_helmetMyrna8511 used  Year of Plenty card year of plenty 
+icon_helmetMyrna8511 took from bank oreore
+icon_helmetMyrna8511 gave bank lumberlumberlumber and took ore 
+icon_helmetMyrna8511 built a city(+1 VP) 
+botDdene#3604 rolled dice_1dice_4
+icon_helmetMyrna8511 got oreore 
+UserYolonc got brick 
+GuestKent#3816 got woolwool 
+botDdene#3604 got brickore 
+botDdene#3604 gave bank brickbrick and took grain 
+botDdene#3604 wants to give lumber for grain 
+botDdene#3604 wants to give wool for grain 
+botDdene#3604 wants to give lumber for brick 
+botDdene#3604 bought development card
+UserYolonc rolled dice_4dice_4
+UserYolonc got lumberlumberlumber 
+GuestKent#3816 got woolwoolwoolbrick 
+UserYolonc wants to give lumber for grain 
+UserYolonc wants to give lumber for brick 
+UserYolonc wants to give ore for brick 
+UserYolonc wants to give ore for grain 
+GuestKent#3816 proposed counter offer to Yolonc wool for oreore 
+UserYolonc gave bank lumberlumber and took grain 
+UserYolonc bought development card
+GuestKent#3816 rolled dice_3dice_3
+icon_helmetMyrna8511 got graingrainoreorelumberlumber 
+UserYolonc got ore 
+GuestKent#3816 wants to give woolwool for lumber 
+GuestKent#3816 traded woolwool for lumber with Ddene#3604 
+GuestKent#3816 built a road
+GuestKent#3816 wants to give wool for lumberlumber 
+GuestKent#3816 wants to give wool for lumberlumberbrick 
+GuestKent#3816 wants to give wool for lumberlumberlumber 
+GuestKent#3816 traded wool for lumberlumber with Myrna8511 
+GuestKent#3816 built a settlement(+1 VP) 
+GuestKent#3816 gave bank woolwool and took brick 
+GuestKent#3816 built a road
+icon_helmetMyrna8511 used  Knight card knight 
+icon_helmetMyrna8511 moved Robber robberto  prob_8lumber tile
+icon_helmetYou stole ore from Yolonc 
+icon_helmetMyrna8511 rolled dice_2dice_5
+icon_helmetMyrna8511 discarded graingrainoreoreore 
+icon_helmetMyrna8511 moved Robber robberto  prob_4lumber tile
+icon_helmetYou stole brick from Yolonc 
+icon_helmetMyrna8511 bought development card
+botDdene#3604 rolled dice_5dice_3
+UserYolonc got lumberlumberlumber 
+GuestKent#3816 got woolwoolwoolbrick 
+botDdene#3604 wants to give lumber for grain 
+botDdene#3604 used  Monopoly card monopoly 
+botDdene#3604 stole 5 lumber
+botDdene#3604 gave bank lumberlumberlumberlumber and took brick 
+botDdene#3604 wants to give ore for grain 
+botDdene#3604 wants to give wool for grain 
+botDdene#3604 built a road
+UserYolonc rolled dice_2dice_3
+icon_helmetMyrna8511 got oreore 
+UserYolonc got brick 
+GuestKent#3816 got woolwool 
+botDdene#3604 got brickore 
+GuestKent#3816 rolled dice_6dice_1
+GuestKent#3816 moved Robber robberto  prob_6ore tile
+GuestKent#3816 stole brick from you 
+GuestKent#3816 gave bank woolwool and took lumber 
+GuestKent#3816 gave bank woolwool and took grain 
+GuestKent#3816 built a settlement(+1 VP) 
+icon_helmetMyrna8511 used  Knight card knight 
+icon_helmetMyrna8511 moved Robber robberto  prob_8lumber tile
+icon_helmetYou stole brick from Yolonc 
+icon_helmetMyrna8511 rolled dice_1dice_3
+UserYolonc got lumberlumberlumberlumber 
+GuestKent#3816 got oreore 
+botDdene#3604 got lumber 
+icon_helmetMyrna8511 wants to give ore for wool 
+icon_helmetMyrna8511 wants to give brickore for wool 
+botDdene#3604 rolled dice_2dice_4
+icon_helmetMyrna8511 got graingrainoreorelumberlumber 
+UserYolonc got ore 
+botDdene#3604 wants to give ore for grain 
+botDdene#3604 wants to give wool for grain 
+botDdene#3604 wants to give lumber for grain 
+botDdene#3604 traded wool for grain with Myrna8511 
+botDdene#3604 built a settlement(+1 VP) 
+UserYolonc rolled dice_1dice_2
+icon_helmetMyrna8511 got brickbrick 
+botDdene#3604 got woolwool 
+UserYolonc wants to give ore for grain 
+UserYolonc wants to give ore for brick 
+UserYolonc wants to give ore for wool 
+UserYolonc gave bank lumberlumberlumberlumber and took woolgrain 
+UserYolonc bought development card
+GuestKent#3816 rolled dice_5dice_5
+icon_helmetMyrna8511 got woolwool 
+UserYolonc got woolwool 
+GuestKent#3816 got ore 
+botDdene#3604 got ore 
+icon_helmetMyrna8511 rolled dice_5dice_1
+icon_helmetMyrna8511 got graingrainoreorelumberlumber 
+UserYolonc got ore 
+icon_helmetMyrna8511 built a city(+1 VP) 
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road(+2 VPs) 
+trophyicon_helmetMyrna8511 won the game!  trophy

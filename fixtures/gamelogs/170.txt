@@ -1,0 +1,434 @@
+icon_helmetMyrna8511 has reconnected
+GuestZilla9260 placed a settlement
+GuestZilla9260 placed a road
+GuestTrade4Sheep placed a settlement
+GuestTrade4Sheep placed a road
+Userbildo placed a settlement
+Userbildo placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources orelumbergrain
+Userbildo placed a settlement
+Userbildo placed a road
+Userbildo received starting resources grainwoolwool
+GuestTrade4Sheep placed a settlement
+GuestTrade4Sheep placed a road
+GuestTrade4Sheep received starting resources woollumbergrain
+GuestZilla9260 placed a settlement
+GuestZilla9260 placed a road
+GuestZilla9260 received starting resources graingrainlumber
+GuestZilla9260 rolled dice_3 dice_4
+GuestBot is selecting where to place robber for Zilla9260
+GuestZilla9260 moved robber robber to  prob_9 grain tile
+GuestZilla9260 stole card from bildo
+GuestTrade4Sheep rolled dice_3 dice_4
+GuestTrade4Sheep moved robber robber to  prob_10 ore tile
+GuestTrade4Sheep stole ore from you
+GuestTrade4Sheep bought development card
+Userbildo rolled dice_2 dice_6
+Userbildo got brick
+GuestZilla9260 got ore
+Userbildo wants to give brick for ore
+Userbildo wants to give wool for lumber
+icon_helmetMyrna8511 wants to give bildo lumber for brickwool
+Userbildo wants to give woolgrain for lumber
+icon_helmetMyrna8511 rolled dice_6 dice_6
+GuestZilla9260 got lumber
+GuestZilla9260 rolled dice_3 dice_4
+GuestZilla9260 moved robber robber to  prob_5 wool tile
+GuestZilla9260 stole card from Trade4Sheep
+GuestZilla9260 bought development card
+GuestTrade4Sheep rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestZilla9260 got grain
+Userbildo rolled dice_3 dice_5
+Userbildo got brick
+GuestZilla9260 got ore
+Userbildo wants to give brick for lumber
+Userbildo traded brick for lumber with Myrna8511
+Userbildo built a road
+icon_helmetMyrna8511 rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumber
+icon_helmetMyrna8511 built a road
+GuestZilla9260 rolled dice_4 dice_1
+ prob_5 wool tile is blocked by the robber. No resources produced.
+GuestZilla9260 got brick
+GuestZilla9260 built a road
+GuestTrade4Sheep rolled dice_2 dice_5
+GuestTrade4Sheep moved robber robber to  prob_10 ore tile
+GuestTrade4Sheep stole card from Zilla9260
+Userbildo rolled dice_3 dice_5
+Userbildo got brick
+GuestZilla9260 got ore
+Userbildo wants to give wool for lumber
+Userbildo traded wool for lumber with Zilla9260
+icon_helmetMyrna8511 rolled dice_3 dice_1
+Userbildo got grain
+GuestTrade4Sheep got wool
+GuestZilla9260 used Knight card knight
+GuestZilla9260 moved robber robber to  prob_5 wool tile
+GuestZilla9260 stole card from Trade4Sheep
+GuestZilla9260 rolled dice_4 dice_6
+Userbildo got brick
+GuestTrade4Sheep got brick
+icon_helmetMyrna8511 got ore
+GuestZilla9260 got ore
+GuestZilla9260 built a city (+1 VP)
+GuestTrade4Sheep rolled dice_3 dice_6
+Userbildo got grain
+GuestTrade4Sheep got ore
+icon_helmetMyrna8511 got grain
+Userbildo rolled dice_6 dice_6
+GuestZilla9260 got lumberlumber
+Userbildo wants to give grain for lumber
+Userbildo wants to give grain for wool
+icon_helmetMyrna8511 wants to give bildo lumber for brickore
+icon_helmetMyrna8511 wants to give bildo lumber for brickgrain
+UserMyrna8511 traded lumber for brickgrain with bildo
+Userbildo built a road
+icon_helmetMyrna8511 rolled dice_4 dice_1
+ prob_5 wool tile is blocked by the robber. No resources produced.
+GuestZilla9260 got brick
+GuestZilla9260 rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestZilla9260 got graingrain
+GuestZilla9260 built a settlement (+1 VP)
+GuestTrade4Sheep rolled dice_1 dice_5
+Userbildo got wool
+GuestTrade4Sheep got grain
+icon_helmetMyrna8511 got grain
+GuestZilla9260 got graingrain
+GuestTrade4Sheep wants to give ore for lumber
+Userbildo rolled dice_3 dice_4
+Userbildo moved robber robber to  prob_6 grain tile
+Userbildo stole card from Zilla9260
+Userbildo wants to give grain for brick
+icon_helmetMyrna8511 rolled dice_6 dice_6
+GuestZilla9260 got lumberlumber
+icon_helmetMyrna8511 wants to give grain for wool
+GuestTrade4Sheep wants to give Myrna8511 wool for lumber
+icon_helmetMyrna8511 wants to give graingrain for wool
+icon_helmetMyrna8511 wants to give grain for lumber
+GuestZilla9260 rolled dice_6 dice_3
+Userbildo got grain
+GuestTrade4Sheep got ore
+icon_helmetMyrna8511 got grain
+GuestZilla9260 wants to give lumber for wool
+GuestZilla9260 traded lumber for wool with Trade4Sheep
+GuestTrade4Sheep rolled dice_4 dice_4
+Userbildo got brick
+GuestZilla9260 got ore
+GuestTrade4Sheep built a road
+Userbildo rolled dice_5 dice_6
+icon_helmetMyrna8511 got lumber
+GuestZilla9260 got graingraingrain
+Userbildo wants to give grain for lumber
+icon_helmetMyrna8511 wants to give bildo lumber for brickwool
+Userbildo built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_5 dice_1
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Userbildo got wool
+icon_helmetMyrna8511 wants to give grain for wool
+icon_helmetMyrna8511 wants to give graingrain for wool
+icon_helmetMyrna8511 wants to give lumber for wool
+icon_helmetMyrna8511 traded lumber for wool with bildo
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestZilla9260 rolled dice_5 dice_5
+Userbildo got brickbrick
+GuestTrade4Sheep got brick
+icon_helmetMyrna8511 got ore
+GuestZilla9260 got ore
+GuestZilla9260 bought development card
+GuestZilla9260 wants to give lumber for wool
+GuestZilla9260 wants to give lumber for brick
+GuestZilla9260 wants to give grain for brick
+Userbildo wants to give Zilla9260 brick for lumberwool
+GuestZilla9260 wants to give lumbergrain for wool
+GuestTrade4Sheep wants to give Zilla9260 brick for grainore
+GuestZilla9260 wants to give lumberlumber for wool
+GuestTrade4Sheep rolled dice_3 dice_2
+GuestTrade4Sheep got wool
+icon_helmetMyrna8511 got wool
+GuestZilla9260 got brick
+GuestTrade4Sheep wants to give ore for lumber
+GuestTrade4Sheep traded ore for lumber with Zilla9260
+GuestTrade4Sheep built a settlement (+1 VP)
+Userbildo rolled dice_1 dice_1
+icon_helmetMyrna8511 got lumberlumber
+Userbildo wants to give grain for wool
+Userbildo wants to give brick for wool
+icon_helmetMyrna8511 wants to give bildo wool for brickgrain
+icon_helmetMyrna8511 wants to give bildo wool for brickbrick
+UserMyrna8511 traded wool for brickbrick with bildo
+Userbildo wants to give wool for brickbrick
+Userbildo traded wool for brickbrick with Myrna8511
+Userbildo wants to give brickgrain for wool
+Userbildo traded brickgrain for wool with Myrna8511
+Userbildo built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_3 dice_3
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Userbildo got wool
+icon_helmetMyrna8511 got wool
+icon_helmetMyrna8511 wants to give grain for ore
+icon_helmetMyrna8511 wants to give lumber for ore
+icon_helmetMyrna8511 gave bank graingraingrain and took ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 built a road
+GuestZilla9260 rolled dice_2 dice_1
+Userbildo got wool
+GuestTrade4Sheep got lumberlumber
+GuestZilla9260 wants to give lumber for wool
+GuestZilla9260 traded lumber for wool with bildo
+GuestZilla9260 used Road Building card road building
+GuestZilla9260 placed a road
+GuestZilla9260 placed a road
+GuestZilla9260 built a settlement (+1 VP)
+GuestTrade4Sheep rolled dice_3 dice_1
+Userbildo got graingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+Userbildo rolled dice_4 dice_2
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Userbildo got wool
+icon_helmetMyrna8511 got wool
+Userbildo wants to give grain for ore
+icon_helmetMyrna8511 rolled dice_2 dice_2
+Userbildo got graingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+GuestZilla9260 rolled dice_1 dice_2
+Userbildo got wool
+GuestTrade4Sheep got lumberlumber
+GuestZilla9260 bought development card
+GuestZilla9260 bought development card
+GuestTrade4Sheep rolled dice_1 dice_5
+ prob_6 grain tile is blocked by the robber. No resources produced.
+Userbildo got wool
+icon_helmetMyrna8511 got wool
+GuestTrade4Sheep wants to give lumber for brick
+Userbildo started an embargo against Zilla9260
+GuestTrade4Sheep wants to give wool for brick
+Userbildo ended an embargo against Zilla9260
+GuestTrade4Sheep wants to give lumber for grain
+GuestTrade4Sheep traded lumber for grain with bildo
+Userbildo rolled dice_5 dice_5
+Userbildo got brickbrick
+GuestTrade4Sheep got brick
+icon_helmetMyrna8511 got oreore
+GuestZilla9260 got ore
+Userbildo built a road
+Userbildo built a settlement (+1 VP)
+Userbildo wants to give grain for ore
+Userbildo wants to give wool for ore
+icon_helmetMyrna8511 wants to give bildo ore for brickgrain
+icon_helmetMyrna8511 wants to give bildo ore for woolgrain
+UserMyrna8511 traded ore for woolgrain with bildo
+icon_helmetMyrna8511 rolled dice_2 dice_2
+Userbildo got graingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+icon_helmetMyrna8511 bought development card
+GuestZilla9260 rolled dice_5 dice_6
+Userbildo got lumber
+icon_helmetMyrna8511 got lumber
+GuestZilla9260 got graingraingrain
+GuestZilla9260 used Year of Plenty card year of plenty
+GuestZilla9260 took from bank ore ore
+GuestZilla9260 bought development card
+GuestZilla9260 bought development card
+GuestZilla9260 bought development card
+GuestTrade4Sheep rolled dice_1 dice_2
+Userbildo got wool
+GuestTrade4Sheep got lumberlumber
+GuestTrade4Sheep wants to give lumber for brick
+GuestTrade4Sheep wants to give lumberwool for brick
+GuestTrade4Sheep bought development card
+GuestTrade4Sheep built a road
+Userbildo rolled dice_5 dice_4
+Userbildo got graingrain
+GuestTrade4Sheep got ore
+icon_helmetMyrna8511 got graingrain
+Userbildo wants to give wool for ore
+Userbildo wants to give woolwool for ore
+Userbildo wants to give lumber for ore
+Userbildo wants to give lumberwool for ore
+Userbildo gave bank graingraingrain and took ore
+Userbildo gave bank woolwoolwool and took ore
+Userbildo built a city (+1 VP)
+icon_helmetMyrna8511 rolled dice_1 dice_4
+GuestTrade4Sheep got wool
+icon_helmetMyrna8511 got wool
+GuestZilla9260 got brick
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 ore tile
+icon_helmetYou stole brick from Zilla9260
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 gave bank woolwoolwool and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 received longest road (+2 VPs)
+GuestZilla9260 used Knight card knight
+GuestZilla9260 moved robber robber to  prob_9 grain tile
+GuestZilla9260 stole card from bildo
+GuestZilla9260 rolled dice_1 dice_4
+GuestTrade4Sheep got wool
+icon_helmetMyrna8511 got wool
+GuestZilla9260 got brick
+GuestTrade4Sheep rolled dice_1 dice_3
+Userbildo got graingraingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+GuestTrade4Sheep wants to give wool for brick
+GuestTrade4Sheep used Monopoly card monopoly
+GuestTrade4Sheep stole 7 grain
+GuestTrade4Sheep gave bank woolwoolwoolwoolgraingraingraingrain and took oreore
+GuestTrade4Sheep built a city (+1 VP)
+Userbildo rolled dice_1 dice_3
+Userbildo got graingraingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+icon_helmetMyrna8511 rolled dice_3 dice_4
+icon_helmetMyrna8511 moved robber robber to  prob_8 ore tile
+icon_helmetYou stole wool from Zilla9260
+GuestZilla9260 rolled dice_6 dice_3
+Userbildo got graingrain
+GuestTrade4Sheep got oreore
+icon_helmetMyrna8511 got graingrain
+GuestZilla9260 used Road Building card road building
+GuestZilla9260 placed a road
+GuestZilla9260 placed a road
+GuestZilla9260 gave bank woolwoolwool and took grain
+GuestZilla9260 built a settlement (+1 VP)
+GuestTrade4Sheep used Knight card knight
+GuestTrade4Sheep moved robber robber to  prob_10 ore tile
+GuestTrade4Sheep stole grain from you
+GuestTrade4Sheep rolled dice_4 dice_1
+GuestTrade4Sheep got woolwool
+icon_helmetMyrna8511 got wool
+GuestZilla9260 got brick
+GuestTrade4Sheep wants to give lumber for brick
+GuestTrade4Sheep wants to give lumberwool for brick
+GuestTrade4Sheep bought development card
+GuestTrade4Sheep bought development card
+Userbildo rolled dice_2 dice_2
+Userbildo got graingraingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+Userbildo gave bank graingraingraingraingraingrain and took lumberbrick
+Userbildo built a road
+icon_helmetMyrna8511 rolled dice_3 dice_1
+Userbildo got graingraingrain
+GuestTrade4Sheep got wool
+GuestZilla9260 got woolwool
+GuestZilla9260 rolled dice_4 dice_2
+Userbildo got wool
+GuestTrade4Sheep got grain
+icon_helmetMyrna8511 got woolgrain
+GuestZilla9260 got graingrain
+GuestZilla9260 used Year of Plenty card year of plenty
+GuestZilla9260 took from bank ore ore
+GuestZilla9260 bought development card
+GuestZilla9260 bought development card
+GuestTrade4Sheep rolled dice_2 dice_5
+GuestTrade4Sheep discarded lumberwoolwoolwool
+GuestTrade4Sheep moved robber robber to  prob_5 brick tile
+GuestTrade4Sheep stole card from Zilla9260
+GuestTrade4Sheep wants to give lumber for ore
+GuestTrade4Sheep used Knight card knight
+GuestTrade4Sheep moved robber robber to  prob_4 wool tile
+GuestTrade4Sheep stole card from Zilla9260
+Userbildo rolled dice_6 dice_3
+Userbildo got graingrain
+GuestTrade4Sheep got oreore
+icon_helmetMyrna8511 got graingrain
+Userbildo gave bank graingraingraingraingraingrain and took lumberbrick
+Userbildo built a road
+icon_helmetMyrna8511 rolled dice_3 dice_2
+GuestTrade4Sheep got woolwool
+icon_helmetMyrna8511 got wool
+GuestZilla9260 got brick
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetMyrna8511 wants to give grain for lumber
+icon_helmetMyrna8511 wants to give wool for lumber
+icon_helmetMyrna8511 wants to give wool for brick
+icon_helmetMyrna8511 started an embargo against Zilla9260
+icon_helmetMyrna8511 traded grain for lumber with Trade4Sheep
+icon_helmetMyrna8511 gave bank woolwoolwool and took brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+GuestZilla9260 rolled dice_5 dice_2
+GuestTrade4Sheep discarded woolwoolwoolwoolore
+GuestZilla9260 moved robber robber to  prob_5 wool tile
+GuestZilla9260 stole card from Trade4Sheep
+GuestZilla9260 built a road
+GuestTrade4Sheep rolled dice_2 dice_5
+GuestTrade4Sheep moved robber robber to  prob_5 brick tile
+GuestTrade4Sheep stole card from Zilla9260
+GuestTrade4Sheep built a settlement (+1 VP)
+Userbildo rolled dice_2 dice_5
+Userbildo moved robber robber to  prob_6 grain tile
+Userbildo stole grain from you
+icon_helmetMyrna8511 rolled dice_6 dice_6
+GuestTrade4Sheep got lumber
+GuestZilla9260 got lumberlumber
+GuestZilla9260 rolled dice_1 dice_6
+GuestZilla9260 moved robber robber to  prob_5 wool tile
+GuestZilla9260 stole card from Trade4Sheep
+GuestTrade4Sheep rolled dice_6 dice_3
+Userbildo got graingrain
+GuestTrade4Sheep got oreoreore
+icon_helmetMyrna8511 got graingrain
+GuestTrade4Sheep wants to give ore for wool
+GuestTrade4Sheep traded ore for wool with Myrna8511
+GuestTrade4Sheep bought development card
+Userbildo rolled dice_1 dice_5
+Userbildo got wool
+GuestTrade4Sheep got grain
+icon_helmetMyrna8511 got woolgrain
+GuestZilla9260 got graingrain
+Userbildo wants to give wool for brick
+Userbildo wants to give wool for lumber
+Userbildo gave bank graingraingrain and took lumber
+icon_helmetMyrna8511 rolled dice_2 dice_5
+icon_helmetMyrna8511 moved robber robber to  prob_8 ore tile
+icon_helmetYou stole grain from Zilla9260
+icon_helmetMyrna8511 wants to give bildo & Trade4Sheep grain for brick
+icon_helmetMyrna8511 wants to give bildo & Trade4Sheep grain for lumber
+icon_helmetMyrna8511 traded grain for lumber with Trade4Sheep
+icon_helmetMyrna8511 gave bank graingraingrain and took brick
+icon_helmetMyrna8511 built a road
+icon_helmetMyrna8511 bought development card
+GuestZilla9260 rolled dice_5 dice_3
+ prob_8 ore tile is blocked by the robber. No resources produced.
+Userbildo got brickbrickbrick
+GuestTrade4Sheep rolled dice_3 dice_6
+Userbildo got graingrain
+GuestTrade4Sheep got oreoreore
+icon_helmetMyrna8511 got graingrain
+GuestTrade4Sheep used Knight card knight
+GuestTrade4Sheep received largest army (+2 VPs)
+GuestTrade4Sheep moved robber robber to  prob_5 brick tile
+GuestTrade4Sheep stole card from Zilla9260
+GuestTrade4Sheep built a city (+1 VP)
+Userbildo rolled dice_6 dice_5
+Userbildo got lumber
+icon_helmetMyrna8511 got lumber
+GuestZilla9260 got graingraingrain
+Userbildo built a settlement (+1 VP)
+Userbildo built a road
+icon_helmetMyrna8511 rolled dice_4 dice_2
+Userbildo got wool
+GuestTrade4Sheep got graingrain
+icon_helmetMyrna8511 got woolgrain
+GuestZilla9260 got graingrain
+GuestZilla9260 rolled dice_3 dice_3
+Userbildo got wool
+GuestTrade4Sheep got graingrain
+icon_helmetMyrna8511 got woolgrain
+GuestZilla9260 got graingrain
+GuestZilla9260 gave bank graingraingraingraingraingrain and took brickwool
+GuestZilla9260 built a settlement (+1 VP)
+trophyGuestZilla9260 won the game!trophy
+Userbildo has left the game

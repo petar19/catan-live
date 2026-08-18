@@ -1,0 +1,459 @@
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+ScubaSteve placed a settlement
+ScubaSteve placed a road
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+GuestYolonc placed a settlement
+GuestYolonc placed a road
+GuestYolonc received starting resources:  orelumberbrick
+ScubaSteve placed a settlement
+ScubaSteve placed a road
+ScubaSteve received starting resources:  oregrain
+GuestSeale5074 placed a settlement
+GuestSeale5074 placed a road
+GuestSeale5074 received starting resources:  graingrainlumber
+Myrna8511 placed a settlement
+Myrna8511 placed a road
+Myrna8511 received starting resources:  brickwool
+Myrna8511 rolled: dice_1 dice_3
+Myrna8511 got: woolwool
+GuestYolonc got: ore
+GuestSeale5074 rolled: dice_3 dice_6
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+GuestSeale5074 wants to give:  grain for:  brick
+GuestSeale5074 wants to give:  grain for:  wool
+GuestSeale5074 traded:  grainfor:  wool with: Myrna8511
+ScubaSteve has disconnected. Bot will wait until next turn to give ScubaSteve a chance to reconnect.
+botScubaSteve has left the game, giving them 2 minutes to reconnect.
+botScubaSteve rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+botScubaSteve got: wool
+ScubaSteve has reconnected!
+GuestYolonc rolled: dice_6 dice_4
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+GuestYolonc built a road
+Myrna8511 rolled: dice_6 dice_4
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+Myrna8511 built a road
+GuestSeale5074 rolled: dice_3 dice_5
+GuestSeale5074 got: brick
+ScubaSteve got: ore
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  lumber for:  brick
+GuestSeale5074 wants to give:  lumberlumber for:  brick
+GuestSeale5074 wants to give:  lumber for:  ore
+GuestSeale5074 traded:  lumberfor:  ore with: Yolonc
+ScubaSteve rolled: dice_6 dice_3
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+ScubaSteve wants to give:  wool for:  lumber
+ScubaSteve wants to give:  wool for:  brick
+ScubaSteve wants to give:  grain for:  lumber
+Myrna8511 wants to give ScubaSteve :  lumber for:  brickwool
+ScubaSteve wants to give:  grain for:  brick
+Myrna8511 wants to give ScubaSteve :  lumber for:  brickgrain
+ScubaSteve bought development card
+ScubaSteve bought development card
+GuestYolonc rolled: dice_4 dice_2
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: grain
+GuestYolonc wants to give:  grain for:  brick
+GuestYolonc wants to give:  lumber for:  brick
+GuestYolonc wants to give:  ore for:  brick
+GuestYolonc wants to give:  grainore for:  brick
+GuestYolonc wants to give:  lumbergrain for:  brick
+GuestYolonc bought development card
+Myrna8511 rolled: dice_2 dice_1
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+GuestSeale5074 rolled: dice_2 dice_5
+GuestSeale5074 moved robber robberto  prob_9 grain tile
+GuestSeale5074 stole  card from: ScubaSteve
+GuestSeale5074 wants to give:  wool for:  brick
+GuestSeale5074 wants to give:  grain for:  brick
+GuestSeale5074 wants to give:  lumber for:  brick
+GuestSeale5074 wants to give:  lumberwool for:  brick
+GuestSeale5074 wants to give:  lumberwoolgrain for:  brick
+GuestSeale5074 bought development card
+ScubaSteve used card knight
+ScubaSteve moved robber robberto  prob_5 brick tile
+ScubaSteve stole  card from: Seale5074
+ScubaSteve rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+ScubaSteve wants to give:  woolgrain for:  brick
+GuestYolonc rolled: dice_3 dice_5
+GuestSeale5074 got: brick
+ScubaSteve got: ore
+GuestYolonc wants to give:  lumber for:  brick
+Myrna8511 rolled: dice_6 dice_3
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+Myrna8511 wants to give:  lumberwool for:  brick
+GuestSeale5074 used card knight
+GuestSeale5074 moved robber robberto  prob_9 grain tile
+GuestSeale5074 stole  card from: ScubaSteve
+GuestSeale5074 rolled: dice_2 dice_1
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give:  grain for:  lumber
+GuestSeale5074 wants to give:  grain for:  brick
+GuestYolonc wants to give Seale5074 :  lumber for:  brick
+GuestYolonc wants to give Seale5074 :  lumber for:  wool
+GuestSeale5074 wants to give:  lumberlumber for:  brick
+ScubaSteve rolled: dice_5 dice_5
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+ScubaSteve gave bank:   woolwoolwoolwool and took   brick
+ScubaSteve built a road
+GuestYolonc rolled: dice_4 dice_6
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+GuestYolonc wants to give:  lumberlumber for:  brick
+GuestYolonc wants to give:  lumbergrain for:  brick
+GuestYolonc wants to give:  lumber for:  wool
+GuestYolonc wants to give:  grain for:  wool
+Myrna8511 rolled: dice_3 dice_5
+GuestSeale5074 got: brickbrick
+ScubaSteve got: ore
+Myrna8511 wants to give:  lumberwool for:  brick
+Myrna8511 traded:  lumberwoolfor:  brick with: Seale5074
+Myrna8511 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_1 dice_5
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: grain
+GuestSeale5074 built a road
+GuestSeale5074 gave bank:   lumberlumberlumber and took   brick
+GuestSeale5074 built a settlement: +1 VP
+GuestSeale5074 wants to give:  lumber for:  ore
+ScubaSteve rolled: dice_6 dice_3
+Myrna8511 got: lumber
+ScubaSteve wants to give:  grain for:  brick
+ScubaSteve wants to give:  grain for:  lumber
+GuestSeale5074 wants to give ScubaSteve :  lumber for:  oreore
+ScubaSteve used card year of plenty
+ScubaSteve took from bank: lumber brick
+ScubaSteve built a settlement: +1 VP
+GuestYolonc rolled: dice_6 dice_6
+GuestYolonc wants to give:  lumberlumber for:  brick
+GuestYolonc wants to give:  lumbergrain for:  brick
+GuestYolonc gave bank:   lumberlumberlumberlumber and took   brick
+GuestYolonc built a settlement: +1 VP
+Myrna8511 rolled: dice_6 dice_2
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrick
+ScubaSteve got: oreore
+GuestSeale5074 rolled: dice_3 dice_5
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrick
+ScubaSteve got: oreore
+GuestSeale5074 wants to give:  brickbrick for:  lumberwool
+GuestSeale5074 wants to give:  brick for:  lumberore
+ScubaSteve rolled: dice_6 dice_1
+ScubaSteve discarded: oreoreoreore
+ScubaSteve moved robber robberto  prob_8 brick tile
+ScubaSteve stole  card from: Seale5074
+GuestYolonc rolled: dice_5 dice_4
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+Myrna8511 rolled: dice_3 dice_5
+Myrna8511 got: grain
+ScubaSteve got: oreore
+GuestSeale5074 rolled: dice_3 dice_2
+Myrna8511 got: brickore
+GuestYolonc got: grainbrick
+GuestSeale5074 got: graingrainbrick
+GuestSeale5074 wants to give:  brickbrickgrain for:  oreoreore
+GuestSeale5074 wants to give:  lumberbrickgrain for:  oreoreore
+GuestSeale5074 built a road
+ScubaSteve rolled: dice_1 dice_6
+ScubaSteve discarded: brickgrainoreore
+ScubaSteve moved robber robberto  prob_5 grain tile
+ScubaSteve stole  card from: Seale5074
+GuestYolonc rolled: dice_2 dice_6
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrick
+ScubaSteve got: oreore
+Myrna8511 rolled: dice_1 dice_5
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: grain
+Myrna8511 built a road
+Myrna8511 wants to give:  graingrain for:  brick
+GuestSeale5074 wants to give Myrna8511 :  brick for:  oreore
+GuestSeale5074 rolled: dice_4 dice_5
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+GuestSeale5074 wants to give:  brick for:  grainore
+GuestSeale5074 wants to give:  brickgrain for:  oreore
+GuestSeale5074 wants to give:  brickgraingrain for:  oreore
+ScubaSteve wants to give Seale5074 :  oreore for:  brickbrickwoolgraingrain
+GuestSeale5074 gave bank:   brickbrickbrick and took   ore
+GuestSeale5074 gave bank:   graingraingrain and took   ore
+ScubaSteve rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: wool
+ScubaSteve built a city: +1 VP
+ScubaSteve bought development card
+GuestYolonc rolled: dice_6 dice_5
+GuestYolonc built a road
+GuestYolonc wants to give:  graingrain for:  lumber
+GuestYolonc wants to give:  graingrain for:  brick
+GuestSeale5074 wants to give Yolonc :  brick for:  grainore
+GuestSeale5074 wants to give Yolonc :  brick for:  woolgraingrain
+GuestYolonc wants to give:  woolgraingrain for:  lumberbrick
+GuestYolonc gave bank:   graingraingraingrain and took   lumber
+Myrna8511 rolled: dice_2 dice_1
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: woolwool
+Myrna8511 wants to give:  graingrain for:  brick
+Myrna8511 wants to give:  graingraingrain for:  brick
+Myrna8511 gave bank:   graingraingraingrain and took   brick
+Myrna8511 built a road
+GuestSeale5074 rolled: dice_3 dice_4
+GuestSeale5074 moved robber robberto  prob_8 ore tile
+GuestSeale5074 stole  card from: ScubaSteve
+GuestSeale5074 built a road
+GuestSeale5074 wants to give:  ore for:  brick
+ScubaSteve used card knight
+ScubaSteve moved robber robberto  prob_8 brick tile
+ScubaSteve stole  card from: Seale5074
+ScubaSteve rolled: dice_6 dice_6
+ScubaSteve gave bank:   woolwool and took   lumber
+ScubaSteve built a road
+GuestYolonc rolled: dice_5 dice_1
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: graingrain
+GuestYolonc wants to give:  wool for:  brick
+Myrna8511 rolled: dice_3 dice_6
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+GuestSeale5074 rolled: dice_2 dice_6
+Myrna8511 got: grain
+ScubaSteve got: oreore
+GuestSeale5074 wants to give:  lumber for:  ore
+ScubaSteve rolled: dice_6 dice_6
+ScubaSteve wants to give:  graingrain for:  ore
+ScubaSteve wants to give:  graingraingrain for:  wool
+GuestYolonc rolled: dice_1 dice_2
+GuestYolonc got: lumber
+GuestSeale5074 got: lumber
+ScubaSteve got: woolwool
+GuestYolonc wants to give:  lumber for:  brick
+GuestYolonc wants to give:  wool for:  brick
+Myrna8511 rolled: dice_6 dice_3
+Myrna8511 got: lumber
+GuestYolonc got: grain
+ScubaSteve got: grain
+GuestSeale5074 rolled: dice_2 dice_5
+ScubaSteve discarded: graingraingraingrain
+GuestSeale5074 moved robber robberto  prob_8 ore tile
+GuestSeale5074 stole  card from: ScubaSteve
+GuestSeale5074 built a city: +1 VP
+ScubaSteve rolled: dice_1 dice_4
+Myrna8511 got: brickore
+GuestYolonc got: grainbrick
+GuestSeale5074 got: graingrainbrickbrick
+ScubaSteve bought development card
+GuestYolonc rolled: dice_2 dice_3
+Myrna8511 got: brickore
+GuestYolonc got: grainbrick
+GuestSeale5074 got: graingrainbrickbrick
+GuestYolonc wants to give:  grain for:  brick
+Myrna8511 wants to give Yolonc :  brick for:  wool
+GuestSeale5074 wants to give Yolonc :  brick for:  wool
+GuestYolonc wants to give:  wool for:  brickbrick
+Myrna8511 wants to give Yolonc :  lumberbrick for:  wool
+GuestYolonc traded:  woolfor:  brickbrick with: Seale5074
+GuestYolonc wants to give:  graingrain for:  wool
+GuestYolonc wants to give:  graingraingrain for:  wool
+GuestYolonc wants to give:  graingraingrain for:  lumber
+GuestYolonc traded:  graingraingrainfor:  lumber with: Myrna8511
+GuestYolonc built a road
+GuestYolonc built a road
+GuestYolonc built a road
+GuestYolonc received longest road: +2 VPs
+GuestYolonc built a settlement: +1 VP
+Myrna8511 rolled: dice_4 dice_3
+GuestSeale5074 discarded: brickgraingraingrain
+Myrna8511 discarded: lumberlumberbrickgraingrain
+Myrna8511 moved robber robberto  prob_5 grain tile
+You stole:  brick from: Seale5074
+Myrna8511 built a city: +1 VP
+GuestSeale5074 rolled: dice_2 dice_4
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: graingrain
+GuestSeale5074 wants to give:  grain for:  brick
+Myrna8511 wants to give Seale5074 :  brick for:  lumbergrain
+Myrna8511 wants to give Seale5074 :  brick for:  woolgrain
+GuestMyrna8511 traded:  brickfor:  lumbergrain with: Seale5074
+GuestSeale5074 built a settlement: +1 VP
+ScubaSteve rolled: dice_1 dice_6
+ScubaSteve moved robber robberto  prob_5 brick tile
+ScubaSteve stole:  grain from you
+ScubaSteve used card road building
+ScubaSteve placed a road
+ScubaSteve placed a road
+GuestYolonc rolled: dice_6 dice_2
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrickbrick
+ScubaSteve got: oreore
+Myrna8511 rolled: dice_4 dice_1
+Myrna8511 got: oreore
+GuestYolonc got: grainore
+GuestSeale5074 got: graingrain
+Myrna8511 wants to give:  ore for:  wool
+Myrna8511 wants to give:  oreore for:  wool
+Myrna8511 traded:  oreorefor:  wool with: Yolonc
+Myrna8511 built a settlement: +1 VP
+GuestSeale5074 rolled: dice_5 dice_1
+GuestYolonc got: wool
+GuestSeale5074 got: grain
+ScubaSteve got: graingrain
+GuestSeale5074 wants to give:  graingrain for:  lumberlumber
+ScubaSteve rolled: dice_4 dice_4
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrickbrick
+ScubaSteve got: oreore
+ScubaSteve wants to give:  ore for:  brick
+ScubaSteve wants to give:  ore for:  lumber
+ScubaSteve traded:  orefor:  brick with: Seale5074
+ScubaSteve wants to give:  graingrain for:  lumber
+ScubaSteve wants to give:  grainore for:  lumber
+ScubaSteve gave bank:   graingraingraingrain and took   lumber
+ScubaSteve built a settlement: +1 VP
+GuestYolonc rolled: dice_5 dice_3
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrickbrick
+ScubaSteve got: oreore
+GuestYolonc wants to give:  wool for:  grain
+GuestSeale5074 wants to give Yolonc :  grain for:  ore
+GuestYolonc traded:  woolfor:  grain with: Myrna8511
+GuestYolonc built a city: +1 VP
+Myrna8511 rolled: dice_1 dice_4
+Myrna8511 got: oreoreore
+GuestYolonc got: grainore
+GuestSeale5074 got: graingrain
+GuestSeale5074 rolled: dice_4 dice_1
+Myrna8511 got: oreoreore
+GuestYolonc got: grainore
+GuestSeale5074 got: graingrain
+GuestSeale5074 gave bank:   brickbrickbrickbrickbrickbrick and took   lumberlumber
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+Guestlongest road has passed from: Yolonc to: Seale5074: +2 VPs
+GuestSeale5074 gave bank:   graingraingraingraingraingrain and took   oreore
+ScubaSteve rolled: dice_2 dice_1
+GuestYolonc got: lumberlumber
+GuestSeale5074 got: lumberlumber
+ScubaSteve got: woolwoolwool
+ScubaSteve wants to give:  oreore for:  grain
+GuestSeale5074 wants to give ScubaSteve :  lumber for:  oreore
+ScubaSteve gave bank:   oreoreore and took   grain
+ScubaSteve bought development card
+GuestYolonc rolled: dice_5 dice_5
+GuestSeale5074 got: lumberlumberlumber
+ScubaSteve got: woolwool
+GuestYolonc wants to give:  lumber for:  ore
+GuestYolonc traded:  lumberfor:  ore with: Myrna8511
+GuestYolonc built a city: +1 VP
+Myrna8511 rolled: dice_5 dice_3
+Myrna8511 got: grain
+GuestSeale5074 got: brickbrickbrick
+ScubaSteve got: oreore
+Myrna8511 built a city: +1 VP
+GuestSeale5074 rolled: dice_2 dice_1
+GuestYolonc got: lumberlumber
+GuestSeale5074 got: lumberlumber
+ScubaSteve got: woolwoolwool
+GuestSeale5074 gave bank:   lumberlumberlumber and took   grain
+GuestSeale5074 built a city: +1 VP
+GuestSeale5074 built a road
+GuestSeale5074 built a road
+ScubaSteve rolled: dice_1 dice_5
+GuestYolonc got: wool
+GuestSeale5074 got: graingrain
+ScubaSteve got: graingrain
+ScubaSteve used card knight
+ScubaSteve received largest army: +2 VPs
+ScubaSteve moved robber robberto  prob_8 brick tile
+ScubaSteve stole  card from: Seale5074
+ScubaSteve built a city: +1 VP
+ScubaSteve gave bank:   woolwoolwoolwoolwoolwool and took   lumbergrainore
+ScubaSteve built a road
+ScubaSteve bought development card
+GuestYolonc rolled: dice_5 dice_1
+GuestYolonc got: wool
+GuestSeale5074 got: graingrain
+ScubaSteve got: graingrain
+Myrna8511 rolled: dice_1 dice_6
+Myrna8511 moved robber robberto  prob_6 grain tile
+You stole:  grain from: Seale5074
+Myrna8511 bought development card
+GuestSeale5074 rolled: dice_2 dice_4
+GuestYolonc got: wool
+ScubaSteve rolled: dice_5 dice_5
+GuestSeale5074 got: lumberlumberlumber
+ScubaSteve got: woolwool
+GuestYolonc rolled: dice_6 dice_5
+Myrna8511 rolled: dice_6 dice_1
+GuestSeale5074 discarded: lumberlumberlumbergrain
+Myrna8511 moved robber robberto  prob_8 ore tile
+You stole:  wool from: ScubaSteve
+GuestSeale5074 rolled: dice_4 dice_4
+Myrna8511 got: graingrain
+GuestSeale5074 got: brickbrickbrick
+ScubaSteve rolled: dice_5 dice_1
+GuestYolonc got: wool
+GuestSeale5074 got: graingrain
+ScubaSteve got: graingrain
+ScubaSteve gave bank:   graingraingrain and took   ore
+ScubaSteve bought development card
+GuestYolonc rolled: dice_3 dice_6
+Myrna8511 got: lumberlumberlumber
+GuestYolonc got: grain
+ScubaSteve got: graingrainlumber
+GuestYolonc wants to give:  woolwool for:  brick
+GuestYolonc wants to give:  lumber for:  wool
+GuestYolonc wants to give:  woolwoolwool for:  lumberlumber
+GuestYolonc traded:  woolwoolwoolfor:  lumberlumber with: Myrna8511
+GuestYolonc gave bank:   lumberlumberlumberlumber and took   brick
+GuestYolonc built a settlement: +1 VP
+Myrna8511 rolled: dice_3 dice_6
+Myrna8511 got: lumberlumberlumber
+GuestYolonc got: grain
+ScubaSteve got: graingrainlumber
+Myrna8511 gave bank:   lumberlumberlumberlumberwoolwoolwoolwool and took   oreore
+Myrna8511 built a city: +1 VP
+GuestSeale5074 rolled: dice_4 dice_2
+GuestYolonc got: woolwool
+GuestSeale5074 got: graingrain
+ScubaSteve got: graingrain
+GuestSeale5074 gave bank:   graingraingrain and took   wool
+GuestSeale5074 built a road
+GuestSeale5074 built a settlement: +1 VP
+trophy Seale5074  won the game! trophy
+ScubaSteve has left the game.

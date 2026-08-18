@@ -1,0 +1,388 @@
+Guestotorrell4 placed a settlement
+Guestotorrell4 placed a road
+Guestpimajarrod placed a settlement
+Guestpimajarrod placed a road
+Guestpimajarrod has disconnected. Bot will wait until next turn to give pimajarrod a chance to reconnect.
+botpimajarrod has left the game
+Guestpimajarrod has reconnected
+GuestSum2326 placed a settlement
+GuestSum2326 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a settlement
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 received starting resources grainoregrain
+GuestSum2326 placed a settlement
+GuestSum2326 placed a road
+GuestSum2326 received starting resources orelumberore
+Guestpimajarrod placed a settlement
+Guestpimajarrod placed a road
+Guestpimajarrod received starting resources brickorelumber
+Guestotorrell4 placed a settlement
+Guestotorrell4 placed a road
+Guestotorrell4 received starting resources woolgrainwool
+Guestotorrell4 rolled dice_4 dice_1
+Guestpimajarrod got lumber
+GuestSum2326 got bricklumber
+Guestpimajarrod rolled dice_4 dice_4
+Guestotorrell4 got brickwool
+GuestSum2326 got wool
+Guestpimajarrod built a road
+GuestSum2326 rolled dice_2 dice_2
+Guestotorrell4 got woolgrain
+icon_helmetMyrna8511 rolled dice_1 dice_5
+icon_helmetMyrna8511 got woolore
+GuestSum2326 got ore
+icon_helmetMyrna8511 wants to give wool for ore
+Guestotorrell4 rolled dice_4 dice_5
+icon_helmetMyrna8511 got ore
+Guestpimajarrod got grainore
+Guestotorrell4 wants to give wool for lumber
+Guestpimajarrod rolled dice_2 dice_6
+Guestotorrell4 got brickwool
+GuestSum2326 got wool
+GuestSum2326 rolled dice_4 dice_2
+icon_helmetMyrna8511 got woolore
+GuestSum2326 got ore
+GuestSum2326 built a road
+GuestSum2326 wants to give wool for brick
+GuestSum2326 gave bank oreoreoreore and took grain
+icon_helmetMyrna8511 rolled dice_4 dice_4
+Guestotorrell4 got brickwool
+GuestSum2326 got wool
+icon_helmetMyrna8511 wants to give wool for grain
+icon_helmetMyrna8511 built a city (+1 VP)
+Guestotorrell4 rolled dice_4 dice_3
+Guestotorrell4 discarded brickwoolwoolwoolwool
+Guestotorrell4 moved robber robber to  prob_6 ore tile
+Guestotorrell4 stole wool from you
+Guestpimajarrod rolled dice_1 dice_3
+Guestotorrell4 got woolgrain
+GuestSum2326 rolled dice_6 dice_3
+icon_helmetMyrna8511 got ore
+Guestpimajarrod got grainore
+icon_helmetMyrna8511 rolled dice_1 dice_4
+Guestpimajarrod got lumber
+GuestSum2326 got bricklumber
+icon_helmetMyrna8511 wants to give ore for brick
+icon_helmetMyrna8511 wants to give ore for lumber
+Guestotorrell4 wants to give Myrna8511 brick for oreore
+icon_helmetMyrna8511 wants to give Myrna8511 oreore for lumberbrick
+icon_helmetMyrna8511 wants to give Myrna8511 wooloreore for lumberbrick
+Guestotorrell4 rolled dice_5 dice_4
+icon_helmetMyrna8511 got ore
+Guestpimajarrod got grainore
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 traded wool for lumber with pimajarrod
+Guestotorrell4 built a road
+Guestpimajarrod rolled dice_1 dice_2
+icon_helmetMyrna8511 got woolgraingrain
+Guestotorrell4 got grain
+Guestpimajarrod built a city (+1 VP)
+GuestSum2326 rolled dice_2 dice_4
+ prob_6 ore tile is blocked by the robber. No resources produced.
+icon_helmetMyrna8511 got wool
+GuestSum2326 built a settlement (+1 VP)
+icon_helmetMyrna8511 rolled dice_4 dice_5
+icon_helmetMyrna8511 got ore
+Guestpimajarrod got grainoreore
+icon_helmetMyrna8511 wants to give ore for grain
+Guestotorrell4 wants to give Myrna8511 grain for oreore
+icon_helmetMyrna8511 bought development card
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_5 dice_3
+Guestotorrell4 got brickwool
+GuestSum2326 got woolwool
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 wants to give grain for lumber
+Guestotorrell4 traded grain for lumber with Sum2326
+Guestotorrell4 built a settlement (+1 VP)
+Guestpimajarrod rolled dice_6 dice_6
+Guestpimajarrod bought development card
+GuestSum2326 rolled dice_6 dice_5
+icon_helmetMyrna8511 got graingrain
+Guestotorrell4 got grain
+GuestSum2326 got ore
+icon_helmetMyrna8511 rolled dice_4 dice_3
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole lumber from pimajarrod
+icon_helmetMyrna8511 wants to give ore for brick
+Guestotorrell4 wants to give Myrna8511 brick for oreore
+icon_helmetMyrna8511 wants to give grain for brick
+icon_helmetotorrell4 traded brick for oreore with Myrna8511
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 built a settlement (+1 VP)
+Guestotorrell4 rolled dice_6 dice_3
+icon_helmetMyrna8511 got ore
+Guestpimajarrod got grainoreore
+Guestotorrell4 wants to give wool for ore
+Guestotorrell4 traded wool for ore with pimajarrod
+Guestotorrell4 built a city (+1 VP)
+Guestpimajarrod used Knight card knight
+Guestpimajarrod moved robber robber to  prob_6 ore tile
+Guestpimajarrod stole ore from you
+Guestpimajarrod rolled dice_6 dice_2
+Guestotorrell4 got brickbrickwool
+GuestSum2326 got woolwool
+Guestpimajarrod built a city (+1 VP)
+GuestSum2326 rolled dice_1 dice_4
+Guestpimajarrod got lumberlumber
+GuestSum2326 got bricklumber
+GuestSum2326 built a road
+GuestSum2326 gave bank woolwoolwoolwool and took grain
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_9 grain tile
+icon_helmetYou stole lumber from pimajarrod
+icon_helmetMyrna8511 rolled dice_5 dice_1
+icon_helmetMyrna8511 got wooloreore
+GuestSum2326 got ore
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_2 dice_1
+icon_helmetMyrna8511 got woolwoolgraingrain
+Guestotorrell4 got grain
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 wants to give grain for lumber
+Guestotorrell4 wants to give brick for lumber
+Guestotorrell4 wants to give brickwool for lumber
+Guestotorrell4 wants to give brickgrain for lumber
+Guestotorrell4 traded brickgrain for lumber with pimajarrod
+Guestotorrell4 built a road
+Guestpimajarrod rolled dice_2 dice_5
+Guestpimajarrod moved robber robber to  prob_6 ore tile
+Guestpimajarrod stole wool from you
+Guestpimajarrod bought development card
+GuestSum2326 rolled dice_2 dice_5
+GuestSum2326 moved robber robber to  prob_9 ore tile
+GuestSum2326 stole grain from you
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole ore from Sum2326
+icon_helmetMyrna8511 rolled dice_5 dice_5
+ prob_10 brick tile is blocked by the robber. No resources produced.
+Guestotorrell4 got lumberlumber
+Guestpimajarrod got lumberlumber
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_4 dice_1
+Guestpimajarrod got lumberlumber
+GuestSum2326 got bricklumber
+Guestpimajarrod used Knight card knight
+Guestpimajarrod moved robber robber to  prob_6 ore tile
+Guestpimajarrod stole ore from you
+Guestpimajarrod rolled dice_6 dice_6
+Guestpimajarrod built a road
+GuestSum2326 rolled dice_1 dice_4
+Guestpimajarrod got lumberlumber
+GuestSum2326 got bricklumber
+GuestSum2326 built a settlement (+1 VP)
+GuestSum2326 built a road
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 received largest army (+2 VPs)
+icon_helmetMyrna8511 moved robber robber to  prob_10 brick tile
+icon_helmetYou stole lumber from pimajarrod
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_10 lumber tile
+icon_helmetYou stole wool from pimajarrod
+Guestotorrell4 rolled dice_1 dice_2
+icon_helmetMyrna8511 got woolwoolgraingrain
+Guestotorrell4 got grain
+Guestotorrell4 wants to give grain for brick
+Guestotorrell4 wants to give wool for brick
+Guestotorrell4 wants to give woolgrain for brick
+Guestotorrell4 wants to give lumber for brick
+Guestpimajarrod rolled dice_2 dice_2
+Guestotorrell4 got woolwoolgraingrain
+GuestSum2326 rolled dice_3 dice_3
+icon_helmetMyrna8511 got wooloreore
+GuestSum2326 got ore
+icon_helmetMyrna8511 rolled dice_4 dice_2
+icon_helmetMyrna8511 got wooloreore
+GuestSum2326 got ore
+icon_helmetMyrna8511 built a city (+1 VP)
+icon_helmetMyrna8511 wants to give woolwool for grain
+icon_helmetMyrna8511 gave bank woolwool and took grain
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_5 dice_3
+Guestotorrell4 got brickbrickwool
+GuestSum2326 got woolwool
+Guestotorrell4 gave bank woolwoolwoolgraingraingrain and took lumberbrick
+Guestotorrell4 built a road
+Guestotorrell4 built a road
+Guestotorrell4 built a road
+Guestotorrell4 received longest road (+2 VPs)
+Guestpimajarrod rolled dice_3 dice_2
+Guestpimajarrod got lumberlumber
+GuestSum2326 got brickbricklumber
+Guestpimajarrod wants to give lumber for brick
+Guestpimajarrod wants to give lumber for wool
+icon_helmetMyrna8511 wants to give pimajarrod wool for brickgrain
+Guestpimajarrod wants to give lumberore for brickwool
+Guestpimajarrod traded lumber for wool with otorrell4
+Guestpimajarrod wants to give ore for brick
+Guestpimajarrod wants to give ore for grain
+GuestSum2326 rolled dice_6 dice_6
+GuestSum2326 built a city (+1 VP)
+GuestSum2326 gave bank brickbrick and took grain
+icon_helmetMyrna8511 rolled dice_2 dice_1
+icon_helmetMyrna8511 got woolwoolwoolgraingrain
+Guestotorrell4 got grain
+icon_helmetMyrna8511 used Road Building card road building
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 placed a road
+icon_helmetMyrna8511 gave bank woolwool and took brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+Guestotorrell4 rolled dice_1 dice_6
+Guestotorrell4 moved robber robber to  prob_6 wool tile
+Guestotorrell4 stole grain from you
+Guestpimajarrod rolled dice_4 dice_4
+Guestotorrell4 got brickbrickwool
+GuestSum2326 got woolwool
+Guestpimajarrod wants to give ore for brick
+Guestpimajarrod wants to give ore for grain
+Guestotorrell4 wants to give pimajarrod grain for oreore
+Guestpimajarrod traded ore for grain with otorrell4
+Guestpimajarrod wants to give lumber for brick
+Guestpimajarrod gave bank lumberlumberlumberlumber and took brick
+Guestpimajarrod built a settlement (+1 VP)
+GuestSum2326 rolled dice_6 dice_6
+GuestSum2326 gave bank woolwoolwool and took ore
+GuestSum2326 bought development card
+icon_helmetMyrna8511 rolled dice_5 dice_6
+icon_helmetMyrna8511 got graingrainore
+Guestotorrell4 got grain
+GuestSum2326 got oreore
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_3 dice_5
+Guestotorrell4 got brickbrickwool
+GuestSum2326 got woolwool
+Guestotorrell4 built a settlement (+1 VP)
+Guestotorrell4 wants to give brickwool for lumberlumber
+Guestotorrell4 wants to give woolgrain for lumberlumber
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 traded wool for lumber with Sum2326
+Guestotorrell4 built a road
+Guestotorrell4 bought development card
+Guestpimajarrod rolled dice_6 dice_1
+Guestpimajarrod moved robber robber to  prob_6 ore tile
+Guestpimajarrod stole lumber from you
+GuestSum2326 used Knight card knight
+GuestSum2326 moved robber robber to  prob_9 ore tile
+GuestSum2326 stole wool from you
+GuestSum2326 rolled dice_6 dice_6
+GuestSum2326 gave bank woolwoolwool and took grain
+GuestSum2326 bought development card
+icon_helmetMyrna8511 used Knight card knight
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole grain from otorrell4
+icon_helmetMyrna8511 rolled dice_3 dice_1
+icon_helmetMyrna8511 got grain
+Guestotorrell4 got woolwoolgraingrain
+Guestotorrell4 rolled dice_6 dice_1
+Guestotorrell4 moved robber robber to  prob_6 wool tile
+Guestotorrell4 stole grain from you
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 wants to give grain for lumber
+Guestotorrell4 wants to give brick for lumber
+Guestotorrell4 traded wool for lumber with pimajarrod
+Guestotorrell4 built a road
+Guestotorrell4 gave bank graingraingrain and took lumber
+Guestotorrell4 built a road
+Guestpimajarrod rolled dice_5 dice_5
+Guestotorrell4 got lumberlumber
+Guestpimajarrod got lumberlumberbrickbrick
+GuestSum2326 got brick
+Guestpimajarrod wants to give brick for grain
+Guestpimajarrod wants to give lumber for grain
+icon_helmetMyrna8511 wants to give pimajarrod grain for lumberbrick
+Guestpimajarrod wants to give lumberbrick for graingrain
+Guestpimajarrod wants to give lumberbrick for grainore
+GuestSum2326 rolled dice_3 dice_1
+icon_helmetMyrna8511 got grain
+Guestotorrell4 got woolwoolgraingrain
+icon_helmetMyrna8511 rolled dice_2 dice_5
+GuestBot is selecting cards to discard for otorrell4
+Guestotorrell4 discarded woollumberwoolwool
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole grain from otorrell4
+icon_helmetMyrna8511 wants to give graingrain for lumberbrick
+Guestotorrell4 rolled dice_3 dice_2
+Guestpimajarrod got lumberlumber
+GuestSum2326 got brickbricklumberlumber
+Guestpimajarrod rolled dice_1 dice_6
+Guestpimajarrod moved robber robber to  prob_6 ore tile
+Guestpimajarrod stole grain from you
+Guestpimajarrod built a settlement (+1 VP)
+GuestSum2326 rolled dice_5 dice_2
+GuestSum2326 moved robber robber to  prob_9 ore tile
+GuestSum2326 stole grain from you
+GuestSum2326 bought development card
+GuestSum2326 built a road
+GuestSum2326 built a road
+icon_helmetMyrna8511 rolled dice_1 dice_6
+icon_helmetMyrna8511 moved robber robber to  prob_8 wool tile
+icon_helmetYou stole wool from otorrell4
+Guestotorrell4 rolled dice_2 dice_4
+icon_helmetMyrna8511 got woolwooloreore
+Guestpimajarrod got wool
+GuestSum2326 got oreore
+Guestpimajarrod rolled dice_1 dice_3
+icon_helmetMyrna8511 got grain
+Guestotorrell4 got woolwoolgraingrain
+Guestpimajarrod wants to give brick for grain
+Guestpimajarrod traded brick for grain with otorrell4
+Guestpimajarrod gave bank lumberlumber and took ore
+Guestpimajarrod bought development card
+GuestSum2326 rolled dice_3 dice_5
+ prob_8 wool tile is blocked by the robber. No resources produced.
+Guestotorrell4 got brickbrickbrick
+icon_helmetMyrna8511 rolled dice_4 dice_3
+Guestotorrell4 discarded brickbrickwoolgrain
+icon_helmetMyrna8511 discarded woolwoolgrainore
+icon_helmetMyrna8511 moved robber robber to  prob_8 brick tile
+icon_helmetYou stole lumber from otorrell4
+icon_helmetMyrna8511 bought development card
+Guestotorrell4 rolled dice_6 dice_6
+Guestpimajarrod rolled dice_1 dice_2
+icon_helmetMyrna8511 got woolwoolwoolgraingrain
+Guestotorrell4 got grain
+GuestSum2326 rolled dice_2 dice_6
+ prob_8 brick tile is blocked by the robber. No resources produced.
+Guestotorrell4 got wool
+GuestSum2326 got woolwool
+icon_helmetMyrna8511 rolled dice_3 dice_5
+ prob_8 brick tile is blocked by the robber. No resources produced.
+Guestotorrell4 got wool
+GuestSum2326 got woolwool
+icon_helmetMyrna8511 wants to give woolwool for brick
+icon_helmetMyrna8511 gave bank woolwool and took brick
+icon_helmetMyrna8511 built a settlement (+1 VP)
+Guestotorrell4 rolled dice_5 dice_4
+icon_helmetMyrna8511 got oreoreore
+Guestpimajarrod got graingraingrainoreore
+Guestotorrell4 wants to give wool for lumber
+Guestotorrell4 wants to give grain for wool
+Guestpimajarrod wants to give otorrell4 lumber for woolwool
+Guestpimajarrod traded lumber for woolwool with otorrell4
+Guestotorrell4 built a road
+Guestotorrell4 wants to give grain for lumber
+Guestpimajarrod rolled dice_5 dice_6
+icon_helmetMyrna8511 got graingrainore
+Guestotorrell4 got grain
+GuestSum2326 got oreore
+Guestpimajarrod bought development card
+Guestpimajarrod bought development card
+Guestpimajarrod used Monopoly card monopoly
+Guestpimajarrod stole 8 ore
+Guestpimajarrod gave bank oreoreoreore and took wool
+Guestpimajarrod bought development card
+GuestSum2326 rolled dice_3 dice_6
+icon_helmetMyrna8511 got oreoreore
+Guestpimajarrod got graingraingrainoreore
+icon_helmetMyrna8511 rolled dice_3 dice_2
+Guestpimajarrod got lumberlumber
+GuestSum2326 got brickbricklumberlumber
+icon_helmetMyrna8511 built a city (+1 VP)
+trophyicon_helmetMyrna8511 won the game!trophy
+GuestSum2326 has left the game
+Guestotorrell4 has left the game
