@@ -16,7 +16,7 @@ interface ShareDoc {
   gameIds?: string[];
 }
 
-export const resolveShare = onCall(async (request) => {
+export const resolveShare = onCall({ invoker: "public" }, async (request) => {
   const shareId = request.data?.shareId;
   if (typeof shareId !== "string" || shareId.length === 0) {
     throw new HttpsError("invalid-argument", "shareId is required");

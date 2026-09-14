@@ -5,16 +5,17 @@
   "engines": { "node": "20" },
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "esbuild src/index.ts --bundle --platform=node --target=node20 --format=esm --outfile=dist/index.js --external:firebase-admin --external:firebase-admin/* --external:firebase-functions --external:firebase-functions/*",
+    "typecheck": "tsc --noEmit",
     "serve": "npm run build && firebase emulators:start --only functions",
     "deploy": "firebase deploy --only functions"
   },
   "dependencies": {
-    "@catan-live/parser": "^0.1.0",
     "firebase-admin": "^12.7.0",
     "firebase-functions": "^6.1.0"
   },
   "devDependencies": {
+    "esbuild": "^0.24.0",
     "typescript": "^5.5.4"
   }
 }

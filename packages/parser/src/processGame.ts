@@ -43,6 +43,14 @@ function zeroResourceMap(): Record<Resource, number> {
   return resourceArrayToMap(new Array(POSSIBLE_RESOURCES.length).fill(0));
 }
 
+function diceArrayToMap(dice: number[]): Record<number, number> {
+  const map: Record<number, number> = {};
+  dice.forEach((count, i) => {
+    map[i + 2] = count;
+  });
+  return map;
+}
+
 function sumColumns(rows: number[][]): number[] {
   if (rows.length === 0) return [0, 0, 0, 0, 0];
   const result = new Array(rows[0].length).fill(0);
@@ -52,7 +60,7 @@ function sumColumns(rows: number[][]): number[] {
 
 export function processGame(lines: string[]): ProcessedGame {
   const dice = new Array(11).fill(0);
-  const diceUntilTurn: number[][] = [];
+  const diceUntilTurn: Record<number, number>[] = [];
   let turn = 0;
 
   const players = new Map<string, number>();
@@ -155,7 +163,7 @@ export function processGame(lines: string[]): ProcessedGame {
     if (!m?.groups) throw new Error(`roll line did not match expected pattern: "${line}"`);
     const diceRoll = parseInt(m.groups.dice1, 10) + parseInt(m.groups.dice2, 10);
     dice[diceRoll - 2] += 1;
-    diceUntilTurn.push([...dice]);
+    diceUntilTurn.push(diceArrayToMap(dice));
     special.lastRolled = diceRoll;
     if (!playerDiceRolls[player]) playerDiceRolls[player] = new Array(11).fill(0);
     playerDiceRolls[player][diceRoll - 2] += 1;

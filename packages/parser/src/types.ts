@@ -18,8 +18,10 @@ export interface TradeTotals {
 export interface ProcessedGame {
   /** dice[0] = count of rolls totaling 2, ... dice[10] = count of rolls totaling 12 */
   dice: number[];
-  /** snapshot of `dice` after each roll, in roll order */
-  diceUntilTurn: number[][];
+  /** snapshot of `dice` after each roll (keyed by dice total 2-12, not array index —
+   * Firestore doesn't allow arrays nested directly inside arrays, so this can't be
+   * number[][] even though that'd otherwise be the natural shape). */
+  diceUntilTurn: Record<number, number>[];
   /** player name -> seat index (0-3). Mirrors v1's reverse-join-order assignment. */
   players: Record<string, number>;
   /** seat index (0-3) -> player name, derived from `players` */

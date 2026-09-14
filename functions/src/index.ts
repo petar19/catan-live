@@ -4,4 +4,3 @@ initializeApp();
 
 export { submitGame } from "./submitGame.js";
 export { resolveShare } from "./resolveShare.js";
-export { setAdminClaim } from "./setAdminClaim.js";

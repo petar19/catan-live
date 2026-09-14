@@ -12,7 +12,7 @@ export const PARSER_VERSION = 1;
 const SITE_URL = process.env.SITE_URL; // set post-deploy once the GitHub Pages URL is known
 
 export const submitGame = onRequest(
-  { secrets: [submitGameSecret, discordWebhookUrlSecret], cors: true },
+  { secrets: [submitGameSecret, discordWebhookUrlSecret], cors: true, invoker: "public" },
   async (req, res) => {
     if (req.method !== "POST") {
       res.status(405).send("method not allowed");

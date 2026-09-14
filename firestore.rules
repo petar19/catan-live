@@ -4,11 +4,26 @@ rules_version = '2';
 // unauthenticated clients — public/shared access goes through the `resolveShare`
 // Cloud Function, which uses the Admin SDK and bypasses these rules entirely.
 // See CLAUDE.md §2.3 for why sharing works this way instead of public rules.
+//
+// Admin status is an `admins/{email}` doc (doc ID = the Google account email,
+// not a UID — matches the pattern already used on Petar's other Firebase
+// projects), not a custom auth claim — deliberately, so the first admin (and
+// any added later) can be granted purely by creating a document (Firebase
+// Console's Firestore data viewer, or once you're an admin, the admin UI)
+// rather than needing a privileged backend/Admin SDK call. See CLAUDE.md §2.5.
 service cloud.firestore {
   match /databases/{database}/documents {
 
     function isAdmin() {
-      return request.auth != null && request.auth.token.admin == true;
+      return request.auth != null && request.auth.token.email != null &&
+        exists(/databases/$(database)/documents/admins/$(request.auth.token.email));
+    }
+
+    // Admins can see who else is an admin (handy for an admin-management UI
+    // later); only ever readable/writable by an existing admin — no public or
+    // self-service path, so this can't be used to grant yourself access.
+    match /admins/{email} {
+      allow read, write: if isAdmin();
     }
 
     match /games/{gameId} {

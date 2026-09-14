@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 import { onAuthStateChanged, signInWithPopup, signOut as firebaseSignOut, type User } from "firebase/auth";
-import { auth, googleProvider } from "./firebase";
+import { doc, onSnapshot } from "firebase/firestore";
+import { auth, googleProvider, db } from "./firebase";
 
 interface AuthState {
   user: User | null;
@@ -18,21 +19,30 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    return onAuthStateChanged(auth, async (nextUser) => {
+    return onAuthStateChanged(auth, (nextUser) => {
       setUser(nextUser);
-      if (nextUser) {
-        // The `admin` custom claim is set once via the Admin SDK (see
-        // functions/ — TODO: one-off script, not written yet). Until then this
-        // is always false, which is correct: Firestore rules are the real
-        // gate, this just controls what the UI shows.
-        const token = await nextUser.getIdTokenResult();
-        setIsAdmin(token.claims.admin === true);
-      } else {
-        setIsAdmin(false);
-      }
-      setLoading(false);
+      setLoading(!!nextUser && !!nextUser.email); // hold "loading" until the admins/{email} check below resolves
+      if (!nextUser?.email) setIsAdmin(false);
     });
   }, []);
+
+  useEffect(() => {
+    if (!user?.email) return;
+    // Admin status is an `admins/{email}` Firestore doc, not a custom auth claim —
+    // see firestore.rules and CLAUDE.md §2.5 for why. A denied read (non-admin)
+    // resolves this as "not admin" rather than an error.
+    return onSnapshot(
+      doc(db, "admins", user.email),
+      (snap) => {
+        setIsAdmin(snap.exists());
+        setLoading(false);
+      },
+      () => {
+        setIsAdmin(false);
+        setLoading(false);
+      },
+    );
+  }, [user]);
 
   const value: AuthState = {
     user,
