@@ -23,7 +23,7 @@ export function GameDetail() {
   return (
     <div>
       <h1>{game.parsed.winner} won</h1>
-      <p>{new Date(game.createdAt).toLocaleString()}</p>
+      <p>{new Date(game.playedAt).toLocaleString()}</p>
       {game.parsed.warnings.length > 0 && (
         <p>⚠ {game.parsed.warnings.length} line(s) couldn't be parsed — see raw data below.</p>
       )}

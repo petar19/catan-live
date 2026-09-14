@@ -24,12 +24,26 @@ export const submitGame = onRequest(
       return;
     }
 
-    const body = req.body as { lines?: unknown; sendToDiscord?: boolean };
+    const body = req.body as { lines?: unknown; sendToDiscord?: boolean; playedAt?: unknown };
     if (!Array.isArray(body.lines) || body.lines.length === 0 || !body.lines.every((l) => typeof l === "string")) {
-      res.status(400).send("expected JSON body: { lines: string[], sendToDiscord?: boolean }");
+      res.status(400).send("expected JSON body: { lines: string[], sendToDiscord?: boolean, playedAt?: string }");
       return;
     }
     const rawLines = body.lines as string[];
+
+    // Optional: when the actual play date is known (e.g. backfilling from a
+    // gamelog file's mtime during migration — see fixtures/migrate_to_firestore.mjs),
+    // the caller can supply it. Falls back to ingestion time otherwise, which is
+    // all we'll ever have for a live submission anyway.
+    let playedAt = new Date().toISOString();
+    if (typeof body.playedAt === "string") {
+      const parsedDate = new Date(body.playedAt);
+      if (isNaN(parsedDate.getTime())) {
+        res.status(400).send("playedAt must be a valid date string");
+        return;
+      }
+      playedAt = parsedDate.toISOString();
+    }
 
     const filtered = filterLines(rawLines);
     const contentHash = hashLines(filtered);
@@ -39,7 +53,13 @@ export const submitGame = onRequest(
 
     const existing = await gamesRef.where("contentHash", "==", contentHash).limit(1).get();
     if (!existing.empty) {
-      res.status(200).json({ gameId: existing.docs[0].id, isNew: false });
+      const existingDoc = existing.docs[0];
+      // Backfill support: a re-submit of an already-known game with a playedAt
+      // can still correct that one field without re-parsing or duplicating.
+      if (typeof body.playedAt === "string" && existingDoc.data().playedAt !== playedAt) {
+        await existingDoc.ref.update({ playedAt });
+      }
+      res.status(200).json({ gameId: existingDoc.id, isNew: false });
       return;
     }
 
@@ -51,6 +71,7 @@ export const submitGame = onRequest(
       parserVersion: PARSER_VERSION,
       parsed,
       createdAt: new Date().toISOString(),
+      playedAt,
       source: "tampermonkey",
     });
 

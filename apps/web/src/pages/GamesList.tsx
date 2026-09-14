@@ -15,7 +15,7 @@ export function GamesList() {
         {games.map((game) => (
           <li key={game.id}>
             <Link to={`/games/${game.id}`}>
-              {new Date(game.createdAt).toLocaleString()} — {game.parsed.winner} won
+              {new Date(game.playedAt).toLocaleString()} — {game.parsed.winner} won
               {game.parsed.warnings.length > 0 ? ` (${game.parsed.warnings.length} warning(s))` : ""}
             </Link>
           </li>

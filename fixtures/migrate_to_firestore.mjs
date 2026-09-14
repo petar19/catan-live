@@ -3,17 +3,24 @@
 // submitGame function, same path the userscript uses (so dedupe/parsing/storage
 // stay identical — no separate direct-to-Firestore code path to keep in sync).
 //
+// playedAt is backfilled from each gamelog file's mtime in the ORIGINAL v1 repo
+// (../../catan/gamelogs), not the copy in fixtures/gamelogs — that copy lost its
+// original timestamps when it was first `cp`'d into this repo. v1 wrote each
+// gamelog file exactly once, right after the game finished (game_entry.py), so
+// mtime is a reasonable proxy for "when this game was played."
+//
 // Usage:
 //   SUBMIT_URL=https://REGION-PROJECT.cloudfunctions.net/submitGame \
 //   SUBMIT_SECRET=... \
 //   node fixtures/migrate_to_firestore.mjs
 
-import { readFileSync, readdirSync } from "node:fs";
+import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const GAMELOGS_DIR = path.join(HERE, "gamelogs");
+const V1_GAMELOGS_DIR = path.join(HERE, "..", "..", "catan", "gamelogs");
 
 const SUBMIT_URL = process.env.SUBMIT_URL;
 const SUBMIT_SECRET = process.env.SUBMIT_SECRET;
@@ -28,6 +35,12 @@ function loadLines(file) {
   return raw[raw.length - 1] === "" ? raw.slice(0, -1) : raw;
 }
 
+function playedAtFor(file) {
+  const original = path.join(V1_GAMELOGS_DIR, file);
+  if (!existsSync(original)) return undefined;
+  return statSync(original).mtime.toISOString();
+}
+
 const files = readdirSync(GAMELOGS_DIR)
   .filter((f) => f.endsWith(".txt"))
   .sort((a, b) => Number(a.replace(".txt", "")) - Number(b.replace(".txt", "")));
@@ -38,11 +51,12 @@ let failed = [];
 
 for (const file of files) {
   const lines = loadLines(file);
+  const playedAt = playedAtFor(file);
   try {
     const res = await fetch(SUBMIT_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json", "X-Submit-Secret": SUBMIT_SECRET },
-      body: JSON.stringify({ lines, sendToDiscord: false }),
+      body: JSON.stringify({ lines, sendToDiscord: false, ...(playedAt ? { playedAt } : {}) }),
     });
     if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
     const body = await res.json();

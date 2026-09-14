@@ -8,6 +8,10 @@ export interface GameDoc {
   parsed: ProcessedGame;
   parserVersion: number;
   createdAt: string;
+  /** When the game was actually played, when known — backfilled from gamelog file
+   * mtime for migrated games, otherwise submission time. Prefer this over
+   * createdAt for anything user-facing. */
+  playedAt: string;
   source: string;
 }
 
@@ -25,7 +29,7 @@ export function useGames(): UseGamesResult {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const q = query(collection(db, "games"), orderBy("createdAt", "desc"));
+    const q = query(collection(db, "games"), orderBy("playedAt", "desc"));
     return onSnapshot(
       q,
       (snap) => {
