@@ -11,16 +11,28 @@ export function GamesList() {
   return (
     <div>
       <h1>Games ({games.length})</h1>
-      <ul>
-        {games.map((game) => (
-          <li key={game.id}>
-            <Link to={`/games/${game.id}`}>
-              {new Date(game.playedAt).toLocaleString()} — {game.parsed.winner} won
-              {game.parsed.warnings.length > 0 ? ` (${game.parsed.warnings.length} warning(s))` : ""}
-            </Link>
-          </li>
-        ))}
-      </ul>
+      <table className="data-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Winner</th>
+            <th>Players</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {games.map((game) => (
+            <tr key={game.id}>
+              <td>
+                <Link to={`/games/${game.id}`}>{new Date(game.playedAt).toLocaleDateString()}</Link>
+              </td>
+              <td>{game.parsed.winner}</td>
+              <td className="muted">{game.parsed.playerOrder.join(", ")}</td>
+              <td>{game.parsed.warnings.length > 0 ? `⚠ ${game.parsed.warnings.length}` : ""}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 }

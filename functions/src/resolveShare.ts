@@ -33,14 +33,14 @@ export const resolveShare = onCall({ invoker: "public" }, async (request) => {
     const gameSnap = await db.collection("games").doc(share.gameId).get();
     if (!gameSnap.exists) throw new HttpsError("not-found", "game not found");
     const game = gameSnap.data()!;
-    return { type: "game", game: { id: gameSnap.id, parsed: game.parsed, createdAt: game.createdAt } };
+    return { type: "game", game: { id: gameSnap.id, parsed: game.parsed, playedAt: game.playedAt } };
   }
 
   if (share.type === "combined" && Array.isArray(share.gameIds) && share.gameIds.length > 0) {
     const snaps = await Promise.all(share.gameIds.map((id) => db.collection("games").doc(id).get()));
     const games = snaps
       .filter((s) => s.exists)
-      .map((s) => ({ id: s.id, parsed: s.data()!.parsed, createdAt: s.data()!.createdAt }));
+      .map((s) => ({ id: s.id, parsed: s.data()!.parsed, playedAt: s.data()!.playedAt }));
     return { type: "combined", games };
   }
 

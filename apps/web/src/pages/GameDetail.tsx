@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { doc, onSnapshot } from "firebase/firestore";
 import { db } from "../lib/firebase";
 import type { GameDoc } from "../lib/useGames";
+import { GameCharts } from "../components/GameCharts";
+import { ShareButton } from "../components/ShareButton";
 
-// Placeholder detail view — real charts land in Phase 3. For now, confirms
-// the admin read path works end to end (Firestore rules + live query).
 export function GameDetail() {
   const { gameId } = useParams<{ gameId: string }>();
   const [game, setGame] = useState<GameDoc | null | undefined>(undefined);
@@ -13,7 +13,7 @@ export function GameDetail() {
   useEffect(() => {
     if (!gameId) return;
     return onSnapshot(doc(db, "games", gameId), (snap) => {
-      setGame(snap.exists() ? ({ id: snap.id, ...(snap.data() as Omit<GameDoc, "id">) }) : null);
+      setGame(snap.exists() ? { id: snap.id, ...(snap.data() as Omit<GameDoc, "id">) } : null);
     });
   }, [gameId]);
 
@@ -22,12 +22,22 @@ export function GameDetail() {
 
   return (
     <div>
-      <h1>{game.parsed.winner} won</h1>
-      <p>{new Date(game.playedAt).toLocaleString()}</p>
+      <p>
+        <Link to="/">&larr; All games</Link>
+      </p>
+      <h1>
+        {game.parsed.winner} won <span className="muted">— {new Date(game.playedAt).toLocaleDateString()}</span>
+      </h1>
+      <p className="muted">
+        Final points: {game.parsed.playerOrder.map((p, i) => `${p} ${game.parsed.playerPoints[i]}`).join(" · ")}
+      </p>
       {game.parsed.warnings.length > 0 && (
-        <p>⚠ {game.parsed.warnings.length} line(s) couldn't be parsed — see raw data below.</p>
+        <p className="warning">
+          ⚠ {game.parsed.warnings.length} line(s) couldn't be parsed — stats below may be incomplete.
+        </p>
       )}
-      <pre>{JSON.stringify(game.parsed, null, 2)}</pre>
+      <ShareButton type="game" gameId={game.id} />
+      <GameCharts game={game.parsed} />
     </div>
   );
 }

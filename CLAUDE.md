@@ -275,16 +275,44 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   a dead, broken field forward — simplification, not a missing feature.
 
 ### Phase 3 — Admin web UI
-- [ ] Games list (admin-only), per-game detail page with charts (Recharts/Chart.js ports of
-      each existing `plot_*`)
-- [ ] Combined/career stats page (rankings pie+heatmap equivalent, dev card usage, etc.)
-- [ ] Player alias management UI
-- [ ] Reprocess action (bump parserVersion, re-derive stats for stale/flagged games)
+- [x] Games list (table: date/winner/players/warnings), per-game detail page with charts
+      (Recharts, not matplotlib — see `apps/web/src/components/charts/` and `GameCharts.tsx`):
+      points over turns, resources over turns, resources per player, dice rolls per player,
+      dice distribution, trades table, steals table. Chart palette validated against the
+      dataviz skill's colorblind-safety checks (light + dark, both pass).
+  - Not ported from v1: dice-stats-through-turns (11 overlapping lines, judged too cluttered
+    to be useful) and the per-quarter dice breakdown (plot_dice_resource_stats' quarter
+    splitting — shown as one overall distribution instead). Also skipped the card-count
+    charts v1 itself had commented out/disabled (`plot_card_count_through_turns`,
+    `plot_card_count_per_change`) — the underlying data has known-quirky computation (see
+    processGame.ts's handle_count port) and v1 never shipped these either.
+- [x] Combined/career stats page (`/stats`): win rate by player (bar chart) + career stats
+      table (games/wins/win rate/avg finish/avg points), plus the seat-based
+      starting-position-vs-finish table (v1's rankings.json / pie+heatmap equivalent, as a
+      table rather than a pie — clearer for this data per the dataviz form heuristic).
+      Computed client-side from all games on each load; no precomputed/cached aggregate yet
+      (fine at 345 games, revisit if that ever gets slow).
+- [ ] Player alias management UI — not built. Aliasing still lives entirely in the parser's
+      hardcoded `replacements` list (packages/parser/src/filterLines.ts), not admin-editable
+      yet, per the original fragility-reduction plan in §2.4.6.
+- [ ] Reprocess action (bump parserVersion, re-derive stats for stale/flagged games) — not
+      built.
 
 ### Phase 4 — Sharing
-- [ ] `shares` collection + `resolveShare` callable function
-- [ ] Public `/shared/:shareId` route (read-only view, no auth)
-- [ ] "Share this game" / "share this combined view" actions in admin UI
+- [x] `shares` collection + `resolveShare` callable function (returns `parsed` + `playedAt`
+      only, never `rawLines`)
+- [x] Public `/shared/:shareId` route — renders the same `GameCharts` component the admin
+      view uses, no auth, no nav chrome
+- [x] "Create share link" button on the game detail page (`ShareButton.tsx`) — writes
+      `shares/{randomUUID}`, admin-only per firestore.rules
+- [ ] "Share this combined view" (multi-game share) — `resolveShare` already supports
+      `type: "combined"` server-side, but there's no admin UI action to create one yet (only
+      single-game sharing has a button)
+- [ ] **Known gap**: deep links like `/shared/:shareId` will 404 on GitHub Pages without the
+      standard SPA-fallback trick (a `404.html` that redirects to `index.html` preserving the
+      path) — not implemented yet since GH Pages vs. Firebase Hosting is still an open
+      decision (§6). Needed before sharing actually works once deployed, whichever hosting
+      is chosen (Firebase Hosting handles this via `firebase.json` rewrites instead).
 
 ### Phase 5 — New stats/features (ideas to refine with Petar, not committed yet)
 - [ ] Win rate / avg finish by player (career, not just per-seat like today's rankings.json)
@@ -358,3 +386,21 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   `AdminGate` (still placeholder/raw-JSON rendering — real charts are Phase 3). Remaining
   blocker: Blaze plan upgrade, pending Petar's decision (asked what Functions are for; answered,
   no decision yet). Repo-visibility/GitHub-Pages and userscript-hosting decisions also still open.
+- 2026-09-14 (later): Blaze approved. Deployed all three functions — hit and fixed two real
+  bugs along the way: (1) Firebase's build server packages `functions/` in isolation and can't
+  resolve workspace-local npm packages, fixed by bundling `@catan-live/parser` in with esbuild
+  instead of depending on it at the npm level; (2) Cloud Functions v2 now defaults every
+  function to private/authenticated-only invocation, so all three needed explicit
+  `invoker: "public"` (correct here — each has its own real gate: shared secret for
+  submitGame, unguessable share token for resolveShare). Replaced the custom-claim admin
+  bootstrap with an `admins/{email}` Firestore collection instead (Petar's suggestion, matches
+  a pattern he already uses on another project) — simpler, no privileged bootstrap function
+  needed at all, first admin just created by hand via the Firebase Console. Migrated all 345
+  gamelogs into Firestore for real (hit and fixed a genuine Firestore constraint along the
+  way: `diceUntilTurn` was `number[][]`, which Firestore rejects — arrays can't nest directly
+  inside arrays — changed to an array of `{diceTotal: count}` maps). Backfilled `playedAt` on
+  every migrated game from its original gamelog file's mtime (the actual play date), separate
+  from `createdAt` (ingestion time). Built out the real admin UI: charts (Recharts, palette
+  validated via the dataviz skill), games list, game detail, combined/career stats page,
+  share-link creation — replacing the raw-JSON placeholders. Full detail in the Phase 3/4
+  checklists above, including what was deliberately simplified or skipped from v1's plot set.

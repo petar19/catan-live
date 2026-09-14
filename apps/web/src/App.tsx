@@ -3,13 +3,20 @@ import { AuthProvider, useAuth } from "./lib/AuthContext";
 import { Login } from "./pages/Login";
 import { GamesList } from "./pages/GamesList";
 import { GameDetail } from "./pages/GameDetail";
+import { CombinedStats } from "./pages/CombinedStats";
 import { SharedView } from "./pages/SharedView";
+import { Nav } from "./components/Nav";
 
 function AdminGate({ children }: { children: React.ReactNode }) {
   const { isAdmin, loading } = useAuth();
   if (loading) return <p>Loading…</p>;
   if (!isAdmin) return <Login />;
-  return <>{children}</>;
+  return (
+    <>
+      <Nav />
+      <main className="page">{children}</main>
+    </>
+  );
 }
 
 export default function App() {
@@ -33,7 +40,15 @@ export default function App() {
               </AdminGate>
             }
           />
-          <Route path="/shared/:shareId" element={<SharedView />} />
+          <Route
+            path="/stats"
+            element={
+              <AdminGate>
+                <CombinedStats />
+              </AdminGate>
+            }
+          />
+          <Route path="/shared/:shareId" element={<main className="page">{<SharedView />}</main>} />
         </Routes>
       </BrowserRouter>
     </AuthProvider>
