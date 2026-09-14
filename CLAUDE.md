@@ -222,14 +222,18 @@ fixtures as the acceptance test for the port itself.
       HTTP endpoint to grant the `admin` custom claim by email, since there's no local
       service-account credential to run a plain Admin SDK script in this environment. Not called
       yet (needs a deploy first).
-- [ ] Enable Cloud Firestore API — done manually via console (project needed it before the
-      database could be created). Firestore database creation itself: **in progress**, retrying
-      through a propagation delay after enabling the API.
-- [ ] Enable Google Sign-In as an Auth provider — needs a console click (no CLI/API path found
-      via firebase-tools), not done yet.
+- [x] Enable Cloud Firestore API + create the `(default)` Firestore database (`nam5`) — took two
+      rounds of enabling via console (first attempt didn't stick/propagate for 5+ minutes, second
+      one worked within seconds — if this happens again, just re-enable and retry rather than
+      assuming it's a long propagation delay).
+- [x] Deploy `firestore.rules` (admin-only default-deny) — live now.
+- [x] Enable Google Sign-In as an Auth provider — done by Petar via console (no CLI/API path
+      found via firebase-tools for this).
 - [ ] Upgrade `catan-live` to the Blaze plan (billing account) — needs Petar in the console
-      (payment setup isn't something to do on his behalf), not done yet. Required before Cloud
-      Functions (`submitGame`, `resolveShare`, `setAdminClaim`) can deploy.
+      (payment setup isn't something to do on his behalf). Required before Cloud Functions
+      (`submitGame`, `resolveShare`, `setAdminClaim`) can deploy. **Decision pending** — Petar
+      asked what Cloud Functions are actually for before committing to this; answered (ingestion
+      endpoint + share-link resolver, see §2.2/§2.3), no decision yet.
 
 ### Phase 1 — Parser port + regression suite
 - [x] Port `catan2.process_game` + `filter_lines` to `packages/parser` (TS)
@@ -300,12 +304,10 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 
 ### Blocking (need Petar before Phase 0 can finish)
 
-- **GCP project quota**: `firebase projects:create` fails with "exceeded your allotted project
-  quota." Needs Petar to either request a quota increase (GCP Console → IAM & Admin → Quotas →
-  "Project creation") or free a slot by deleting/reusing an existing GCP project
-  (`expense-tracker-5acdb` or `trip-planner-8b7d8` are the only other Firebase projects on this
-  account — not touching either without being told to). Blocks every Firebase-dependent piece:
-  Firestore, Functions deploy, Auth, the admin custom claim.
+- **Blaze plan**: `catan-live` is still on Spark. Needs Petar to upgrade via console (billing
+  account attachment — not something to do on his behalf) before any Cloud Function can deploy.
+  Asked what Functions are actually for before deciding; answered inline (§2.2 ingestion,
+  §2.3 sharing) — no decision yet.
 - **Repo visibility vs. GitHub Pages**: the repo was created **private** by default (reversible,
   matches "not against open in the future maybe" from the original ask). But GitHub Pages on a
   private repo requires GitHub Pro/Team/Enterprise — Petar's account shows no paid plan, so
@@ -318,6 +320,12 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   private (same root cause as above — likely resolved together). The alternative discussed is
   publishing just that one file as a public Gist and keeping the rest of the repo private, but
   publishing anything publicly needs an explicit yes first, not something to do unprompted.
+
+### Resolved
+
+- **GCP project quota** — fixed 2026-09-14 via Google's free quota-increase support form
+  (approved same day). `catan-live` project created; Firestore database provisioned and rules
+  deployed; Google Sign-In enabled.
 
 ### Non-blocking (resurface at the relevant phase)
 
@@ -341,3 +349,12 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   (written, unwired — needs a deployed function URL and a hosting decision); Vite/React web app
   skeleton with Firebase Auth gating and a GitHub Actions Pages-deploy workflow. Three open
   decisions recorded in §6 need Petar before Phase 0 can actually finish.
+- 2026-09-14: GCP project quota increase came through (free, same-day). `catan-live` Firebase
+  project created; `.firebaserc` points at it. Firestore API enabled, `(default)` database
+  created, `firestore.rules` deployed. Google Sign-In enabled as an Auth provider. Added
+  `setAdminClaim` bootstrap function and `fixtures/migrate_to_firestore.mjs` (posts all 345
+  gamelogs through the deployed `submitGame` function rather than writing to Firestore
+  directly). Wired Firestore into the web app: live `GamesList`/`GameDetail` views behind
+  `AdminGate` (still placeholder/raw-JSON rendering — real charts are Phase 3). Remaining
+  blocker: Blaze plan upgrade, pending Petar's decision (asked what Functions are for; answered,
+  no decision yet). Repo-visibility/GitHub-Pages and userscript-hosting decisions also still open.
