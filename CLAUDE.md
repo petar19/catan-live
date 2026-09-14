@@ -212,9 +212,24 @@ fixtures as the acceptance test for the port itself.
 - [x] `firestore.rules` (admin-only default-deny) + `firestore.indexes.json` + `firebase.json`
 - [x] Vite + React + TS app skeleton, Firebase Auth (Google sign-in) login gate, `/shared/:shareId` route
 - [x] GitHub Actions workflow to build + deploy `apps/web` to GitHub Pages
-- [ ] Create Firebase project (Blaze) — **blocked**, see open decisions
-- [ ] Set up admin user + custom claim script (needs the project to exist)
-- [ ] `.firebaserc` (copy `.firebaserc.example`, fill in real project ID once created)
+- [x] Create Firebase project — `catan-live`, created 2026-09-14 after a GCP project-creation
+      quota increase (free, requested via Google's support form, approved same day). `.firebaserc`
+      points at it.
+- [x] Admin games list + game detail views wired to Firestore (`apps/web/src/pages/GamesList.tsx`,
+      `GameDetail.tsx`) — live queries, gated by `AdminGate`, rules enforce the same boundary
+      server-side. Still placeholder rendering (raw JSON) — real charts are still Phase 3.
+- [x] `setAdminClaim` bootstrap function written (`functions/src/setAdminClaim.ts`) — one-time
+      HTTP endpoint to grant the `admin` custom claim by email, since there's no local
+      service-account credential to run a plain Admin SDK script in this environment. Not called
+      yet (needs a deploy first).
+- [ ] Enable Cloud Firestore API — done manually via console (project needed it before the
+      database could be created). Firestore database creation itself: **in progress**, retrying
+      through a propagation delay after enabling the API.
+- [ ] Enable Google Sign-In as an Auth provider — needs a console click (no CLI/API path found
+      via firebase-tools), not done yet.
+- [ ] Upgrade `catan-live` to the Blaze plan (billing account) — needs Petar in the console
+      (payment setup isn't something to do on his behalf), not done yet. Required before Cloud
+      Functions (`submitGame`, `resolveShare`, `setAdminClaim`) can deploy.
 
 ### Phase 1 — Parser port + regression suite
 - [x] Port `catan2.process_game` + `filter_lines` to `packages/parser` (TS)

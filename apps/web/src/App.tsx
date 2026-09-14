@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AuthProvider, useAuth } from "./lib/AuthContext";
 import { Login } from "./pages/Login";
 import { GamesList } from "./pages/GamesList";
+import { GameDetail } from "./pages/GameDetail";
 import { SharedView } from "./pages/SharedView";
 
 function AdminGate({ children }: { children: React.ReactNode }) {
@@ -21,6 +22,14 @@ export default function App() {
             element={
               <AdminGate>
                 <GamesList />
+              </AdminGate>
+            }
+          />
+          <Route
+            path="/games/:gameId"
+            element={
+              <AdminGate>
+                <GameDetail />
               </AdminGate>
             }
           />
