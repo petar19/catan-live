@@ -13,58 +13,73 @@ export function pointsOverTurnsData(game: ProcessedGame) {
   });
 }
 
-export function diceDistributionData(dice: number[]) {
-  return dice.map((count, i) => ({ total: i + 2, count }));
+export function resourcesForPlayer(game: ProcessedGame, player: string) {
+  return POSSIBLE_RESOURCES.map((resource) => ({
+    resource,
+    count: game.resourcesPerPlayer[player]?.[resource] ?? 0,
+  }));
 }
 
-export function resourcesPerPlayerData(game: ProcessedGame) {
-  return POSSIBLE_RESOURCES.map((resource) => {
-    const row: Record<string, number | string> = { resource };
-    game.playerOrder.forEach((name) => {
-      row[name] = game.resourcesPerPlayer[name]?.[resource] ?? 0;
-    });
-    return row;
-  });
+export function diceRollsForPlayer(game: ProcessedGame, player: string) {
+  const rolls = game.playerDiceRolls[player] ?? [];
+  return Array.from({ length: 11 }, (_, i) => ({ total: i + 2, count: rolls[i] ?? 0 }));
 }
 
-export function playerDiceRollsData(game: ProcessedGame) {
-  return Array.from({ length: 11 }, (_, i) => {
-    const row: Record<string, number> = { total: i + 2 };
-    game.playerOrder.forEach((name) => {
-      row[name] = game.playerDiceRolls[name]?.[i] ?? 0;
-    });
-    return row;
-  });
+export interface TradeRow {
+  resource: string;
+  p2pReceived: number;
+  p2bReceived: number;
+  p2pGiven: number; // negative
+  p2bGiven: number; // negative
+  [key: string]: string | number;
 }
 
-export interface TradeSummaryRow {
-  player: string;
-  received: number;
-  given: number;
-  net: number;
-}
-
-export function tradeSummaryData(game: ProcessedGame): TradeSummaryRow[] {
-  const sum = (arr: number[] | undefined) => (arr ?? []).reduce((a, b) => a + b, 0);
-  return game.playerOrder.map((player) => {
-    const received = sum(game.trades.p2pReceived[player]) + sum(game.trades.p2bReceived[player]);
-    const given = sum(game.trades.p2pGiven[player]) + sum(game.trades.p2bGiven[player]);
-    return { player, received, given, net: received - given };
-  });
+export function tradesForPlayer(game: ProcessedGame, player: string): TradeRow[] {
+  return POSSIBLE_RESOURCES.map((resource, i) => ({
+    resource,
+    p2pReceived: game.trades.p2pReceived[player]?.[i] ?? 0,
+    p2bReceived: game.trades.p2bReceived[player]?.[i] ?? 0,
+    p2pGiven: -(game.trades.p2pGiven[player]?.[i] ?? 0),
+    p2bGiven: -(game.trades.p2bGiven[player]?.[i] ?? 0),
+  }));
 }
 
 export interface StealRow {
-  stealer: string;
-  victim: string;
-  count: number;
+  opponent: string;
+  stolenFromThem: number;
+  stolenByThem: number; // negative
+  [key: string]: string | number;
 }
 
-export function stealRows(game: ProcessedGame): StealRow[] {
-  const rows: StealRow[] = [];
-  for (const stealer of Object.keys(game.stealMap)) {
-    for (const victim of Object.keys(game.stealMap[stealer])) {
-      rows.push({ stealer, victim, count: game.stealMap[stealer][victim] });
-    }
-  }
-  return rows.sort((a, b) => b.count - a.count);
+export function stealsForPlayer(game: ProcessedGame, player: string): StealRow[] {
+  return game.playerOrder
+    .filter((opponent) => opponent !== player)
+    .map((opponent) => ({
+      opponent,
+      stolenFromThem: game.stealMap[player]?.[opponent] ?? 0,
+      stolenByThem: -(game.stealMap[opponent]?.[player] ?? 0),
+    }));
+}
+
+/**
+ * Buckets rollSequence into `bins` time-windows and, per dice total (2-12),
+ * normalizes counts against that row's own peak bin — so a rarely-rolled
+ * total (2 or 12) shows its own timing pattern clearly instead of looking
+ * empty next to a much-more-common total like 7.
+ */
+export function diceHeatmapData(rollSequence: number[], bins: number) {
+  const effectiveBins = Math.max(1, Math.min(bins, rollSequence.length || 1));
+  const counts: number[][] = Array.from({ length: 11 }, () => new Array(effectiveBins).fill(0));
+
+  rollSequence.forEach((total, rollIndex) => {
+    const bin = Math.min(effectiveBins - 1, Math.floor((rollIndex / Math.max(1, rollSequence.length)) * effectiveBins));
+    counts[total - 2][bin] += 1;
+  });
+
+  const rows = counts.map((rowCounts, i) => {
+    const max = Math.max(1, ...rowCounts);
+    return { total: i + 2, counts: rowCounts, max };
+  });
+
+  return { rows, bins: effectiveBins };
 }

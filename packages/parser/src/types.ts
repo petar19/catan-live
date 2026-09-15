@@ -22,6 +22,9 @@ export interface ProcessedGame {
    * Firestore doesn't allow arrays nested directly inside arrays, so this can't be
    * number[][] even though that'd otherwise be the natural shape). */
   diceUntilTurn: Record<number, number>[];
+  /** dice totals in roll order (rollSequence[0] = first roll of the game, etc.) —
+   * for visualizing *when* each total tends to roll, not just how often. */
+  rollSequence: number[];
   /** player name -> seat index (0-3). Mirrors v1's reverse-join-order assignment. */
   players: Record<string, number>;
   /** seat index (0-3) -> player name, derived from `players` */

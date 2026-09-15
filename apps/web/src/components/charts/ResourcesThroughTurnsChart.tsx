@@ -20,10 +20,10 @@ export function ResourcesThroughTurnsChart({ game }: { game: ProcessedGame }) {
         <CartesianGrid stroke={gridLine} vertical={false} />
         <XAxis dataKey="turn" tick={{ fill: textSecondary, fontSize: 12 }} />
         <YAxis tick={{ fill: textSecondary, fontSize: 12 }} allowDecimals={false} />
-        <Tooltip contentStyle={{ fontSize: 12 }} />
+        <Tooltip contentStyle={{ fontSize: 12 }} itemSorter={(item) => -(Number(item.value) || 0)} />
         <Legend wrapperStyle={{ fontSize: 12 }} />
-        {POSSIBLE_RESOURCES.map((resource, i) => (
-          <Line key={resource} type="monotone" dataKey={resource} stroke={resourceColors[i]} strokeWidth={2} dot={false} />
+        {POSSIBLE_RESOURCES.map((resource) => (
+          <Line key={resource} type="monotone" dataKey={resource} stroke={resourceColors[resource]} strokeWidth={2} dot={false} />
         ))}
       </LineChart>
     </ResponsiveContainer>

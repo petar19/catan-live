@@ -276,16 +276,38 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 
 ### Phase 3 — Admin web UI
 - [x] Games list (table: date/winner/players/warnings), per-game detail page with charts
-      (Recharts, not matplotlib — see `apps/web/src/components/charts/` and `GameCharts.tsx`):
-      points over turns, resources over turns, resources per player, dice rolls per player,
-      dice distribution, trades table, steals table. Chart palette validated against the
-      dataviz skill's colorblind-safety checks (light + dark, both pass).
-  - Not ported from v1: dice-stats-through-turns (11 overlapping lines, judged too cluttered
-    to be useful) and the per-quarter dice breakdown (plot_dice_resource_stats' quarter
-    splitting — shown as one overall distribution instead). Also skipped the card-count
-    charts v1 itself had commented out/disabled (`plot_card_count_through_turns`,
-    `plot_card_count_per_change`) — the underlying data has known-quirky computation (see
-    processGame.ts's handle_count port) and v1 never shipped these either.
+      (Recharts, not matplotlib — see `apps/web/src/components/charts/` and `GameCharts.tsx`).
+      Revised once after Petar's first pass of feedback (2026-09-15):
+  - **Points/resources over turns**: line charts, tooltip sorted highest-to-lowest
+    (`itemSorter`) instead of series order.
+  - **Resources per player**: 4 small-multiple bar charts (one per player) instead of one
+    grouped chart. Colors are fixed resource-identity colors matching v1's matplotlib palette
+    exactly (gold/silver/lawngreen/firebrick/seagreen for grain/ore/wool/brick/lumber — see
+    `RESOURCE_COLORS` in `lib/palette.ts`), not the abstract categorical palette used
+    elsewhere — deliberate exception, continuity with the old tool mattered more here.
+  - **Dice rolls per player**: same small-multiples treatment — a single grouped chart was
+    hard to read once a player had zero rolls on some totals.
+  - **Dice distribution → "when each total rolled" heatmap**: replaced the single
+    distribution bar chart with a custom SVG heatmap (`DiceHeatmap.tsx`) — one row per dice
+    total (2-12), one column per time-window, opacity-ramped per row's own peak (so rare
+    totals like 2/12 still show a legible pattern instead of looking empty next to 7). Not a
+    Recharts chart — Recharts has no heatmap primitive, so this is hand-rolled SVG. Needed a
+    new parser field, `rollSequence: number[]` (dice totals in roll order), to know *when*
+    each roll happened, not just the aggregate count — required reprocessing all 345
+    already-migrated games (see `reprocessGames` function below).
+  - **Trades**: back to something closer to v1's per-player diverging bar charts (4
+    small-multiples, one per player, 5 resource columns, positive = received / negative =
+    given, each split into a bank-trade layer and a player-trade layer) rather than the
+    simplified table from the first pass. Built via a shared, reusable `DivergingBarChart` +
+    `ChartLegend` (one legend rendered once above the whole grid, not repeated per subplot).
+  - **Steals**: same diverging-bar treatment, one layer each direction (stole from them /
+    they stole from you), no bank layer — reuses the same `DivergingBarChart`.
+  - Considered and deferred: a bank-in-the-center trade network diagram with arrows between
+    every player pair (Petar's idea) — see the open-questions entry below for why.
+  - Still not ported from v1: the per-quarter dice breakdown (superseded by the heatmap) and
+    the card-count charts v1 itself had commented out/disabled — the underlying data has
+    known-quirky computation (see processGame.ts's handle_count port) and v1 never shipped
+    these either.
 - [x] Combined/career stats page (`/stats`): win rate by player (bar chart) + career stats
       table (games/wins/win rate/avg finish/avg points), plus the seat-based
       starting-position-vs-finish table (v1's rankings.json / pie+heatmap equivalent, as a
@@ -295,8 +317,12 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 - [ ] Player alias management UI — not built. Aliasing still lives entirely in the parser's
       hardcoded `replacements` list (packages/parser/src/filterLines.ts), not admin-editable
       yet, per the original fragility-reduction plan in §2.4.6.
-- [ ] Reprocess action (bump parserVersion, re-derive stats for stale/flagged games) — not
-      built.
+- [x] Reprocess action — built as a function, not an admin UI button yet:
+      `functions/src/reprocessGames.ts` (secret-gated HTTP endpoint) re-derives `parsed` from
+      each game's stored `rawLines` and bumps `parserVersion`, skipping games already at the
+      current version. Used for real to backfill `rollSequence` onto all 345 games after
+      adding it to the parser. An admin-UI "reprocess" button would just call this same
+      endpoint — worth adding once there's a second reason to.
 
 ### Phase 4 — Sharing
 - [x] `shares` collection + `resolveShare` callable function (returns `parsed` + `playedAt`
@@ -364,6 +390,14 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 - Keep generating Discord images (needs a render step somewhere — function-side matplotlib or
   headless chart rendering) or switch Discord posts to text recap + link only? Current
   `submitGame` sends text-only recaps; images not implemented.
+- **Trade/steal network diagram** — Petar sketched an idea for trades: bank in the center,
+  players at N/S/E/W, arrows between every pair (including opposite-side players via
+  off-screen wraparound) with thickness proportional to trade volume, color-coded by
+  resource. Genuinely interesting, but a custom force/chord-style diagram like that is a lot
+  of fiddly SVG geometry to get right, and a bad first attempt would look worse than the
+  diverging-bar version. Built the diverging stacked-bar version instead (2026-09-15) since it
+  was concretely specified and low-risk; the network diagram is still on the table as a
+  follow-up if the bar version doesn't scratch the itch once tested.
 
 ## 7. Progress log
 
@@ -404,3 +438,10 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   validated via the dataviz skill), games list, game detail, combined/career stats page,
   share-link creation — replacing the raw-JSON placeholders. Full detail in the Phase 3/4
   checklists above, including what was deliberately simplified or skipped from v1's plot set.
+- 2026-09-15: First round of chart feedback from Petar, all addressed — see the Phase 3
+  checklist above for the full rundown (tooltip sorting, per-player small multiples for
+  resources/dice-rolls, the new dice-timing heatmap, diverging bar charts for trades/steals,
+  v1-matching resource colors). Added `rollSequence` to the parser and built a real
+  `reprocessGames` endpoint to backfill it onto already-migrated games — this is reusable
+  infrastructure now, not a one-off. Not yet tested by Petar in a real browser session (only
+  build/typecheck/parser-test verified on this end) — next step is his pass.

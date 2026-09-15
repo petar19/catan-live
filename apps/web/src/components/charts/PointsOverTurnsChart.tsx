@@ -13,7 +13,7 @@ export function PointsOverTurnsChart({ game }: { game: ProcessedGame }) {
         <CartesianGrid stroke={gridLine} vertical={false} />
         <XAxis dataKey="turn" tick={{ fill: textSecondary, fontSize: 12 }} label={{ value: "Turn", position: "insideBottom", offset: -4, fill: textSecondary }} />
         <YAxis tick={{ fill: textSecondary, fontSize: 12 }} allowDecimals={false} />
-        <Tooltip contentStyle={{ fontSize: 12 }} />
+        <Tooltip contentStyle={{ fontSize: 12 }} itemSorter={(item) => -(Number(item.value) || 0)} />
         <Legend wrapperStyle={{ fontSize: 12 }} />
         {game.playerOrder.map((name, i) => (
           <Line key={name} type="monotone" dataKey={name} stroke={seatColors[i]} strokeWidth={2} dot={false} />

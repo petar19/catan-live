@@ -61,6 +61,7 @@ function sumColumns(rows: number[][]): number[] {
 export function processGame(lines: string[]): ProcessedGame {
   const dice = new Array(11).fill(0);
   const diceUntilTurn: Record<number, number>[] = [];
+  const rollSequence: number[] = [];
   let turn = 0;
 
   const players = new Map<string, number>();
@@ -164,6 +165,7 @@ export function processGame(lines: string[]): ProcessedGame {
     const diceRoll = parseInt(m.groups.dice1, 10) + parseInt(m.groups.dice2, 10);
     dice[diceRoll - 2] += 1;
     diceUntilTurn.push(diceArrayToMap(dice));
+    rollSequence.push(diceRoll);
     special.lastRolled = diceRoll;
     if (!playerDiceRolls[player]) playerDiceRolls[player] = new Array(11).fill(0);
     playerDiceRolls[player][diceRoll - 2] += 1;
@@ -375,6 +377,7 @@ export function processGame(lines: string[]): ProcessedGame {
   return {
     dice,
     diceUntilTurn,
+    rollSequence,
     players: Object.fromEntries(players),
     playerOrder,
     playerPoints,

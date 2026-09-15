@@ -7,7 +7,7 @@ import { postGameToDiscord } from "./lib/discord.js";
 
 /** Bump whenever processGame's logic changes meaningfully, so stale games can be
  * found (`parserVersion < PARSER_VERSION`) and reprocessed. See CLAUDE.md §2.4. */
-export const PARSER_VERSION = 1;
+export const PARSER_VERSION = 2; // 2: added rollSequence
 
 const SITE_URL = process.env.SITE_URL; // set post-deploy once the GitHub Pages URL is known
 
