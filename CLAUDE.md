@@ -287,19 +287,24 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     elsewhere — deliberate exception, continuity with the old tool mattered more here.
   - **Dice rolls per player**: same small-multiples treatment — a single grouped chart was
     hard to read once a player had zero rolls on some totals.
-  - **Dice distribution & timing**: went through two designs. First pass was a custom SVG
+  - **Dice distribution & timing**: went through three designs. First pass was a custom SVG
     heatmap (`DiceHeatmap.tsx`, one row per dice total, opacity-ramped per row's own peak) —
     Petar couldn't tell *how many* times each total rolled from it (every row was the same
     fixed height regardless of count, so frequency wasn't readable at all, only relative
-    timing within a row). Replaced (2026-09-16) with `DiceRollTimingChart.tsx`: a normal
-    Recharts stacked bar chart where bar *height* = actual roll count (directly comparable
-    across totals again) and each bar is internally stacked into ~20 time-windows shaded
-    light (early game) → dark (late game), so both frequency and timing read at a glance from
-    the same chart. Custom tooltip reports the total count plus "most common in the
-    early/mid/late game." Needed a new parser field either way, `rollSequence: number[]`
-    (dice totals in roll order), to know *when* each roll happened, not just the aggregate
-    count — required reprocessing all 345 already-migrated games (see `reprocessGames`
-    function below).
+    timing within a row). Second pass (2026-09-16) made it a stacked bar chart
+    (`DiceRollTimingChart.tsx`, height = actual roll count) but colored each stacked segment
+    by *time position* (light=early, dark=late) — Petar correctly called this out as not
+    really encoding anything useful, since stack position (bottom=early, top=late) already
+    shows timing; the color channel was redundant with position instead of adding a second
+    signal. Third pass (same day): color now encodes *density* — how concentrated that
+    total's rolls were in that specific window relative to its own busiest window — so a
+    dark segment means "a lot of this total rolled right around here," while position still
+    separately shows *when* "here" is. Bar height (total count), stack position (timing),
+    and segment color (concentration) now each carry distinct information instead of two of
+    the three saying the same thing. Custom tooltip reports the total count plus which phase
+    of the game it was most concentrated in. Needed a new parser field either way,
+    `rollSequence: number[]` (dice totals in roll order) — required reprocessing all 345
+    already-migrated games (see `reprocessGames` function below).
   - **Trades**: back to something closer to v1's per-player diverging bar charts (4
     small-multiples, one per player, 5 resource columns, positive = received / negative =
     given, each split into a bank-trade layer and a player-trade layer) rather than the
@@ -480,3 +485,11 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   `DiceRollTimingChart.tsx`, a stacked bar chart (height = actual count, internal stacking =
   time-window shading) — see the Phase 3 entry above. No parser/data changes needed this
   time, just a frontend rework of the existing `rollSequence` field.
+- 2026-09-16 (even later): Petar caught that the shading in `DiceRollTimingChart` didn't
+  actually mean anything — it just recolored by time position, which the stack's bottom-to-
+  top order already showed. Fixed by switching the color channel to density (how
+  concentrated a total's rolls were in that window, relative to its own peak) instead —
+  see the updated Phase 3 entry above. Good reminder: when a chart has redundant encodings
+  (two channels saying the same thing), a reader will notice something's off even if they
+  can't immediately articulate which channel is the problem — worth double-checking each
+  encoding actually carries distinct information before shipping, not just after feedback.
