@@ -26,10 +26,15 @@ export const TEXT_PRIMARY = { light: "#0b0b0b", dark: "#ffffff" };
 export const TEXT_SECONDARY = { light: "#52514e", dark: "#c3c2b7" };
 export const GRID_LINE = { light: "#e5e4e0", dark: "#33322f" };
 
-// Single sequential hue for magnitude (the dice-roll-timing heatmap) — blue,
-// same family as seat slot 1, expressed as an alpha ramp against the card
-// surface rather than hand-picked steps.
-export const HEATMAP_HUE = { light: "#2a78d6", dark: "#3987e5" };
+// Dice-roll-timing chart: one fixed, distinct color per quarter of the game
+// (quarter 1 = bottom of the stack, quarter 4 = top) — matches v1's
+// plot_dice_resource_stats (colors = ["yellow", "gold", "orange", "red"]),
+// slightly darkened for surface contrast the same way RESOURCE_COLORS is.
+// Deliberately a small discrete set, not a continuous ramp — Petar tried a
+// density-based opacity gradient here twice and it didn't read clearly either
+// time; four named, distinct colors with a real legend is what he actually
+// wants back.
+export const QUARTER_COLORS = ["#e8c700", "#e5a300", "#e07b00", "#d1372b"];
 
 // Gain/loss colors for steals — deliberately NOT seatColors. Steals charts
 // used to borrow seatColors[2]/[3] for "stole from them"/"they stole from
@@ -75,7 +80,7 @@ export function usePalette() {
     seatColors: dark ? DARK : LIGHT,
     resourceColors: RESOURCE_COLORS,
     gainLoss: dark ? GAIN_LOSS.dark : GAIN_LOSS.light,
-    heatmapHue: dark ? HEATMAP_HUE.dark : HEATMAP_HUE.light,
+    quarterColors: QUARTER_COLORS,
     textPrimary: dark ? TEXT_PRIMARY.dark : TEXT_PRIMARY.light,
     textSecondary: dark ? TEXT_SECONDARY.dark : TEXT_SECONDARY.light,
     gridLine: dark ? GRID_LINE.dark : GRID_LINE.light,

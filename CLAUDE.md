@@ -287,24 +287,27 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     elsewhere — deliberate exception, continuity with the old tool mattered more here.
   - **Dice rolls per player**: same small-multiples treatment — a single grouped chart was
     hard to read once a player had zero rolls on some totals.
-  - **Dice distribution & timing**: went through three designs. First pass was a custom SVG
-    heatmap (`DiceHeatmap.tsx`, one row per dice total, opacity-ramped per row's own peak) —
-    Petar couldn't tell *how many* times each total rolled from it (every row was the same
-    fixed height regardless of count, so frequency wasn't readable at all, only relative
-    timing within a row). Second pass (2026-09-16) made it a stacked bar chart
-    (`DiceRollTimingChart.tsx`, height = actual roll count) but colored each stacked segment
-    by *time position* (light=early, dark=late) — Petar correctly called this out as not
-    really encoding anything useful, since stack position (bottom=early, top=late) already
-    shows timing; the color channel was redundant with position instead of adding a second
-    signal. Third pass (same day): color now encodes *density* — how concentrated that
-    total's rolls were in that specific window relative to its own busiest window — so a
-    dark segment means "a lot of this total rolled right around here," while position still
-    separately shows *when* "here" is. Bar height (total count), stack position (timing),
-    and segment color (concentration) now each carry distinct information instead of two of
-    the three saying the same thing. Custom tooltip reports the total count plus which phase
-    of the game it was most concentrated in. Needed a new parser field either way,
-    `rollSequence: number[]` (dice totals in roll order) — required reprocessing all 345
-    already-migrated games (see `reprocessGames` function below).
+  - **Dice distribution & timing**: went through four designs before landing. (1) A custom
+    SVG heatmap (`DiceHeatmap.tsx`, one row per dice total, opacity-ramped per row's own
+    peak) — every row was a fixed height regardless of count, so total frequency wasn't
+    readable at all. (2) A stacked bar (height = real count) with ~20 segments colored by
+    *time position* (light=early, dark=late) — redundant with stack position, which already
+    showed timing bottom-to-top. (3) Same shape but colored by *density* (concentration
+    relative to that total's own peak) instead — a real second signal, but Petar still
+    couldn't read it clearly with ~20 thin continuous-gradient segments. (4) **What actually
+    landed** (2026-09-16): back to v1's original `plot_dice_resource_stats` design almost
+    exactly — exactly 4 segments (quarters of the game, by roll count), each a fixed, named,
+    distinct color (`QUARTER_COLORS` in `lib/palette.ts`, a darkened yellow→gold→orange→red
+    matching v1's `colors = ["yellow", "gold", "orange", "red"]`), stacked bottom (quarter 1)
+    to top (quarter 4), with a real 4-item legend. Bar height = total roll count; quarter
+    position/color = when within the game. Lesson from the two failed continuous-gradient
+    attempts: a handful of discrete, named, legended colors reads far more clearly here than
+    any continuous ramp, no matter how the ramp's meaning was tuned — the data has a natural
+    small number of categories (quarters), so a categorical encoding fits it better than a
+    sequential one, matching the dataviz skill's "pick the form" step better than either
+    gradient attempt did. Needed a new parser field either way, `rollSequence: number[]`
+    (dice totals in roll order) — required reprocessing all 345 already-migrated games (see
+    `reprocessGames` function below).
   - **Trades**: back to something closer to v1's per-player diverging bar charts (4
     small-multiples, one per player, 5 resource columns, positive = received / negative =
     given, each split into a bank-trade layer and a player-trade layer) rather than the
@@ -518,3 +521,10 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     `colorFor` per-category override (Cell-based, like the dice chart's per-cell coloring)
     since a flat `color` per layer couldn't vary by resource. Added `darkenHex()` to
     `lib/palette.ts` for the shade computation.
+- 2026-09-16 (still later): the density-gradient dice-timing chart still didn't land for
+  Petar — gave up on continuous-gradient encodings for this chart entirely (two attempts,
+  neither read clearly) and went back to v1's original 4-fixed-color-quarters design. See
+  the updated Phase 3 entry above. Takeaway worth remembering for future charts: this data
+  (roll timing) has a natural small number of categories — quarters of the game — and kept
+  fighting every continuous encoding I tried; recognizing "this should just be a categorical
+  encoding, not a sequential one" earlier would have saved two iterations.
