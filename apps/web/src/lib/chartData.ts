@@ -25,6 +25,21 @@ export function diceRollsForPlayer(game: ProcessedGame, player: string) {
   return Array.from({ length: 11 }, (_, i) => ({ total: i + 2, count: rolls[i] ?? 0 }));
 }
 
+/** Port of v1's plot_resources_per_players_per_dices: for one player, one row
+ * per dice total (2-12), with each resource's count on that specific roll —
+ * rendered as a stacked bar per total, segments colored by resource. */
+export function resourcesPerDiceForPlayer(game: ProcessedGame, player: string) {
+  const perResource = game.resourcesPerPlayerPerDice[player] ?? {};
+  return Array.from({ length: 11 }, (_, i) => {
+    const total = i + 2;
+    const row: Record<string, number> = { total };
+    POSSIBLE_RESOURCES.forEach((resource) => {
+      row[resource] = perResource[resource]?.[total] ?? 0;
+    });
+    return row;
+  });
+}
+
 export interface TradeRow {
   resource: string;
   p2pReceived: number;

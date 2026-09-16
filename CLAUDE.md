@@ -313,20 +313,26 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     layer and a player-trade layer), colored by resource identity with bank segments a
     darker shade — see the recoloring note further down. Built via a shared, reusable
     `DivergingBarChart` + `ChartLegend`.
-    **Real bug found and fixed (2026-09-16)**: `DivergingBarChart` gave all 4 layers
-    (2 positive, 2 negative) the *same* Recharts `stackId`. Recharts/d3 stacking accumulates
-    in declaration order regardless of sign when layers share a stackId — it does not
-    auto-detect "these two are negative, stack them from zero downward independently."
+    **Real bug found and fixed (2026-09-16), in two rounds.** Round 1: `DivergingBarChart`
+    gave all 4 layers (2 positive, 2 negative) the *same* Recharts `stackId` with the
+    default stack offset, which accumulates in declaration order regardless of sign — it
+    does not auto-detect "these two are negative, stack from zero downward independently."
     Concretely, for Kent#3816/grain in game 345: `p2pReceived=1` (declared first) stacked
     0→1, then `p2bGiven=-3` (declared later) stacked from *1* down to *-2* instead of from 0
-    down to -3 — so the "given to bank" bar rendered starting above zero and visually
+    down to -3 — the "given to bank" bar rendered starting above zero and visually
     overpainted the "received" segment, making 1 received-from-players look like it was
     bank-colored. For lumber the same game, `p2pReceived=3` then `p2bGiven=-3` landed
-    exactly back on 0, fully hiding the given-to-bank bar under the received bar. Verified
-    against real parsed data (not just inspection) before concluding it was a rendering bug
-    and not a parser bug. Fixed by giving `DivergingLayer` an explicit `sign: "positive" |
-    "negative"` and using a separate `stackId` per sign, so positive and negative segments
-    each stack independently from zero, as diverging bars actually require in Recharts.
+    exactly back on 0, fully hiding the given-to-bank bar. Verified against real parsed data
+    (not just inspection) before concluding it was a rendering bug, not a parser bug. First
+    fix attempt gave positive/negative layers separate stackIds — that solved the
+    mispositioning but introduced a *new* bug: Recharts treats different stackIds as
+    separate bar *groups* and lays them out side-by-side, so some players' columns
+    rendered as two staggered half-width bars instead of one. Round 2 (correct fix): kept
+    one shared `stackId` for all 4 layers, but set `stackOffset="sign"` on the `<BarChart>`
+    — this is Recharts' own built-in offset function (`offsetSign` in its `ChartUtils.js`)
+    that independently accumulates positive and negative values per category regardless of
+    declaration order, which is exactly "diverging stacked bar" and doesn't split the bars
+    into separate groups since they still share one stackId.
   - **Steals**: no longer a diverging chart — back to v1's original `plot_steal` design:
     4 small multiples (one per player), 3 *simple, non-diverging* columns (one per opponent),
     height = how many times that player stole from that opponent. Bars colored by the
@@ -349,7 +355,19 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     judging it: no directional arrowheads (hover tooltip gives the direction/exact breakdown
     instead); an edge shows *combined* both-directions volume, not two separate lines per
     direction; node-to-direction mapping (which player sits left/right/top/bottom) is just
-    `playerOrder` index, not real seating.
+    `playerOrder` index, not real seating. Trade tooltip polished (2026-09-16): total trade
+    count now shown top-right in the header, and the confusing "→" arrows dropped from the
+    breakdown table's column headers (plain names read fine). **Steal network diagram
+    hidden (2026-09-16)** — Petar didn't like it as shipped. Only the JSX render call was
+    removed from `GameCharts.tsx`; `StealNetworkDiagram.tsx` and `buildStealDiagram` in
+    `lib/networkDiagram.ts` still exist if it's worth revisiting later. The trade network
+    diagram stays — Petar liked that one.
+  - **Resources per player, by dice roll** (new, 2026-09-16): the one v1 plot
+    (`plot_resources_per_players_per_dices`) that was never ported in the first pass — 4
+    small multiples, 11 columns (dice totals 2-12), each stacked by resource color, showing
+    which specific rolls actually paid off for that player. `ResourcesPerPlayerPerDiceChart.tsx`,
+    reading the already-computed `resourcesPerPlayerPerDice` parser field (no parser change
+    needed, that field already existed and just had no chart yet).
   - Still not ported from v1: the per-quarter dice breakdown (superseded by the heatmap) and
     the card-count charts v1 itself had commented out/disabled — the underlying data has
     known-quirky computation (see processGame.ts's handle_count port) and v1 never shipped
@@ -571,3 +589,13 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   signal (a 1-for-1 guest outranks someone with a real sample size). Career stats table now
   sorts by games played instead; win rate is still a column, just not the sort key or a
   chart anymore.
+- 2026-09-16 (final round today): fixed the trades stacking bug *for real* this time (the
+  separate-stackId fix from the previous entry turned out to have its own bug — see the
+  updated Phase 3 entry above for the full two-round story and the actual correct
+  mechanism, `stackOffset="sign"`). Added the one missing v1 chart
+  (`ResourcesPerPlayerPerDiceChart`). Hid the steal network diagram per feedback (kept the
+  code, just stopped rendering it). Polished the trade network diagram's tooltip further
+  (total count, dropped arrows). Lesson for next time a Recharts stacking issue comes up:
+  check `stackOffset` first — it's very likely the right lever, and reaching for multiple
+  stackIds is very likely the wrong one (that's a *grouping* mechanism, not a stacking-
+  direction one).

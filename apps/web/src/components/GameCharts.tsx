@@ -2,12 +2,12 @@ import type { ProcessedGame } from "@catan-live/parser";
 import { PointsOverTurnsChart } from "./charts/PointsOverTurnsChart";
 import { DiceRollTimingChart } from "./charts/DiceRollTimingChart";
 import { ResourcesPerPlayerChart } from "./charts/ResourcesPerPlayerChart";
+import { ResourcesPerPlayerPerDiceChart } from "./charts/ResourcesPerPlayerPerDiceChart";
 import { PlayerDiceRollsChart } from "./charts/PlayerDiceRollsChart";
 import { ResourcesThroughTurnsChart } from "./charts/ResourcesThroughTurnsChart";
 import { TradesChart } from "./charts/TradesChart";
 import { StealsChart } from "./charts/StealsChart";
 import { TradeNetworkDiagram } from "./charts/TradeNetworkDiagram";
-import { StealNetworkDiagram } from "./charts/StealNetworkDiagram";
 
 export function GameCharts({ game }: { game: ProcessedGame }) {
   return (
@@ -25,6 +25,11 @@ export function GameCharts({ game }: { game: ProcessedGame }) {
       <section className="card">
         <h2>Resources per player</h2>
         <ResourcesPerPlayerChart game={game} />
+      </section>
+
+      <section className="card">
+        <h2>Resources per player, by dice roll</h2>
+        <ResourcesPerPlayerPerDiceChart game={game} />
       </section>
 
       <section className="card">
@@ -54,12 +59,9 @@ export function GameCharts({ game }: { game: ProcessedGame }) {
         <StealsChart game={game} />
       </section>
 
-      <section className="card">
-        <h2>
-          Steals — network diagram <span className="badge">experimental</span>
-        </h2>
-        <StealNetworkDiagram game={game} />
-      </section>
+      {/* Steal network diagram hidden for now per Petar (2026-09-16) — didn't like it as-is.
+          Component still exists (StealNetworkDiagram.tsx, lib/networkDiagram.ts's
+          buildStealDiagram) in case it's worth revisiting later. */}
     </div>
   );
 }
