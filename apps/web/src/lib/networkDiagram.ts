@@ -5,16 +5,14 @@ import { POSSIBLE_RESOURCES, type ProcessedGame } from "@catan-live/parser";
  * idea: bank at center, 4 players at N/S/E/W, edges between every pair
  * (including a bank/player "spoke"), with opposite-side pairs (left-right,
  * top-bottom) drawn as two stubs running off the canvas edge instead of a
- * line straight through the bank node, per his ASCII sketch. Shown alongside
- * the existing diverging-bar charts for comparison, not replacing them —
- * see CLAUDE.md for why this is marked experimental.
+ * line through the bank node, per his ASCII sketch. Shown alongside the
+ * existing diverging-bar charts for comparison, not replacing them.
  */
 
 export const CANVAS = 600;
 export const CENTER = CANVAS / 2;
 const NODE_DIST = 220;
 const STUB_LEN = 55;
-const STUB_GAP = 18;
 
 type Direction = "left" | "right" | "top" | "bottom";
 const DIRECTIONS: Direction[] = ["left", "right", "top", "bottom"];
@@ -64,12 +62,24 @@ export interface DiagramSegment {
   label: string;
 }
 
+/** One row of the hover breakdown: how much moved in each direction between
+ * the edge's two ends, per resource (trades) or just the one row (steals). */
+export interface BreakdownRow {
+  label: string;
+  aValue: number;
+  aColor: string;
+  bValue: number;
+  bColor: string;
+}
+
 export interface DiagramEdge {
   id: string;
   from: { x: number; y: number };
   to: { x: number; y: number };
   segments: DiagramSegment[];
-  tooltip: string;
+  aLabel: string;
+  bLabel: string;
+  breakdown: BreakdownRow[];
   isWrapStub?: boolean;
 }
 
@@ -89,7 +99,7 @@ function wrapStubs(
   aLabel: string,
   bLabel: string,
   segments: DiagramSegment[],
-  tooltip: string,
+  breakdown: BreakdownRow[],
   idPrefix: string,
 ): DiagramEdge[] {
   // both stubs carry the same data — they're the two visible ends of one logical
@@ -103,7 +113,9 @@ function wrapStubs(
       from: aPoint,
       to: { x: aPoint.x - unit.x * STUB_LEN, y: aPoint.y - unit.y * STUB_LEN },
       segments,
-      tooltip: `${aLabel} ↔ ${bLabel} (wraps around): ${tooltip}`,
+      aLabel,
+      bLabel,
+      breakdown,
       isWrapStub: true,
     },
     {
@@ -111,13 +123,13 @@ function wrapStubs(
       from: bPoint,
       to: { x: bPoint.x + unit.x * STUB_LEN, y: bPoint.y + unit.y * STUB_LEN },
       segments,
-      tooltip: `${aLabel} ↔ ${bLabel} (wraps around): ${tooltip}`,
+      aLabel,
+      bLabel,
+      breakdown,
       isWrapStub: true,
     },
   ];
 }
-
-export { STUB_GAP };
 
 export function buildTradeDiagram(game: ProcessedGame, resourceColors: Record<string, string>): Diagram {
   const players = game.playerOrder.map((name, i) => ({ name, direction: DIRECTIONS[i], point: nodePoint(DIRECTIONS[i]) }));
@@ -127,34 +139,44 @@ export function buildTradeDiagram(game: ProcessedGame, resourceColors: Record<st
     ...players.map((p) => ({ id: p.name, label: p.name, x: p.point.x, y: p.point.y, radius: 22 })),
   ];
 
-  function pairSegments(a: string, b: string): DiagramSegment[] {
+  function pairBreakdown(a: string, b: string): BreakdownRow[] {
     const aToB = game.tradesBetweenPlayers[a]?.[b] ?? [];
     const bToA = game.tradesBetweenPlayers[b]?.[a] ?? [];
     return POSSIBLE_RESOURCES.map((resource, i) => ({
-      color: resourceColors[resource],
-      value: (aToB[i] ?? 0) + (bToA[i] ?? 0),
       label: resource,
+      aValue: aToB[i] ?? 0,
+      aColor: resourceColors[resource],
+      bValue: bToA[i] ?? 0,
+      bColor: resourceColors[resource],
     }));
   }
 
-  function bankSegments(player: string): DiagramSegment[] {
+  function bankBreakdown(player: string): BreakdownRow[] {
     return POSSIBLE_RESOURCES.map((resource, i) => ({
-      color: resourceColors[resource],
-      value: (game.trades.p2bReceived[player]?.[i] ?? 0) + (game.trades.p2bGiven[player]?.[i] ?? 0),
       label: resource,
+      aValue: game.trades.p2bReceived[player]?.[i] ?? 0, // bank -> player
+      aColor: resourceColors[resource],
+      bValue: game.trades.p2bGiven[player]?.[i] ?? 0, // player -> bank
+      bColor: resourceColors[resource],
     }));
+  }
+
+  function segmentsFrom(breakdown: BreakdownRow[]): DiagramSegment[] {
+    return breakdown.map((row) => ({ color: row.aColor, value: row.aValue + row.bValue, label: row.label }));
   }
 
   const edges: DiagramEdge[] = [];
 
   players.forEach((p) => {
-    const segments = bankSegments(p.name);
+    const breakdown = bankBreakdown(p.name);
     edges.push({
       id: `bank-${p.name}`,
       from: { x: CENTER, y: CENTER },
       to: p.point,
-      segments,
-      tooltip: `Bank ↔ ${p.name}: ${edgeTotal(segments)} total (${segments.filter((s) => s.value > 0).map((s) => `${s.value} ${s.label}`).join(", ") || "none"})`,
+      segments: segmentsFrom(breakdown),
+      aLabel: "Bank",
+      bLabel: p.name,
+      breakdown,
     });
   });
 
@@ -162,13 +184,15 @@ export function buildTradeDiagram(game: ProcessedGame, resourceColors: Record<st
     const a = players[ai];
     const b = players[bi];
     if (!a || !b) return;
-    const segments = pairSegments(a.name, b.name);
+    const breakdown = pairBreakdown(a.name, b.name);
     edges.push({
       id: `${a.name}-${b.name}`,
       from: a.point,
       to: b.point,
-      segments,
-      tooltip: `${a.name} ↔ ${b.name}: ${edgeTotal(segments)} total (${segments.filter((s) => s.value > 0).map((s) => `${s.value} ${s.label}`).join(", ") || "none"})`,
+      segments: segmentsFrom(breakdown),
+      aLabel: a.name,
+      bLabel: b.name,
+      breakdown,
     });
   });
 
@@ -176,9 +200,8 @@ export function buildTradeDiagram(game: ProcessedGame, resourceColors: Record<st
     const a = players[ai];
     const b = players[bi];
     if (!a || !b) return;
-    const segments = pairSegments(a.name, b.name);
-    const summary = `${edgeTotal(segments)} total (${segments.filter((s) => s.value > 0).map((s) => `${s.value} ${s.label}`).join(", ") || "none"})`;
-    edges.push(...wrapStubs(a.point, b.point, a.name, b.name, segments, summary, `${a.name}-${b.name}`));
+    const breakdown = pairBreakdown(a.name, b.name);
+    edges.push(...wrapStubs(a.point, b.point, a.name, b.name, segmentsFrom(breakdown), breakdown, `${a.name}-${b.name}`));
   });
 
   return { nodes, edges, maxEdgeTotal: Math.max(1, ...edges.map((e) => edgeTotal(e.segments))) };
@@ -189,12 +212,23 @@ export function buildStealDiagram(game: ProcessedGame, colorA: string, colorB: s
 
   const nodes: DiagramNode[] = players.map((p) => ({ id: p.name, label: p.name, x: p.point.x, y: p.point.y, radius: 22 }));
 
-  function pairSegments(a: string, b: string): DiagramSegment[] {
-    const aStoleFromB = game.stealMap[a]?.[b] ?? 0;
-    const bStoleFromA = game.stealMap[b]?.[a] ?? 0;
+  function pairBreakdown(a: string, b: string): BreakdownRow[] {
     return [
-      { color: colorA, value: aStoleFromB, label: `${a} stole from ${b}` },
-      { color: colorB, value: bStoleFromA, label: `${b} stole from ${a}` },
+      {
+        label: "Steals",
+        aValue: game.stealMap[a]?.[b] ?? 0,
+        aColor: colorA,
+        bValue: game.stealMap[b]?.[a] ?? 0,
+        bColor: colorB,
+      },
+    ];
+  }
+
+  function segmentsFrom(breakdown: BreakdownRow[]): DiagramSegment[] {
+    const row = breakdown[0];
+    return [
+      { color: row.aColor, value: row.aValue, label: "a" },
+      { color: row.bColor, value: row.bValue, label: "b" },
     ];
   }
 
@@ -204,13 +238,15 @@ export function buildStealDiagram(game: ProcessedGame, colorA: string, colorB: s
     const a = players[ai];
     const b = players[bi];
     if (!a || !b) return;
-    const segments = pairSegments(a.name, b.name);
+    const breakdown = pairBreakdown(a.name, b.name);
     edges.push({
       id: `${a.name}-${b.name}`,
       from: a.point,
       to: b.point,
-      segments,
-      tooltip: segments.map((s) => `${s.label}: ${s.value}`).join(" · "),
+      segments: segmentsFrom(breakdown),
+      aLabel: a.name,
+      bLabel: b.name,
+      breakdown,
     });
   });
 
@@ -218,9 +254,8 @@ export function buildStealDiagram(game: ProcessedGame, colorA: string, colorB: s
     const a = players[ai];
     const b = players[bi];
     if (!a || !b) return;
-    const segments = pairSegments(a.name, b.name);
-    const summary = segments.map((s) => `${s.label}: ${s.value}`).join(" · ");
-    edges.push(...wrapStubs(a.point, b.point, a.name, b.name, segments, summary, `${a.name}-${b.name}`));
+    const breakdown = pairBreakdown(a.name, b.name);
+    edges.push(...wrapStubs(a.point, b.point, a.name, b.name, segmentsFrom(breakdown), breakdown, `${a.name}-${b.name}`));
   });
 
   return { nodes, edges, maxEdgeTotal: Math.max(1, ...edges.map((e) => edgeTotal(e.segments))) };

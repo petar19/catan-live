@@ -493,3 +493,28 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   (two channels saying the same thing), a reader will notice something's off even if they
   can't immediately articulate which channel is the problem — worth double-checking each
   encoding actually carries distinct information before shipping, not just after feedback.
+- 2026-09-16 (yet later): Three more fixes from Petar's testing pass:
+  - **Steals color bug**: `StealsChart`/`StealNetworkDiagram` colored the two steal
+    directions using `seatColors[2]`/`seatColors[3]` — the *same* palette used for player
+    identity everywhere else on the site. When a player (often Myrna8511, since that's
+    always Petar's own seat) happened to land on that palette slot in a given game, the
+    steals chart's direction color would coincidentally match that player's identity color
+    elsewhere, reading as if the player were deliberately highlighted. Fixed by adding a
+    dedicated `gainLoss` color pair (green/red) to `lib/palette.ts`, semantically tied to
+    "gained/lost" rather than borrowed from an unrelated identity dimension — same root-
+    cause class of bug as the earlier dice-timing redundant-encoding issue (reusing a
+    channel for something it doesn't actually mean).
+  - **Network diagram tooltip**: native SVG `<title>` tooltips have a real ~1s hover delay
+    and can't show a table — replaced with a custom instant tooltip (mouse-tracked div,
+    `.chart-tooltip`/`.tooltip-table` in index.css) in `NetworkDiagram.tsx`. Also added a
+    real per-resource, per-direction breakdown (`lib/networkDiagram.ts`'s new `BreakdownRow`
+    type: `{label, aValue, aColor, bValue, bColor}`) — Petar wanted to see e.g. "3 ore A->B,
+    1 ore B->A" on hover for trades, not just a combined total, which the old single
+    `tooltip: string` field on each edge couldn't represent.
+  - **Trades chart recoloring**: switched from generic "with players"/"with bank" colors
+    (blue/orange) to resource-identity colors — same palette as `ResourcesPerPlayerChart` —
+    with bank-trade segments rendered as a darkened shade of the same resource color,
+    stacked on the same per-resource column. Required extending `DivergingBarChart` with a
+    `colorFor` per-category override (Cell-based, like the dice chart's per-cell coloring)
+    since a flat `color` per layer couldn't vary by resource. Added `darkenHex()` to
+    `lib/palette.ts` for the shade computation.

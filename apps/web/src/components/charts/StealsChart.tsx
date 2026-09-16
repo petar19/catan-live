@@ -5,9 +5,9 @@ import { DivergingBarChart } from "./DivergingBarChart";
 import { ChartLegend } from "./ChartLegend";
 
 export function StealsChart({ game }: { game: ProcessedGame }) {
-  const { seatColors } = usePalette();
-  const stoleColor = seatColors[2];
-  const wasStolenColor = seatColors[3];
+  const { gainLoss } = usePalette();
+  const stoleColor = gainLoss.gain;
+  const wasStolenColor = gainLoss.loss;
 
   const hasAnySteals = Object.keys(game.stealMap).length > 0;
   if (!hasAnySteals) return <p className="muted">No steals recorded.</p>;

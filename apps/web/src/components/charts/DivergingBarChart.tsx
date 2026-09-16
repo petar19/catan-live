@@ -1,10 +1,14 @@
-import { Bar, BarChart, CartesianGrid, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { Bar, BarChart, CartesianGrid, Cell, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { usePalette } from "../../lib/palette";
 
 export interface DivergingLayer {
   dataKey: string;
   name: string;
-  color: string;
+  /** Flat color for every category. Ignored if `colorFor` is given. */
+  color?: string;
+  /** Per-category color override (e.g. resource identity color per x-axis
+   * category) — takes precedence over `color` when provided. */
+  colorFor?: (row: Record<string, string | number>, rowIndex: number) => string;
 }
 
 interface Props {
@@ -30,7 +34,9 @@ export function DivergingBarChart({ data, categoryKey, layers, height = 200 }: P
         <ReferenceLine y={0} stroke={gridLine} />
         <Tooltip contentStyle={{ fontSize: 12 }} itemSorter={(item) => -(Number(item.value) || 0)} />
         {layers.map((layer) => (
-          <Bar key={layer.dataKey} dataKey={layer.dataKey} name={layer.name} stackId="stack" fill={layer.color} radius={[2, 2, 2, 2]} />
+          <Bar key={layer.dataKey} dataKey={layer.dataKey} name={layer.name} stackId="stack" fill={layer.color} radius={[2, 2, 2, 2]}>
+            {layer.colorFor && data.map((row, i) => <Cell key={i} fill={layer.colorFor!(row, i)} />)}
+          </Bar>
         ))}
       </BarChart>
     </ResponsiveContainer>

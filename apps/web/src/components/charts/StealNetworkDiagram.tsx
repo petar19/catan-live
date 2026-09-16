@@ -9,9 +9,9 @@ import { ChartLegend } from "./ChartLegend";
  * resource-typed in the data, so each edge is just a two-way split: how much
  * each side stole from the other). */
 export function StealNetworkDiagram({ game }: { game: ProcessedGame }) {
-  const { seatColors } = usePalette();
-  const colorA = seatColors[2];
-  const colorB = seatColors[3];
+  const { gainLoss } = usePalette();
+  const colorA = gainLoss.gain;
+  const colorB = gainLoss.loss;
   const diagram = buildStealDiagram(game, colorA, colorB);
 
   if (Object.keys(game.stealMap).length === 0) return <p className="muted">No steals recorded.</p>;

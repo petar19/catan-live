@@ -31,6 +31,30 @@ export const GRID_LINE = { light: "#e5e4e0", dark: "#33322f" };
 // surface rather than hand-picked steps.
 export const HEATMAP_HUE = { light: "#2a78d6", dark: "#3987e5" };
 
+// Gain/loss colors for steals — deliberately NOT seatColors. Steals charts
+// used to borrow seatColors[2]/[3] for "stole from them"/"they stole from
+// you", but that palette also means *player identity* everywhere else on the
+// site (points-over-turns lines, resource bars, etc.) — reusing it here
+// meant a steals chart could coincidentally show the same color as some
+// player's own identity color in that game, reading as if that player were
+// "specially" highlighted when it was just a palette-slot coincidence. Green/
+// red gain-loss colors carry an unambiguous, player-independent meaning.
+export const GAIN_LOSS = {
+  light: { gain: "#1baf7a", loss: "#e34948" },
+  dark: { gain: "#199e70", loss: "#e66767" },
+};
+
+/** Multiplies each RGB channel by `factor` (0-1) to darken a hex color —
+ * used to shade a bank-trade segment relative to its resource's base color
+ * without needing a second hand-picked color per resource. */
+export function darkenHex(hex: string, factor: number): string {
+  const n = parseInt(hex.replace("#", ""), 16);
+  const r = Math.round(((n >> 16) & 0xff) * factor);
+  const g = Math.round(((n >> 8) & 0xff) * factor);
+  const b = Math.round((n & 0xff) * factor);
+  return `#${[r, g, b].map((c) => c.toString(16).padStart(2, "0")).join("")}`;
+}
+
 function prefersDark(): boolean {
   return typeof window !== "undefined" && window.matchMedia?.("(prefers-color-scheme: dark)").matches;
 }
@@ -50,6 +74,7 @@ export function usePalette() {
     dark,
     seatColors: dark ? DARK : LIGHT,
     resourceColors: RESOURCE_COLORS,
+    gainLoss: dark ? GAIN_LOSS.dark : GAIN_LOSS.light,
     heatmapHue: dark ? HEATMAP_HUE.dark : HEATMAP_HUE.light,
     textPrimary: dark ? TEXT_PRIMARY.dark : TEXT_PRIMARY.light,
     textSecondary: dark ? TEXT_SECONDARY.dark : TEXT_SECONDARY.light,
