@@ -90,6 +90,7 @@ export function processGame(lines: string[]): ProcessedGame {
     p2bReceived: {} as Record<string, number[][]>,
     p2bGiven: {} as Record<string, number[][]>,
   };
+  const tradesBetweenPlayersRaw = new Map<string, number[]>(); // "giver|receiver" -> resource counts
   const warnings: ParseWarning[] = [];
 
   function playerToIndex(player: string): number {
@@ -116,6 +117,13 @@ export function processGame(lines: string[]): ProcessedGame {
   function pushTrade(bucket: keyof typeof tradesRaw, player: string, counts: number[]) {
     if (!tradesRaw[bucket][player]) tradesRaw[bucket][player] = [];
     tradesRaw[bucket][player].push(counts);
+  }
+
+  function addPairwiseTrade(giver: string, receiver: string, counts: number[]) {
+    const key = `${giver}|${receiver}`;
+    const existing = tradesBetweenPlayersRaw.get(key) ?? new Array(POSSIBLE_RESOURCES.length).fill(0);
+    counts.forEach((n, i) => (existing[i] += n));
+    tradesBetweenPlayersRaw.set(key, existing);
   }
 
   function addToResourceThroughTurns(resourceMap: Record<Resource, number>, atTurn: number) {
@@ -219,6 +227,8 @@ export function processGame(lines: string[]): ProcessedGame {
       pushTrade("p2pGiven", otherPlayer, taken);
       pushTrade("p2pReceived", player, taken);
       pushTrade("p2pReceived", otherPlayer, given);
+      addPairwiseTrade(player, otherPlayer, given);
+      addPairwiseTrade(otherPlayer, player, taken);
       return turn;
     }
     const p2b = line.match(TRADE_P2B_RE);
@@ -374,6 +384,12 @@ export function processGame(lines: string[]): ProcessedGame {
     }
   }
 
+  const tradesBetweenPlayers: ProcessedGame["tradesBetweenPlayers"] = {};
+  for (const [key, counts] of tradesBetweenPlayersRaw) {
+    const [giver, receiver] = key.split("|");
+    (tradesBetweenPlayers[giver] ??= {})[receiver] = counts;
+  }
+
   return {
     dice,
     diceUntilTurn,
@@ -391,6 +407,7 @@ export function processGame(lines: string[]): ProcessedGame {
     playerCardCountThroughTurns,
     playerCardCountPerChange,
     trades,
+    tradesBetweenPlayers,
     playerDiceRolls,
     warnings,
   };

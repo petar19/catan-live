@@ -49,6 +49,10 @@ export interface ProcessedGame {
   /** player -> card count after each change */
   playerCardCountPerChange: Record<string, number[]>;
   trades: TradeTotals;
+  /** giver -> receiver -> resource counts (POSSIBLE_RESOURCES order) given via direct p2p
+   * trade (not bank). Pairwise, unlike TradeTotals which only has per-player aggregates —
+   * needed for anything that draws who-traded-with-whom (e.g. a trade network diagram). */
+  tradesBetweenPlayers: Record<string, Record<string, number[]>>;
   /** player -> dice roll counts, same shape as `dice` */
   playerDiceRolls: Record<string, number[]>;
   warnings: ParseWarning[];

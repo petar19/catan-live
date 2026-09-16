@@ -302,8 +302,21 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     `ChartLegend` (one legend rendered once above the whole grid, not repeated per subplot).
   - **Steals**: same diverging-bar treatment, one layer each direction (stole from them /
     they stole from you), no bank layer — reuses the same `DivergingBarChart`.
-  - Considered and deferred: a bank-in-the-center trade network diagram with arrows between
-    every player pair (Petar's idea) — see the open-questions entry below for why.
+  - **Trade/steal network diagrams (experimental)**: built alongside (not replacing)
+    `TradesChart`/`StealsChart` for comparison, per Petar's request — bank at center, players
+    at N/S/E/W, edges as ribbons (segmented by resource for trades, by direction for steals)
+    with thickness ∝ volume, opposite-side pairs drawn as stubs running off the canvas edge
+    instead of a line through the bank (`lib/networkDiagram.ts`, `NetworkDiagram.tsx`,
+    `TradeNetworkDiagram.tsx`, `StealNetworkDiagram.tsx`). Required a real parser addition —
+    `tradesBetweenPlayers` (pairwise giver→receiver resource flow) — since the existing
+    `trades` field only ever tracked each player's aggregate totals, not who traded with whom;
+    faking pairwise edges from aggregate data would've been fabricating relationships that may
+    not have happened, so this got a proper `PARSER_VERSION` bump (3) and a
+    `reprocessGames` backfill run instead. First-pass simplifications, worth knowing before
+    judging it: no directional arrowheads (hover tooltip gives the direction/exact breakdown
+    instead); an edge shows *combined* both-directions volume, not two separate lines per
+    direction; node-to-direction mapping (which player sits left/right/top/bottom) is just
+    `playerOrder` index, not real seating.
   - Still not ported from v1: the per-quarter dice breakdown (superseded by the heatmap) and
     the card-count charts v1 itself had commented out/disabled — the underlying data has
     known-quirky computation (see processGame.ts's handle_count port) and v1 never shipped
@@ -393,11 +406,9 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 - **Trade/steal network diagram** — Petar sketched an idea for trades: bank in the center,
   players at N/S/E/W, arrows between every pair (including opposite-side players via
   off-screen wraparound) with thickness proportional to trade volume, color-coded by
-  resource. Genuinely interesting, but a custom force/chord-style diagram like that is a lot
-  of fiddly SVG geometry to get right, and a bad first attempt would look worse than the
-  diverging-bar version. Built the diverging stacked-bar version instead (2026-09-15) since it
-  was concretely specified and low-risk; the network diagram is still on the table as a
-  follow-up if the bar version doesn't scratch the itch once tested.
+  resource. Built the diverging stacked-bar version first (2026-09-15, concretely specified,
+  low-risk), then built the network diagram too (2026-09-16) alongside it for comparison —
+  see the Phase 3 entry below for what shipped and what's simplified in this first pass.
 
 ## 7. Progress log
 
@@ -445,3 +456,17 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   `reprocessGames` endpoint to backfill it onto already-migrated games — this is reusable
   infrastructure now, not a one-off. Not yet tested by Petar in a real browser session (only
   build/typecheck/parser-test verified on this end) — next step is his pass.
+- 2026-09-16: Built the trade/steal network diagrams Petar asked to compare against the bar
+  charts (not replace) — see the Phase 3 entry above for the full design and known
+  simplifications. Required adding `tradesBetweenPlayers` to the parser (pairwise trade
+  data didn't exist before — verified the new field sums back to the existing aggregate
+  totals on a real fixture before trusting it), bumping `PARSER_VERSION` to 3, and
+  reprocessing all 345 games again via the now-reusable `reprocessGames` endpoint. Hit a
+  stale-Vite-dependency-cache issue after the parser rebuild (`@catan-live/parser` is a
+  workspace-linked package; Vite's dev-server dependency pre-bundle didn't notice the
+  change) — fixed by clearing `apps/web/node_modules/.vite` and restarting the dev server
+  with `--force`. Worth remembering if a future parser change seems to not take effect in
+  the browser despite a clean rebuild. Also learned `read_console_messages` accumulates
+  history for a tab's whole lifetime, including from before a dev-server restart — a stale
+  error from an old tab looks identical to a live one; always check in a fresh tab before
+  concluding something's actually broken.

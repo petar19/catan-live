@@ -6,6 +6,8 @@ import { PlayerDiceRollsChart } from "./charts/PlayerDiceRollsChart";
 import { ResourcesThroughTurnsChart } from "./charts/ResourcesThroughTurnsChart";
 import { TradesChart } from "./charts/TradesChart";
 import { StealsChart } from "./charts/StealsChart";
+import { TradeNetworkDiagram } from "./charts/TradeNetworkDiagram";
+import { StealNetworkDiagram } from "./charts/StealNetworkDiagram";
 
 export function GameCharts({ game }: { game: ProcessedGame }) {
   return (
@@ -41,8 +43,22 @@ export function GameCharts({ game }: { game: ProcessedGame }) {
       </section>
 
       <section className="card">
+        <h2>
+          Trades — network diagram <span className="badge">experimental</span>
+        </h2>
+        <TradeNetworkDiagram game={game} />
+      </section>
+
+      <section className="card">
         <h2>Steals</h2>
         <StealsChart game={game} />
+      </section>
+
+      <section className="card">
+        <h2>
+          Steals — network diagram <span className="badge">experimental</span>
+        </h2>
+        <StealNetworkDiagram game={game} />
       </section>
     </div>
   );
