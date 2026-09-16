@@ -26,10 +26,10 @@ export function TradesChart({ game }: { game: ProcessedGame }) {
               data={tradesForPlayer(game, player)}
               categoryKey="resource"
               layers={[
-                { dataKey: "p2pReceived", name: "Received (players)", colorFor },
-                { dataKey: "p2bReceived", name: "Received (bank)", colorFor: bankColorFor },
-                { dataKey: "p2pGiven", name: "Given (players)", colorFor },
-                { dataKey: "p2bGiven", name: "Given (bank)", colorFor: bankColorFor },
+                { dataKey: "p2pReceived", name: "Received (players)", sign: "positive", colorFor },
+                { dataKey: "p2bReceived", name: "Received (bank)", sign: "positive", colorFor: bankColorFor },
+                { dataKey: "p2pGiven", name: "Given (players)", sign: "negative", colorFor },
+                { dataKey: "p2bGiven", name: "Given (bank)", sign: "negative", colorFor: bankColorFor },
               ]}
             />
           </div>

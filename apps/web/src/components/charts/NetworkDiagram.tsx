@@ -97,15 +97,19 @@ export function NetworkDiagram({ diagram }: { diagram: Diagram }) {
 function EdgeTooltip({ hover }: { hover: HoverState }) {
   const { edge } = hover;
   const rows = edge.breakdown.filter((r) => r.aValue > 0 || r.bValue > 0);
+  const total = edge.breakdown.reduce((sum, r) => sum + r.aValue + r.bValue, 0);
 
   return (
     <div
       className="chart-tooltip"
       style={{ position: "fixed", left: hover.x + 14, top: hover.y + 14, zIndex: 1000, pointerEvents: "none", minWidth: 180 }}
     >
-      <strong>
-        {edge.aLabel} ↔ {edge.bLabel}
-      </strong>
+      <div className="tooltip-header">
+        <strong>
+          {edge.aLabel} ↔ {edge.bLabel}
+        </strong>
+        <span className="muted">{total} total</span>
+      </div>
       {rows.length === 0 ? (
         <div className="muted">No activity</div>
       ) : (
@@ -113,8 +117,8 @@ function EdgeTooltip({ hover }: { hover: HoverState }) {
           <thead>
             <tr>
               <th></th>
-              <th>{edge.aLabel} →</th>
-              <th>{edge.bLabel} →</th>
+              <th>{edge.aLabel}</th>
+              <th>{edge.bLabel}</th>
             </tr>
           </thead>
           <tbody>

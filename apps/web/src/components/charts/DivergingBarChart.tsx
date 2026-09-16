@@ -4,6 +4,16 @@ import { usePalette } from "../../lib/palette";
 export interface DivergingLayer {
   dataKey: string;
   name: string;
+  /** Which side of zero this layer's values are on. Positive and negative
+   * layers MUST use different Recharts stackIds — Recharts/d3 stacking
+   * accumulates in declaration order regardless of sign when layers share one
+   * stackId, so a negative layer declared after a positive one ends up offset
+   * by the positive layer's cumulative height instead of starting at zero
+   * (this was a real bug: a "given" bar could render starting above zero, or
+   * land exactly on top of — fully hiding — a "received" bar of the same
+   * height). Two stackIds, one per sign, is what actually gets a proper
+   * diverging bar. */
+  sign: "positive" | "negative";
   /** Flat color for every category. Ignored if `colorFor` is given. */
   color?: string;
   /** Per-category color override (e.g. resource identity color per x-axis
@@ -34,7 +44,14 @@ export function DivergingBarChart({ data, categoryKey, layers, height = 200 }: P
         <ReferenceLine y={0} stroke={gridLine} />
         <Tooltip contentStyle={{ fontSize: 12 }} itemSorter={(item) => -(Number(item.value) || 0)} />
         {layers.map((layer) => (
-          <Bar key={layer.dataKey} dataKey={layer.dataKey} name={layer.name} stackId="stack" fill={layer.color} radius={[2, 2, 2, 2]}>
+          <Bar
+            key={layer.dataKey}
+            dataKey={layer.dataKey}
+            name={layer.name}
+            stackId={`stack-${layer.sign}`}
+            fill={layer.color}
+            radius={[2, 2, 2, 2]}
+          >
             {layer.colorFor && data.map((row, i) => <Cell key={i} fill={layer.colorFor!(row, i)} />)}
           </Bar>
         ))}

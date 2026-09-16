@@ -308,13 +308,33 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     gradient attempt did. Needed a new parser field either way, `rollSequence: number[]`
     (dice totals in roll order) — required reprocessing all 345 already-migrated games (see
     `reprocessGames` function below).
-  - **Trades**: back to something closer to v1's per-player diverging bar charts (4
-    small-multiples, one per player, 5 resource columns, positive = received / negative =
-    given, each split into a bank-trade layer and a player-trade layer) rather than the
-    simplified table from the first pass. Built via a shared, reusable `DivergingBarChart` +
-    `ChartLegend` (one legend rendered once above the whole grid, not repeated per subplot).
-  - **Steals**: same diverging-bar treatment, one layer each direction (stole from them /
-    they stole from you), no bank layer — reuses the same `DivergingBarChart`.
+  - **Trades**: v1-style per-player diverging bar charts (4 small-multiples, one per player,
+    5 resource columns, positive = received / negative = given, each split into a bank-trade
+    layer and a player-trade layer), colored by resource identity with bank segments a
+    darker shade — see the recoloring note further down. Built via a shared, reusable
+    `DivergingBarChart` + `ChartLegend`.
+    **Real bug found and fixed (2026-09-16)**: `DivergingBarChart` gave all 4 layers
+    (2 positive, 2 negative) the *same* Recharts `stackId`. Recharts/d3 stacking accumulates
+    in declaration order regardless of sign when layers share a stackId — it does not
+    auto-detect "these two are negative, stack them from zero downward independently."
+    Concretely, for Kent#3816/grain in game 345: `p2pReceived=1` (declared first) stacked
+    0→1, then `p2bGiven=-3` (declared later) stacked from *1* down to *-2* instead of from 0
+    down to -3 — so the "given to bank" bar rendered starting above zero and visually
+    overpainted the "received" segment, making 1 received-from-players look like it was
+    bank-colored. For lumber the same game, `p2pReceived=3` then `p2bGiven=-3` landed
+    exactly back on 0, fully hiding the given-to-bank bar under the received bar. Verified
+    against real parsed data (not just inspection) before concluding it was a rendering bug
+    and not a parser bug. Fixed by giving `DivergingLayer` an explicit `sign: "positive" |
+    "negative"` and using a separate `stackId` per sign, so positive and negative segments
+    each stack independently from zero, as diverging bars actually require in Recharts.
+  - **Steals**: no longer a diverging chart — back to v1's original `plot_steal` design:
+    4 small multiples (one per player), 3 *simple, non-diverging* columns (one per opponent),
+    height = how many times that player stole from that opponent. Bars colored by the
+    *opponent's own seat color* (same palette as the points-over-turns lines) rather than a
+    generic "direction" color — meaningful this time (color tells you which opponent) rather
+    than an arbitrary reuse that happened to collide with a player's identity color
+    elsewhere (see the gainLoss fix above — that collision bug is what originally prompted
+    dropping this design, twice).
   - **Trade/steal network diagrams (experimental)**: built alongside (not replacing)
     `TradesChart`/`StealsChart` for comparison, per Petar's request — bank at center, players
     at N/S/E/W, edges as ribbons (segmented by resource for trades, by direction for steals)
@@ -528,3 +548,15 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   (roll timing) has a natural small number of categories — quarters of the game — and kept
   fighting every continuous encoding I tried; recognizing "this should just be a categorical
   encoding, not a sequential one" earlier would have saved two iterations.
+- 2026-09-16 (latest): Petar liked the network diagram overall and gave three more fixes:
+  tooltip header now shows the total trade count top-right, and dropped the confusing "→"
+  arrows from the breakdown table's column headers (plain player names read fine on their
+  own). Bigger finding: the *regular* trades chart had a genuine rendering bug, not a display
+  nitpick — traced it to a shared Recharts `stackId` across positive and negative layers
+  (see the Phase 3 entry above for the full mechanism and a concrete before/after trace
+  against real data). Also rebuilt the steals chart per Petar's request to drop the
+  diverging design entirely and go back to v1's simple per-opponent columns. Good process
+  note: when a user reports "the numbers don't match what I see," check the actual parsed
+  data first (ran the parser locally against the real fixture and printed Kent#3816's trade
+  arrays) before touching any rendering code — confirmed the bug was 100% in the chart, not
+  the parser, which narrowed the fix immediately instead of guessing.
