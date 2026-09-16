@@ -62,12 +62,21 @@ export function stealsForPlayer(game: ProcessedGame, player: string): StealRow[]
 }
 
 /**
- * Buckets rollSequence into `bins` time-windows and, per dice total (2-12),
- * normalizes counts against that row's own peak bin — so a rarely-rolled
- * total (2 or 12) shows its own timing pattern clearly instead of looking
- * empty next to a much-more-common total like 7.
+ * Buckets rollSequence into `bins` time-windows per dice total (2-12). Used
+ * by DiceRollTimingChart as a stacked bar: total bar height = how many times
+ * that total rolled (the actual count, comparable across totals — unlike a
+ * per-row-normalized heatmap), and each bin's height within the stack shows
+ * *when* those rolls happened, rendered as a light (early) -> dark (late)
+ * gradient of a single hue.
  */
-export function diceHeatmapData(rollSequence: number[], bins: number) {
+export interface DiceTimingRow {
+  total: number;
+  totalCount: number;
+  bins: number[]; // index 0 = earliest window
+  [key: string]: number | number[];
+}
+
+export function diceTimingData(rollSequence: number[], bins: number): { rows: DiceTimingRow[]; bins: number } {
   const effectiveBins = Math.max(1, Math.min(bins, rollSequence.length || 1));
   const counts: number[][] = Array.from({ length: 11 }, () => new Array(effectiveBins).fill(0));
 
@@ -76,9 +85,12 @@ export function diceHeatmapData(rollSequence: number[], bins: number) {
     counts[total - 2][bin] += 1;
   });
 
-  const rows = counts.map((rowCounts, i) => {
-    const max = Math.max(1, ...rowCounts);
-    return { total: i + 2, counts: rowCounts, max };
+  const rows: DiceTimingRow[] = counts.map((rowCounts, i) => {
+    const row: DiceTimingRow = { total: i + 2, totalCount: rowCounts.reduce((a, b) => a + b, 0), bins: rowCounts };
+    rowCounts.forEach((c, binIndex) => {
+      row[`bin_${binIndex}`] = c;
+    });
+    return row;
   });
 
   return { rows, bins: effectiveBins };

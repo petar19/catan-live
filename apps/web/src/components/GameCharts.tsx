@@ -1,6 +1,6 @@
 import type { ProcessedGame } from "@catan-live/parser";
 import { PointsOverTurnsChart } from "./charts/PointsOverTurnsChart";
-import { DiceHeatmap } from "./charts/DiceHeatmap";
+import { DiceRollTimingChart } from "./charts/DiceRollTimingChart";
 import { ResourcesPerPlayerChart } from "./charts/ResourcesPerPlayerChart";
 import { PlayerDiceRollsChart } from "./charts/PlayerDiceRollsChart";
 import { ResourcesThroughTurnsChart } from "./charts/ResourcesThroughTurnsChart";
@@ -33,8 +33,8 @@ export function GameCharts({ game }: { game: ProcessedGame }) {
       </section>
 
       <section className="card">
-        <h2>When each dice total rolled</h2>
-        <DiceHeatmap rollSequence={game.rollSequence} />
+        <h2>Dice roll distribution &amp; timing</h2>
+        <DiceRollTimingChart rollSequence={game.rollSequence} />
       </section>
 
       <section className="card">

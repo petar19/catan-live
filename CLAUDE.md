@@ -287,14 +287,19 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     elsewhere — deliberate exception, continuity with the old tool mattered more here.
   - **Dice rolls per player**: same small-multiples treatment — a single grouped chart was
     hard to read once a player had zero rolls on some totals.
-  - **Dice distribution → "when each total rolled" heatmap**: replaced the single
-    distribution bar chart with a custom SVG heatmap (`DiceHeatmap.tsx`) — one row per dice
-    total (2-12), one column per time-window, opacity-ramped per row's own peak (so rare
-    totals like 2/12 still show a legible pattern instead of looking empty next to 7). Not a
-    Recharts chart — Recharts has no heatmap primitive, so this is hand-rolled SVG. Needed a
-    new parser field, `rollSequence: number[]` (dice totals in roll order), to know *when*
-    each roll happened, not just the aggregate count — required reprocessing all 345
-    already-migrated games (see `reprocessGames` function below).
+  - **Dice distribution & timing**: went through two designs. First pass was a custom SVG
+    heatmap (`DiceHeatmap.tsx`, one row per dice total, opacity-ramped per row's own peak) —
+    Petar couldn't tell *how many* times each total rolled from it (every row was the same
+    fixed height regardless of count, so frequency wasn't readable at all, only relative
+    timing within a row). Replaced (2026-09-16) with `DiceRollTimingChart.tsx`: a normal
+    Recharts stacked bar chart where bar *height* = actual roll count (directly comparable
+    across totals again) and each bar is internally stacked into ~20 time-windows shaded
+    light (early game) → dark (late game), so both frequency and timing read at a glance from
+    the same chart. Custom tooltip reports the total count plus "most common in the
+    early/mid/late game." Needed a new parser field either way, `rollSequence: number[]`
+    (dice totals in roll order), to know *when* each roll happened, not just the aggregate
+    count — required reprocessing all 345 already-migrated games (see `reprocessGames`
+    function below).
   - **Trades**: back to something closer to v1's per-player diverging bar charts (4
     small-multiples, one per player, 5 resource columns, positive = received / negative =
     given, each split into a bank-trade layer and a player-trade layer) rather than the
@@ -470,3 +475,8 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   history for a tab's whole lifetime, including from before a dev-server restart — a stale
   error from an old tab looks identical to a live one; always check in a fresh tab before
   concluding something's actually broken.
+- 2026-09-16 (later): Petar's feedback on the dice-timing heatmap — couldn't tell how many
+  times each total rolled, since every row was a fixed height. Replaced it with
+  `DiceRollTimingChart.tsx`, a stacked bar chart (height = actual count, internal stacking =
+  time-window shading) — see the Phase 3 entry above. No parser/data changes needed this
+  time, just a frontend rework of the existing `rollSequence` field.
