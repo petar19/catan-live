@@ -93,5 +93,5 @@ export function computePlayerCareerStats(games: GameDoc[]): PlayerCareerStats[] 
       avgPlacement: e.games > 0 ? e.placementSum / e.games + 1 : 0,
       avgPoints: e.games > 0 ? e.pointsSum / e.games : 0,
     }))
-    .sort((a, b) => b.winRate - a.winRate);
+    .sort((a, b) => b.gamesPlayed - a.gamesPlayed);
 }

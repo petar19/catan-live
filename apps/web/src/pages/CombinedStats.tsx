@@ -1,14 +1,11 @@
 import { Link } from "react-router-dom";
 import { useGames } from "../lib/useGames";
 import { computePlayerCareerStats, computeSeatRankings } from "../lib/rankings";
-import { usePalette } from "../lib/palette";
-import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 
 const PLACEMENT_LABELS = ["1st", "2nd", "3rd", "4th"];
 
 export function CombinedStats() {
   const { games, loading, error } = useGames();
-  const { seatColors, textSecondary, gridLine } = usePalette();
 
   if (loading) return <p>Loading…</p>;
   if (error) return <p>Couldn't load games: {error}</p>;
@@ -23,19 +20,6 @@ export function CombinedStats() {
       </p>
       <h1>Combined stats</h1>
       <p className="muted">Across {games.length} games.</p>
-
-      <section className="card">
-        <h2>Win rate by player</h2>
-        <ResponsiveContainer width="100%" height={Math.max(200, careerStats.length * 32)}>
-          <BarChart data={careerStats} layout="vertical" margin={{ top: 8, right: 24, bottom: 8, left: 16 }}>
-            <CartesianGrid stroke={gridLine} horizontal={false} />
-            <XAxis type="number" domain={[0, 1]} tickFormatter={(v) => `${Math.round(v * 100)}%`} tick={{ fill: textSecondary, fontSize: 12 }} />
-            <YAxis type="category" dataKey="name" width={110} tick={{ fill: textSecondary, fontSize: 12 }} />
-            <Tooltip formatter={(v) => `${(Number(v) * 100).toFixed(0)}%`} contentStyle={{ fontSize: 12 }} />
-            <Bar dataKey="winRate" fill={seatColors[0]} radius={[0, 4, 4, 0]} />
-          </BarChart>
-        </ResponsiveContainer>
-      </section>
 
       <section className="card">
         <h2>Player career stats</h2>

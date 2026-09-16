@@ -354,12 +354,18 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     the card-count charts v1 itself had commented out/disabled — the underlying data has
     known-quirky computation (see processGame.ts's handle_count port) and v1 never shipped
     these either.
-- [x] Combined/career stats page (`/stats`): win rate by player (bar chart) + career stats
-      table (games/wins/win rate/avg finish/avg points), plus the seat-based
+- [x] Combined/career stats page (`/stats`): career stats table (games/wins/win rate/avg
+      finish/avg points), sorted by games played, plus the seat-based
       starting-position-vs-finish table (v1's rankings.json / pie+heatmap equivalent, as a
       table rather than a pie — clearer for this data per the dataviz form heuristic).
       Computed client-side from all games on each load; no precomputed/cached aggregate yet
-      (fine at 345 games, revisit if that ever gets slow).
+      (fine at 345 games, revisit if that ever gets slow). Originally had a "win rate by
+      player" bar chart above the table too — Petar had it removed (2026-09-16): with a lot
+      of one-off/guest players who only appear in a single game, a win-rate ranking puts a
+      100%-in-1-game player above someone with a real sample size, which is misleading as a
+      leaderboard. The table itself still shows win rate as a column, just not sorted or
+      charted by it — sorted by games played instead, so the top of the list is who has the
+      most reliable numbers.
 - [ ] Player alias management UI — not built. Aliasing still lives entirely in the parser's
       hardcoded `replacements` list (packages/parser/src/filterLines.ts), not admin-editable
       yet, per the original fragility-reduction plan in §2.4.6.
@@ -560,3 +566,8 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   data first (ran the parser locally against the real fixture and printed Kent#3816's trade
   arrays) before touching any rendering code — confirmed the bug was 100% in the chart, not
   the parser, which narrowed the fix immediately instead of guessing.
+- 2026-09-16 (later still): dropped the win-rate bar chart from `/stats` per Petar — with
+  lots of one-off players who've only played a single game, win rate isn't a fair ranking
+  signal (a 1-for-1 guest outranks someone with a real sample size). Career stats table now
+  sorts by games played instead; win rate is still a column, just not the sort key or a
+  chart anymore.
