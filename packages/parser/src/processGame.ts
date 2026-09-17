@@ -1,5 +1,6 @@
 import { POSSIBLE_RESOURCES, type ParseWarning, type ProcessedGame, type Resource } from "./types.js";
 import { countResources, resourceArrayToMap, sum } from "./resourceCounting.js";
+import { DEFAULT_PARSER_RULES, type ParserRules } from "./parserRules.js";
 
 /**
  * Faithful port of v1's `catan2.py` `process_game`. Behavior (including its
@@ -12,30 +13,12 @@ import { countResources, resourceArrayToMap, sum } from "./resourceCounting.js";
  * into a recorded warning instead of an aborted parse (v1's handle_roll /
  * handle_vp / handle_win have no None-guard on their regex match and would
  * simply crash the whole script on an unrecognized line).
+ *
+ * The line-matching regexes are a parameter (`rules`), not hardcoded — see
+ * parserRules.ts and CLAUDE.md Phase 5.5. Defaults to the same patterns this
+ * file always had, so every existing caller (all fixture tests included)
+ * behaves identically without passing anything.
  */
-
-const ROLL_RE = /^(?<player>[\w#]+)\s+rolled.*\s+dice_(?<dice1>\d)\s+dice_(?<dice2>\d)$/;
-const GOT_RE = /^(?<player>[\w#]+)\s+got\s+(?<resources>.+)$/;
-const VP_RE = /.*\+(?<howMany>\w+)\s+VP.*$/;
-// v1's originals only matched "longest road passed from X to Y (+2 VPs)". colonist.io has used at
-// least 3 other wordings over time ("...has passed from: X to: Y: +2 VPs", "...passed from: X to:
-// Y: +2 VPs", and a glued "roadpassed") that v1's regex missed entirely — when that happened, the
-// line's first token ("longest"/"largest") got treated as a player name and v1 crashed outright.
-// Confirmed against fixtures/gamelogs: this hit 91 of 345 historical games (26%). This pattern
-// tolerates "has "/no "has", ":"/no ":" after from/to, and "(...)"/": ..." for the VP suffix.
-const LONGEST_PASSED_RE =
-  /longest\s+road\s*(?:has\s+)?passed\s+from:?\s+(?<fromPlayer>[\w#]+)\s+to:?\s+(?<toPlayer>[\w#]+)\s*[:(]?\s*\+2\s+VPs\)?$/;
-const LARGEST_PASSED_RE =
-  /largest\s+army\s*(?:has\s+)?passed\s+from:?\s+(?<fromPlayer>[\w#]+)\s+to:?\s+(?<toPlayer>[\w#]+)\s*[:(]?\s*\+2\s+VPs\)?$/;
-const WIN_RE = /^trophy\s*(?<winner>[\w#]+)\s+won\s+the\s+game.*$/;
-const STEAL_RE = /^(?<stealer>[\w#]+)\s+stole\s+(?<stolenResource>[\w ]+)\s+from\s+(?<victim>[\w#]*)$/;
-const STEAL_SINGLE_RE = /^(?<stealer>[\w#]+)\s+stole\s+(?<stolenResource>\w+)\s+from\s+(?<victim>[\w#]*)$/;
-const STEAL_NUMERIC_RE = /^(?<player>[\w#]+)\s+stole\s+(?<howMany>\d+)\s+(?<resources>\w+)$/;
-const TRADE_P2P_RE =
-  /^(?<player>[\w#]+)\s+gave\s+(?<givenResources>.*)\s+and\s+got\s+(?<receivedResources>.*)\s+from\s+(?<otherPlayer>[\w#]+)$/;
-const TRADE_P2B_RE = /^(?<player>[\w#]+)\s+gave\s+bank\s+(?<spentResources>.*)\s+and\s+took\s+(?<receivedResources>.*)$/;
-const TRADED_WITH_RE =
-  /^(?<player>[\w#]+)\s+traded\s+(?<givenResources>.*)\s+for\s+(?<receivedResources>.*)\s+with\s+(?<otherPlayer>[\w#]+)$/;
 
 type Handler = (line: string, i: number, player: string, turn: number) => number;
 
@@ -58,7 +41,22 @@ function sumColumns(rows: number[][]): number[] {
   return result;
 }
 
-export function processGame(lines: string[]): ProcessedGame {
+export function processGame(lines: string[], rules: ParserRules = DEFAULT_PARSER_RULES): ProcessedGame {
+  const {
+    ROLL_RE,
+    GOT_RE,
+    VP_RE,
+    LONGEST_PASSED_RE,
+    LARGEST_PASSED_RE,
+    WIN_RE,
+    STEAL_RE,
+    STEAL_SINGLE_RE,
+    STEAL_NUMERIC_RE,
+    TRADE_P2P_RE,
+    TRADE_P2B_RE,
+    TRADED_WITH_RE,
+  } = rules;
+
   const dice = new Array(11).fill(0);
   const diceUntilTurn: Record<number, number>[] = [];
   const rollSequence: number[] = [];

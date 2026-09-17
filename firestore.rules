@@ -38,6 +38,24 @@ service cloud.firestore {
       allow read, write: if isAdmin();
     }
 
+    // Raw text -> canonical player name (colonist.io account renames). Admin-only —
+    // describes real people, not something incognito/public callers need. See
+    // CLAUDE.md Phase 5.5.
+    match /playerAliases/{rawName} {
+      allow read, write: if isAdmin();
+    }
+
+    // Versioned line-matching regexes (Phase 5.5) — publicly READABLE, unlike every
+    // other collection here: a regex pattern isn't sensitive, and incognito/try-it
+    // mode needs to fetch the live rules without going through a Cloud Function.
+    // Versions are meant to be immutable once created (enforced by convention/the
+    // functions that write them, not by these rules) — admin can still write
+    // directly for now (e.g. hand-seeding version 1).
+    match /parserRules/{versionOrMeta} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
     // Share tokens themselves are never client-readable either — only the
     // resolveShare function (Admin SDK) resolves them. Admin can manage them
     // directly from the admin UI (create/revoke).

@@ -479,47 +479,64 @@ that one game gets explicitly reprocessed with the new version -> every subseque
 `submitGame` call uses the new latest version by default. Nothing about old, already-clean
 games ever changes as a side effect.
 
-- [ ] **`playerAliases` collection** (admin-only, like `admins`) — raw observed name ->
+- [x] **`playerAliases` collection** (admin-only, like `admins`) — raw observed name ->
       canonical player name. Replaces the identity-aliasing entries in
-      `packages/parser/src/filterLines.ts`'s `REPLACEMENTS` list (`Seale5074` -> `Kent#3816`,
-      `Spring#4635`/`Yolonc#9587` -> `Yolonc`, etc.). The "You"/"you" -> canonical-name entry
-      is really just another alias row, not a special case — see the incognito note below.
-      Not versioned the same way rules are — aliases describe *people*, not *parsing logic*,
-      and getting a rename wrong doesn't retroactively misparse old text the way a regex
-      change can; a simple admin-editable table is enough here.
-- [ ] **`parserRules` collection — versioned from v1 of this feature, not just schema-ready
-      for it later.** Each version is immutable once saved (regex source + flags per
-      line-type: roll, VP, steal, trade_p2p, trade_p2b, etc.), **publicly readable** (unlike
-      every other collection) since regex patterns aren't sensitive — this is also what lets
-      incognito mode fetch and use live rules without a code deploy (see below). Every
-      `games/{id}` doc records exactly which rule version produced its `parsed` field,
-      replacing the current `parserVersion` number (tied to *code* releases) with a
-      reference to a specific *rule-set* version (tied to *data* changes).
+      `packages/parser/src/filterLines.ts`'s old `REPLACEMENTS` list (`Seale5074` ->
+      `Kent#3816`, `Spring#4635`/`Yolonc#9587` -> `Yolonc`, etc. — 5 entries, seeded verbatim).
+      The "You"/"you" -> canonical-name entry is really just another alias row, not a special
+      case — see the incognito note below. Not versioned the same way rules are — aliases
+      describe *people*, not *parsing logic*, and getting a rename wrong doesn't retroactively
+      misparse old text the way a regex change can; a simple admin-editable table is enough.
+      Doc ID = the raw observed name, `{canonical: string}` as the value. **Deployed and
+      seeded** (`seedParserRules` function, despite the name, seeds both collections — see
+      below).
+- [x] **`parserRules` collection — versioned from v1 of this feature, not just schema-ready
+      for it later.** Each version immutable once saved (regex source + optional flags per
+      line-type: `ROLL_RE`, `VP_RE`, `STEAL_RE`, `TRADE_P2P_RE`, etc. — 12 total, see
+      `packages/parser/src/parserRules.ts`), **publicly readable** (unlike every other
+      collection) since regex patterns aren't sensitive — this is what lets incognito mode
+      fetch and use live rules without a code deploy (see below). `parserRules/_meta` holds
+      `{latestVersion}`; each version lives at `parserRules/{n}`. Every `games/{id}` doc now
+      records `rulesVersion` (which rule-set produced its `parsed` field) alongside the
+      existing `parserVersion` (which tracks *code*/schema changes, a different axis — see
+      `submitGame.ts`'s comment on why these are two separate numbers). **Deployed and
+      seeded** — version 1 is `DEFAULT_PARSER_RULES` (the parser package's baked-in patterns),
+      i.e. exactly what every game so far was actually parsed with.
 - [ ] **Rules editor**: a direct text/JSON editor for regex source per line-type — no
       abstraction layer for non-programmers needed (see correction #1 above). Still wants
       live validation (catch broken regex syntax before letting you save) and the live
       re-parse preview described next, since instant feedback on a change is valuable
-      regardless of who's editing.
-- [ ] **Parser package refactor**: `filterLines`/`processGame` accept aliases/rules as
-      parameters instead of reading hardcoded module-level constants, defaulting to current
-      baked-in behavior when none are given (so the existing 348-test fixture suite keeps
-      working unchanged, and the parser package stays a pure, Firestore-free function usable
-      both server-side and client-side).
+      regardless of who's editing. **Not built yet** — `createParserRulesVersion()` (the
+      function that would save a new version) exists in `functions/src/lib/parserRulesStore.ts`,
+      but there's no UI calling it yet.
+- [x] **Parser package refactor**: `filterLines`/`processGame` accept aliases/rules as
+      parameters instead of reading hardcoded module-level constants, defaulting to the exact
+      original baked-in behavior when neither is given — verified with 6 new tests
+      (`test/configurable.test.ts`) on top of the existing 348, all 354 passing, and the
+      parser package is still pure/Firestore-free (usable both server-side and, later,
+      client-side for incognito).
 - [ ] **Admin review/debug UI** for a specific game: raw log lines (currently not shown
       anywhere in the admin UI at all — `GameDetail` only shows computed charts), the current
       parse result, and an editor for rules/aliases/raw lines that **re-parses live in the
       browser as you type** (free, architecturally — the parser has no server dependency) —
-      before committing anything. "Reprocess this game with version X" only touches the
-      server once satisfied with the preview, and only ever targets the specific game(s)
-      chosen — never a blanket sweep (see correction #2 above). This effectively replaces
-      today's `reprocessGames` endpoint with a narrower, explicitly-targeted action.
+      before committing anything. **Not built yet** — this is the next concrete piece.
 - [ ] **Draft/needs-review status per game** — derive a `status` (clean vs. needs-review)
       from `parsed.warnings.length`, surfaced clearly in the games list (today it's a small
       "⚠ N" badge; worth a real filter/sort once this lands) so games that need Petar's
-      attention are easy to find, not just visible if you look closely.
-- [ ] **`submitGame` always returns a link** to the game (draft/needs-review or clean, either
-      way) instead of just an id — and the userscript, once wired up for real, shows/offers
-      to open that link after submitting instead of just a status message.
+      attention are easy to find, not just visible if you look closely. **Not built yet.**
+- [x] **`submitGame` always returns a `url`** to the game (needs-review or clean, either way)
+      — built. Falls back to the known GitHub Pages destination
+      (`https://petar19.github.io/catan-live`) even pre-deploy via a `SITE_URL` env var, so
+      the link is correct once the site is actually live rather than needing a later code
+      change. The userscript itself still isn't wired up to show/open it yet (separate,
+      later piece of the build order).
+- [x] **Reprocess split, built exactly as designed**: `reprocessGames` (blanket, plural) now
+      only touches games whose `parserVersion` is stale, and re-parses each with its *own*
+      already-bound `rulesVersion` (never "latest") — safe for code/schema migrations, never
+      changes matching behavior. `reprocessGame` (singular, new — `functions/src/reprocessGame.ts`)
+      takes an explicit `gameId` and optional `rulesVersion` (defaults to latest), and is the
+      only way a game's bound rule version ever changes. Both deployed and smoke-tested
+      against a real game.
 - [ ] **Incognito/try-it mode** (separate public route, no sign-in, nothing persisted):
       paste a raw log, parse entirely client-side using the same parser + the live *latest*
       `parserRules` version fetched from Firestore, view the same `GameCharts` UI.
@@ -780,3 +797,28 @@ link back on submit).
   Phase 6. Good general lesson: "add versioning later if we need it" is the wrong instinct
   whenever the thing being versioned can retroactively change already-derived data — the
   cost of missing it isn't just a missing feature, it's silent data corruption.
+- 2026-09-17 (build session): built and deployed the first half of Phase 5.5 — the data
+  model and parser refactor, plus wiring `submitGame`/`reprocessGames` to it and adding
+  `reprocessGame` (singular). Still to build: the rules editor and admin review/debug UI,
+  needs-review status, incognito mode. Two real bugs found and fixed during rollout, both
+  worth remembering:
+  - **Firestore rejects an explicit `undefined` value anywhere in a document.**
+    `serializeParserRules` set `flags: re.flags || undefined` for every regex, and none of
+    the 12 current patterns use flags — so every save had a literal `flags: undefined`,
+    which `seedParserRules` promptly failed on in production ("Cannot use 'undefined' as a
+    Firestore value"). Fixed by omitting the key entirely when there's no flag, and added a
+    regression test for it (`test/configurable.test.ts`) — this class of bug is easy to miss
+    locally since `JSON.stringify` silently drops `undefined` values, hiding it from a casual
+    console.log.
+  - **An empty Firestore collection is not the same as "use the defaults."** After deploying,
+    `submitGame` started fetching *live* `playerAliases` from Firestore — which was still
+    empty, since only `parserRules` had been seeded. `loadAliases()` correctly returned `{}`
+    for an empty collection, but passing `{}` to `filterLines` doesn't fall back to
+    `DEFAULT_PLAYER_ALIASES` (only *omitting* the argument does) — it deliberately means "no
+    aliases." Caught by actually resubmitting a known existing game (345) end-to-end and
+    noticing it created a duplicate instead of deduping, rather than trusting a clean-looking
+    deploy. Fixed by extending the seed step to backfill `playerAliases` too, and confirmed
+    fixed by resubmitting the same game again and seeing it correctly dedupe. General
+    takeaway: whenever "fetch config from Firestore, default if empty" is the design, verify
+    the *actually empty* case really behaves like the default — it's an easy gap to leave
+    between "the code compiles and deploys" and "the live behavior is unchanged."
