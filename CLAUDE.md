@@ -372,6 +372,14 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
     the card-count charts v1 itself had commented out/disabled — the underlying data has
     known-quirky computation (see processGame.ts's handle_count port) and v1 never shipped
     these either.
+- [x] **Sticky section-shortcuts nav** (2026-09-17): `SectionNav.tsx`, a sticky (`position:
+      sticky; top: 0`) row of pill buttons that scroll to a section further down the same
+      page (`document.getElementById(id).scrollIntoView`) — added to both the game detail
+      page (sections list exported as `GAME_CHART_SECTIONS` from `GameCharts.tsx`, shared
+      between the component and the page that renders the nav) and `/stats`. Each `.card`
+      section got `scroll-margin-top` so `scrollIntoView` doesn't tuck the section heading
+      behind the sticky nav bar. Not added to the public `/shared/:shareId` view — only
+      asked for on the admin-facing pages.
 - [x] Combined/career stats page (`/stats`): career stats table (games/wins/win rate/avg
       finish/avg points), sorted by games played, plus the seat-based
       starting-position-vs-finish table (v1's rankings.json / pie+heatmap equivalent, as a
@@ -395,8 +403,21 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
       endpoint — worth adding once there's a second reason to.
 
 ### Phase 4 — Sharing
-- [x] `shares` collection + `resolveShare` callable function (returns `parsed` + `playedAt`
-      only, never `rawLines`)
+- [x] `shares` collection + `resolveShare` function (returns `parsed` + `playedAt` only,
+      never `rawLines`). **Was a callable (`onCall`), converted to a plain HTTP endpoint
+      (`onRequest`) on 2026-09-17** — found in production (Petar tried a real share link,
+      got "internal" error) that `invoker: "public"` does not actually make an `onCall`
+      function's underlying Cloud Run service publicly invokable, no matter how many times
+      you redeploy it; confirmed by curling the deployed function directly and getting a
+      403 from Google's frontend (not from our own code — nothing ever reached the function,
+      no logs were emitted for it either). `onRequest` + `invoker: "public"` does work
+      (that's what `submitGame`/`reprocessGames` already used successfully). Had to delete
+      the old callable trigger and recreate as `onRequest` — Firebase won't let you change a
+      function's trigger type in-place. `SharedView.tsx` now calls it via plain `fetch()`
+      instead of `httpsCallable`; `VITE_RESOLVE_SHARE_FUNCTION_URL` env var carries the URL.
+      **Takeaway for next time**: don't assume `invoker: "public"` works uniformly across
+      trigger types just because it worked once — verify each trigger type (`onRequest` vs
+      `onCall`) independently with a real unauthenticated curl before trusting it.
 - [x] Public `/shared/:shareId` route — renders the same `GameCharts` component the admin
       view uses, no auth, no nav chrome
 - [x] "Create share link" button on the game detail page (`ShareButton.tsx`) — writes
@@ -610,3 +631,15 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   height) on top of the real segments, and attach the `LabelList` to that instead — it always
   has a nonzero value to render against, so the label always shows regardless of which real
   quarters happen to be zero for a given total.
+- 2026-09-17: Petar tried a real share link in incognito and got "Couldn't load this share
+  link: internal" — sharing was never actually reachable unauthenticated, on localhost or
+  anywhere else. Root cause: `resolveShare`'s `invoker: "public"` never actually applied to
+  its `onCall` trigger type (confirmed by curling the deployed function directly — straight
+  403 from Google's frontend, no logs, redeploying didn't help). Converted it to a plain
+  `onRequest` HTTP endpoint (same pattern already proven working for `submitGame`/
+  `reprocessGames`), which required deleting and recreating the function since Firebase
+  won't change a trigger type in place. `SharedView.tsx` now uses `fetch()` instead of
+  `httpsCallable`. Verified end-to-end with curl (a bogus shareId now gets our own 404
+  response, not a 403 from Google) before telling Petar to retry his link. Also added the
+  sticky section-shortcuts nav he asked for on the game detail and combined-stats pages —
+  see the Phase 3 entry above.

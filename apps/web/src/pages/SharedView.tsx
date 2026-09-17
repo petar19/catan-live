@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { httpsCallable } from "firebase/functions";
 import type { ProcessedGame } from "@catan-live/parser";
-import { functions } from "../lib/firebase";
 import { GameCharts } from "../components/GameCharts";
 
 interface SharedGame {
@@ -15,18 +13,31 @@ type ResolveShareResult = { type: "game"; game: SharedGame } | { type: "combined
 
 type ViewState = { status: "loading" } | { status: "error"; message: string } | { status: "ok"; data: ResolveShareResult };
 
+const RESOLVE_SHARE_URL = import.meta.env.VITE_RESOLVE_SHARE_FUNCTION_URL;
+
 // Public, unauthenticated route — no sign-in required. Talks to the
-// `resolveShare` callable function (CLAUDE.md §2.3), never touches Firestore
-// directly (there's no public Firestore access at all, by design).
+// `resolveShare` HTTP function (CLAUDE.md §2.3) via plain fetch, never
+// touches Firestore directly (there's no public Firestore access at all, by
+// design). Not a Firebase callable (onCall) — those turned out not to
+// actually support public/unauthenticated invocation despite `invoker:
+// "public"` in code (confirmed by testing against the deployed function; see
+// CLAUDE.md) — a plain HTTP endpoint with invoker:"public" does work.
 export function SharedView() {
   const { shareId } = useParams<{ shareId: string }>();
   const [state, setState] = useState<ViewState>({ status: "loading" });
 
   useEffect(() => {
     if (!shareId) return;
-    const resolveShare = httpsCallable<{ shareId: string }, ResolveShareResult>(functions, "resolveShare");
-    resolveShare({ shareId })
-      .then((res) => setState({ status: "ok", data: res.data }))
+    fetch(RESOLVE_SHARE_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ shareId }),
+    })
+      .then(async (res) => {
+        if (!res.ok) throw new Error(await res.text());
+        return res.json() as Promise<ResolveShareResult>;
+      })
+      .then((data) => setState({ status: "ok", data }))
       .catch((err) => setState({ status: "error", message: err instanceof Error ? err.message : String(err) }));
   }, [shareId]);
 

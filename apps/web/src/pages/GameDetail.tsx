@@ -3,8 +3,9 @@ import { Link, useParams } from "react-router-dom";
 import { doc, onSnapshot } from "firebase/firestore";
 import { db } from "../lib/firebase";
 import type { GameDoc } from "../lib/useGames";
-import { GameCharts } from "../components/GameCharts";
+import { GameCharts, GAME_CHART_SECTIONS } from "../components/GameCharts";
 import { ShareButton } from "../components/ShareButton";
+import { SectionNav } from "../components/SectionNav";
 
 export function GameDetail() {
   const { gameId } = useParams<{ gameId: string }>();
@@ -37,6 +38,7 @@ export function GameDetail() {
         </p>
       )}
       <ShareButton type="game" gameId={game.id} />
+      <SectionNav sections={GAME_CHART_SECTIONS} />
       <GameCharts game={game.parsed} />
     </div>
   );

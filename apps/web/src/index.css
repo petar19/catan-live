@@ -78,6 +78,26 @@ a {
   flex: 1;
 }
 
+.section-nav {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 10px 4px;
+  margin: 0 -4px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.section-nav button {
+  white-space: nowrap;
+  font-size: 12px;
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+
 .muted {
   color: var(--text-secondary);
   font-size: 13px;
@@ -116,6 +136,9 @@ a {
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 16px;
+  /* so scrollIntoView (via SectionNav) doesn't tuck the section's heading
+     behind the sticky section-nav bar */
+  scroll-margin-top: 56px;
 }
 
 .game-charts {

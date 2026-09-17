@@ -1,8 +1,14 @@
 import { Link } from "react-router-dom";
 import { useGames } from "../lib/useGames";
 import { computePlayerCareerStats, computeSeatRankings } from "../lib/rankings";
+import { SectionNav, type Section } from "../components/SectionNav";
 
 const PLACEMENT_LABELS = ["1st", "2nd", "3rd", "4th"];
+
+const SECTIONS: Section[] = [
+  { id: "career-stats", label: "Career stats" },
+  { id: "seat-rankings", label: "Seat rankings" },
+];
 
 export function CombinedStats() {
   const { games, loading, error } = useGames();
@@ -21,7 +27,9 @@ export function CombinedStats() {
       <h1>Combined stats</h1>
       <p className="muted">Across {games.length} games.</p>
 
-      <section className="card">
+      <SectionNav sections={SECTIONS} />
+
+      <section className="card" id="career-stats">
         <h2>Player career stats</h2>
         <table className="data-table">
           <thead>
@@ -49,7 +57,7 @@ export function CombinedStats() {
         </table>
       </section>
 
-      <section className="card">
+      <section className="card" id="seat-rankings">
         <h2>Finishing position by starting seat</h2>
         <p className="muted">
           "Seat" is join order within the game log (who placed their first settlement first), not a literal board
