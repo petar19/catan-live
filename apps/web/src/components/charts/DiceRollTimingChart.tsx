@@ -45,6 +45,13 @@ function TimingTooltip({ active, payload }: TimingTooltipProps) {
 export function DiceRollTimingChart({ rollSequence }: { rollSequence: number[] }) {
   const { quarterColors, textSecondary, gridLine } = usePalette();
   const { rows } = diceTimingData(rollSequence, BINS);
+  // A stacked segment with value 0 doesn't render at all in Recharts, and a
+  // LabelList attached to that segment doesn't render either — so a dice
+  // total whose last quarter had zero rolls silently lost its total label.
+  // Fix: stack one extra, always-nonzero "anchor" segment on top (too small
+  // to visibly affect bar height) and put the label there instead, so it
+  // always has something to attach to regardless of which quarters are zero.
+  const data = rows.map((row) => ({ ...row, labelAnchor: 0.0001 }));
 
   if (rollSequence.length === 0) return <p className="muted">No rolls recorded.</p>;
 
@@ -52,16 +59,17 @@ export function DiceRollTimingChart({ rollSequence }: { rollSequence: number[] }
     <div>
       <ChartLegend items={QUARTER_LABELS.map((label, i) => ({ label, color: quarterColors[i] }))} />
       <ResponsiveContainer width="100%" height={280}>
-        <BarChart data={rows} margin={{ top: 20, right: 16, bottom: 8, left: 0 }}>
+        <BarChart data={data} margin={{ top: 20, right: 16, bottom: 8, left: 0 }}>
           <CartesianGrid stroke={gridLine} vertical={false} />
           <XAxis dataKey="total" tick={{ fill: textSecondary, fontSize: 12 }} />
           <YAxis tick={{ fill: textSecondary, fontSize: 12 }} allowDecimals={false} />
           <Tooltip content={(props) => <TimingTooltip {...props} />} />
           {QUARTER_LABELS.map((label, i) => (
-            <Bar key={i} dataKey={`bin_${i}`} name={label} stackId="stack" fill={quarterColors[i]} isAnimationActive={false}>
-              {i === BINS - 1 && <LabelList dataKey="totalCount" position="top" style={{ fill: textSecondary, fontSize: 11 }} />}
-            </Bar>
+            <Bar key={i} dataKey={`bin_${i}`} name={label} stackId="stack" fill={quarterColors[i]} isAnimationActive={false} />
           ))}
+          <Bar dataKey="labelAnchor" stackId="stack" fill="transparent" isAnimationActive={false}>
+            <LabelList dataKey="totalCount" position="top" style={{ fill: textSecondary, fontSize: 11 }} />
+          </Bar>
         </BarChart>
       </ResponsiveContainer>
       <div className="heatmap-axis-labels">

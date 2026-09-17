@@ -599,3 +599,14 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   check `stackOffset` first — it's very likely the right lever, and reaching for multiple
   stackIds is very likely the wrong one (that's a *grouping* mechanism, not a stacking-
   direction one).
+- 2026-09-17: another Recharts stacking gotcha, this time in `DiceRollTimingChart` — the
+  total-count label (attached via `LabelList` to the last quarter's `Bar`) went missing for
+  any dice total whose 4th quarter had zero rolls. Cause: a stacked segment with value 0
+  doesn't get rendered at all by Recharts, and a `LabelList` attached to that segment has
+  nothing to anchor to, so it silently doesn't render either — this only affects some
+  columns because it depends on that specific total's quarter-4 count, not something visibly
+  wrong with the chart's structure. Fixed with a small trick: stack one extra, always-
+  nonzero "anchor" bar (`labelAnchor: 0.0001`, transparent, too small to affect visible bar
+  height) on top of the real segments, and attach the `LabelList` to that instead — it always
+  has a nonzero value to render against, so the label always shows regardless of which real
+  quarters happen to be zero for a given total.
