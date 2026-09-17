@@ -442,40 +442,64 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 - [ ] Note: "expected vs actual resource luck" needs board layout (tile/number placement),
       which nothing currently captures — would need a new capture step if wanted
 
-### Phase 5.5 — Configurable parsing (aliases + rules as data) + game review workflow
+### Phase 5.5 — Configurable parsing (aliases + versioned rules as data) + game review workflow
 
-Design conversation 2026-09-17. This is the actual next priority — bigger than a single
-feature, it's the thing several of Petar's questions turned out to be facets of the same
-underlying gap: **the parser's identity-aliasing and line-matching regexes are hardcoded
-TypeScript, so every time colonist.io changes wording (which has already happened
-repeatedly — see §2.4/Phase 1) or a friend renames their account, fixing it means Petar
-filing a request and someone (me) editing code, rebuilding, redeploying, and reprocessing.**
-The goal: make both configurable as *data* Petar can edit himself from the admin UI, with a
-safe preview workflow so a bad edit doesn't quietly corrupt parsing.
+Design conversation 2026-09-17, refined same day after Petar corrected two things — both
+now locked into the plan below, not deferred:
 
-**Why aliasing and rules belong in the same effort:** both are "raw text → canonical
-meaning" lookups the parser currently has burned into its source. Both need the same
-things to be safely editable: stored as data, validated before saving, and previewable
-against real games before trusting the change.
+1. **The rules editor UI doesn't need to be novice-friendly.** Petar is the only one who'll
+   ever edit parsing rules, and he wrote the entire v1 Python parser himself — he's
+   comfortable with raw regex. So the rules editor can just be a direct text/JSON editor for
+   the regex source, not an abstracted rule-builder aimed at someone who's never seen a
+   regex. Keeps this piece much smaller than originally scoped. (Aliases are plain
+   string-to-string and were always going to be a simple table either way.)
+2. **Versioning is not optional or deferrable — it's a hard requirement of allowing mutable
+   rules at all, and needs to exist from the first version of this feature, not just have
+   its schema "left open" for later.** Reasoning: the existing `reprocessGames` endpoint
+   reprocesses *every* game whose `parserVersion` doesn't match the current code's version,
+   using whatever `processGame` currently does. That's fine when rules are baked into code
+   (a new deploy is a deliberate, reviewed, all-at-once change). It becomes actively
+   dangerous once rules are live-editable data: fixing a regex for a *new* colonist.io
+   wording variant could silently corrupt old games that depended on the wording it
+   replaces, if "reprocess" ever means "everyone gets the latest rules." **So: rule versions
+   must be immutable once created (editing always creates a new version, never mutates an
+   existing one), each game must record exactly which version it was parsed with, and there
+   must never be an automatic "bring everything to latest" sweep** — reprocessing is always
+   an explicit, targeted action against specific game(s), not a blanket update. The
+   `reprocessGames` endpoint as it exists today (blanket sweep to "current") no longer fits
+   this model and needs to be replaced by a "reprocess this game with this specific rule
+   version" action, not just extended.
+
+**The actual workflow this is designed around** (Petar's own description, and it's the
+right scope for v1 — no fancier version-to-date-range binding needed yet): a new game gets
+submitted and fails to parse cleanly with the *latest* rule version -> Petar opens it in the
+admin review UI, sees the raw log and the failure, edits the rule causing the problem, saves
+it as a new version (old version stays on record, still bound to whatever games used it) ->
+that one game gets explicitly reprocessed with the new version -> every subsequent
+`submitGame` call uses the new latest version by default. Nothing about old, already-clean
+games ever changes as a side effect.
 
 - [ ] **`playerAliases` collection** (admin-only, like `admins`) — raw observed name ->
       canonical player name. Replaces the identity-aliasing entries in
       `packages/parser/src/filterLines.ts`'s `REPLACEMENTS` list (`Seale5074` -> `Kent#3816`,
-      `Spring#4635`/`Yolonc#9587` -> `Yolonc`, etc. — see that file for the full current
-      list). The "You"/"you" -> canonical-name entry is really just another alias row, not a
-      special case — see the incognito note below.
-- [ ] **`parserRules` collection, versioned from the start** — one rule-set per version
-      (regex source + flags per line-type: roll, VP, steal, trade_p2p, trade_p2b, etc.),
-      **publicly readable** (unlike every other collection) since regex patterns aren't
-      sensitive, just logic — this is what lets incognito mode (below) fetch and use the
-      live rules without a code deploy. Each `games/{id}` doc records which rule-set version
-      it was parsed with, generalizing the existing `parserVersion` number into a reference
-      that can eventually support binding a version to a date range or specific games —
-      full versioning UI is explicitly **not** being built yet (Petar flagged this as
-      low/mid priority), but the schema needs to support it from day one or retrofitting it
-      onto already-stored games later is much more painful. Rationale for why "one current
-      global rule set" isn't sufficient long-term: a rule fixed for new colonist.io wording
-      can break parsing for old games that used the wording it's replacing.
+      `Spring#4635`/`Yolonc#9587` -> `Yolonc`, etc.). The "You"/"you" -> canonical-name entry
+      is really just another alias row, not a special case — see the incognito note below.
+      Not versioned the same way rules are — aliases describe *people*, not *parsing logic*,
+      and getting a rename wrong doesn't retroactively misparse old text the way a regex
+      change can; a simple admin-editable table is enough here.
+- [ ] **`parserRules` collection — versioned from v1 of this feature, not just schema-ready
+      for it later.** Each version is immutable once saved (regex source + flags per
+      line-type: roll, VP, steal, trade_p2p, trade_p2b, etc.), **publicly readable** (unlike
+      every other collection) since regex patterns aren't sensitive — this is also what lets
+      incognito mode fetch and use live rules without a code deploy (see below). Every
+      `games/{id}` doc records exactly which rule version produced its `parsed` field,
+      replacing the current `parserVersion` number (tied to *code* releases) with a
+      reference to a specific *rule-set* version (tied to *data* changes).
+- [ ] **Rules editor**: a direct text/JSON editor for regex source per line-type — no
+      abstraction layer for non-programmers needed (see correction #1 above). Still wants
+      live validation (catch broken regex syntax before letting you save) and the live
+      re-parse preview described next, since instant feedback on a change is valuable
+      regardless of who's editing.
 - [ ] **Parser package refactor**: `filterLines`/`processGame` accept aliases/rules as
       parameters instead of reading hardcoded module-level constants, defaulting to current
       baked-in behavior when none are given (so the existing 348-test fixture suite keeps
@@ -485,8 +509,10 @@ against real games before trusting the change.
       anywhere in the admin UI at all — `GameDetail` only shows computed charts), the current
       parse result, and an editor for rules/aliases/raw lines that **re-parses live in the
       browser as you type** (free, architecturally — the parser has no server dependency) —
-      before you commit anything. "Reprocess this game" only touches the server once you're
-      satisfied with the preview.
+      before committing anything. "Reprocess this game with version X" only touches the
+      server once satisfied with the preview, and only ever targets the specific game(s)
+      chosen — never a blanket sweep (see correction #2 above). This effectively replaces
+      today's `reprocessGames` endpoint with a narrower, explicitly-targeted action.
 - [ ] **Draft/needs-review status per game** — derive a `status` (clean vs. needs-review)
       from `parsed.warnings.length`, surfaced clearly in the games list (today it's a small
       "⚠ N" badge; worth a real filter/sort once this lands) so games that need Petar's
@@ -495,30 +521,34 @@ against real games before trusting the change.
       way) instead of just an id — and the userscript, once wired up for real, shows/offers
       to open that link after submitting instead of just a status message.
 - [ ] **Incognito/try-it mode** (separate public route, no sign-in, nothing persisted):
-      paste a raw log, parse entirely client-side using the same parser + the live
-      `parserRules` fetched from Firestore, view the same `GameCharts` UI. Explicitly does
-      **not** do identity aliasing — no admin alias table lookup at all, not even a "safe"
-      version of it, since there's no cross-game identity to preserve for a one-off session.
-      "You"/"you" just needs consistent normalization (e.g. always capitalized the same way)
-      so it's treated as one distinct player for that single parse, not resolved to Petar's
-      or anyone else's real name. Optional shared-password gate discussed — useful as a
-      casual "friends only" filter, explicitly *not* real access control (a client-side
-      check is trivially readable in the page's own JS), fine given nothing sensitive or
-      persisted is behind it.
+      paste a raw log, parse entirely client-side using the same parser + the live *latest*
+      `parserRules` version fetched from Firestore, view the same `GameCharts` UI.
+      Explicitly does **not** do identity aliasing — no admin alias table lookup at all, not
+      even a "safe" version of it, since there's no cross-game identity to preserve for a
+      one-off session. "You"/"you" just needs consistent normalization (e.g. always
+      capitalized the same way) so it's treated as one distinct player for that single
+      parse, not resolved to Petar's or anyone else's real name. Optional shared-password
+      gate discussed — useful as a casual "friends only" filter, explicitly *not* real
+      access control (a client-side check is trivially readable in the page's own JS), fine
+      given nothing sensitive or persisted is behind it.
 
-Suggested build order (not yet started): (1) `playerAliases` + `parserRules` data model,
-including the versioned shape from the start, (2) parser package refactor to accept them as
-parameters, (3) admin review/debug UI (raw log viewer, live preview, reprocess action),
-(4) incognito mode once rules are fetchable, (5) real userscript wiring (secret-prompt-once
-+ stored locally per the anti-spam decision below, link back on submit).
+Suggested build order (not yet started): (1) `playerAliases` + versioned `parserRules` data
+model (both immutability and per-game version references built from the start, not added
+later), (2) parser package refactor to accept them as parameters, (3) admin review/debug UI
+(raw log viewer, rules/alias editor, live preview, targeted per-game reprocess — replacing
+today's blanket `reprocessGames`), (4) incognito mode once rules are fetchable, (5) real
+userscript wiring (secret-prompt-once + stored locally per the anti-spam decision in §6,
+link back on submit).
 
 ### Phase 6 — Later / explicitly deferred
 - [ ] Opening this up beyond the friend group (multi-user auth, per-user data scoping)
 - [ ] Card counter feature (`count_cards.py`) — out of scope until Petar asks for it
-- [ ] Full rule-versioning UI (bind a specific rule-set version to a date range or specific
-      games) — groundwork laid in Phase 5.5's data model, but the UI/binding logic itself is
-      explicitly deferred; Petar confirmed this is low/mid priority since the main use case
-      is checking stats for just-played games, not re-litigating years-old ones.
+- [ ] Binding a rule version to an explicit date range / auto-selecting the right version
+      for a given game's date — genuinely deferrable, unlike basic versioning itself (which
+      moved into Phase 5.5 as a hard requirement, see above). The Phase 5.5 workflow only
+      needs "this game, reprocess with version X," chosen explicitly by Petar each time —
+      not an automatic date-range lookup. Revisit if the number of versions/edge cases grows
+      enough that manual selection gets tedious.
 
 ## 6. Open questions
 
@@ -736,3 +766,17 @@ parameters, (3) admin review/debug UI (raw log viewer, live preview, reprocess a
   low/mid priority, so only the data-model groundwork (versioned rule-sets from day one) is
   planned now, not the full binding UI. No code written yet for any of this — purely a
   planning/design turn, captured in Phase 5.5 before starting to build it.
+- 2026-09-17 (still later): Petar corrected two things in the Phase 5.5 plan before any code
+  got written — both folded in above. (1) The rules editor doesn't need to be
+  non-programmer-friendly — Petar wrote v1's entire Python parser himself and is the only
+  one who'll ever touch parsing rules, so a direct regex-source editor is fine, no
+  abstraction layer needed. (2) Versioning isn't a "nice to have groundwork for later" —
+  it's a hard requirement from day one of allowing mutable rules at all, because the
+  existing `reprocessGames` endpoint blanket-reprocesses every game to "current," which
+  would silently corrupt old games' stats the moment a rule fix for new colonist.io wording
+  conflicts with old wording those games depended on. Immutable rule versions + per-game
+  version references + never-automatic reprocessing are now core Phase 5.5 scope, not
+  deferred; only the fancier "bind a version to a date range automatically" piece stays in
+  Phase 6. Good general lesson: "add versioning later if we need it" is the wrong instinct
+  whenever the thing being versioned can retroactively change already-derived data — the
+  cost of missing it isn't just a missing feature, it's silent data corruption.
