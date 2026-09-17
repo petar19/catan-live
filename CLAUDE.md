@@ -432,18 +432,93 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
       is chosen (Firebase Hosting handles this via `firebase.json` rewrites instead).
 
 ### Phase 5 — New stats/features (ideas to refine with Petar, not committed yet)
-- [ ] Win rate / avg finish by player (career, not just per-seat like today's rankings.json)
+- [x] Win rate / avg finish by player (career, not just per-seat like v1's rankings.json) —
+      built as the `/stats` career stats table.
+- [x] Trade network (who trades with whom) — built as the experimental trade network diagram.
 - [ ] Head-to-head records
-- [ ] Trade network (who trades with whom, net resource flow)
 - [ ] Building timing (avg turn of first city/settlement/road milestones)
 - [ ] Longest/current streaks
 - [ ] Dev card usage over time (port of the currently-standalone `analyzer.py`)
 - [ ] Note: "expected vs actual resource luck" needs board layout (tile/number placement),
       which nothing currently captures — would need a new capture step if wanted
 
+### Phase 5.5 — Configurable parsing (aliases + rules as data) + game review workflow
+
+Design conversation 2026-09-17. This is the actual next priority — bigger than a single
+feature, it's the thing several of Petar's questions turned out to be facets of the same
+underlying gap: **the parser's identity-aliasing and line-matching regexes are hardcoded
+TypeScript, so every time colonist.io changes wording (which has already happened
+repeatedly — see §2.4/Phase 1) or a friend renames their account, fixing it means Petar
+filing a request and someone (me) editing code, rebuilding, redeploying, and reprocessing.**
+The goal: make both configurable as *data* Petar can edit himself from the admin UI, with a
+safe preview workflow so a bad edit doesn't quietly corrupt parsing.
+
+**Why aliasing and rules belong in the same effort:** both are "raw text → canonical
+meaning" lookups the parser currently has burned into its source. Both need the same
+things to be safely editable: stored as data, validated before saving, and previewable
+against real games before trusting the change.
+
+- [ ] **`playerAliases` collection** (admin-only, like `admins`) — raw observed name ->
+      canonical player name. Replaces the identity-aliasing entries in
+      `packages/parser/src/filterLines.ts`'s `REPLACEMENTS` list (`Seale5074` -> `Kent#3816`,
+      `Spring#4635`/`Yolonc#9587` -> `Yolonc`, etc. — see that file for the full current
+      list). The "You"/"you" -> canonical-name entry is really just another alias row, not a
+      special case — see the incognito note below.
+- [ ] **`parserRules` collection, versioned from the start** — one rule-set per version
+      (regex source + flags per line-type: roll, VP, steal, trade_p2p, trade_p2b, etc.),
+      **publicly readable** (unlike every other collection) since regex patterns aren't
+      sensitive, just logic — this is what lets incognito mode (below) fetch and use the
+      live rules without a code deploy. Each `games/{id}` doc records which rule-set version
+      it was parsed with, generalizing the existing `parserVersion` number into a reference
+      that can eventually support binding a version to a date range or specific games —
+      full versioning UI is explicitly **not** being built yet (Petar flagged this as
+      low/mid priority), but the schema needs to support it from day one or retrofitting it
+      onto already-stored games later is much more painful. Rationale for why "one current
+      global rule set" isn't sufficient long-term: a rule fixed for new colonist.io wording
+      can break parsing for old games that used the wording it's replacing.
+- [ ] **Parser package refactor**: `filterLines`/`processGame` accept aliases/rules as
+      parameters instead of reading hardcoded module-level constants, defaulting to current
+      baked-in behavior when none are given (so the existing 348-test fixture suite keeps
+      working unchanged, and the parser package stays a pure, Firestore-free function usable
+      both server-side and client-side).
+- [ ] **Admin review/debug UI** for a specific game: raw log lines (currently not shown
+      anywhere in the admin UI at all — `GameDetail` only shows computed charts), the current
+      parse result, and an editor for rules/aliases/raw lines that **re-parses live in the
+      browser as you type** (free, architecturally — the parser has no server dependency) —
+      before you commit anything. "Reprocess this game" only touches the server once you're
+      satisfied with the preview.
+- [ ] **Draft/needs-review status per game** — derive a `status` (clean vs. needs-review)
+      from `parsed.warnings.length`, surfaced clearly in the games list (today it's a small
+      "⚠ N" badge; worth a real filter/sort once this lands) so games that need Petar's
+      attention are easy to find, not just visible if you look closely.
+- [ ] **`submitGame` always returns a link** to the game (draft/needs-review or clean, either
+      way) instead of just an id — and the userscript, once wired up for real, shows/offers
+      to open that link after submitting instead of just a status message.
+- [ ] **Incognito/try-it mode** (separate public route, no sign-in, nothing persisted):
+      paste a raw log, parse entirely client-side using the same parser + the live
+      `parserRules` fetched from Firestore, view the same `GameCharts` UI. Explicitly does
+      **not** do identity aliasing — no admin alias table lookup at all, not even a "safe"
+      version of it, since there's no cross-game identity to preserve for a one-off session.
+      "You"/"you" just needs consistent normalization (e.g. always capitalized the same way)
+      so it's treated as one distinct player for that single parse, not resolved to Petar's
+      or anyone else's real name. Optional shared-password gate discussed — useful as a
+      casual "friends only" filter, explicitly *not* real access control (a client-side
+      check is trivially readable in the page's own JS), fine given nothing sensitive or
+      persisted is behind it.
+
+Suggested build order (not yet started): (1) `playerAliases` + `parserRules` data model,
+including the versioned shape from the start, (2) parser package refactor to accept them as
+parameters, (3) admin review/debug UI (raw log viewer, live preview, reprocess action),
+(4) incognito mode once rules are fetchable, (5) real userscript wiring (secret-prompt-once
++ stored locally per the anti-spam decision below, link back on submit).
+
 ### Phase 6 — Later / explicitly deferred
 - [ ] Opening this up beyond the friend group (multi-user auth, per-user data scoping)
 - [ ] Card counter feature (`count_cards.py`) — out of scope until Petar asks for it
+- [ ] Full rule-versioning UI (bind a specific rule-set version to a date range or specific
+      games) — groundwork laid in Phase 5.5's data model, but the UI/binding logic itself is
+      explicitly deferred; Petar confirmed this is low/mid priority since the main use case
+      is checking stats for just-played games, not re-litigating years-old ones.
 
 ## 6. Open questions
 
@@ -474,8 +549,14 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
 
 ### Non-blocking (resurface at the relevant phase)
 
-- Single shared-secret for `submitGame` acceptable long-term, or move to real Auth once more
-  than one person might submit games?
+- ~~Single shared-secret for `submitGame` acceptable long-term?~~ **Decided (2026-09-17)**:
+  yes, with a refinement — don't bake the actual secret value into the published userscript
+  (that would leak it to anyone who reads the public script once it's hosted for
+  Tampermonkey auto-update). Instead, the script prompts for the secret once and stores it
+  locally (`GM_setValue`), so the *code* is safe to publish and the *secret* is distributed
+  separately (to Petar, and whoever else he gives it to) — public code, private credential,
+  not security-through-not-distributing-the-file. Not yet implemented — part of the real
+  userscript wiring in Phase 5.5's build order.
 - Any appetite for capturing board layout (tile resources/numbers, robber position over time)
   to unlock "luck" stats? Would mean extending the userscript's scrape, not just the parser.
 - Keep generating Discord images (needs a render step somewhere — function-side matplotlib or
@@ -643,3 +724,15 @@ all 4 observed variants) — this is the concrete instance of the fragility prob
   response, not a 403 from Google) before telling Petar to retry his link. Also added the
   sticky section-shortcuts nav he asked for on the game detail and combined-stats pages —
   see the Phase 3 entry above.
+- 2026-09-17 (later): design conversation about what's next — turned into Phase 5.5 above.
+  Key decisions: player aliasing AND the parsing regexes both move from hardcoded TS to
+  admin-editable Firestore data (aliases and rules turned out to be the same underlying
+  problem — raw text baked into code instead of configurable); a proper admin review/debug
+  UI for a specific game (raw log viewer, live client-side re-parse preview, reprocess
+  action) ties directly into that, since editable rules need a safe way to preview a change
+  before trusting it; incognito/try-it mode will fetch the same live rules from a
+  publicly-readable `parserRules` collection (but never touches `playerAliases`, which stays
+  admin-only and irrelevant to a one-off ephemeral parse); rule versioning is real but
+  low/mid priority, so only the data-model groundwork (versioned rule-sets from day one) is
+  planned now, not the full binding UI. No code written yet for any of this — purely a
+  planning/design turn, captured in Phase 5.5 before starting to build it.
