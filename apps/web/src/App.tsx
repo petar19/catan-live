@@ -3,6 +3,7 @@ import { AuthProvider, useAuth } from "./lib/AuthContext";
 import { Login } from "./pages/Login";
 import { GamesList } from "./pages/GamesList";
 import { GameDetail } from "./pages/GameDetail";
+import { GameReview } from "./pages/GameReview";
 import { CombinedStats } from "./pages/CombinedStats";
 import { SharedView } from "./pages/SharedView";
 import { Nav } from "./components/Nav";
@@ -37,6 +38,14 @@ export default function App() {
             element={
               <AdminGate>
                 <GameDetail />
+              </AdminGate>
+            }
+          />
+          <Route
+            path="/games/:gameId/review"
+            element={
+              <AdminGate>
+                <GameReview />
               </AdminGate>
             }
           />

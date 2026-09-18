@@ -7,6 +7,8 @@ export interface GameDoc {
   id: string;
   parsed: ProcessedGame;
   parserVersion: number;
+  rulesVersion?: number;
+  rawLines: string[];
   createdAt: string;
   /** When the game was actually played, when known — backfilled from gamelog file
    * mtime for migrated games, otherwise submission time. Prefer this over

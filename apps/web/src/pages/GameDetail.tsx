@@ -34,10 +34,14 @@ export function GameDetail() {
       </p>
       {game.parsed.warnings.length > 0 && (
         <p className="warning">
-          ⚠ {game.parsed.warnings.length} line(s) couldn't be parsed — stats below may be incomplete.
+          ⚠ {game.parsed.warnings.length} line(s) couldn't be parsed — stats below may be incomplete.{" "}
+          <Link to={`/games/${game.id}/review`}>Review &amp; fix parsing →</Link>
         </p>
       )}
-      <ShareButton type="game" gameId={game.id} />
+      <ShareButton type="game" gameId={game.id} />{" "}
+      <Link to={`/games/${game.id}/review`}>
+        <button>Review / debug parsing</button>
+      </Link>
       <SectionNav sections={GAME_CHART_SECTIONS} />
       <GameCharts game={game.parsed} />
     </div>
