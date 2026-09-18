@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.1.0
+// @version      0.2.0
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
 // @grant        GM_xmlhttpRequest
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_deleteValue
 // @connect      cloudfunctions.net
 // @updateURL    https://raw.githubusercontent.com/petar19/catan-live/main/userscript/catan-live.user.js
 // @downloadURL  https://raw.githubusercontent.com/petar19/catan-live/main/userscript/catan-live.user.js
@@ -14,13 +17,24 @@
 (function () {
   "use strict";
 
-  // TODO: fill in once the Cloud Function is deployed (blocked on the GCP project
-  // quota issue — see CLAUDE.md task list). SUBMIT_SECRET must match the
-  // SUBMIT_GAME_SECRET value set via `firebase functions:secrets:set`.
   const CONFIG = {
-    SUBMIT_URL: "https://REGION-PROJECT_ID.cloudfunctions.net/submitGame",
-    SUBMIT_SECRET: "REPLACE_ME",
+    SUBMIT_URL: "https://us-central1-catan-live.cloudfunctions.net/submitGame",
   };
+
+  // The secret is never hardcoded in this file (which is public, self-updating
+  // code) — it's asked for once and kept in Tampermonkey's own per-script
+  // storage (GM_setValue), separate from page-visible localStorage. "Public
+  // code, private credential," not security-through-obscurity. Must match the
+  // SUBMIT_GAME_SECRET value set via `firebase functions:secrets:set`.
+  function getSecret() {
+    let secret = GM_getValue("submitSecret");
+    if (!secret) {
+      secret = prompt("Enter the Catan Live submit secret (ask the admin if you don't have it):");
+      if (!secret) throw new Error("no secret entered — can't submit");
+      GM_setValue("submitSecret", secret);
+    }
+    return secret;
+  }
 
   // colonist.io's CSS module class names are hashed and rotate on every frontend
   // rebuild (e.g. "feedMessage-O8TLknGe") — v1 broke on this more than once.
@@ -124,18 +138,19 @@
     return line.length > 0 ? line : null;
   }
 
-  function submitGame(lines, sendToDiscord) {
+  function submitGame(lines, sendToDiscord, secret) {
     return new Promise((resolve, reject) => {
       GM_xmlhttpRequest({
         method: "POST",
         url: CONFIG.SUBMIT_URL,
         headers: {
           "Content-Type": "application/json",
-          "X-Submit-Secret": CONFIG.SUBMIT_SECRET,
+          "X-Submit-Secret": secret,
         },
         data: JSON.stringify({ lines, sendToDiscord }),
         onload: (res) => {
           if (res.status >= 200 && res.status < 300) resolve(JSON.parse(res.responseText));
+          else if (res.status === 401) reject(new Error("rejected: wrong secret (401) — resetting it, try again"));
           else reject(new Error(`submitGame failed: ${res.status} ${res.responseText}`));
         },
         onerror: (err) => reject(err),
@@ -156,8 +171,21 @@
     const sendToDiscord = confirm("Send recap to Discord too?");
 
     button.textContent = "Submitting…";
-    const result = await submitGame(lines, sendToDiscord);
+    const secret = getSecret();
+    let result;
+    try {
+      result = await submitGame(lines, sendToDiscord, secret);
+    } catch (err) {
+      // Wrong secret is the one failure mode worth clearing automatically —
+      // a stale/mistyped value would otherwise keep failing silently forever.
+      if (err.message.includes("wrong secret")) GM_deleteValue("submitSecret");
+      throw err;
+    }
+
     button.textContent = result.isNew ? "Submitted!" : "Already submitted";
+    if (result.url && confirm(`${result.isNew ? "Submitted" : "Already submitted"}. Open the game page?`)) {
+      window.open(result.url, "_blank");
+    }
   }
 
   function addButton() {
