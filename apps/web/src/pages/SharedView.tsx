@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import type { ProcessedGame } from "@catan-live/parser";
-import { GameCharts } from "../components/GameCharts";
+import { GameCharts, GAME_CHART_SECTIONS, gameChartSections } from "../components/GameCharts";
+import { SectionNav } from "../components/SectionNav";
 
 interface SharedGame {
   id: string;
@@ -51,6 +52,7 @@ export function SharedView() {
         <h1>
           {game.parsed.winner} won <span className="muted">— {new Date(game.playedAt).toLocaleDateString()}</span>
         </h1>
+        <SectionNav sections={GAME_CHART_SECTIONS} />
         <GameCharts game={game.parsed} />
       </div>
     );
@@ -59,14 +61,18 @@ export function SharedView() {
   return (
     <div>
       <h1>{state.data.games.length} games</h1>
-      {state.data.games.map((game) => (
-        <div key={game.id} className="card">
-          <h2>
-            {game.parsed.winner} won <span className="muted">— {new Date(game.playedAt).toLocaleDateString()}</span>
-          </h2>
-          <GameCharts game={game.parsed} />
-        </div>
-      ))}
+      {state.data.games.map((game, i) => {
+        const idPrefix = `game-${i}-`;
+        return (
+          <div key={game.id} className="card">
+            <h2>
+              {game.parsed.winner} won <span className="muted">— {new Date(game.playedAt).toLocaleDateString()}</span>
+            </h2>
+            <SectionNav sections={gameChartSections(idPrefix)} />
+            <GameCharts game={game.parsed} idPrefix={idPrefix} />
+          </div>
+        );
+      })}
     </div>
   );
 }

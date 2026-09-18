@@ -22,52 +22,59 @@ export const GAME_CHART_SECTIONS: Section[] = [
   { id: "steals", label: "Steals" },
 ];
 
-export function GameCharts({ game }: { game: ProcessedGame }) {
+/** Same sections, with every id prefixed — lets a page that stacks multiple
+ * games (e.g. a combined share link) give each game's SectionNav distinct
+ * scroll targets instead of colliding on the plain ids. */
+export function gameChartSections(idPrefix: string): Section[] {
+  return GAME_CHART_SECTIONS.map((s) => ({ ...s, id: `${idPrefix}${s.id}` }));
+}
+
+export function GameCharts({ game, idPrefix = "" }: { game: ProcessedGame; idPrefix?: string }) {
   return (
     <div className="game-charts">
-      <section className="card" id="points-over-turns">
+      <section className="card" id={`${idPrefix}points-over-turns`}>
         <h2>Points over turns</h2>
         <PointsOverTurnsChart game={game} />
       </section>
 
-      <section className="card" id="resources-over-turns">
+      <section className="card" id={`${idPrefix}resources-over-turns`}>
         <h2>Resources over turns</h2>
         <ResourcesThroughTurnsChart game={game} />
       </section>
 
-      <section className="card" id="resources-per-player">
+      <section className="card" id={`${idPrefix}resources-per-player`}>
         <h2>Resources per player</h2>
         <ResourcesPerPlayerChart game={game} />
       </section>
 
-      <section className="card" id="resources-per-dice">
+      <section className="card" id={`${idPrefix}resources-per-dice`}>
         <h2>Resources per player, by dice roll</h2>
         <ResourcesPerPlayerPerDiceChart game={game} />
       </section>
 
-      <section className="card" id="dice-per-player">
+      <section className="card" id={`${idPrefix}dice-per-player`}>
         <h2>Dice rolls per player</h2>
         <PlayerDiceRollsChart game={game} />
       </section>
 
-      <section className="card" id="dice-timing">
+      <section className="card" id={`${idPrefix}dice-timing`}>
         <h2>Dice roll distribution &amp; timing</h2>
         <DiceRollTimingChart rollSequence={game.rollSequence} />
       </section>
 
-      <section className="card" id="trades">
+      <section className="card" id={`${idPrefix}trades`}>
         <h2>Trades</h2>
         <TradesChart game={game} />
       </section>
 
-      <section className="card" id="trades-network">
+      <section className="card" id={`${idPrefix}trades-network`}>
         <h2>
           Trades — network diagram <span className="badge">experimental</span>
         </h2>
         <TradeNetworkDiagram game={game} />
       </section>
 
-      <section className="card" id="steals">
+      <section className="card" id={`${idPrefix}steals`}>
         <h2>Steals</h2>
         <StealsChart game={game} />
       </section>
