@@ -502,24 +502,29 @@ games ever changes as a side effect.
       `submitGame.ts`'s comment on why these are two separate numbers). **Deployed and
       seeded** — version 1 is `DEFAULT_PARSER_RULES` (the parser package's baked-in patterns),
       i.e. exactly what every game so far was actually parsed with.
-- [ ] **Rules editor**: a direct text/JSON editor for regex source per line-type — no
-      abstraction layer for non-programmers needed (see correction #1 above). Still wants
-      live validation (catch broken regex syntax before letting you save) and the live
-      re-parse preview described next, since instant feedback on a change is valuable
-      regardless of who's editing. **Not built yet** — `createParserRulesVersion()` (the
-      function that would save a new version) exists in `functions/src/lib/parserRulesStore.ts`,
-      but there's no UI calling it yet.
+- [x] **Rules editor**: a direct text editor for regex source per line-type — no abstraction
+      layer for non-programmers needed (see correction #1 above). Built as part of the
+      review/debug UI below (`apps/web/src/pages/GameReview.tsx`): 12 plain text inputs, one
+      per rule, each independently validated (`new RegExp(...)` per keystroke — a broken
+      regex shows its error inline and just keeps using the last valid pattern for that field
+      rather than blocking the rest of the form or falling back to the unrelated default).
 - [x] **Parser package refactor**: `filterLines`/`processGame` accept aliases/rules as
       parameters instead of reading hardcoded module-level constants, defaulting to the exact
       original baked-in behavior when neither is given — verified with 6 new tests
       (`test/configurable.test.ts`) on top of the existing 348, all 354 passing, and the
       parser package is still pure/Firestore-free (usable both server-side and, later,
       client-side for incognito).
-- [ ] **Admin review/debug UI** for a specific game: raw log lines (currently not shown
-      anywhere in the admin UI at all — `GameDetail` only shows computed charts), the current
-      parse result, and an editor for rules/aliases/raw lines that **re-parses live in the
-      browser as you type** (free, architecturally — the parser has no server dependency) —
-      before committing anything. **Not built yet** — this is the next concrete piece.
+- [x] **Admin review/debug UI** for a specific game — `apps/web/src/pages/GameReview.tsx`, at
+      `/games/:id/review`, linked from `GameDetail` (prominently when a game has warnings).
+      Shows raw log lines (editable) and the 12 rule fields above, **re-parses live in the
+      browser on every edit** (client-side `filterLines`/`processGame`, no server round-trip),
+      and shows the resulting winner/points/warnings immediately. "Save as new rule version"
+      calls the new `apps/web/src/lib/parserRulesClient.ts`'s `createParserRulesVersion()` —
+      a client-side mirror of the server-side function of the same name, writing directly to
+      Firestore via the admin's own authenticated access. "Reprocess this game" writes
+      `{parsed, rulesVersion, rawLines}` straight back to the game's doc the same way — neither
+      button goes through a Cloud Function, since an already-authenticated admin doing this
+      from the browser doesn't need the secret-gated HTTP endpoints at all.
 - [ ] **Draft/needs-review status per game** — derive a `status` (clean vs. needs-review)
       from `parsed.warnings.length`, surfaced clearly in the games list (today it's a small
       "⚠ N" badge; worth a real filter/sort once this lands) so games that need Petar's
@@ -528,8 +533,15 @@ games ever changes as a side effect.
       — built. Falls back to the known GitHub Pages destination
       (`https://petar19.github.io/catan-live`) even pre-deploy via a `SITE_URL` env var, so
       the link is correct once the site is actually live rather than needing a later code
-      change. The userscript itself still isn't wired up to show/open it yet (separate,
-      later piece of the build order).
+      change.
+- [x] **Userscript wired up for real** (`userscript/catan-live.user.js`) — points at the
+      actual deployed `submitGame` URL; the secret is no longer hardcoded (it's public,
+      self-updating code) — first use prompts once and stores it via Tampermonkey's own
+      `GM_setValue`, auto-cleared on a 401 so a stale value doesn't fail forever; offers to
+      open the game's page after submit using the `url` above. The `catan-live` GitHub repo
+      is already public, so the `@updateURL`/`@downloadURL` raw.githubusercontent.com link
+      already resolves (verified with a live curl) — no hosting decision actually pending
+      after all. Install by opening that raw URL in a browser with Tampermonkey installed.
 - [x] **Reprocess split, built exactly as designed**: `reprocessGames` (blanket, plural) now
       only touches games whose `parserVersion` is stale, and re-parses each with its *own*
       already-bound `rulesVersion` (never "latest") — safe for code/schema migrations, never
