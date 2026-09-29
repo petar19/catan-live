@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.2.0
+// @version      0.3.0
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
@@ -57,7 +57,19 @@
   }
 
   /** Scrolls the virtual scroller to force every message into the DOM, collecting
-   * elements as they render (ported from bookmark_game_entry.js). */
+   * elements as they render (ported from bookmark_game_entry.js).
+   *
+   * The virtual scroller only keeps a small window of messages mounted at a
+   * time, so this has to actually pause long enough after each scroll step
+   * for React to render newly-revealed messages before collecting — 5ms
+   * (the original delay) was too short and silently dropped messages
+   * (observed: the game's opening settlement-placement lines and several
+   * dice rolls missing from a real submission). Termination is now based on
+   * the collected count going stale (no growth for several consecutive
+   * steps) rather than trusting a boundary-text match alone, since a
+   * mid-game "X has left the game" style line could otherwise trigger an
+   * early exit while scrolling up through content that hadn't finished
+   * rendering yet. */
   async function collectAllMessageElements() {
     const chat = document.querySelector(VIRTUAL_SCROLLER_SELECTOR);
     if (!chat) throw new Error("couldn't find the game log scroller on the page");
@@ -67,15 +79,22 @@
       for (const el of chat.querySelectorAll(FEED_MESSAGE_SELECTOR)) results.add(el);
     };
 
+    const SCROLL_WAIT_MS = 60;
+    const STALE_LIMIT = 8; // consecutive no-growth steps before giving up
+
     async function scroll(limit, direction) {
       const atEnd = () => (direction === "down" ? chat.children.length - 1 : 0);
+      let staleStreak = 0;
+      let boundaryHit = false;
       for (let i = 0; i < limit; i++) {
         const target = chat.children[atEnd()];
         if (!target) break;
+
+        const countBefore = results.size;
         target.scrollIntoView({ behavior: "auto", block: direction === "down" ? "start" : "end" });
+        await wait(SCROLL_WAIT_MS);
         collect();
-        await wait(5);
-        collect();
+
         const text = target.innerText || "";
         if (
           text.includes("has left the game") ||
@@ -83,12 +102,19 @@
           text.includes("List of commands: /help") ||
           text.includes("Happy settling")
         ) {
-          break;
+          boundaryHit = true;
         }
+
+        // Keep going past a boundary match as long as new messages are still
+        // being collected — only stop once we've also stalled for a while.
+        staleStreak = results.size === countBefore ? staleStreak + 1 : 0;
+        if (boundaryHit && staleStreak >= STALE_LIMIT) break;
+        if (!boundaryHit && staleStreak >= STALE_LIMIT * 3) break; // hard stop even with no boundary text
       }
     }
 
     chat.children[0]?.scrollIntoView({ behavior: "auto", block: "end" });
+    await wait(SCROLL_WAIT_MS);
     await scroll(1000, "up");
     await scroll(1000, "down");
     collect();
@@ -165,7 +191,7 @@
 
     if (lines.length === 0) {
       button.textContent = "No game log found";
-      return;
+      return null;
     }
 
     const sendToDiscord = confirm("Send recap to Discord too?");
@@ -182,10 +208,7 @@
       throw err;
     }
 
-    button.textContent = result.isNew ? "Submitted!" : "Already submitted";
-    if (result.url && confirm(`${result.isNew ? "Submitted" : "Already submitted"}. Open the game page?`)) {
-      window.open(result.url, "_blank");
-    }
+    return result;
   }
 
   function addButton() {
@@ -204,11 +227,31 @@
       cursor: "pointer",
       fontSize: "13px",
     });
+
+    // After a submit, the button turns into an "open game" link instead of
+    // auto-opening it: window.open() called from deep inside this async
+    // chain (after network round-trips) is no longer treated as coming
+    // directly from the click, so browsers silently block it as a popup.
+    // Making the next click its own fresh, synchronous user gesture avoids
+    // that entirely — confirmed this was the actual cause, not a one-off.
+    let submittedUrl = null;
+
     button.addEventListener("click", () => {
-      run(button).catch((err) => {
-        console.error("[catan-live]", err);
-        button.textContent = "Failed — see console";
-      });
+      if (submittedUrl) {
+        window.open(submittedUrl, "_blank");
+        return;
+      }
+      run(button)
+        .then((result) => {
+          if (!result) return;
+          submittedUrl = result.url ?? null;
+          const label = result.isNew ? "Submitted" : "Already submitted";
+          button.textContent = submittedUrl ? `${label} — click to open →` : label;
+        })
+        .catch((err) => {
+          console.error("[catan-live]", err);
+          button.textContent = "Failed — see console";
+        });
     });
     document.body.appendChild(button);
   }
