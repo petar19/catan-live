@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.3.0
+// @version      0.3.1
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
@@ -57,7 +57,7 @@
   }
 
   /** Scrolls the virtual scroller to force every message into the DOM, collecting
-   * elements as they render (ported from bookmark_game_entry.js).
+   * each message's text as it renders (ported from bookmark_game_entry.js).
    *
    * The virtual scroller only keeps a small window of messages mounted at a
    * time, so this has to actually pause long enough after each scroll step
@@ -70,13 +70,23 @@
    * mid-game "X has left the game" style line could otherwise trigger an
    * early exit while scrolling up through content that hadn't finished
    * rendering yet. */
-  async function collectAllMessageElements() {
+  async function collectAllMessageLines() {
     const chat = document.querySelector(VIRTUAL_SCROLLER_SELECTOR);
     if (!chat) throw new Error("couldn't find the game log scroller on the page");
 
-    const results = new Set();
+    // Keyed by the message's data-index, not by DOM element: the virtual
+    // scroller unmounts messages that scroll out of view and mounts *new*
+    // elements when they scroll back in, so a Set of elements collected every
+    // message twice (once on the way up, again on the way down) — doubled dice
+    // rolls, resources, etc. v1's bookmarklet deduped by data-index for this
+    // reason. The line is extracted at collect time since a recycled element
+    // may later show a different message.
+    const results = new Map();
     const collect = () => {
-      for (const el of chat.querySelectorAll(FEED_MESSAGE_SELECTOR)) results.add(el);
+      for (const el of chat.querySelectorAll(FEED_MESSAGE_SELECTOR)) {
+        const index = messageIndex(el);
+        if (!results.has(index)) results.set(index, extractLine(el));
+      }
     };
 
     const SCROLL_WAIT_MS = 60;
@@ -120,7 +130,20 @@
     collect();
 
     // sort by data-index so lines end up in game order
-    return [...results].sort((a, b) => Number(a.dataset.index ?? 0) - Number(b.dataset.index ?? 0));
+    return [...results.entries()].sort(([a], [b]) => a - b).map(([, line]) => line);
+  }
+
+  /** The message's position in the log. data-index may sit on the feedMessage
+   * element itself or on a wrapper around it depending on colonist's markup,
+   * so check ancestors too. Previously a missing data-index silently became 0
+   * for every message, making the sort a no-op and leaving lines in scroll
+   * order (end of game first) — which broke player registration, since that
+   * relies on the opening placements coming first. Fail loudly instead. */
+  function messageIndex(el) {
+    const raw = el.closest("[data-index]")?.getAttribute("data-index");
+    const index = raw == null ? NaN : Number(raw);
+    if (Number.isNaN(index)) throw new Error("log message has no data-index — colonist.io markup changed, can't order lines");
+    return index;
   }
 
   /** Flattens a message element's DOM into a single text line, resolving <img alt>
@@ -186,8 +209,7 @@
 
   async function run(button) {
     button.textContent = "Reading log…";
-    const messageElements = await collectAllMessageElements();
-    const lines = messageElements.map(extractLine).filter((l) => l != null);
+    const lines = (await collectAllMessageLines()).filter((l) => l != null);
 
     if (lines.length === 0) {
       button.textContent = "No game log found";
