@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.3.1
+// @version      0.3.2
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
@@ -123,10 +123,22 @@
       }
     }
 
-    chat.children[0]?.scrollIntoView({ behavior: "auto", block: "end" });
+    // Anchor to the true bottom first, then sweep up to the top ONCE and
+    // stop there — deliberately not a second pass back down. A real
+    // submission had an ~19-line block near the very start of the log
+    // (the oldest messages) replayed later as several shuffled multi-line
+    // chunks, doubling those dice rolls/resources; the data-index dedup
+    // above didn't catch it because the recycled DOM nodes got new,
+    // different data-index values the second time through. That only
+    // happened at the boundary where the scroll direction reversed *right
+    // at the oldest end of the history* — going up-then-down previously
+    // revisited that exact zone a second time. A single, thorough up-sweep
+    // (the STALE_LIMIT logic above already waits out slow/late-mounting
+    // content) covers the whole log without ever reversing back through it.
+    chat.children[chat.children.length - 1]?.scrollIntoView({ behavior: "auto", block: "start" });
     await wait(SCROLL_WAIT_MS);
-    await scroll(1000, "up");
     await scroll(1000, "down");
+    await scroll(1000, "up");
     collect();
 
     // sort by data-index so lines end up in game order
