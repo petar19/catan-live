@@ -37,6 +37,13 @@ jobs:
           VITE_FIREBASE_APP_ID: ${{ secrets.VITE_FIREBASE_APP_ID }}
           VITE_RESOLVE_SHARE_FUNCTION_URL: ${{ secrets.VITE_RESOLVE_SHARE_FUNCTION_URL }}
           VITE_ADMIN_EMAIL: petar.lazic.fer@gmail.com
+      # GitHub Pages can't do server-side rewrites, so a direct/shared link to
+      # a client-side route (e.g. /shared/:id) 404s unless there's a fallback
+      # file. Pages serves 404.html for any unmatched path while leaving the
+      # browser's URL untouched, so a copy of index.html here is enough —
+      # React Router reads the real location once the app mounts.
+      - name: Add SPA fallback for GitHub Pages
+        run: cp apps/web/dist/index.html apps/web/dist/404.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: apps/web/dist
