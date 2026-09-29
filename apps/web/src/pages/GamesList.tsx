@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { useGames } from "../lib/useGames";
+import { GameRowMenu } from "../components/GameRowMenu";
 
 export function GamesList() {
   const { games, loading, error } = useGames();
@@ -18,6 +19,7 @@ export function GamesList() {
             <th>Winner</th>
             <th>Players</th>
             <th></th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
@@ -29,6 +31,9 @@ export function GamesList() {
               <td>{game.parsed.winner}</td>
               <td className="muted">{game.parsed.playerOrder.join(", ")}</td>
               <td>{game.parsed.warnings.length > 0 ? `⚠ ${game.parsed.warnings.length}` : ""}</td>
+              <td>
+                <GameRowMenu gameId={game.id} />
+              </td>
             </tr>
           ))}
         </tbody>
