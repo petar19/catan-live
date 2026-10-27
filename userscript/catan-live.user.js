@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.3.2
+// @version      0.3.3
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
@@ -74,18 +74,52 @@
     const chat = document.querySelector(VIRTUAL_SCROLLER_SELECTOR);
     if (!chat) throw new Error("couldn't find the game log scroller on the page");
 
-    // Keyed by the message's data-index, not by DOM element: the virtual
-    // scroller unmounts messages that scroll out of view and mounts *new*
-    // elements when they scroll back in, so a Set of elements collected every
-    // message twice (once on the way up, again on the way down) — doubled dice
-    // rolls, resources, etc. v1's bookmarklet deduped by data-index for this
-    // reason. The line is extracted at collect time since a recycled element
-    // may later show a different message.
+    // Absolute log position -> line. data-index alone can't be trusted as that
+    // position: colonist's scroller has been seen to remount messages under a
+    // *different* data-index on a later visit (duplicated chunks in one game,
+    // a silently dropped roll in another — first-seen-wins on a shifted index
+    // does both). Within a single render the indices are consistent with each
+    // other, though, so each visible window is placed by data-index plus an
+    // offset, and the offset is re-derived every step by checking which shift
+    // makes the window's text agree with lines already collected.
     const results = new Map();
+    let offset = 0;
+    const MAX_SHIFT = 10;
+
     const collect = () => {
+      const visible = [];
       for (const el of chat.querySelectorAll(FEED_MESSAGE_SELECTOR)) {
-        const index = messageIndex(el);
-        if (!results.has(index)) results.set(index, extractLine(el));
+        visible.push({ index: messageIndex(el), line: extractLine(el) });
+      }
+      if (visible.length === 0) return;
+
+      // Keep the current offset whenever it's consistent — a shifted
+      // candidate can also fit by coincidence in a log full of repeated lines
+      // ("X got Wool"). Only when the current offset contradicts collected
+      // text, take the nearest-best shift that doesn't.
+      let best = null;
+      for (let d = 0; d <= MAX_SHIFT; d++) {
+        if (d === 1 && best !== null) break;
+        for (const candidate of d === 0 ? [offset] : [offset + d, offset - d]) {
+          let matches = 0;
+          let mismatches = 0;
+          for (const { index, line } of visible) {
+            const pos = index + candidate;
+            if (!results.has(pos)) continue;
+            if (results.get(pos) === line) matches++;
+            else mismatches++;
+          }
+          if (mismatches === 0 && (best === null || matches > best.matches)) {
+            best = { offset: candidate, matches };
+          }
+        }
+      }
+      if (best === null) {
+        throw new Error("log window didn't line up with already-collected lines at any shift — refusing to guess");
+      }
+      offset = best.offset;
+      for (const { index, line } of visible) {
+        if (!results.has(index + offset)) results.set(index + offset, line);
       }
     };
 
@@ -93,7 +127,14 @@
     const STALE_LIMIT = 8; // consecutive no-growth steps before giving up
 
     async function scroll(limit, direction) {
-      const atEnd = () => (direction === "down" ? chat.children.length - 1 : 0);
+      // Step about a third of the rendered window, not a whole one: consecutive
+      // windows need a good overlap for the offset check in collect() to have
+      // enough text to compare (a whole-window jump overlaps by ~1 line).
+      const atEnd = () => {
+        const n = chat.children.length;
+        const k = Math.floor((n * 2) / 3);
+        return direction === "down" ? n - 1 - k : k;
+      };
       let staleStreak = 0;
       let boundaryHit = false;
       for (let i = 0; i < limit; i++) {
@@ -123,26 +164,35 @@
       }
     }
 
-    // Anchor to the true bottom first, then sweep up to the top ONCE and
-    // stop there — deliberately not a second pass back down. A real
-    // submission had an ~19-line block near the very start of the log
-    // (the oldest messages) replayed later as several shuffled multi-line
-    // chunks, doubling those dice rolls/resources; the data-index dedup
-    // above didn't catch it because the recycled DOM nodes got new,
-    // different data-index values the second time through. That only
-    // happened at the boundary where the scroll direction reversed *right
-    // at the oldest end of the history* — going up-then-down previously
-    // revisited that exact zone a second time. A single, thorough up-sweep
-    // (the STALE_LIMIT logic above already waits out slow/late-mounting
-    // content) covers the whole log without ever reversing back through it.
+    // Anchor to the true bottom first, then sweep up to the top once — see
+    // 6b04028 for why there's deliberately no second pass back down.
     chat.children[chat.children.length - 1]?.scrollIntoView({ behavior: "auto", block: "start" });
     await wait(SCROLL_WAIT_MS);
     await scroll(1000, "down");
     await scroll(1000, "up");
     collect();
 
-    // sort by data-index so lines end up in game order
+    // sort by position so lines end up in game order
     return [...results.entries()].sort(([a], [b]) => a - b).map(([, line]) => line);
+  }
+
+  /** Captures the log until two full captures agree line-for-line. The scrape
+   * has failed nondeterministically before (a line or chunk duplicated or
+   * dropped), and two independent sweeps going wrong in exactly the same way is
+   * far less likely than one going wrong — so a mismatch means "don't trust
+   * this", not "pick one". */
+  async function captureLogConsistently(button) {
+    const MAX_ATTEMPTS = 4;
+    const captures = [];
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+      button.textContent = `Reading log (pass ${attempt})…`;
+      const lines = (await collectAllMessageLines()).filter((l) => l != null);
+      const key = JSON.stringify(lines);
+      if (captures.some((c) => c.key === key)) return lines;
+      captures.push({ key, lines });
+    }
+    const lengths = captures.map((c) => c.lines.length).join(", ");
+    throw new Error(`log captures never agreed after ${MAX_ATTEMPTS} passes (line counts: ${lengths}) — not submitting`);
   }
 
   /** The message's position in the log. data-index may sit on the feedMessage
@@ -220,8 +270,7 @@
   }
 
   async function run(button) {
-    button.textContent = "Reading log…";
-    const lines = (await collectAllMessageLines()).filter((l) => l != null);
+    const lines = await captureLogConsistently(button);
 
     if (lines.length === 0) {
       button.textContent = "No game log found";
