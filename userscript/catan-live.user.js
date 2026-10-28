@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Catan Live — Game Log Submitter
 // @namespace    https://github.com/petar19/catan-live
-// @version      0.4.0
+// @version      0.5.0
 // @description  Scrapes the colonist.io game log and submits it to Catan Live
 // @author       Petar
 // @match        https://colonist.io/*
@@ -59,69 +59,88 @@
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
 
-  /** Straight port of v1's bookmark_game_entry.js, which read the log
-   * correctly and quickly for years. Earlier versions of this userscript
-   * rewrote it (reading text per scroll step, keying nested feedMessage
-   * elements, stale-count termination, multi-pass agreement) and each rewrite
-   * traded one wrong-stats bug for another. Kept as close to the original as
-   * possible on purpose — the only intended differences are the
-   * attribute-contains selector and returning lines instead of HTML.
+  /** Reads the whole game log out of colonist's virtual scroller, which only
+   * keeps ~10 rows mounted at a time.
    *
-   * The parts that matter: collect the scroller's *direct children* (the rows
-   * that carry data-index), and only read each row's data-index and content
-   * once at the very end, after all scrolling — so the index and the text
-   * always come from the same row at the same moment. */
+   * Based on a recorded trace of the real scroller (579-message game): every
+   * row is a fresh element that keeps its own content, and data-index is
+   * stable and contiguous from 0 — so a row's index and text can be read
+   * together whenever it's mounted, and completeness is checkable (every
+   * index 0..last must be present). Rendering after a scroll sometimes takes
+   * longer than 5ms, so a step that reveals nothing new just waits and tries
+   * again rather than counting as the end.
+   *
+   * Termination is by index, not boundary text or the starting scroll
+   * position: up until index 0 is mounted, down until no higher index appears
+   * for a while. The old version (ported from v1's bookmarklet) stopped on
+   * text like "won the game" and silently assumed the log started scrolled
+   * to the bottom — when it didn't, the opening lines went missing. */
   async function collectAllMessageLines() {
     const chat = document.querySelector(VIRTUAL_SCROLLER_SELECTOR);
     if (!chat) throw new Error("couldn't find the game log scroller on the page");
 
-    chat.children[0].scrollIntoView({ behavior: "auto", block: "end" });
-    const rows = new Set();
+    const byIndex = new Map(); // data-index -> lines extracted from that row
     const collect = () => {
-      for (const row of chat.children) rows.add(row);
+      for (const row of chat.children) {
+        const index = Number(row.dataset.index);
+        if (Number.isNaN(index)) throw new Error("log row has no data-index — colonist.io markup changed");
+        if (byIndex.has(index)) continue;
+        // v1's server took every feedMessage div out of the posted HTML
+        // (soup.find_all, which includes the row itself if it matches)
+        const messages = [...(row.matches(FEED_MESSAGE_SELECTOR) ? [row] : []), ...row.querySelectorAll(FEED_MESSAGE_SELECTOR)];
+        byIndex.set(index, messages.map(extractLine).filter((l) => l != null));
+      }
     };
+    const minIndex = () => Math.min(...byIndex.keys());
+    const maxIndex = () => Math.max(...byIndex.keys());
+
+    const STEP_WAIT_MS = 5;
+    const STALL_WAIT_MS = 50;
+    const MAX_STALLS = 20; // ~1s of nothing new before giving up on a direction
+
+    // The furthest row currently mounted in a direction. Progress is measured
+    // by this moving, not by new rows being collected — scrolling back down
+    // through rows already collected on the way up is still progress.
+    const edgeIndex = (direction) => {
+      const mounted = [...chat.children].map((row) => Number(row.dataset.index));
+      return direction === "up" ? Math.min(...mounted) : Math.max(...mounted);
+    };
+
+    // Scrolls one way until done() is true, or until the mounted window stops
+    // moving for MAX_STALLS steps in a row. Returns whether done() was reached.
+    async function sweep(direction, done) {
+      let stalls = 0;
+      let furthest = edgeIndex(direction);
+      while (!done()) {
+        const edge = direction === "up" ? chat.children[0] : chat.children[chat.children.length - 1];
+        edge.scrollIntoView({ behavior: "auto", block: direction === "up" ? "end" : "start" });
+        await wait(stalls === 0 ? STEP_WAIT_MS : STALL_WAIT_MS);
+        collect();
+        const now = edgeIndex(direction);
+        const moved = direction === "up" ? now < furthest : now > furthest;
+        if (moved) furthest = now;
+        stalls = moved ? 0 : stalls + 1;
+        if (stalls >= MAX_STALLS) return false;
+      }
+      return true;
+    }
+
     collect();
+    if (!(await sweep("up", () => byIndex.has(0)))) {
+      throw new Error(`couldn't scroll the log to its first message (lowest index seen: ${minIndex()})`);
+    }
+    // There's no marker for the last message, so "done" is just "stalled".
+    await sweep("down", () => false);
 
-    async function scroll(limit, direction) {
-      const atEnd = () => (direction === "down" ? chat.children.length - 1 : 0);
-      for (let i = 0; i < limit; i++) {
-        chat.children[atEnd()].scrollIntoView({ behavior: "auto", block: direction === "down" ? "start" : "end" });
-        collect();
-        await wait(5);
-        collect();
-        const text = chat.children[atEnd()]?.innerText ?? "";
-        if (
-          text.includes("has left the game") ||
-          text.includes("won the game") ||
-          text.includes("List of commands: /help") ||
-          text.includes("Happy settling")
-        ) {
-          break;
-        }
-      }
+    const last = maxIndex();
+    const missing = [];
+    for (let i = 0; i <= last; i++) if (!byIndex.has(i)) missing.push(i);
+    if (missing.length > 0) {
+      throw new Error(`log capture has gaps — missing ${missing.length} of ${last + 1} messages (first missing index ${missing[0]}) — not submitting`);
     }
 
-    await scroll(1000, "up");
-    await scroll(1000, "down");
-
-    const sorted = [...rows]
-      .map((row) => row.cloneNode(true))
-      .sort((a, b) => Number(a.dataset.index) - Number(b.dataset.index));
-
-    const seen = new Set();
     const lines = [];
-    for (const row of sorted) {
-      const index = row.dataset.index;
-      if (seen.has(index)) continue;
-      seen.add(index);
-      // v1's server took every feedMessage div out of the posted HTML
-      // (soup.find_all, which includes the row itself if it matches)
-      const messages = [...(row.matches(FEED_MESSAGE_SELECTOR) ? [row] : []), ...row.querySelectorAll(FEED_MESSAGE_SELECTOR)];
-      for (const message of messages) {
-        const line = extractLine(message);
-        if (line != null) lines.push(line);
-      }
-    }
+    for (let i = 0; i <= last; i++) lines.push(...byIndex.get(i));
     return lines;
   }
 
